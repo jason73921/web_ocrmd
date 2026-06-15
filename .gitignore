@@ -1,0 +1,34 @@
+# Local input corpora and generated website markdown
+/網站文章MD/
+/網站文章MD_更新/
+/www/
+/__pycache__/
+
+# Large scan/OCR outputs
+/scan_result*.csv
+/scan_md/scan_md_images.py
+/scan_md/*.csv
+/網站文章MD_更新.zip
+/mineru_ocr_workspace/output*/
+/mineru_ocr_workspace/logs/
+/mineru_ocr_workspace/tmp/
+/mineru_ocr_workspace/ocr_completed_cache/
+/mineru_ocr_workspace/ocr_completed_inventory/
+/mineru_ocr_workspace/manifest_package/
+
+# Python/runtime caches
+/mineru_ocr_workspace/.venv/
+/mineru_ocr_workspace/.uv-cache/
+**/__pycache__/
+*.pyc
+
+# Large model/cache archives and weights
+/mineru_ocr_workspace/*.tar.gz
+/mineru_ocr_workspace/*.zip
+/mineru_ocr_workspace/venv_freeze_before_cuda_*.txt
+*.safetensors
+*.pth
+*.onnx
+
+# Keep curated final reports, but avoid duplicate report archives
+/mineru_ocr_workspace/reports/*.tar.gz

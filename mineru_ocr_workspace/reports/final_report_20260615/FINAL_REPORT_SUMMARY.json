@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-06-15T04:16:31",
+  "paths": {
+    "sourceMdDir": "/mnt/project/input/md/網站文章MD_更新/網站文章MD",
+    "manifest": "/mnt/project/cache/manifest_package/related_assets_manifest.csv",
+    "statusCsv": "/mnt/project/output/ocr_run/ocr_asset_status.csv",
+    "ocrRunDir": "/mnt/project/output/ocr_run",
+    "ocrMdAssets": "/mnt/project/output/ocr_run/ocr_md_assets",
+    "cachedOcrMdAssets": "/mnt/project/cache/ocr_completed_cache/ocr_md_assets",
+    "inlineMergedMdDir": "/mnt/project/output/web_md_with_ocr_inline_20260615",
+    "reportDir": "/mnt/project/output/final_report_20260615"
+  },
+  "webMarkdown": {
+    "total": 34144,
+    "withRelatedLinks": 21250,
+    "withoutRelatedLinks": 12894
+  },
+  "manifest": {
+    "rows": 50610,
+    "resolved": 42615,
+    "unresolved": 7995,
+    "resolvedOcrSupported": 38227,
+    "resolvedNotOcrSupported": 4388,
+    "unresolvedOcrSupported": 3909,
+    "unresolvedNotOcrSupported": 4086,
+    "uniqueOcrCandidateAssets": 27478,
+    "resolveStatusCounts": {
+      "resolved": 42615,
+      "not_file_or_malformed": 3502,
+      "confirmed_missing": 4333,
+      "ambiguous": 160
+    }
+  },
+  "ocr": {
+    "statusCounts": {
+      "completed_cached": 24261,
+      "completed": 3147,
+      "error": 70
+    },
+    "completedCached": 24261,
+    "completedNewOnPlatform": 3147,
+    "errors": 70,
+    "usableOcrMarkdownAssets": 27408,
+    "completedMissingMarkdown": 0,
+    "errorCategories": {
+      "unsupported_file_type": 21,
+      "empty_file": 1,
+      "corrupt_or_invalid_pdf": 1,
+      "password_or_encrypted_pdf": 2,
+      "extension_content_mismatch": 4,
+      "cannot_identify_image": 1,
+      "other": 40
+    }
+  },
+  "merge": {
+    "generatedAt": "2026-06-15T00:58:38",
+    "sourceMdDir": "/mnt/project/input/md/網站文章MD_更新/網站文章MD",
+    "manifest": "/mnt/project/cache/manifest_package/related_assets_manifest.csv",
+    "statusCsv": "/mnt/project/output/ocr_run/ocr_asset_status.csv",
+    "outputDir": "/mnt/project/output/web_md_with_ocr_inline_20260615",
+    "placement": "inline",
+    "copyAll": true,
+    "sourceMdCopied": 34144,
+    "statusCounts": {
+      "completed_cached": 24261,
+      "completed": 3147,
+      "error": 70
+    },
+    "completedOcrAssetsWithExistingMarkdown": 27408,
+    "manifestRows": 50610,
+    "manifestSkipped": {
+      "not_resolved": 7995,
+      "unsupported_extension": 4388,
+      "no_completed_ocr": 83
+    },
+    "mdWithOcrRecords": 18120,
+    "mdWrittenWithOcr": 18120,
+    "ocrReferences": 38144,
+    "ocrAssetsAppended": 37923,
+    "oversizedAssetsMarked": 221,
+    "oversizedAssetsNotAppended": 221,
+    "duplicateOcrReferencesSkipped": 0,
+    "inlineOcrBlocksInserted": 38144,
+    "inlineRelationIndexesNotFound": 0
+  }
+}
