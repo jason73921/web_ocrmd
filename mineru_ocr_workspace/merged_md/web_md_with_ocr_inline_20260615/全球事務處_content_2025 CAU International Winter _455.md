@@ -1,0 +1,155 @@
+﻿# 網站文章資料_2025 CAU International Winter Program Info Session_455
+
+## 一、文章基本資料
+
+- **文章ID**: 455
+- **文章標題**: 2025 CAU International Winter Program Info Session
+- **文章網址**: https://www.yzu.edu.tw/admin/gao/index.php/tw/2025-cau-international-winter-program-info-session-2
+- **文章簡介**: Welcome to the Info. Session about the 2025 CAU International Winter Program. 
+(Chung-Ang University, Korea)
+
+
+Date and Time: Wed, November 27, 2024 | 12:10-13:10 
+Venue: R70205 
+Speaker: Sunho Lee, International Winter Program Manager
+
+Introduction: 
+School information 
+Program introduction 
+
+＊Please register at Portal (Click Here). 
+＊All college students are welcome to attend. 
+＊A total of 50 bread lunch boxes will be provided.
+
+Program Information: https://oia.cau.ac.kr/sub04/sub04.php
+IWP Video: Unforgettable Memories from Seoul! International Winter Program, 2024 CAU
+- **文章全文**: 
+- **文章更新日期**: 2024/11/18 上午 10:41:28
+- **文章發表日期**: 2024/11/18 上午 10:33:31
+- **文章點擊數**: 746
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&amp;ActID=13576
+- **2. [超連結（網站）]**: https://oia.cau.ac.kr/sub04/sub04.php
+- **3. [超連結（網站）]**: https://www.youtube.com/watch?v=pkglsny6CDk
+- **4. [圖片]**: files/summer_program/2025_CAU_International_Winter_Program_Brochure1.jpg?1731926362
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=975ebde8621eebd3 -->
+#### OCR 4: files/summer_program/2025_CAU_International_Winter_Program_Brochure1.jpg?1731926362
+
+- 關聯類型: 圖片
+- 本機檔案: admin/gao/files/summer_program/2025_CAU_International_Winter_Program_Brochure1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/975ebde8621eebd3_2025_CAU_International_Winter_Program_Brochure1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1428
+- 驗證狀態: ok
+
+```markdown
+![](images/5eabf11bb6c2aad6865689b906564dadd157b61c3bded33e6e44274093479039.jpg)
+
+![](images/6b7a91d25d8ad4c2df0eee71c8eb14d57009b20ce42f50690430715a70e9bb99.jpg)
+
+# Welcome to • Exploring the winter at the Heart of Seoul • 2025 CAU • • • International Winter \* • Program • •
+
+Program Period: January $7 ^ { \mathrm { t h } }$ \~ January 21s,2025 (2 weeks)
+
+![](images/e18d4dcc6843877470d29ff024eaf97838b496acd60870c7597ddc913740707e.jpg)
+
+Features
+
+Customized Korean Language Classes in All Levels
+
+K-Culture   
+Experience Affiliated   
+with Korean   
+Entertainment   
+Corporation   
+Winter Culture   
+Experience only in   
+CAU   
+On-Caumpus   
+Dormitory   
+100% Guaranteed
+
+![](images/74c3bcd89ac911fe9d0730720f4050dcc188ef61efb336887e200c66168c4f30.jpg)
+
+## Curriculum
+
+Korean Language Class
+
+Class
+
+Alive Korean with K-Drama
+
+## Level
+
+Level 1   
+Level 2   
+Level 3
+
+Special Lectures(K-Culture + Cultural Experience)
+
+![](images/81602f6a5905422ec283502801aff42b33457c293602cae4d6d3e6e6c49feb05.jpg)  
+Gyeongbokgung Hanbok Experience
+
+![](images/362907dab12609ac407f46512f4d4bd1d20df97d3e07e255de5b8e4a7b0b6616.jpg)  
+Ski one-day Experience
+
+![](images/c3311422c8361e2cce7391272b382005013a456be2f883f7916b8684ee313402.jpg)  
+K-pop Dance Lesson
+
+![](images/b90c25481b40b50981129ad2697976ffd91f155ddc36d799ff9e9a7efb57cd21.jpg)  
+Homemade Stamp
+
+![](images/cbd959001dbd88f5373621b97be0a256a7e6992c4ef8b5b40fbbe24cf75c734c.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: files/summer_program/2025_CAU_International_Winter_Program_Brochure2.jpg?1731926362
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=6338896e1c4af743 -->
+#### OCR 5: files/summer_program/2025_CAU_International_Winter_Program_Brochure2.jpg?1731926362
+
+- 關聯類型: 圖片
+- 本機檔案: admin/gao/files/summer_program/2025_CAU_International_Winter_Program_Brochure2.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/6338896e1c4af743_2025_CAU_International_Winter_Program_Brochure2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1705
+- 驗證狀態: ok
+
+```markdown
+# - Welcome to - • Exploring the winter atthe Hear rt of Seoul 2025 CAU • International Winter Program •
+
+![](images/dce4e39fdb4329c5739f039a8016bbc006e9da39e97124b8e650a330be6adaf6.jpg)
+
+Program Period: January $7 ^ { \mathrm { t h } }$ \~ January $2 1 ^ { \mathsf { s t } } ,$ 2025(2 weeks)
+
+![](images/37d3828210ed7b4ce681ccb307485fcea94f7bb9a34d345289aa47dcd9e8fea6.jpg)
+
+## Application Process
+
+<table><tr><td rowspan=1 colspan=1>STEP1</td><td rowspan=1 colspan=1>Check whether if yourschool is partner with CAU</td></tr><tr><td rowspan=1 colspan=1>STEP2</td><td rowspan=1 colspan=1>A.lfyouretmaaioucoolomo.B.If you are notfrom a partneruniversit,plasedirectlyinquire us by email(cauwinter@cau.ac.kr)</td></tr><tr><td rowspan=1 colspan=1>STEP3</td><td rowspan=1 colspan=1>CAwillt</td></tr><tr><td rowspan=1 colspan=1>STEP4</td><td rowspan=1 colspan=1>Please transfrtheeindesigated period aeryoureceiveainvoicerom CU.</td></tr></table>
+
+![](images/6bbc759cb997b2c2279dc852d01f4b8cdca6abd13143d02542789437d73cc0c7.jpg)
+
+## Fees
+
+<table><tr><td rowspan=1 colspan=1>Category</td><td rowspan=1 colspan=2>Non-partner University</td><td rowspan=1 colspan=1>Partner University</td></tr><tr><td rowspan=1 colspan=1>Application Fee</td><td rowspan=1 colspan=2>60 USD</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Program Fee</td><td rowspan=1 colspan=2>3,000 USD</td><td rowspan=1 colspan=1>1,500 USD</td></tr><tr><td rowspan=1 colspan=1>Dormitory</td><td rowspan=1 colspan=3>250 USD</td></tr></table>
+
+![](images/b52c2229d34bda12646ef13e6909b2087a8c506fada3ed5ecee8f6a37ee6f701.jpg)
+
+## Contact Information
+
+![](images/d6c3637fee03875410e6429bd34d589ae08844e0b6e7147d7fdec2968e21103f.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

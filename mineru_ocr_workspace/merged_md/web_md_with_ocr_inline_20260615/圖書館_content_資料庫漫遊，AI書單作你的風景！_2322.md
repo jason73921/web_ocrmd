@@ -1,0 +1,389 @@
+﻿# 網站文章資料_資料庫漫遊，AI書單作你的風景！_2322
+
+## 一、文章基本資料
+
+- **文章ID**: 2322
+- **文章標題**: 資料庫漫遊，AI書單作你的風景！
+- **文章網址**: https://www.yzu.edu.tw/library/index.php/tw/is-202510291100
+- **文章簡介**: 在元智圖書館的光影與書頁之間，
+資料不再只是查找，而是探索的起點。
+
+讓AI成為旅伴，翻開屬於你的閱讀書單，
+以靈感為線，串起知識的星辰。
+輕輕答對幾題，或許下一份驚喜，就是為你準備。
+
+邀你，在這場靜靜綻放的智慧旅程中，
+玩轉資料，也喚醒那份久違的想像力。
+
+【資料庫出任務 開外掛囉！】
+
+
+
+在知識的林間小路上，
+你曾經迷路，還是找到了一本好書？
+邀請你慢下腳步，用幾道簡單小問，探索資料庫的美好角落。
+
+把找資料，變成一場輕盈的小旅行～
+我們在圖書的風景裡等你✨
+
+第一場
+
+研究趨勢一網打盡，Scopus幫你掌握先機
+活動日期：114/11/4(二)10:00~15:00
+活動地點：圖書館
+獎項：藍芽無線耳機，現場提供的獎品會有骨頭筆及多頭充電線
+
+第二場
+
+iG Library (電子書)：告別傳統！AI 介面閱讀新革命，體驗抽豪禮！
+
+搶先體驗：11/5 10:00-15:00來攤位上體驗IGP平台並完成問卷，除了可獲得獨有小禮物，還可以有機會抽中Apple ArPods 4!
+
+
+活動時間：11/5(三)10:00-15:00
+
+活動地點：圖書館門口
+
+
+抽豪禮線上有獎徵答活動
+
+
+活動日期：11/3(一)-11/30(日)
+
+活動對象：元智大學教職員生
+
+活動連結：元智大學線上有獎徵答
+
+活動辦法：
+請透過校園 IP 或 YZU SSL VPN校外連線認證  進入 IOP 資料庫和 IGP 電子書平台找尋答案。
+
+本活動共有 2 道關卡(IOP、IGP)；兩個關卡都參加且都答對者，方可獲得抽獎機會。每個關卡限參加一次。
+
+只要參加本活動且全部答對者，即可抽以下好禮：Apple AirPods 4 (乙名)、VANA 村幾何款香氛融蠟燈禮盒 (乙名)、TANITA 四合一體組成體脂機 (乙名)
+
+
+
+
+第三場
+
+活動名稱：ProQuest One Business 商學資料庫｜一鍵解鎖商學世界
+活動日期：114/11/12 (三) 10:00-15:00
+活動地點：元智大學圖書館
+參加方式：
+
+📌 現場完成指定任務， 就能領取限量好禮！數量有限，送完為止，行動要快～
+
+⚠特別驚喜抽大獎：活動結束後將抽出超幸運得主，送出這些超有感大獎
+
+
+Apple AirPods 4 主動式降噪款
+
+Kodak 柯達 Ultra F9S 復古底片相機
+
+SONY 藍牙無線喇叭 SRS-XB100
+
+Kolin 無線隨行果汁機 Tritan款（USB充電）
+
+
+【快閃任務⚡AI推書借閱x爽吃拿坡里！】
+
+
+
+每一張臉孔，都有一個故事。
+每一本書，都等待一段緣分。
+
+讓人臉辨識技術牽起你與書的對話，
+在短短一小時裡，遇見最合適的那本書。
+
+活動辦法：
+只要走到電子書牆前，透過人臉辨識系統，
+讓AI幫你推薦專屬好書，
+挑選喜歡的電子書籍現場借閱，
+拿坡里個人套餐馬上帶回家！
+
+活動地點：圖書館電子書牆前
+活動時間：2025年11月19日 12:00開始至餐點送完為止
+活動獎勵：現場成功借閱電子書，即可獲得拿坡里個人套餐一份～餐點送完為止
+- **文章全文**: 
+- **文章更新日期**: 2025/11/17 上午 03:06:38
+- **文章發表日期**: 2025/9/13 上午 03:03:50
+- **文章點擊數**: 174
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: images/main/sp/1141/is-11409010314.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=2b00dad2a59d2e15 -->
+#### OCR 1: images/main/sp/1141/is-11409010314.jpg
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: library/images/main/sp/1141/is-11409010314.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2b00dad2a59d2e15_is-11409010314.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1089
+- 驗證狀態: ok
+
+```markdown
+![](images/2bf62fcc462552258645cec5e4713c5969c3133217a8b264654594cecf81ee23.jpg)
+
+资料库衝一波
+
+## 資料庫漫遊 11/3\~11/30
+
+![](images/9ff6ca105a0c9033fd002ba1b9877456f3cdfb6d4f1172119c6df0e375243f16.jpg)
+
+AI書單作你的風景
+
+![](images/b7cd5c88d0015e5e997a7ae5aa02ce9655f75f37a3b0b7b5debeddbb88a48159.jpg)
+
+在元智圖書馆的光影与書頁之间，资料不再只是查找，而是探索的起點。讓AI成為旅伴，翻开於你的閱读書單，以靈感為線，串起知識的星辰。輕輕答對幾題，或許下一份驚喜，就是為你准備。邀你在這场静静绽放的智慧旅程中，玩转资料也唤醒那份久违的想像力，
+
+快閃任務AI推書借閱×爽吃拿坡里！
+
+時間：11111（二）12:00至餐點送完为止地點：圖書館電子書牆
+
+限時快閃挑戰
+
+AI解鎖你的專屬書單現場成功借閱電子書即可獲得美味中餐一份
+
+資料庫出任務開外掛！
+
+圖書館現場完成答題
+
+即可参加抽奖
+
+114/11/4（二）10:00-15:00研究超势一網打尽，Scopus幫你掌握先機獎項：藍芽無線耳機、骨頭筆及多頭充電線等你來拿
+
+114/11/5（三）10:00-15:00  
+1G Library (電子書）：告別传统！  
+AI介面閱读新革命，體驗抽豪禮！  
+奖项：AirPods、香氛蠟燈、體脂机等你带回家！
+
+114/11/12（三）10:00-15:00ProQuest One Business 商学资料库一解锁商学世界
+
+特别警喜抽大奖
+
+![](images/584fef661ff14c4c058e5f255aa2b8dfc16e9fee92e6ee742188497ed78cd473.jpg)
+
+![](images/860b8f6a710b2ca1a85e1ea6299d5effe1271020c155d9d89ce7176a5f3e1ad1.jpg)
+
+![](images/f160abd56d486cc05ddb457b24a2431fc15272ab60831d75914cd9a7dde1d4be.jpg)
+
+![](images/8b2746a4e9fe6a2afa6d61806ae0b63c4c2a99555443ba9801d117f38ad07f8c.jpg)
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: index.php/tw/2016-02-26-07-29-30/2266-is-202507041357
+- **3. [超連結（檔案）]**: index.php/tw/2016-02-26-07-29-30/2266-is-202507041357
+- **4. [超連結（檔案）]**: images/main/sp/1141/is-11409010326.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=1e0b64a83e7be738 -->
+#### OCR 4: images/main/sp/1141/is-11409010326.jpg
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: library/images/main/sp/1141/is-11409010326.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1e0b64a83e7be738_is-11409010326.md
+- OCR 狀態: completed_cached
+- OCR 字數: 769
+- 驗證狀態: ok
+
+```markdown
+## 資料庫沖一波 資料庫漫遊AI書單作你的風景
+
+![](images/e3554d92ba21da1ce39c09a1d6d717efd65f5c0d03f84bb0c4dee76c980f917b.jpg)
+
+資料庫出任務開外掛！圖書館現場完成答題，即可参加抽奖
+
+114/11/4（二)10:00-15:00研究超势一網打尽，Scopus你掌握先機獎項：藍芽無線耳機、骨頭筆及多頭充電線等你來拿。
+
+114/11/5(三）10:00-15:0016Library（電子書)：告別传統！AI 介面閱讀新革命，體驗抽豪禮！獎項：AirPods、香氛蠟燈、體脂機等你帶回家！回
+
+## 114/11/12（三）10:00-15:00ProQuestOne Business商學資料庫 一鍵解鎖商學世界
+
+![](images/dba2bd16d51eabc6813bbdcc7b54ad8ccbb82d98808f88ad2b72038727293393.jpg)
+
+特别驚喜大奖
+
+![](images/87dfd42d21198803d0a488247b94b29b465f75883a71bf3632c5b03fb14a2d22.jpg)
+
+![](images/f11934565c2037dd281caad1f74632e6d3bfccf3d92d56d3767286e91f315536.jpg)
+
+![](images/295f850fdd40c1bf30d29f5619a80b954084c1e0bdce67b9e325e3a8cc8fac51.jpg)
+
+![](images/7ca93c1e09894e2515648b61d5ed9988bc75d850c16d429a4bf8aeb89ce47fa1.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [超連結（網站）]**: https://www.igroup.com.tw/2025-%E5%85%83%E6%99%BA%E9%9B%BB%E5%AD%90%E8%B3%87%E6%96%99%E5%BA%AB%E6%9C%89%E7%8D%8E%E5%BE%B5%E7%AD%94/
+- **6. [超連結（檔案）]**: index.php/tw/2016-02-26-07-29-30/2267-is-202507041358
+- **7. [超連結（檔案）]**: images/main/sp/1141/is-11409010327.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=7 assetId=3270d6a7e920daf1 -->
+#### OCR 7: images/main/sp/1141/is-11409010327.jpg
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: library/images/main/sp/1141/is-11409010327.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/3270d6a7e920daf1_is-11409010327.md
+- OCR 狀態: completed_cached
+- OCR 字數: 203
+- 驗證狀態: ok
+
+```markdown
+## 資料庫沖一波 資料庫漫遊AI書單作你的風景
+
+![](images/9dff9a7829d8e9e04db736e9f14fc2abea86b3c58814e1b0798514384dde1b87.jpg)
+
+快閃任務AI推書借閱x爽吃拿坡里!
+
+時間：11/11（二）12：00開始至餐點送完為止地點：圖書館電子書牆
+
+## 限時快閃挑戰
+
+AI解鎖你的專書單現場成功借閱電子書即可獲得美味中餐一份
+```
+
+<!-- OCR_END -->
+
+- **8. [圖片]**: images/main/sp/1141/is-11409010314.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=8 assetId=2b00dad2a59d2e15 -->
+#### OCR 8: images/main/sp/1141/is-11409010314.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/sp/1141/is-11409010314.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2b00dad2a59d2e15_is-11409010314.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1089
+- 驗證狀態: ok
+
+```markdown
+![](images/2bf62fcc462552258645cec5e4713c5969c3133217a8b264654594cecf81ee23.jpg)
+
+资料库衝一波
+
+## 資料庫漫遊 11/3\~11/30
+
+![](images/9ff6ca105a0c9033fd002ba1b9877456f3cdfb6d4f1172119c6df0e375243f16.jpg)
+
+AI書單作你的風景
+
+![](images/b7cd5c88d0015e5e997a7ae5aa02ce9655f75f37a3b0b7b5debeddbb88a48159.jpg)
+
+在元智圖書馆的光影与書頁之间，资料不再只是查找，而是探索的起點。讓AI成為旅伴，翻开於你的閱读書單，以靈感為線，串起知識的星辰。輕輕答對幾題，或許下一份驚喜，就是為你准備。邀你在這场静静绽放的智慧旅程中，玩转资料也唤醒那份久违的想像力，
+
+快閃任務AI推書借閱×爽吃拿坡里！
+
+時間：11111（二）12:00至餐點送完为止地點：圖書館電子書牆
+
+限時快閃挑戰
+
+AI解鎖你的專屬書單現場成功借閱電子書即可獲得美味中餐一份
+
+資料庫出任務開外掛！
+
+圖書館現場完成答題
+
+即可参加抽奖
+
+114/11/4（二）10:00-15:00研究超势一網打尽，Scopus幫你掌握先機獎項：藍芽無線耳機、骨頭筆及多頭充電線等你來拿
+
+114/11/5（三）10:00-15:00  
+1G Library (電子書）：告別传统！  
+AI介面閱读新革命，體驗抽豪禮！  
+奖项：AirPods、香氛蠟燈、體脂机等你带回家！
+
+114/11/12（三）10:00-15:00ProQuest One Business 商学资料库一解锁商学世界
+
+特别警喜抽大奖
+
+![](images/584fef661ff14c4c058e5f255aa2b8dfc16e9fee92e6ee742188497ed78cd473.jpg)
+
+![](images/860b8f6a710b2ca1a85e1ea6299d5effe1271020c155d9d89ce7176a5f3e1ad1.jpg)
+
+![](images/f160abd56d486cc05ddb457b24a2431fc15272ab60831d75914cd9a7dde1d4be.jpg)
+
+![](images/8b2746a4e9fe6a2afa6d61806ae0b63c4c2a99555443ba9801d117f38ad07f8c.jpg)
+```
+
+<!-- OCR_END -->
+
+- **9. [圖片]**: images/main/sp/1141/is-11409010326.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=9 assetId=1e0b64a83e7be738 -->
+#### OCR 9: images/main/sp/1141/is-11409010326.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/sp/1141/is-11409010326.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1e0b64a83e7be738_is-11409010326.md
+- OCR 狀態: completed_cached
+- OCR 字數: 769
+- 驗證狀態: ok
+
+```markdown
+## 資料庫沖一波 資料庫漫遊AI書單作你的風景
+
+![](images/e3554d92ba21da1ce39c09a1d6d717efd65f5c0d03f84bb0c4dee76c980f917b.jpg)
+
+資料庫出任務開外掛！圖書館現場完成答題，即可参加抽奖
+
+114/11/4（二)10:00-15:00研究超势一網打尽，Scopus你掌握先機獎項：藍芽無線耳機、骨頭筆及多頭充電線等你來拿。
+
+114/11/5(三）10:00-15:0016Library（電子書)：告別传統！AI 介面閱讀新革命，體驗抽豪禮！獎項：AirPods、香氛蠟燈、體脂機等你帶回家！回
+
+## 114/11/12（三）10:00-15:00ProQuestOne Business商學資料庫 一鍵解鎖商學世界
+
+![](images/dba2bd16d51eabc6813bbdcc7b54ad8ccbb82d98808f88ad2b72038727293393.jpg)
+
+特别驚喜大奖
+
+![](images/87dfd42d21198803d0a488247b94b29b465f75883a71bf3632c5b03fb14a2d22.jpg)
+
+![](images/f11934565c2037dd281caad1f74632e6d3bfccf3d92d56d3767286e91f315536.jpg)
+
+![](images/295f850fdd40c1bf30d29f5619a80b954084c1e0bdce67b9e325e3a8cc8fac51.jpg)
+
+![](images/7ca93c1e09894e2515648b61d5ed9988bc75d850c16d429a4bf8aeb89ce47fa1.jpg)
+```
+
+<!-- OCR_END -->
+
+- **10. [圖片]**: images/main/sp/1141/is-11409010327.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=10 assetId=3270d6a7e920daf1 -->
+#### OCR 10: images/main/sp/1141/is-11409010327.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/sp/1141/is-11409010327.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/3270d6a7e920daf1_is-11409010327.md
+- OCR 狀態: completed_cached
+- OCR 字數: 203
+- 驗證狀態: ok
+
+```markdown
+## 資料庫沖一波 資料庫漫遊AI書單作你的風景
+
+![](images/9dff9a7829d8e9e04db736e9f14fc2abea86b3c58814e1b0798514384dde1b87.jpg)
+
+快閃任務AI推書借閱x爽吃拿坡里!
+
+時間：11/11（二）12：00開始至餐點送完為止地點：圖書館電子書牆
+
+## 限時快閃挑戰
+
+AI解鎖你的專書單現場成功借閱電子書即可獲得美味中餐一份
+```
+
+<!-- OCR_END -->
+
+
+---

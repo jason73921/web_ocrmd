@@ -1,0 +1,61 @@
+﻿# 網站文章資料_【SHSS Announcement】1132 Dragon Boat Festival Zongzi Giveaway_6047
+
+## 一、文章基本資料
+
+- **文章ID**: 6047
+- **文章標題**: 【SHSS Announcement】1132 Dragon Boat Festival Zongzi Giveaway
+- **文章網址**: 
+- **文章簡介**: 
+- **文章全文**: 
+- **文章更新日期**: 2025/5/26 上午 01:06:09
+- **文章發表日期**: 2025/5/26 上午 01:06:09
+- **文章點擊數**: 601
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: images/111宿服組/SDA/113住宿生端午節關懷活動_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=2670b7d8c2e51177 -->
+#### OCR 1: images/111宿服組/SDA/113住宿生端午節關懷活動_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/st/images/111宿服組/SDA/113住宿生端午節關懷活動_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2670b7d8c2e51177_113住宿生端午節關懷活動_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 566
+- 驗證狀態: ok
+
+```markdown
+# ） 端午 端午
+
+![](images/2ff7e9f6c4c31557b2f56a5232e3c5a5e026e5750a10884a06773f988995e5dd.jpg)
+
+元智大學學務處宿服組
+
+# DRAGON AGON 農 BOAT BOAT 曆 FESTIVAL TIVAL 五 月 初五 7
+
+![](images/b762100a297f4b3ad77135c7f98603bd407d0c6ffc8b820249c2e453ba1fa25f.jpg)
+
+Dragon Boat Festival Zongzi Giveaway Location:
+
+- Male Students: Main Entrance, Area B, Male Dorm 1   
+- Female Students: Main Entrance, Female Dorm 1
+
+Date: May 26,2025
+
+Time: 16:00
+
+![](images/16d9a4dcc550e4d6fee662215eb46b8ceeda796f1bb88f1df716dee47087ae0b.jpg)
+
+住宿生端午節關懷活動端午節粽子派發
+
+地點 男生：男一舍B區大門女生：女一舍大門日期：2025年5月26日時間：1600
+```
+
+<!-- OCR_END -->
+
+
+---

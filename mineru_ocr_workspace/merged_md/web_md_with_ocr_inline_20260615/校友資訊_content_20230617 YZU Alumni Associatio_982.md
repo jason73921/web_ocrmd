@@ -1,0 +1,21 @@
+﻿# 網站文章資料_20230617 YZU Alumni Association in China_982
+
+## 一、文章基本資料
+
+- **文章ID**: 982
+- **文章標題**: 20230617 YZU Alumni Association in China
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20230628-2
+- **文章簡介**: 
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2023/6/28 上午 05:35:02
+- **文章點擊數**: 746
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: https://i2.wp.com/live.staticflickr.com/65535/52988148224_5c94de58e5.jpg?zoom=1.25&amp;resize=500%2C377&amp;ssl=1
+- **2. [圖片]**: https://i0.wp.com/live.staticflickr.com/65535/52988007146_398b90d337.jpg?zoom=1.25&amp;resize=500%2C375&amp;ssl=1
+
+---

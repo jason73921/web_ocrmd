@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智大學33歲生日快樂 校長廖慶榮期勉元智為隱形冠軍大學_5606
+
+## 一、文章基本資料
+
+- **文章ID**: 5606
+- **文章標題**: 元智大學33歲生日快樂 校長廖慶榮期勉元智為隱形冠軍大學
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+
+遠東集團創辦之元智大學於今（5）日舉辦創校33週年校慶，活動結合校慶運動會、園遊會、社團露天活力秀、兒童迷宮、社區藝術節、Open House Day及各院週系列活動等，展現元智各學系、社團及行政團隊活力多元之風貌，也結合周邊社團資源，促進與社區居民之情感，特別安排研究團隊展現元智研發能量及豐碩成果。
+
+校慶典禮在元智六館有庠廳舉行，校董會徐旭東董事長致詞時表示，科技變化快速，學校要有危機意識，需努力思考未來方向。元智大學今年邁入33周年，董事會相較於公立大學，在政策上較為開明及彈性，期許元智未來能與集團各行各業互相配合，拓展視野。徐旭東說，全球已走入VR時代 AR新趨勢，現今世界變化太快，當你跟不上世界的腳步，你就不知道世界正在發生什麼，未來要持續保持開放的心態向前。遠東集團公益事業執行長王孝一也表示，現今是個快魚吃慢魚的時代，不能故步自封，要加快腳步，再創佳績。
+
+元智大學校長廖慶榮於校慶典禮中表示，到元智服務的一個月裡，用簡單的一句話來表達，「元智是隱形冠軍大學」Hidden Champion University。世界知名管理大師於《哈佛商業評論》提出「隱形冠軍」企業，這些公司專注不求大，求穩不追快，重長期不取巧。元智具有這些特質，不過元智不是企業，是大學，所以「元智是隱形冠軍大學」。廖慶榮說，在這全球化的時代，我們要吸引全世界優秀的外籍生，來元智讀書，將元智打造成國際級的大學，並提升元智知名度成為名符其實的Champion University。（待續）
+
+
+
+詳全文：https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5bcf2150-5230-4f74-af7b-795e8c00e3c5&currentCategory=101
+
+【2022/03/07】
+- **文章全文**: 
+- **文章更新日期**: 2022/3/7 上午 01:36:57
+- **文章發表日期**: 2022/3/7 上午 01:36:57
+- **文章點擊數**: 622
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5bcf2150-5230-4f74-af7b-795e8c00e3c5&amp;currentCategory=101
+- **2. [圖片]**: images/20220307-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=ba0b6f24c6882a1a -->
+#### OCR 2: images/20220307-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20220307-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ba0b6f24c6882a1a_20220307-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/b27af48a99c0fb2f3360ec6539e365afb9f1e15d091d21df29416fa704a2eecf.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

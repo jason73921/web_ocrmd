@@ -1,0 +1,248 @@
+﻿# 網站文章資料_【Internship Recruitment】National Museum of Natural Science "2026 Internship Implementation Plan"_8323
+
+## 一、文章基本資料
+
+- **文章ID**: 8323
+- **文章標題**: 【Internship Recruitment】National Museum of Natural Science "2026 Internship Implementation Plan"
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=8323
+- **文章簡介**: The National Museum of Natural Science (hereinafter referred to as "the Museum") provides internship opportunities for college and university students (including graduate students) to strengthen their practical professional skills, apply theoretical knowledge, gain workplace experience, and establish correct work attitudes and professional ethics.
+
+
+Eligibility
+
+Applicants must be current students (including graduate students) at domestic or international colleges and universities during the internship period. Applicants’ fields of study should be related to the Museum’s operations, or they should have an interest in practical training in museum research, collection management, exhibition, education, or management.
+
+
+Internship Period, Hours, and Leave Regulations
+
+
+
+Duration: The internship period for this year is from July 3, 2026 (Friday) to August 30, 2026 (Sunday). Interns must complete a minimum of 280 hours.
+
+
+
+
+Daily Schedule: In principle, interns work 8 hours per day (8:30 AM – 5:30 PM) with a 1-hour lunch break. Days off follow the administrative calendar of the Directorate-General of Personnel Administration. However, internships in areas such as educational activities, gallery operations, and visitor services follow a shift-based system; interns in these areas will have rotating days off and must be available to work on Saturdays and Sundays.
+
+
+
+
+Force Majeure: In the event of force majeure such as pandemics or typhoons, procedures will follow the official announcements of office and school closures from central and local governments. If the minimum required hours are not met due to such events, the internship certificate will be issued based on the actual hours completed.
+
+
+
+
+Application Documents
+
+Please fill out the "National Museum of Natural Science Internship Application Form (including a brief internship plan)" (as attached) and save it as an .odt file. This file will serve as an attachment to the official document submitted by your university.
+
+
+
+File Naming Convention: "School Abbreviation + Department + Name + 2026 Internship Application".
+
+
+
+
+
+How to Apply
+
+Applications must be submitted collectively by the university. 《Please email the aforementioned .odt application file to wml@saturn.yzu.edu.tw before 4:30 PM on March 18, 2026.》
+
+
+Internship Stipend & Insurance
+
+This internship is not an employment relationship. The Museum does not provide salary or insurance.
+
+
+Detailed Information
+
+
+
+2026 National Museum of Natural Science Internship Implementation Plan.
+
+
+
+
+2026 NMNS Internship Application Form (including a brief internship plan).
+
+
+
+
+NMNS Internship Performance Evaluation Form for College and University Students.
+
+
+
+
+National Museum of Natural Science Internship Contract.
+
+
+
+
+2026 NMNS Internship Vacancy Planning Table.
+- **文章全文**: 
+- **文章更新日期**: 2026/2/23 上午 06:33:57
+- **文章發表日期**: 2026/2/23 上午 06:30:30
+- **文章點擊數**: 83
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/202602230848261150001032-0-0.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=fc582f657a15abab -->
+#### OCR 1: files/202602230848261150001032-0-0.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/202602230848261150001032-0-0.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/fc582f657a15abab_202602230848261150001032-0-0.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2986
+- 驗證狀態: ok
+
+```markdown
+# 115 年國立自然科學博物館實習實施計畫
+
+## 一 、 計 畫 目 的
+
+國 立 自 然 科 學 博 物 館（ 以 下 稱「 本 館 」）為強 化學 生 實 務 専 業 能 力、應 用 理 論、習 得 職 場 經 驗、建 立 正 確 工 作 態 度 與 職 業 倫 理，提 供 各大 專 院 校 學 生（ 含 研 究 生 ） 至 本 館 實 習 機 會 。
+
+## 二 、 實 習 對 象
+
+國 內 外 各 大 專 院 校 學 生（含 研 究 所），實 習 期 間 須 為 在 學 學 生，就讀 科 系 與 本 館 業 務 相 關 或 對 博 物 館 研 究、典 藏、展 示、教 育 及 經 營管 理 等 相 關 實 務 訓 練 有 興 趣 者 。
+
+## 三 、 實 習 項 目
+
+博 物 館 教 育 活 動、展 場 經 營 觀 眾 服 務、展 示、圖 書、資 訊、數 位 典藏 、 生 物 學 組 、 地 質 學 組及人 類 學 組 相 關 業 務 等 。
+
+## 四 、 實 習 期 間、時 數及例 假 規 定
+
+(一) 本 年 度 實 習期間 自 1 15 年 7 月 3 日（五）至 8 月 30 日（日）止，實 習 期 間 應 完 成 基 本 時 數 28 0 小 時 之 實 習 。
+
+(二) 實 習 以 每 日 8 小 時（8:30-17:30）為 原 則 ，中 午 休 息 1 小 時 ，假日天 數 比 照人事行政總 處行事曆。本 館 教 育 活 動、展 場 經 營、觀眾 服 務等相 關場域服 務為排班 制，該 區 域實習者採 輪 休 制，須配合 於週 六、週 日實 習。
+
+(三) 實 習 期 間因疫情或颱 風等不可抗力之因素，依中 央、各 地 方 政 府公 告 停 止 辦 公 及 上 課 規 定 辦 理，如因而 未 滿 基 本時 數，則 依 實 際時 數 發 給 證 明。
+
+## 五 、 實 習 之 申 請 及 流 程
+
+## (一) 計 畫公 告
+
+本 館將於 2 月 23 日（一）公 告「115 年 度 大 學 院 校 學 生 實 習 規 劃表 」，含 實 習 者 條 件 、 實 習 內容及需 求 人 數，詳 情請 參 閱 本 館 網站 實 習 生 專 頁（ 網 頁 路 徑：本 館 首 頁/學 習 推 廣/學 校 服 務/大專生實 習 ） 。
+
+## (二 ) 申 請
+
+採 電 子 化 作 業， 由 學 校 統 一 提 送申 請：
+
+1 . 申 請 之 個 人 請 以電 子 方 式填 具「 國 立 自 然 科 學 博 物 館 實 習 申 請表（含 簡 要 實 習 計 畫）」（如 附 表），並 建立 od t 檔後 繳 交 學校 承 辦 單 位 作 為 公 文 附 件 用，檔 名 建 立 原 則 為「 學 校 簡 稱+科 系+姓 名 +115 實 習 申 請 」 。
+
+2 . 由 學 校 彙 整 各 系（ 所 ）推 薦 之 學 生 名 單 ，連 同 學 生 實 習 申 請 表電 子 檔 以 電 子 公 文 於 3 月 25 日（五）以 前寄達本館。
+
+3 . 本 館 不 受 理 延 遲 申 請 及 個 人 申 請 。
+
+## (三) 審 查
+
+實 習 申 請 經 資 格 審 查 符 合 者，再 分 由 各 實 習 輔 導 組 室 進 行 書 面 審查 ， 得 視 需 要 安 排 面 談 。
+
+## (四) 錄 取公 告及 備 取 作 業
+
+1 . 審 核 通 過 後 ， 將 於 5 月 15 日（五）以 前 於 本 館 實 習 生 專 頁 公告 正 取 及 備 取 名 單 。 請 學 校 再 次 確 認 正 取 學 生 到 館 實 習 意 願 ，若 有 正 取 學 生 欲 放 棄 實 習，請 學 校 於 5 月 20 日（五 ）以 前，以電 子 郵 件 告 知 本 館 承 辦 人 員，本 館 將 依 序 通 知 備 取 者 遞 補，並於 5 月 29 日（五 ） 以 前行 文各 校 轉 知 錄 取 學 生 依 規 定 日 期 辦理 報 到 及 實 習，未 錄 取 者恕不另行通知。
+
+2 . 錄 取 之 實 習 生若無 故 未 報 到或 擅 自 找 人 替 代，將取 消其實習資格，並納入該校後 續 年 度 學 生來 館實 習申 請 評 核之參 考。
+
+## (五 ) 合 約 簽 訂
+
+實 習開始前，學 校須與 本 館 簽 訂 實 習 合 約 書，且 須依《 專 科 以 上學 校 產 學 合 作 實 施 辦 法 》完 成 實 習 學 生 之校 外實習團體傷害保 險，並 負 擔 保 險 費 用。本 實 習 屬於非僱傭關係，本 館無 提 供 薪 資 及 保險 。
+
+## 六 、 差 勤及請假
+
+(一) 實 習 生 於 實 習 期 間 得 憑 識 別 證 進 出 本 館，並 需 隨 身 配 戴 以 茲 識 別。
+
+(二) 實 習 生 實 習 期 間 應憑 識 別 證每 日 簽 到 退 或 辦 理 請 假 手 續。實 習 時數 依 實 際 簽 到 退 記 錄 核 計 。
+
+(三) 請 假 應 於 「 事 前 」 申 請 敘 明 理 由 及 日 數 。 若 遇 急 病 或 緊 急 事 故 ，可 委 託 他 人 代 辦，亦 請 當 日 告 知 輔 導 員。
+
+## 七 、 考 核
+
+(一) 實 習生於實習期間應服從輔導員之輔導，實習結束前應依 範 本 體例繳 交 實 習心 得報 告（總字數至少 1,000 字 ），並 參 加 實 習 成 果發 表 會。
+
+(二) 9 月 18 日（五）以 前，輔 導 員將依 實 習 生 之 實 習 情 況、實 習 心 得報 告 及 實 習 成 果 發 表 情 形填 報評 核 表，評 核 結 果彙整後，於 9 月3 0 日 （ 三 ） 以 前 ，以掛 號 或公函寄送各 申 請 學 校 參 考 。
+
+(三) 實 習 達 基 本 時 數 280（含）小 時以 上、 提 交 實 習 報 告，並經 綜 合評 核合格（70 分以上）者 ，得發給實 習 證 明
+
+(四) 實 習 證 明如遺失，須 由校 方 來 文 申 請補 發，一 人以補 發乙 次 為 限。
+
+## 八 、 權 利 與 義 務
+
+(一) 實 習 生 到 館 實 習 為 學 習 服 務性 質，即 不 支 給 薪 資、不 保 險、 不 提供 住 宿、無 誤 餐 補 助。為肯定實 習生 於 實 習 期 間 之努 力，並 強 化實 習 生 對 本 館 之 認 識，將致 贈本 館太 空劇 場、必可飛劇場、本 館（ 含 植 物 園 ）、及三 園 區 招 待 券 各 一 張，並安 排參 觀 蒐 藏 庫 兩 次及鳥 瞰 植 物 園一 次。
+
+(二) 實 習 生 於 實 習 期 間 於 本 館 所 取 得 資 料 或 文 件（ 含 實 習 報 告 ），如有 對 外 發 表 之 需 求 者 ， 應 先 徵 得 本 館 同 意 。
+
+(三) 實 習 期 間 如 有 不 當 行 為 或 有 損 館 譽 情 事 者，本 館 除 通 知 其 就 讀 學校 系 所 外 ， 並 得 終 止 其 實 習 資 格 。
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/202602230848261150001032-0-1.odt
+- **3. [超連結（檔案）]**: files/202602230848261150001032-0-2.odt
+- **4. [超連結（檔案）]**: files/202602230848261150001032-0-3.odt
+- **5. [超連結（檔案）]**: files/202602230848261150001032-0-4.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=75403cbbe65ccfa5 -->
+#### OCR 5: files/202602230848261150001032-0-4.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/202602230848261150001032-0-4.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/75403cbbe65ccfa5_202602230848261150001032-0-4.md
+- OCR 狀態: completed_cached
+- OCR 字數: 7506
+- 驗證狀態: ok
+
+```markdown
+## 115年國立自然科學博物館實習名額規劃表
+
+115/01/30
+
+<table><tr><td colspan="1" rowspan="1">代號</td><td colspan="1" rowspan="1">組室-(學門)別</td><td colspan="1" rowspan="1">名额</td><td colspan="1" rowspan="1">實習內容項目</td><td colspan="1" rowspan="1">申請要件</td><td colspan="1" rowspan="1">輔導員姓名</td><td colspan="1" rowspan="1">輔導員分機</td><td colspan="1" rowspan="1">輔導員電子信箱</td><td colspan="1" rowspan="1">其它備註事項</td></tr><tr><td colspan="1" rowspan="1">A01</td><td colspan="1" rowspan="1">人類學組-考古學門</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">考古標本整理與整飭學習、展場展品清理與檢視學習考古發掘實習</td><td colspan="1" rowspan="1">考古學相關科系為主·文化資產保存與歷史學亦可。</td><td colspan="1" rowspan="1">李作婷</td><td colspan="1" rowspan="1">309</td><td colspan="1" rowspan="1">tsuoting46@gmail.com</td><td colspan="1" rowspan="1">考古學門工作室</td></tr><tr><td colspan="1" rowspan="1">B01</td><td colspan="1" rowspan="1">生物學組-中臺灣海洋保育教育中心</td><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">1.協助暑期海洋教育活動或課程進行2.參與開發森川里海主題課程3.參與鯨豚解剖或骨骼標本製作4.協助海洋保育教育中心日常運營及空間維護</td><td colspan="1" rowspan="1">1.科系不限2. 對海洋生物生態環境等主題課程開發有興趣3.對推動環境教育有熱忱喜歡與人互動4.具有帶領活动或課程助教經驗者佳</td><td colspan="1" rowspan="1">曹炳智</td><td colspan="1" rowspan="1">393</td><td colspan="1" rowspan="1">ben8@nmns.edu.tw</td><td colspan="1" rowspan="1">需配合假日輪班</td></tr><tr><td colspan="1" rowspan="1">BO2</td><td colspan="1" rowspan="1">生物學組-兩棲爬蟲學</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">標本製作與維護（25%）；野外或實驗室實驗及實驗動物飼養（25%）；書報討論（25%）；專題實做（25%）</td><td colspan="1" rowspan="1">對標本製作、兩棲爬蟲學、行為生態演化學有興趣為佳；生物、森林、環境相關科系升大二至大四生；樂於以合作的方式學習與工作。</td><td colspan="1" rowspan="1">廖鎮磐</td><td colspan="1" rowspan="1">507</td><td colspan="1" rowspan="1">andrew.43@gmail.com</td><td colspan="1" rowspan="1">須進行三至五日的野外實習（一至次；补助食宿交通）；每週二日全天於浸液標本庫房作業並維護酒精浸液之兩爬標本。</td></tr><tr><td colspan="1" rowspan="1">B03</td><td colspan="1" rowspan="1">生物學組-昆蟲學門</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">1.協助節肢動物標本與資料整理與鑑定；2.協助小黑蚊及展場與標本工作室監測與初步分類工作；3.協助研習營活動進行；4.進行室內節肢動物或小黑蚊主題式研究； 5.其他機動協助與學習。</td><td colspan="1" rowspan="1">不討厭室內節肢動物 (包括蟑螂) 及小黑蚊，可接受接觸酒精及蟑螂屋樣本·個性積極有熱情，喜歡探索與學習具生物相關專業背景或熱愛觀察昆蟲。</td><td colspan="1" rowspan="1">詹美鈴</td><td colspan="1" rowspan="1">318</td><td colspan="1" rowspan="1">a052@gs.nmns.edu.tw</td><td colspan="1" rowspan="1">實習地點: 生物學組昆蟲學門實驗室上班時間主要為平日</td></tr><tr><td colspan="1" rowspan="1">C01</td><td colspan="1" rowspan="1">地質學組-古生物學門</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">1.協助無脊椎動物化石與沉積構造等標本野外採集整理與清理、地質資料整理建檔；2.協助古生物蒐藏管理相關共同事務；3.學習與研讀無脊椎動物化石分類、沉積學、埋藏學、臺灣地質等相關資料及每週小組討論；4.參與野外地質觀察與紀錄；5.學習標本拍照與儀器操作分析等。</td><td colspan="1" rowspan="1">1.為地球科學、地質科學、生命科學或生物學相關科系(或為對古生物學相關領域有高度興趣)之本國籍在學大專生；2.須對大量標本與資料整理建檔有耐心及細心；3.可協助處理與整理地質標本與出野外者。</td><td colspan="1" rowspan="1">王士偉</td><td colspan="1" rowspan="1">611</td><td colspan="1" rowspan="1">wsw@mail.nmns.edu.tw</td><td colspan="1" rowspan="1">1.實習地點主要為本館場域·必要時會到館外。2.地質野外時間有可能安排在假日，有參與館外野外時間計入實習時數。</td></tr><tr><td colspan="1" rowspan="1">C02</td><td colspan="1" rowspan="1">地質學組-岩礦學門</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">1. 庭園岩石規劃與維護。2.岩石與礦物基本研究之學習。3.岩石標本採集與野 外露頭觀測。</td><td colspan="1" rowspan="1">對於地質野外工作有熱情喜歡與岩石礦物互動具備地球科學相事業背景尤佳。</td><td colspan="1" rowspan="1">董國安</td><td colspan="1" rowspan="1">630</td><td colspan="1" rowspan="1">kat@mail.nmns.edu.tw</td><td colspan="1" rowspan="1">實習地點主要在台中科博館館內或庭園工作。並會擇日進行地質野外工作。</td></tr><tr><td colspan="1" rowspan="1">C03</td><td colspan="1" rowspan="1">地質學組-岩礦學門</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">以中央山脈變質岩區為野外教學場域·進行變質岩地質調查與岩石變形觀察，學習岩性與構造辨識地質製圖及野外資料整理。結合地殼變形過程，認識變質岩區與地熱等綠色能源相關之地質背景。同時參與岩石標本之採集、整理、編目與典藏入庫作業，培養變質岩地質製圖、地質構造資料整理及博物館典藏實務能力。</td><td colspan="1" rowspan="1">具備地球科學相關科系背景者尤佳，對地質與地球科學研究具高度興趣·能配合野外調查及室內標本整理等實務工作，並具備良好學習態度、基本科學素養與團隊合作能力。</td><td colspan="1" rowspan="1">何恭睿</td><td colspan="1" rowspan="1">607</td><td colspan="1" rowspan="1">gongruei@nmns.edu.tw</td><td colspan="1" rowspan="1">實習內容包含野外調查與館內標本整理作業·將依天候與研究進度彈性安排野外行程。</td></tr><tr><td colspan="1" rowspan="1">D01</td><td colspan="1" rowspan="1">科學教育組-自然學友之家</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1資學友之家」展解說·協助觀眾理展品內容與展場觀眾服務。2.協助「學友之家」展示區展場標本之維護及管理。3. 執行暑期「光學顯微鏡教學」活動·協助學員進行實作與觀察。4.設計探索式學習單，並獨立或協作開發至少一項科學教育活動，進行成果分享。5.協助科學教育活動之執行與推廣相關業務。6.支援其他科學教育相關業務工作。</td><td colspan="1" rowspan="1">1. 不限科系2.對自然科學教育推廣有興趣態度主動積極具服務熱忱喜歡與人群互動者佳·</td><td colspan="1" rowspan="1">李素美</td><td colspan="1" rowspan="1">545、754</td><td colspan="1" rowspan="1">mei25@nmns.edu.tw</td><td colspan="1" rowspan="1">實習地點:自然學友之家展場,需假日 班</td></tr><tr><td colspan="1" rowspan="1">D02</td><td colspan="1" rowspan="1">科學教育組-活動小組</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">科學演示.動手做.活動營隊隊輔</td><td colspan="1" rowspan="1">喜歡與人群互動.對學童的科學教育有熱情尤佳</td><td colspan="1" rowspan="1">鐘如香</td><td colspan="1" rowspan="1">346</td><td colspan="1" rowspan="1">annie00129@mns.edu.tw</td><td colspan="1" rowspan="1">須配合假日輪班</td></tr><tr><td colspan="1" rowspan="1">D03</td><td colspan="1" rowspan="1">科學教育組-解說小組</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">1.科教活動協助：在進行協助的過程中  可以認識活動設計、規劃等運作，並實際進行給予建議。主要協助的內容有·展示活動、節慶活動及小小解說員研習營(擔任隊輔示範解說給學員觀摩、輔導學員上場解說..等)2.導覽解說服務：學習解說技巧及各項訓練·並能實際上場解說，提升個人自信及演說能力。3.解說主題活動設計：運用所學的解說技巧及活動設計運作進而發揮創意·設計主題解說並實作</td><td colspan="1" rowspan="1">喜歡與人互動，分享知識。</td><td colspan="1" rowspan="1">林曉菁林芝儀</td><td colspan="1" rowspan="1">767</td><td colspan="1" rowspan="1">vicky@nmns.edu.twshigilin@nmns.edu.tw</td><td colspan="1" rowspan="1">需配合科教活動假日輪班</td></tr><tr><td colspan="1" rowspan="1">D04</td><td colspan="1" rowspan="1">科學教育組-植物園小組</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1.植物與環境等相關主題教學與解說2.教育活動協助及新教案與教材開發3.植物園活動所需植物養護及應用等相關事宜</td><td colspan="1" rowspan="1">1.生命科學農業博物館教育觀光或休閒類相關领域科系2.需會使用愛臺灣(iNaturalist)平台3.能與不同特質的人群互動，樂於與人分享。</td><td colspan="1" rowspan="1">廖仁滄</td><td colspan="1" rowspan="1">162</td><td colspan="1" rowspan="1">papilio@mail.nmns.edu.tw3</td><td colspan="1" rowspan="1">1.實習地點為本館植物園與相關場域2.實習期間可能會安排參訪其他相關單位。.需假日輪班。</td></tr><tr><td colspan="1" rowspan="1">E01</td><td colspan="1" rowspan="1">展示組</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">協助展演執行道具製作文書處理影音記錄與剪接等</td><td colspan="1" rowspan="1">熱情喜歡展覽展演與藝術具備文書處理問卷整理及影音記錄與剪接相關專業背景尤佳。</td><td colspan="1" rowspan="1">陳慧玲</td><td colspan="1" rowspan="1">246</td><td colspan="1" rowspan="1">fellinatw@gmail.com</td><td colspan="1" rowspan="1">平日在辦公室或展場，假日需配合假日輪班協助展演執行。假日工作的翌日可安排補休。</td></tr><tr><td colspan="1" rowspan="1">G01</td><td colspan="1" rowspan="1">營運典藏管理組-公共服務科</td><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">1. 各項觀眾諮詢與服務。服務台-展示場.科學中心.植物園。(展示場服務台為主)2.協助辦理優惠卡。3.多元售票系統與自動售票機推廣與服務。4.其他暑假活動協助支援。</td><td colspan="1" rowspan="1">1.服務業相關科系尤佳。例如: 旅館管理系/休閒觀光管理學系/文化創意產業學系/博物館學系...。2.需假日輪班。3.喜歡與人群互動/擅長溝通/積極有服務熱忱及學習與創新特質者佳。4.實習地點: 服務台-展示場及科學中心與植物園。(展示場服務台為主)5.將視實際營運狀況調整需求人力。</td><td colspan="1" rowspan="1">葉佳惠</td><td colspan="1" rowspan="1">596</td><td colspan="1" rowspan="1">joan@nmns.edu.tw</td><td colspan="1" rowspan="1">1.需假日輪班 2.實習地點: 服務台-展示場.科學中心.植物園。(展示場服務台主</td></tr><tr><td colspan="1" rowspan="1">G02</td><td colspan="1" rowspan="1">營運典藏與資訊組-圖書資科</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">互動程式開發，網站設計與架設，AI開發應用</td><td colspan="1" rowspan="1">對AI人工智慧，互動設計有興趣同學(不需要是資訊相關科系)</td><td colspan="1" rowspan="1">陳奕廷</td><td colspan="1" rowspan="1">308</td><td colspan="1" rowspan="1">jesse@nmns.edu.tw</td><td colspan="1" rowspan="1"></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: images/Internship_Rights_Notice_EN.png
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=36d5f514092dd6c6 -->
+#### OCR 6: images/Internship_Rights_Notice_EN.png
+
+- 關聯類型: 圖片
+- 本機檔案: admin/rd/images/Internship_Rights_Notice_EN.png
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/36d5f514092dd6c6_Internship_Rights_Notice_EN.md
+- OCR 狀態: completed_cached
+- OCR 字數: 906
+- 驗證狀態: ok
+
+```markdown
+![](images/389b18e48b1adb3ce996de60c93e0403506c884d56e212300cb0dc27079cc905.jpg)
+
+## Important Notice: Credits & Rights
+
+ThisanoinrmihilItiTafiliio contracted by the University.
+
+·Credit Recognition: To transfer credits,you MUST confirm with your department before participation and complete the agreement signing and course selection. Retroactive credit recognition is NOT possible.
+
+·Rights Protection:Without completing the official procedure (agreement & course selection)tis is considered a personal "workplace experience." While the University provides consultation and emergency aid, we cannot legally intervene in labor disputes without a tripartite agreement. All rights are subject to the employment contract.
+
+【Regulatory Basis】 Handled in accordance with:
+
+1. MOE Letter No.1142302853 (Jan 9,2026).
+
+2. MOE Letter No. 1142302416 (Dec 18, 2025).
+
+3. Internship Operation Manual (Version 115.01).
+```
+
+<!-- OCR_END -->
+
+
+---

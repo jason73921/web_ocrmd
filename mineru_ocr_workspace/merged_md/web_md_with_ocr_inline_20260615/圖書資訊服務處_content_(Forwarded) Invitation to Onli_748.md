@@ -1,0 +1,218 @@
+﻿# 網站文章資料_(Forwarded) Invitation to Online Course – "Cybersecurity Forensics Series I: Penetration, CTF Strategy, and OSINT Practical Reconnaissance" on June 5, 2026._748
+
+## 一、文章基本資料
+
+- **文章ID**: 748
+- **文章標題**: (Forwarded) Invitation to Online Course – "Cybersecurity Forensics Series I: Penetration, CTF Strategy, and OSINT Practical Reconnaissance" on June 5, 2026.
+- **文章網址**: https://www.yzu.edu.tw/admin/is/index.php/tw/1150515-4
+- **文章簡介**: Invitation to Online Course – "Cybersecurity Forensics Series I: Penetration, CTF Strategy, and OSINT Practical Reconnaissance" on June 5, 2026.
+- **文章全文**: Dear Colleagues,
+
+The association is scheduled to host an online training course on Friday, June 5, 2026. Relevant personnel from your department are cordially invited to register.
+
+I. Course Instructor
+
+
+Instructor: Mr. Hao-Yu Weng
+
+Affiliation: Full-time Lecturer, Taiwan E-Security Analysis and Management Association (ESAM)
+
+
+II. Course Theme
+
+
+Title: Cybersecurity Forensics Series I – Beginner Course: Cybersecurity Penetration, Capture the Flag (CTF) Strategy, and Open Source Intelligence (OSINT) Practical Reconnaissance.
+
+Content: Please refer to the attached document for the detailed syllabus.
+
+
+III. Registration Information
+
+
+Deadline: From now until Monday, June 1, 2026.
+
+Registration Methods:
+Visit the "Latest News" section on the ESAM official website: https://www.esam.io/news/
+
+Register directly via Google Forms: Registration Link
+
+
+
+
+IV. Course Fees
+
+
+ESAM Members: NT$800 per person.
+
+Non-Members: NT$1,000 per person.
+
+Group Discounts: Available for group registrations. Please contact the association at (03) 328-2321 ext. 4289 or 0921-051-493 for specialized pricing.
+
+Payment Details:
+
+Bank: Chunghwa Post (Code 700)
+
+Branch: Guishan Chengyuan Post Office
+
+Account Number: 01212840065682
+
+Account Name: 社團法人台灣E化資安分析管理協會 (Taiwan E-Security Analysis and Management Association)
+
+
+
+
+
+V. Additional Information
+
+
+Certificates: A certificate of completion will be issued upon finishing the online course.
+
+Inquiries: For collaboration on educational training or other inquiries, please contact the association.
+
+
+Relevant Links:
+
+
+[Official Document]
+
+[Activity Brochure 1]
+
+
+[Link to Official Document]
+
+[Activity Brochure 1]
+- **文章更新日期**: 2026/5/15 上午 08:13:17
+- **文章發表日期**: 2026/5/15 上午 12:39:08
+- **文章點擊數**: 8
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.esam.io/news/
+- **2. [超連結（網站）]**: https://www.esam.io/news/
+- **3. [超連結（網站）]**: https://docs.google.com/forms/d/1kzDDQOprSQaCo4BLuCKYSqxdTBzkkD_uhJmzmMEGJF8/viewform?edit_requested=true
+- **4. [超連結（檔案）]**: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.yzu.edu.tw/admin/is/files/%E8%B3%87%E5%AE%89%E5%85%AC%E6%96%87/1150515-2/202605141652501150050001_di.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=3971b57f98005d5f -->
+#### OCR 4: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.yzu.edu.tw/admin/is/files/%E8%B3%87%E5%AE%89%E5%85%AC%E6%96%87/1150515-2/202605141652501150050001_di.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/is/files/資安公文/1150515-2/202605141652501150050001_di.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/3971b57f98005d5f_202605141652501150050001_di.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1277
+- 驗證狀態: ok
+
+```markdown
+## 社團法人台灣E化資安分析管理協會 函
+
+地址：333桃園市龜山區樹人路56號 中央
+
+警察大學警安樓306室
+
+承辦人：陳依敏
+
+電話：03-3282321#4289
+
+傳真：03-3275671
+
+Email：secretary.esam@gmail.com
+
+## 受文者：元智大學
+
+發文日期：中華民國115年5月14日
+
+發文字號：台灣資安字第1150050001號
+
+速別：普通件
+
+密等及解密條件或保密期限：
+
+附件：如文 (1150050001\_Attach1.pdf)
+
+主旨：本協會訂於115年6月5日（星期五）舉辦線上課程-「資安鑑識課程-系列Ⅰ初級課程：資安滲透、搶旗、情資掌握- CTF 搶旗戰略與公開來源情資偵蒐實務」，敬邀貴單位相關人員報名參加，請查照。
+
+說明：
+
+一、課程講座： 翁浩宇 講座 社團法人台灣E化資安分析管理協會 專任講座
+
+二、資安新知科技研習課程-「資安鑑識課程-系列Ⅰ初級課程：資安滲透、搶旗、情資掌握- CTF 搶旗戰略與公開來源情資偵蒐實務」課程內容如附件。
+
+三、報名時間：即日起至115年6月1日（星期一）
+
+![](images/58b76543dbd6a6e0e75190076b2292f48600bc5a7d1ffec8e4ea968d7d052382.jpg)
+
+四、報名方式：
+
+(一)請至本會網頁最新消息-本課程訊息連結報名：
+
+https://www.esam.io/news/
+
+(二)或請至以下網址報名： https://docs.google.com/forms/d
+
+![](images/6b1da615412c2becaafe48c19997ffc9c97824fa3a0a3212d7c2af3ec1b2eb95.jpg)
+
+/1kzDDQOprSQaCo4BLuCKYSqxdTBzkkD\_uhJmzmMEGJF8
+
+五、課程費用：
+
+(一)採個人報名或團體報名皆可，團體報名另有優惠專案價，請電話洽詢本協會-（03）3282321分機4289。或0921-051-493。
+
+(二)本協會會員報名費,每人新臺幣800元整。 非會員報名費，每人新臺幣1,000元整。
+
+(三)協會團體會員查詢 https://www.esam.io/group/
+
+(四)匯款資訊：中華郵政-代碼700，龜山誠園郵局 帳號：01212840065682 戶名：社團法人台灣E化資安分析管理協會
+
+六、完成線上課程，將發給研習證書。
+
+七、其他：歡迎洽詢本協會合作教育訓練課程之事宜。
+
+正本：醫療事業單位、出版事業、管理顧問單位、會計師事務所、資訊科技事業單位、公營事業單位、公務單位、團體會員、證券投顧事業單位、資科金融、保險事業單位、大學院校、中學／技職教育師資
+
+副本：本協會秘書室 電交 换 文章
+
+![](images/887be4eb0b35c3d4683730541af681f08241a83e2950c9a0b13f63605526015d.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [超連結（檔案）]**: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.yzu.edu.tw/admin/is/files/%E8%B3%87%E5%AE%89%E5%85%AC%E6%96%87/1150515-2/202605141652501150050001_Attach1.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=ede2c2b5294ea3d6 -->
+#### OCR 5: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.yzu.edu.tw/admin/is/files/%E8%B3%87%E5%AE%89%E5%85%AC%E6%96%87/1150515-2/202605141652501150050001_Attach1.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/is/files/資安公文/1150515-2/202605141652501150050001_Attach1.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ede2c2b5294ea3d6_202605141652501150050001_Attach1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1297
+- 驗證狀態: ok
+
+```markdown
+# 《資安鑑識課程-系列Ⅰ初級課程：資安滲透、搶旗、情資掌握- CTF搶旗戰
+
+# 略與公開來源情資偵蒐實務》
+
+課程表
+
+<table><tr><td>課程簡介</td></tr><tr><td></td></tr><tr><td>1. 資安攻略搶旗：Capture The Flag(CTF)介紹</td></tr><tr><td>2. 關鍵密碼分析與破譯演練</td></tr><tr><td>3. 初探Wireshark 與網路足跡分析</td></tr><tr><td>4. 認識進階持續性滲透攻擊(Advanced Persistent Threat, APT)</td></tr><tr><td>5. 公開來源情報(Open Source Intelligence, OSINT)介紹</td></tr><tr><td></td></tr><tr><td>6. 社交工程實作演練(Social Engineering) 7.CTF資安搶旗賽</td></tr></table>
+
+主辦：社團法人台灣E化資安分析管理協會
+
+時間：2026年6月5 日（星期五）
+
+地點：線上課程
+
+費用：會員（新臺幣800元）、非會員（新臺幣1,000元）
+
+<table><tr><td rowspan=1 colspan=1>時間</td><td rowspan=1 colspan=1>主題</td><td rowspan=1 colspan=1>講師</td></tr><tr><td rowspan=1 colspan=1>08:30-09:00</td><td rowspan=1 colspan=2>報到</td></tr><tr><td rowspan=1 colspan=1>09:00-12:003小時(休息時間：10:20-10:40)</td><td rowspan=1 colspan=1>主題一：內容：1.資安攻略搶旗：Capture The Flag(CTF)介紹2.關鍵密碼分析與破譯演練3.初探 Wireshark 與網路足跡分析4.CTF資安搶旗賽</td><td rowspan=1 colspan=1>翁浩宇 講座</td></tr><tr><td rowspan=1 colspan=1>12:00-13:00</td><td rowspan=1 colspan=2>午餐時間</td></tr><tr><td rowspan=1 colspan=1>13:00-16:003小時(休息時間：14:20-14:40)</td><td rowspan=1 colspan=1>主題二：內容：1. 認識進階持續性滲透攻擊(AdvancedPersistent Threat, APT)2. 公開來源情報(Open Source Intelligence,OSINT)介紹3. 社交工程實作演練(Social Engineering)4. CTF 資安搶旗賽</td><td rowspan=1 colspan=1>翁浩宇講座</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+
+---

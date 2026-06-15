@@ -1,0 +1,30 @@
+﻿# 網站文章資料_【課外組公告】轉知中華非營利組織發展協會來函有關社團法人臺中市德明慈善會將舉辦「志願服務基礎教育訓練及社會福利類-特殊教育訓練」Forwarding the letter from the Chinese Nonprofit Organization Development Association regarding the Taichung City Deming Charity Association, which will be organizing the "Basic Volunteer Ser_5257
+
+## 一、文章基本資料
+
+- **文章ID**: 5257
+- **文章標題**: 【課外組公告】轉知中華非營利組織發展協會來函有關社團法人臺中市德明慈善會將舉辦「志願服務基礎教育訓練及社會福利類-特殊教育訓練」Forwarding the letter from the Chinese Nonprofit Organization Development Association regarding the Taichung City Deming Charity Association, which will be organizing the "Basic Volunteer Ser
+- **文章網址**: 
+- **文章簡介**: 一、辦理日期：113年10月5-6日(星期六、日)　　　　　　
+二、辦理時間：09：20~16：40
+三、報到時間：上午09：00~09：15
+四、辦理地點：臺中市大里區大新活動中心(臺中市大里區新興路99巷16弄56號)　
+五、活動對象：
+1.有意願參與志願服務的國中、小、高中、大專學生、社會人
+士。
+2.隸屬祥和小隊且有意願參與志願服務的志工
+六、報名日期：即日起至113年9月30日(星期一)止，限80名額，額滿為止。
+七、報名方式：採網路報名(www.chinesenpo.org.tw)，點選「活動專區」→「志工培訓專區」→「113.10.5志願服務
+基礎教育訓練」、「113.10.6志願服務特殊教育訓練」進行報名，謝謝！
+- **文章全文**: 
+- **文章更新日期**: 2024/9/20 上午 06:35:35
+- **文章發表日期**: 2024/9/20 上午 02:25:50
+- **文章點擊數**: 238
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+（無關聯檔案）
+
+---

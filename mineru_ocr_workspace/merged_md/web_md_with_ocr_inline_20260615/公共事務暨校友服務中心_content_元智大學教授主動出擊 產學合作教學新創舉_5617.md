@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智大學教授主動出擊 產學合作教學新創舉_5617
+
+## 一、文章基本資料
+
+- **文章ID**: 5617
+- **文章標題**: 元智大學教授主動出擊 產學合作教學新創舉
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+
+由元智大學化材系孫一明教授所開授的「藥物化學與藥理概論」（與亞東醫院合聘教授楊明道醫師共同授課）與「藥物制放特論」，這兩門課與製藥產業有了全新聯結，由業者提供學期報告競賽獎學金，並安排講師參與教學，增加同學面對產業的真實感。
+
+元智大學化材系自110學年與祥翊製藥股份有限公司合作，邀請業界教師到課程傳授業界經驗，並於課堂中指導同學們進行專案學期報告，孫一明說，由於少子化的衝擊，許多產業、廠商都面臨找不到好人才的問題，未來各個產業若能更緊密的與學校合作，在課程教學上增加與產業互動機會，讓學生充分瞭解產業內涵與前景，可吸引同學及早規劃職涯發展目標。
+
+孫一明表示，兩門課程中邀請祥翊製藥業務發展處長程美玲博士，也是元智化材系的優秀系友，指導同學們進行專案學期報告，包括安排工廠參訪、加入授課、出題、互動與報告評審。同學們能實際了解整個製藥產業鏈面貌、相關專業知識、各個流程關聯性與產業發展性。李妍洲與陶若云同學有感而發地說，課程與產業合作計畫，提供我們更好的學習環境，讓我們更了解製藥產業，同時也讓我們畢業後的出路有更寬廣的選擇。（待續）
+
+
+
+詳全文：https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-fc78a1f5-a8ab-4a6c-864d-0edacdeb0242&currentCategory=101
+
+【2022/03/09】
+- **文章全文**: 
+- **文章更新日期**: 2022/3/14 上午 02:29:15
+- **文章發表日期**: 2022/3/9 上午 01:07:47
+- **文章點擊數**: 884
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-fc78a1f5-a8ab-4a6c-864d-0edacdeb0242&amp;currentCategory=101
+- **2. [圖片]**: images/20220309-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=35cf1cc3796748a0 -->
+#### OCR 2: images/20220309-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20220309-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/35cf1cc3796748a0_20220309-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/f282a6240ea0eb33a7f599ebcbec56e90593f05ca135bdf9c59d162ccd0a1719.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,44 @@
+﻿# 網站文章資料_20110611 Alumni Forum of Department of Electrical Engineering (Program C)_617
+
+## 一、文章基本資料
+
+- **文章ID**: 617
+- **文章標題**: 20110611 Alumni Forum of Department of Electrical Engineering (Program C)
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20110611-3
+- **文章簡介**: 
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2011/6/11 下午 05:00:29
+- **文章點擊數**: 655
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/alumni/images/main/271000611-3.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=12f5576dbd3cb3e5 -->
+#### OCR 1: http://www.yzu.edu.tw/alumni/images/main/271000611-3.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/main/271000611-3.JPG
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/12f5576dbd3cb3e5_271000611-3.md
+- OCR 狀態: completed_cached
+- OCR 字數: 441
+- 驗證狀態: ok
+
+```markdown
+## 光電系友回娘家迎接社會新鮮人
+
+光電工程學系研究所碩士班於99學年度有21位畢業生即將踏出校園成為社會新鮮人，邁向人生的下一階段。面對未來種種的選擇與挑戰，難免感到徬徨·這時前輩的經驗，正是這些問題最好的解答·光電系特於6月11日畢業典禮當天，邀請南亞科技-陳錦堂學長·昱晶能源-石善智學長、交通大學博士班一賴力宏學長等校友回到母系與畢業生進行經驗分享·這幾位學長姐有的畢業後繼續升學攻讀博士·有的進入光電相關高科技公司工作，也有自行創業的典範。透過活動中的交流，相信帶給這群即將畢業的同學相當多的啟發，在未來的人生與職涯規劃上，有了更清楚的方向。
+
+![](images/a598d2a78d3eb58f7caf2185ab6cedcd40b3616df1f57e2734b0f1ee4a8e2e18.jpg)
+
+![](images/ee1d18640295055a109f5ce739bd6030f888e2559c78933bc6013dae0c6f9aee.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

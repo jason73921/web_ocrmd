@@ -1,0 +1,83 @@
+﻿# 網站文章資料_國立臺北大學理「問題解決之研究方法系列課程」國際期刊(SCIE/SSCI)投稿實作_6793
+
+## 一、文章基本資料
+
+- **文章ID**: 6793
+- **文章標題**: 國立臺北大學理「問題解決之研究方法系列課程」國際期刊(SCIE/SSCI)投稿實作
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=6793
+- **文章簡介**: 113年9月9日起辦理「問題解決之研究方法系列課程」國際期刊(SCIE/SSCI)投稿實作
+
+一、為帶動臺灣各大學整體之學術研究風氣並提昇研究量能特舉辦本系列課程，課程規劃將以投稿實作為核心目標，藉由手把手的薪火相傳將半世的研究成果進行無私分享。課 程重點將圍繞在【專題講座】、【個案討論】、【模型運算】、【軟體操作】、【寫作投稿】…等五個面項，為確 保每位參與課程學員的學習成效，採小班制教學課程中會安排助教跟課，讓參與的學員能隨時掌握學習的進度。
+
+二、活動內容如下：
+
+(一)師資介紹：由曾國雄傑出講座教授及其研究團隊共同主持。
+
+(二)參加對象：全球大專院校教師及學、碩、博士班在學之研究生。
+
+(三)時間：9月9日起至10月28日，每週一下午1~4時。
+
+ 問題解決之研究方法系列課程國際期刊(SCIE/SSCI)投稿實作
+- **文章全文**: 
+- **文章更新日期**: 2024/9/3 上午 02:01:47
+- **文章發表日期**: 2024/9/3 上午 02:01:47
+- **文章點擊數**: 74
+- **文章語系**: *
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/20240829115836A095G0000Q113190033700-1.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=1d787114cf4af43b -->
+#### OCR 1: files/20240829115836A095G0000Q113190033700-1.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/20240829115836A095G0000Q113190033700-1.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1d787114cf4af43b_20240829115836A095G0000Q113190033700-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2447
+- 驗證狀態: ok
+
+```markdown
+# 問題解決之研究方法系列課程
+
+國際期刊(SCIE/SSCI)投稿實作
+
+為帶動臺灣各大學整體之學術研究風氣並提昇研究量能特舉辦本系列課程，課程規劃將以投稿實作為核心目標，藉由手把手的薪火相傳將半世的研究成果進行無私分享。課程重點將圍繞在【專題講座】、【個案討論】、【模型運算】、【軟體操作】、【寫作投稿】…等五個面項，為確保每位參與課程學員的學習成效，採小班制教學課程中會安排助教跟課，讓參與的學員能隨時掌握學習的進度。
+
+![](images/fffaf28b8cf547634212801139e33006074a6a891f618c52a9f1d657cd274ba0.jpg)
+
+師資介紹: 由曾國雄 傑出講座教授及其研究團隊共同主持
+
+主辦單位: 國立臺北大學 都市計劃研究所
+
+協辦單位: 國立臺北大學 研究發展處
+
+參加對象: 全球大專院校教師及學、碩、博士班在學之研究生
+
+招收人數: 精品班教學，僅招收 8 名 (課程有作業且須全程參加)。
+
+課程費用: 全程免費
+
+授課時間: 自 9/9 起，每週一下午 13:00 至 16:00。
+
+授課地點: 國立台北大學 三峽校區 公共事務學院
+
+線上報名: https://forms.gle/oB14ec8debTfhdxb6 (資源有限! 報名前務必評估自身狀況，無法全心配合學習者，請將機會留給急迫需要的學員。 謝謝!)
+
+授課方式: 課程主要由國家講座親自面授，課程涵蓋各式各樣的研究方法與各式各樣的決策理論。課程實作將由學員自選研究的課題進行討論，藉由每週進度協助學員落實相關的研究進度，期望參與的學員在一學期的努力下都獲得好的研究產出及成果。整個課程將會以實務之故事個案(Story Case in Practice)+解決實際問題之研究方法(Research Methods for Practical Problems-Solving) → 結果表達(Expression of results)及寫作的技巧(Writing Skill)與講述的技巧(Speech Skill)，將著重在基本邏輯之思考與推理的培育。
+
+課程規劃:
+
+<table><tr><td rowspan=1 colspan=1>週次</td><td rowspan=1 colspan=1>進度及內容</td><td rowspan=1 colspan=1>週次</td><td rowspan=1 colspan=1>進度及內容</td></tr><tr><td rowspan=1 colspan=1>第一週 09/9</td><td rowspan=1 colspan=1>課程介紹</td><td rowspan=1 colspan=1>第九週 11/04</td><td rowspan=1 colspan=1>寫作 SOP(摘要)</td></tr><tr><td rowspan=1 colspan=1>第二週 09/16</td><td rowspan=1 colspan=1>投稿大小事</td><td rowspan=1 colspan=1>第 十 週11/11</td><td rowspan=1 colspan=1>寫作 SOP(實證分析)</td></tr><tr><td rowspan=1 colspan=1>第三週 09/23</td><td rowspan=1 colspan=1>論文導讀(指標框架上)</td><td rowspan=1 colspan=1>第十一週 11/18</td><td rowspan=1 colspan=1>寫作 SOP(緒論-上)</td></tr><tr><td rowspan=1 colspan=1>第四週 09/30</td><td rowspan=1 colspan=1>論文導讀(指標框架下)</td><td rowspan=1 colspan=1>第十二週 11/25</td><td rowspan=1 colspan=1>寫作 SOP(緒論-下)</td></tr><tr><td rowspan=1 colspan=1>第五週 10/07</td><td rowspan=1 colspan=1>MCDM Over Review</td><td rowspan=1 colspan=1>第十三週 12/02</td><td rowspan=1 colspan=1>寫作 SOP(文獻回顧)</td></tr><tr><td rowspan=1 colspan=1>第六週 10/14</td><td rowspan=1 colspan=1>AHP 及 BWM</td><td rowspan=1 colspan=1>第十四週 12/09</td><td rowspan=1 colspan=1>寫作 SOP(研究方法)</td></tr><tr><td rowspan=1 colspan=1>第七週 10/21</td><td rowspan=1 colspan=1>DEMATEL 及 DANP</td><td rowspan=1 colspan=1>第十五週 12/16</td><td rowspan=1 colspan=1>寫作 SOP(結論)</td></tr><tr><td rowspan=1 colspan=1>第八週 10/28</td><td rowspan=1 colspan=1>TOPSIS &gt; m-VIKOR</td><td rowspan=1 colspan=1>第十六週 12/23</td><td rowspan=1 colspan=1>Q&amp;A</td></tr></table>
+
+聯繫方式:  
+ 夏建華 / 0908-300-120 / cindyhuangxia05@gmail.com
+```
+
+<!-- OCR_END -->
+
+
+---

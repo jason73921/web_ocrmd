@@ -1,0 +1,282 @@
+﻿# 網站文章資料_【Internship Recruitment】Taoyuan Museum of Fine Arts "2026 Summer Internship Program"_8321
+
+## 一、文章基本資料
+
+- **文章ID**: 8321
+- **文章標題**: 【Internship Recruitment】Taoyuan Museum of Fine Arts "2026 Summer Internship Program"
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=8321
+- **文章簡介**: This program aims to promote professional integration between the Museum and academic institutions, allowing students from relevant university departments to intern at the Museum and participate in practical operations. Current students from domestic or international colleges and universities—whose fields of study are related to the Museum"s operations, who possess Chinese listening, speaking, reading, and writing skills, and who are interested in practical training in exhibition planning, educational outreach, or museum management—may apply to the Museum. Upon approval, students will serve as interns at the Museum on a voluntary basis.
+
+
+Important Dates
+
+
+
+Application Period: February 24, 2026 (9:00 AM) to March 25, 2026 (11:59 PM)
+
+
+
+
+Interview Announcement: April 10, 2026 (Friday) – Top candidates will be selected for interviews following an initial document review.
+
+
+
+
+Interview Date: April 21, 2026 (Tuesday) – Applicants will be notified in case of any changes.
+
+
+
+
+Admission Announcement: Results will be posted by May 6, 2026 (Wednesday), with subsequent individual notifications.
+
+
+
+
+Internship Period: July 1, 2026, to August 31, 2026
+
+
+
+
+
+ Registration Link
+
+
+Detailed Information
+
+
+
+Taoyuan Museum of Fine Arts Student Internship Operating Guidelines.
+
+
+
+
+TMoFA 2026 Student Internship Vacancies and Job Descriptions Table.
+
+
+
+
+Taoyuan Museum of Fine Arts Internship Application Form.
+- **文章全文**: 
+- **文章更新日期**: 2026/2/23 上午 05:31:04
+- **文章發表日期**: 2026/2/23 上午 05:31:04
+- **文章點擊數**: 103
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://event.culture.tw/mocweb/reg/TMOFA/Detail.init.ctr?actId=60004&amp;utm_source=TMOFA&amp;utm_medium=qu
+- **2. [超連結（檔案）]**: files/20260223083805380330400E_1150000506_ATTACH1.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=f590aed675adbc02 -->
+#### OCR 2: files/20260223083805380330400E_1150000506_ATTACH1.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/20260223083805380330400E_1150000506_ATTACH1.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/f590aed675adbc02_20260223083805380330400E_1150000506_ATTACH1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1558
+- 驗證狀態: ok
+
+```markdown
+# 桃園市立美術館學生實習作業要點
+
+115年2月6日修訂版
+
+壹、主旨：為促進美術館與學術機構的專業結合，使大專院校相關科系學生可至本館實習並參與實務運作，特訂定桃園市立美術館學生實習作業要點，以下簡稱本作業要點。
+
+貳、對象：凡國內外各大專院校以上就讀科系與本館業務相關，並具備中文聽說讀寫能力者，且對美術館展覽規劃、教育推廣、研究典藏及經營管理等相關實務訓練有興趣之在學生，得向本館提出申請，經審核通過後，以義務性質至館實習。
+
+參、實習期限：當年度暑假期間內實習時數至少需達200小時，每日實習時間約8小時。
+
+肆、實習地點：視本館及所屬場館業務需求配置。
+
+伍、實習名額：依當年度本館各組室需求。
+
+陸、實習內容：詳見本館官網公告內容。
+
+https://tmofa.tycg.gov.tw/ch/learning/intern
+
+柒、申請辦法：
+
+(一)公告期限內受理申請實習，申請者一律於本館官網線上報名。
+
+(二)申請文件：
+
+1.桃園市立美術館學生實習申請表。
+
+2.實習計畫：須包含實習目標以及在校所學與實習項目之關聯，限800至1,000字。
+
+3.在學證明。
+
+4.歷年學業成績單。
+
+5.身分證影本。
+
+6.學生證影本。
+
+7.其他相關加分資料。
+
+(三)經書面審查通過者，依申請人實習志願順序安排遴選，必要時通知電訪或面談；通過者另函通知來館實習。捌、實習規範：
+
+(一)學生應自行確認至本館實習是否符合所屬學校之採認標準與相
+
+關規定。
+
+(二)實習期間於本館所取得資料或文件含實習報告，如需對外發表，需先徵得本館同意。
+
+(三)實習期間須依規定辦理簽到退以及請假等手續，請假時數不得列入實習時數計算，實習時數因請假而不足時，應於實習期滿前補足。
+
+## (四)請假手續如下：
+
+1.請填具書面假單並經實習業務單位核准後，始完成請假手續，未按規定辦理請假手續者視為曠職。
+
+2.應於事先請假，不得事後補假。除病假或突發重大事故，情形特殊不及事先請假者，應於當日電話或信件請假。並於回館實習之3日內，完成書面請假手續。
+
+(五)凡申請實習之學生有下列任一行為者，本館有權終止其實習資格並通知就讀系所：
+
+1.實習期限未滿而擅自終止實習工作者，實習期限依申辦文件所填日期辦理。
+
+2.請假時數，不論事、病假及曠職時數累計達6日48小時以上者。
+
+3.未依規定辦理請請假手續者，將會累計曠職紀綠，累計滿3次者。
+
+4.實習期間有不當或損害館譽之行為者。
+
+(六)學生於實習期間若有身體不適或特殊狀況需要終止實習時，須向實習業務單位提出，並經就讀系所確認核可後始得終止。
+
+(七)如實習輔導員或實習生本人有特定的期待或需求，經雙方協商同意後，得由實習輔導員向實習單位申辦延長實習時數，經審查合格後始得延長實習。
+
+(八)學生實習之受理面談、甄審、工作指派、督導及評鑑由各實習業務單位依權責決行。
+
+(九)實習生憑本館發給之識別證進出，隨身配戴以玆識別，實習期滿需繳回。
+
+玖、學生實習期間，本館提供意外傷害保險。
+
+壹拾、實習生為義務實習，不享有任何福利及誤餐補助，在館實習期間應接受本館之督導與考核。
+
+壹拾壹、實習生相關會議：
+
+(一)說明會及培訓會：於實習生報到時召開。
+
+(二)實習輔導會議：於實習期間召開，原則上一個月開一次。
+
+(三)實習成果發表會：於實習期間最後階段進行成果發表。壹拾貳、考評：
+
+(一)每週繳交實習工作紀錄，並列入考評。
+
+(二)輔導員依實習生之實習情況予以考評。
+
+(三)實習生於實習結束前，需繳交至少1,200字實習心得報告並繳交實習成果簡報，於實習成果發表會發表。
+
+(四)凡實習學生於實習期間服務優良並具工作績效者，得由輔導員評核後，報本館核發實習證明。
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（檔案）]**: files/20260223083805380330400E_1150000506_ATTACH2.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=9b0a20313950ac94 -->
+#### OCR 3: files/20260223083805380330400E_1150000506_ATTACH2.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/20260223083805380330400E_1150000506_ATTACH2.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/9b0a20313950ac94_20260223083805380330400E_1150000506_ATTACH2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1468
+- 驗證狀態: ok
+
+```markdown
+桃園市立美術館 115 年學生實習名額與內容說明表
+<table><tr><td colspan="1" rowspan="1">申請組別</td><td colspan="1" rowspan="1">實習名額</td><td colspan="1" rowspan="1">實習內容敘述(建議參酌今年度各組預定執行工作項目條列)</td><td colspan="1" rowspan="1">申請條件(例：博物館或藝術相關系所為佳、2 個月者優先)</td></tr><tr><td colspan="1" rowspan="1">展覽組</td><td colspan="1" rowspan="1">2人</td><td colspan="1" rowspan="1">1．桃源美展、桃源國際藝術獎展覽事前籌備及相關業務2.其他展覽組相關業務3. 願景館專案</td><td colspan="1" rowspan="1">1．博物館、策展、人文、設計、藝術等相關系所或具藝文產業相關經驗者。2. 具備 word, excel, photoshop 等基本繪圖與文書處理能力。3. 具備 Adobe 系統等高階繪圖軟體操作技能者優先4. 中文能力佳、細心者優先，歡迎檢附書寫作品。5. 具備英文書寫、會話溝通能力尤佳6.具備展場管理、卸佈展、導覽等經驗尤佳。7． 大學（含在學）以上學歷，研究生尤佳。8. 申請實習2個月者優先。</td></tr><tr><td colspan="1" rowspan="1">書藝館</td><td colspan="1" rowspan="1">2人</td><td colspan="1" rowspan="1">1． 橫山書法藝術館展覽相關業務2. 協助橫山書法藝術館教育推廣講座及活動3．其他臨時美術設計、資料彙整等庶務事項</td><td colspan="1" rowspan="1">1．具從事藝文產業相關經驗者優先或曾就讀藝術、教育、設計、博物館學、社會科學等相關係所。2． 具備 Adobe 系統等高階繪圖軟體操作技能者優先。3．具備英文書寫、會話溝通能力尤佳。4. 申請實習2個月者優先。</td></tr><tr><td colspan="1" rowspan="1">教推組</td><td colspan="1" rowspan="1">2人</td><td colspan="1" rowspan="1">1．假日工作坊及夏令營活動2．兒童藝術教育課程開發3.其他教育推廣組相關業務</td><td colspan="1" rowspan="1">1． 具從事藝文產業相關經驗者優先或曾就讀藝術、教育、設計、博物館學、社會科學等相關係所。2. 具備 Adobe系統等高階繪圖軟體操作技能者優先。3. 具備英文書寫、會話溝通能力尤佳。4. 申請實習2個月者優先。</td></tr><tr><td>研典組</td><td>1人</td><td>1. 協助典藏品諮詢會議藝術家及作品資料 表整理資料蒐集 2. 兒童藝術圖書空間圖書編目及管理 3． 其他研典組相關業務</td><td>1．就讀藝術、教育、設計、博物館學、社會科學等相關係所或具從事 藝文產業相關經驗者優先。 2. 具備word,excel 等基本文書處理能力。 3. 中文能力佳、細心者優先。 4. 具備英文書寫、會話溝通能力尤佳。 5. 申請實習2 個月者優先。</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **4. [超連結（檔案）]**: files/20260223083805380330400E_1150000506_ATTACH3.docx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=b3fb529489a68fb5 -->
+#### OCR 4: files/20260223083805380330400E_1150000506_ATTACH3.docx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/20260223083805380330400E_1150000506_ATTACH3.docx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/b3fb529489a68fb5_20260223083805380330400E_1150000506_ATTACH3.md
+- OCR 狀態: completed_cached
+- OCR 字數: 3298
+- 驗證狀態: ok
+
+```markdown
+**桃園市立美術館實習申請表**			年   月   日
+
+<strong>No.</strong><u>館方填寫</u>		 <strong>The Application for Internship in TMOFA</strong>
+
+<table><tr><td rowspan="2"><p>照</p><p>片</p><p>黏</p><p>貼</p><p>處</p></td><td colspan="3"><p>實習生姓名</p><p>Name</p></td><td colspan="3"></td><td colspan="3"><p>性  別</p><p>Gender</p></td><td></td></tr><tr><td colspan="3"><p>目前就讀</p><p>學校/科系/年級</p><p>School/Department/</p><p>Grade</p></td><td colspan="3"></td><td colspan="3"><p>出 生 日 期</p><p>Date of Birth</p></td><td><p>年    月    日</p></td></tr><tr><td><p>電子信箱</p><p>Mail Address</p></td><td colspan="6"></td><td colspan="3"><p>身分證字號</p><p>ID/Passport Number</p></td><td></td></tr><tr><td><p>國      籍</p><p>Nationality</p></td><td colspan="6"></td><td colspan="3"><p>電    話</p><p>Phone</p></td><td></td></tr><tr><td><p>地      址</p><p>Address</p></td><td colspan="6"></td><td colspan="3"><p>手    機</p><p>Mobile</p></td><td></td></tr><tr><td><p>語文能力</p><p>Language</p></td><td colspan="6"></td><td colspan="3"><p>興    趣</p><p>Interest</p></td><td></td></tr><tr><td><p>專    長</p><p>Specialty</p></td><td colspan="10"></td></tr><tr><td><p>經    歷</p><p>Experience</p></td><td colspan="10"></td></tr><tr><td colspan="2"><p>曾修習之藝術相關課程</p><p>Experience of art related curriculums</p></td><td colspan="9"></td></tr><tr><td><p>可實習期間</p><p>Duration of Interns</p></td><td colspan="7"><p>自    年    月   日 至    年    月    日</p><p>From                 To</p></td><td><p>時    間</p><p>Time</p></td><td colspan="2"><p>每週          天</p><p>days per week</p><p>每天        小時</p><p>hours per day</p></td></tr><tr><td rowspan="2"><p>實習計劃</p><p>Internship Proposal</p></td><td colspan="2"><p>名    稱</p><p>Subjects</p></td><td colspan="8"></td></tr><tr><td colspan="2"><p>主要綱要</p><p>Outlines</p></td><td colspan="8"></td></tr><tr><td><p>附     件</p><p>Have you include：</p></td><td colspan="10"><p>□推薦教授親筆簽名 Professor of Recommendation</p><p>□實習計劃書(800-1,000字) Internship Proposal</p><p>□在學證明 Certificate of Enrollment</p><p>□歷年學業成績單Official Transcripts   </p><p>□身分證影本（外籍人士請檢附護照影本） Copy of Identity Card / Passport</p><p>□學生證影本 Copy of Student Card</p><p>□一吋半身照片電子檔 File of 1 Inch Pictures</p></td></tr><tr><td rowspan="2"><p>推薦機構</p><p>Institute of Recommendation</p></td><td colspan="4" rowspan="2"></td><td><p>電  話</p><p>Phone</p></td><td colspan="5"></td></tr><tr><td><p> 地  址          Address</p></td><td colspan="5"></td></tr><tr><td rowspan="2"><p>推  薦  教  授 1.</p><p>Professor of Recommendation</p></td><td colspan="4" rowspan="2"><p>推薦教授1.</p><p>親筆簽名</p><p>Sing Here</p></td><td><p>學校/科系</p><p>School/Department</p></td><td colspan="5"></td></tr><tr><td><p>職稱</p><p>Job Title</p></td><td colspan="5"></td></tr><tr><td rowspan="2"><p>推  薦  教  授 2.</p><p>Professor of Recommendation</p></td><td colspan="4" rowspan="2"><p>推薦教授2.</p><p>親筆簽名</p><p>Sing Here</p></td><td><p>學校/科系</p><p>School/Department</p></td><td colspan="5"></td></tr><tr><td><p>職稱</p><p>Job Title</p></td><td colspan="5"></td></tr><tr><td rowspan="2"><p>緊急聯絡人/關係</p><p>Emergency Contact/</p><p>Relationship</p></td><td colspan="4" rowspan="2"></td><td><p>電  話</p><p>Phone</p></td><td colspan="5"></td></tr><tr><td><p>地  址</p><p>Address</p></td><td colspan="5"></td></tr><tr><td colspan="11"><p>自傳(500字內)</p><p>Personal Statement</p></td></tr><tr><td colspan="11"></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: images/20260223083805380330400E_1150000506_ATTACH4.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=792b75be3943d1a3 -->
+#### OCR 5: images/20260223083805380330400E_1150000506_ATTACH4.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/rd/images/20260223083805380330400E_1150000506_ATTACH4.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/792b75be3943d1a3_20260223083805380330400E_1150000506_ATTACH4.md
+- OCR 狀態: completed_cached
+- OCR 字數: 138
+- 驗證狀態: ok
+
+```markdown
+## 暑期 □ 26
+
+![](images/21ff2ca21f52eb3cb23d92bd755306e71f9da50f5fd0daa235e1f0cc103b0a40.jpg)
+
+申請時間115.2.24-115.3.25止
+
+實習時間115.7.1-115.8.31
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: images/Internship_Rights_Notice_EN.png
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=36d5f514092dd6c6 -->
+#### OCR 6: images/Internship_Rights_Notice_EN.png
+
+- 關聯類型: 圖片
+- 本機檔案: admin/rd/images/Internship_Rights_Notice_EN.png
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/36d5f514092dd6c6_Internship_Rights_Notice_EN.md
+- OCR 狀態: completed_cached
+- OCR 字數: 906
+- 驗證狀態: ok
+
+```markdown
+![](images/389b18e48b1adb3ce996de60c93e0403506c884d56e212300cb0dc27079cc905.jpg)
+
+## Important Notice: Credits & Rights
+
+ThisanoinrmihilItiTafiliio contracted by the University.
+
+·Credit Recognition: To transfer credits,you MUST confirm with your department before participation and complete the agreement signing and course selection. Retroactive credit recognition is NOT possible.
+
+·Rights Protection:Without completing the official procedure (agreement & course selection)tis is considered a personal "workplace experience." While the University provides consultation and emergency aid, we cannot legally intervene in labor disputes without a tripartite agreement. All rights are subject to the employment contract.
+
+【Regulatory Basis】 Handled in accordance with:
+
+1. MOE Letter No.1142302853 (Jan 9,2026).
+
+2. MOE Letter No. 1142302416 (Dec 18, 2025).
+
+3. Internship Operation Manual (Version 115.01).
+```
+
+<!-- OCR_END -->
+
+
+---

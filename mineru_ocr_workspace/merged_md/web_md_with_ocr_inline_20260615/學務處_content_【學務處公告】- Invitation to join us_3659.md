@@ -1,0 +1,190 @@
+﻿# 網站文章資料_【學務處公告】- Invitation to join us for the Graduation Ceremony on Saturday, May 27th, 112, at 18:30.誠摯邀請您參加112/5/27(六)18:30【今畢輝煌畢業典禮】，可能造成聲音干擾，敬請見諒，並請協助配合相關事項，非常感謝。_3659
+
+## 一、文章基本資料
+
+- **文章ID**: 3659
+- **文章標題**: 【學務處公告】- Invitation to join us for the Graduation Ceremony on Saturday, May 27th, 112, at 18:30.誠摯邀請您參加112/5/27(六)18:30【今畢輝煌畢業典禮】，可能造成聲音干擾，敬請見諒，並請協助配合相關事項，非常感謝。
+- **文章網址**: https://www.yzu.edu.tw/admin/st/index.php/tw/?option=com_content&view=article&id=3659
+- **文章簡介**: Sincerely invite you to join us at the Graduation Ceremony on 5/27 (Saturday) at 18:30. There may be some noise disturbance during the event, and we kindly ask for your understanding. Please assist us by cooperating with relevant arrangements. Thank you very much.
+
+ 
+
+重要提醒：畢典相關業務執行期間，敬請全校教職員生配合繞道並留意自身安全，並誠摯邀請您蒞臨參加。
+
+各位教職員工生，大家好：
+
+2023年《今畢輝煌》畢業典禮將於明晚5/27(六)18:30舉行，提醒您相關彩排、執行及撤場等作業時程，並誠摯邀請您蒞臨參加。
+
+★ 5/27(六)下午2：00起，五館前預計彩排畢業典禮流程，屆時會有管制及可能造成聲音干擾，敬請大家海涵！
+
+★ 5/28(日)中午12：00前，將有大型貨車進行撤場作業，請教職員生配合繞道並留意安全。
+
+     
+
+2023年《今畢輝煌》畢業典禮活動相關資訊請參閱畢典官網。
+
+ 
+
+一、提醒全體畢業生：
+
+(一)入場時間：5/27(六)進入會場就座時間：17：50~18：25台下全體畢業生、撥穗代表、受獎生及博士生入座。
+
+(二)穿著提醒：記得穿著學位服、佩戴學位帽。
+
+(三)安全提醒：五館前主會場畢業生座位區，部分安排於圓環草地區，草地非平整表面，提醒該區同學入座時小心安全，亦請各單位協助轉知同學留意。
+
+二、提醒台上與會主管及師長入座時間：5/27(六)18：10~18：25前，請台上貴賓、師長準時入座。
+
+三、本校已安排攝影社拍攝活動照片，活動後將上傳網頁空間，歡迎點選超連結觀賞。 活動照片網址：學務處 元智 Flickr
+
+四、【畢典直播網址】https://www.yzu.edu.tw/online/
+
+五、元智大學112級畢業季限定歌曲：追到畢業前 畢業MV連結：https://www.youtube.com/watch?v=1McomNYtjSA
+
+六、如遇天候不佳，將由學務長提前於5/27(六)下午15:00宣布啟動雨備方案。
+
+ 
+
+注意事項
+
+◎為使典禮隆重莊嚴，典禮當天17：50進場起至施放煙火期間，畢業生座位區將啟動管制作業，請教職員工生及親友們配合。
+
+◎工作人員請著背心或佩戴識別證以便管制人員識別。
+
+◎圓環前將陸續擺放畢業典禮使用之椅子，可能造成走道限縮，若有不便還請海涵。
+
+元智大學 學生事務處 敬上
+
+ 
+
+Notice for 2023 YZU Graduation Ceremony Venue Layout Preparations and Clean-up
+
+ 
+
+TO:
+
+Students, Faculty and Staff
+
+ 
+
+PROJECT:
+
+2023 YZU Graduation Ceremony Venue Layout Preparations and Clean-up
+
+ 
+
+SCOPE OF WORK:
+
+
+Main Gate of YZU on Yuan-Dong Road.
+
+In front of Building 1 and 5, including the square and the roundabout.
+
+Graduation Ceremony Rehearsal Process.
+
+
+ 
+
+DURATION:
+
+
+May 27(Saturday), 2:00pm
+
+May 28(Sunday), 12:00pm remove the equipment used at the event venue
+
+
+ 
+
+ADVISORY:
+
+The work will significantly affect pedestrian and vehicular traffic.
+
+The Contractor will construct barricades and signs to protect and redirect pedestrians and traffic.
+
+Sound interference may be caused at that time.
+
+ 
+
+For information about the 2023 Graduation Ceremony, please refer to the official website.
+
+ 
+
+
+Reminder for Graduating Students:
+
+
+
+Seating time for ALL graduating students is during 5:50-6:25pm on May 27(Sat.)
+
+Must wear graduation gown and cap in order to participate in the ceremony.
+
+In front of Building 5, part of seats on the grass might be unstable because of the uneven ground, please be careful while taking seated for your own safety.
+
+
+
+Reminder to attending teachers on stage: Please take your seats on time between 18:10 and 18:25 on 5/27 (Sat).
+
+Our school has arranged for the photography club to take event photos, which will be uploaded to the website space after the event. You are welcome to click on the hyperlink to view them. The website address for event photos is: OSA, YZU Flickr.
+
+【Live Streaming Link for Graduation Ceremony】：https://www.yzu.edu.tw/online/
+
+The graduation music video link: https://www.youtube.com/watch?v=1McomNYtjSA
+
+In case of inclement weather, the Dean of Student Affairs will announce the activation of the rain contingency plan at 3:00 PM on 5/27 (Sat).
+
+
+ 
+
+Notice
+
+◎In order to make the ceremony solemn and solemn, from the entrance at 17:50 to the display of fireworks, the graduate seating area will start control operations. Faculty, staff, students, family and friends are requested to cooperate.
+
+◎In order to ensure the solemnity and grandeur of the ceremony, from the entry time of 5:50 PM until the fireworks display, there will be control operations in the graduation seating area. We kindly ask all teachers, colleagues, students, and family members to cooperate.
+
+◎Staff members are requested to wear a vest or identification card for easy identification by control personnel.
+
+◎Chairs for the graduation ceremony will be placed in front of the roundabout one after another, which may cause some narrowing of the walkway. We apologize for any inconvenience this may cause and kindly ask for your understanding.
+
+ 
+
+Kind regards,
+
+OSA
+- **文章全文**: 
+- **文章更新日期**: 2025/5/12 上午 05:52:27
+- **文章發表日期**: 2023/5/26 上午 12:45:43
+- **文章點擊數**: 944
+- **文章語系**: *
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: index.php/tw/?option=com_sppagebuilder&amp;view=page&amp;id=160
+- **2. [超連結（網站）]**: https://www.flickr.com/photos/154587722@N04/albums
+- **3. [超連結（檔案）]**: ../../online/
+- **4. [超連結（網站）]**: https://www.youtube.com/watch?v=1McomNYtjSA
+- **5. [超連結（檔案）]**: index.php/tw/?option=com_sppagebuilder&amp;view=page&amp;id=160
+- **6. [超連結（網站）]**: https://www.flickr.com/photos/154587722@N04/albums
+- **7. [超連結（檔案）]**: ../../online/
+- **8. [超連結（網站）]**: https://www.youtube.com/watch?v=1McomNYtjSA
+- **9. [圖片]**: images/2023commencement/2023nian%20bi%20ye%20dian%20li%20wu%20guan%20guang%20chang%20wei%20zhi%20tu0516.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=9 assetId=1e5d0eb18f6d0672 -->
+#### OCR 9: images/2023commencement/2023nian%20bi%20ye%20dian%20li%20wu%20guan%20guang%20chang%20wei%20zhi%20tu0516.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/st/images/2023commencement/2023nian bi ye dian li wu guan guang chang wei zhi tu0516.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1e5d0eb18f6d0672_2023nian_bi_ye_dian_li_wu_guan_guang_chang_wei_zhi_tu0516.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/a8f4384f985c1b9c508455b7ce777df1e8fbc10f19666ea615684312425ca45a.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

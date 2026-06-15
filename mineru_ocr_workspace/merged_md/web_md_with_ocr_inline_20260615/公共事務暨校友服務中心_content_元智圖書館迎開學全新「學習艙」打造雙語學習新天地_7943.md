@@ -1,0 +1,50 @@
+﻿# 網站文章資料_元智圖書館迎開學全新「學習艙」打造雙語學習新天地_7943
+
+## 一、文章基本資料
+
+- **文章ID**: 7943
+- **文章標題**: 元智圖書館迎開學全新「學習艙」打造雙語學習新天地
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福 台北市報導】
+ 
+迎接開學季，元智大學於圖書館新設8座學習艙，提供教職員生教學、研究討論或影音、語言學習的獨立空間，具隔音效果，讀者可依自身需求，在館內選擇最適合的學習、交流或獨處空間。
+
+元智大學資訊長王任瓚表示，元智大學致力於推動雙語教育，為打造完善的國際化學習環境，特別於新學期在圖書館規劃設置8座學習艙，學習艙由特殊材料製成，能有效阻隔各種頻率的聲音波，不僅能夠隔絕外界的噪音，還能在內部創建一個音質優良的聽覺環境，適合進行錄音、線上會議等活動，或作為語言學習的場所，為培育具有全球視野和跨文化溝通能力的專業雙語人才，提供更多元的學習資源。（待續）
+
+
+
+詳全文：
+https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5812b6b7-a2c9-4af5-8881-bc48c0c452c5&currentCategory=101
+
+【2024/09/05】
+- **文章全文**: 
+- **文章更新日期**: 2024/9/5 上午 05:20:42
+- **文章發表日期**: 2024/9/5 上午 05:20:42
+- **文章點擊數**: 295
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5812b6b7-a2c9-4af5-8881-bc48c0c452c5&amp;currentCategory=101
+- **2. [圖片]**: images/20240905.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=e54ad904e644c6af -->
+#### OCR 2: images/20240905.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20240905.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/e54ad904e644c6af_20240905.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/29ba51d24c57e5a36173dd68bc5be2d3348e89373611ac3a2ebe52677334b7e6.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

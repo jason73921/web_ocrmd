@@ -1,0 +1,2217 @@
+﻿# 網站文章資料_【Announcement of 1142 Credit-taken Unqualified Students 】Must have it handled by Mar. 9th, 2026 or will be ordered to withdraw from schooling_2124
+
+## 一、文章基本資料
+
+- **文章ID**: 2124
+- **文章標題**: 【Announcement of 1142 Credit-taken Unqualified Students 】Must have it handled by Mar. 9th, 2026 or will be ordered to withdraw from schooling
+- **文章網址**: https://www.yzu.edu.tw/admin/aa/index.php/tw/announcement-of-1142-credit-taken-unqualified-students-must-have-it-handled-by-mar-9th-2026-or-will-be-ordered-to-withdraw-from-schooling
+- **文章簡介**: Subject: List of 114-2-Semester Credit-taken Unqualified Students
+
+Statement：
+
+1.Undergraduate students of all departments shall not take less than 16 credits or more than 25 credits each semester from their 1st to 3rd academic years and shall not take less than 9 credits or more than 25 credits of courses in their 4th academic year. However, under special circumstances, the minimal credit requirement can be lowered with the consent of the department/college/program chairperson. Students should take one course in one semester(excluding physical education, service learning, and zero-credit courses). (Exchange students are not under this limitation) Those students who violate this rule shall be forced to drop out of the University.  (YZU Study Regulation Rule 13)
+
+2. [Procedure of Re-Application for Reduced Course Load]
+
+Time: ~ 9th March, 2026 (Monday) 12:00.
+
+Procedure: Portal →Study File →Course Reduction →Fill in your reason for application →Submit→Department Review.( Each department can modify its course reduction regulations to meet the needs of the department, and can also inform student"s parents the credits reduced in the current semester)
+
+3. Credit-taken Unqualified Students must apply for reducing course load before the deadline of Re-Application (~ 9th March, 2026. 12:00  ) (*Application for dropping courses is not allowed) Students taken unqualified credits will be ordered to withdraw from schooling.
+
+*The Re-Application is only for Credit-taken Unqualified Students, other students are not allowed to apply for reducing courses load and dropping courses.
+
+4. If a selected course is canceled due to not meeting the minimum enrollment requirement, resulting in insufficient credits, a course load reduction must still be applied for in accordance with the relevant regulations.
+
+5. Please see the attached file for “List of 114-2-Semester Credit-taken Unqualified Students” of Application for Reduced Course Load.
+- **文章全文**: 
+- **文章更新日期**: 2026/3/4 上午 01:17:26
+- **文章發表日期**: 2026/3/4 上午 12:42:34
+- **文章點擊數**: 0
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/Curriculum/course/1142未達下限學生名單公告版1150303.xlsx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=22f6ce3484d7e44e -->
+#### OCR 1: files/Curriculum/course/1142未達下限學生名單公告版1150303.xlsx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/aa/files/Curriculum/course/1142未達下限學生名單公告版1150303.xlsx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/22f6ce3484d7e44e_1142未達下限學生名單公告版1150303.md
+- OCR 狀態: completed_cached
+- OCR 字數: 56871
+- 驗證狀態: ok
+
+```markdown
+<table>
+  <tr>
+    <th><p>序號</p></th>
+    <th><p>學號</p></th>
+    <th><p>姓名</p></th>
+    <th><p>年級/班別</p></th>
+    <th><p>系所</p></th>
+    <th><p>系所名稱(中)</p></th>
+    <th><p>系所名稱(英)</p></th>
+    <th><p>學分下限</p></th>
+    <th><p>已選學分</p></th>
+    <th><p>入學管道</p></th>
+  </tr>
+  <tr>
+    <td><p>1</p></td>
+    <td><p>1123612</p></td>
+    <td><p>陳O廷</p></td>
+    <td><p>3/A</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>2</p></td>
+    <td><p>1123625</p></td>
+    <td><p>王O銘</p></td>
+    <td><p>3/A</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>3</p></td>
+    <td><p>1133649</p></td>
+    <td><p>查O德</p></td>
+    <td><p>2/A</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>4</p></td>
+    <td><p>1143654</p></td>
+    <td><p>阮O英</p></td>
+    <td><p>1/A</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>8</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>5</p></td>
+    <td><p>1143658</p></td>
+    <td><p>阮O玉</p></td>
+    <td><p>1/A</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>8</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>6</p></td>
+    <td><p>1143823</p></td>
+    <td><p>朴O浩</p></td>
+    <td><p>1/A</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>7</p></td>
+    <td><p>1143833</p></td>
+    <td><p>傑O登</p></td>
+    <td><p>1/A</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>8</p></td>
+    <td><p>1111208</p></td>
+    <td><p>徐O緯</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>9</p></td>
+    <td><p>1111213</p></td>
+    <td><p>陳O儒</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>1</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>10</p></td>
+    <td><p>1111218</p></td>
+    <td><p>鄭O廷</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>11</p></td>
+    <td><p>1111228</p></td>
+    <td><p>李O欣</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>12</p></td>
+    <td><p>1111228</p></td>
+    <td><p>李O欣</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>2</p></td>
+    <td><p>1</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>13</p></td>
+    <td><p>1111235</p></td>
+    <td><p>劉O瑜</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>14</p></td>
+    <td><p>1111243</p></td>
+    <td><p>呂O柔</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>15</p></td>
+    <td><p>1111245</p></td>
+    <td><p>陳O容</p></td>
+    <td><p>4/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>16</p></td>
+    <td><p>1111249</p></td>
+    <td><p>言O元</p></td>
+    <td><p>1/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>17</p></td>
+    <td><p>1111304</p></td>
+    <td><p>林O哲</p></td>
+    <td><p>4/B</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>18</p></td>
+    <td><p>1111306</p></td>
+    <td><p>黃O韻</p></td>
+    <td><p>4/B</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>19</p></td>
+    <td><p>1111359</p></td>
+    <td><p>黃O程</p></td>
+    <td><p>4/B</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>9</p></td>
+    <td><p>1</p></td>
+    <td><p>大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>20</p></td>
+    <td><p>1121231</p></td>
+    <td><p>羅O期</p></td>
+    <td><p>3/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>21</p></td>
+    <td><p>1131236</p></td>
+    <td><p>莊O傑</p></td>
+    <td><p>2/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>16</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>22</p></td>
+    <td><p>1131255</p></td>
+    <td><p>温O玲</p></td>
+    <td><p>2/A</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>16</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>23</p></td>
+    <td><p>1113010</p></td>
+    <td><p>陳O芊</p></td>
+    <td><p>4/A</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>24</p></td>
+    <td><p>1113027</p></td>
+    <td><p>玉O明</p></td>
+    <td><p>4/A</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>25</p></td>
+    <td><p>1113033</p></td>
+    <td><p>游O均</p></td>
+    <td><p>4/A</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>26</p></td>
+    <td><p>1143016</p></td>
+    <td><p>陳O妘</p></td>
+    <td><p>1/A</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>27</p></td>
+    <td><p>1143022</p></td>
+    <td><p>吳O棋</p></td>
+    <td><p>1/A</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>28</p></td>
+    <td><p>1101036</p></td>
+    <td><p>蔡O叡</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>29</p></td>
+    <td><p>1103030</p></td>
+    <td><p>黃O涵</p></td>
+    <td><p>4/B</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>30</p></td>
+    <td><p>1111003</p></td>
+    <td><p>李O竑</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>1</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>31</p></td>
+    <td><p>1111005</p></td>
+    <td><p>陳O豪</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>32</p></td>
+    <td><p>1111006</p></td>
+    <td><p>李O達</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>33</p></td>
+    <td><p>1111014</p></td>
+    <td><p>張O薰</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>34</p></td>
+    <td><p>1111022</p></td>
+    <td><p>徐O陽</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>35</p></td>
+    <td><p>1111029</p></td>
+    <td><p>魏O棋</p></td>
+    <td><p>4/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>36</p></td>
+    <td><p>1111115</p></td>
+    <td><p>張O盛</p></td>
+    <td><p>4/B</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>37</p></td>
+    <td><p>1111136</p></td>
+    <td><p>吳O謙</p></td>
+    <td><p>4/B</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>38</p></td>
+    <td><p>1111137</p></td>
+    <td><p>張O愷</p></td>
+    <td><p>4/B</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>9</p></td>
+    <td><p>2</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>39</p></td>
+    <td><p>1121051</p></td>
+    <td><p>尚O𤪌</p></td>
+    <td><p>3/A</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>40</p></td>
+    <td><p>1113102</p></td>
+    <td><p>林O安</p></td>
+    <td><p>4/A</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>9</p></td>
+    <td><p>1</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>41</p></td>
+    <td><p>1113143</p></td>
+    <td><p>蘇O葳</p></td>
+    <td><p>4/A</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>42</p></td>
+    <td><p>1123157</p></td>
+    <td><p>沈O雯</p></td>
+    <td><p>3/A</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>13</p></td>
+    <td><p>寒假大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>43</p></td>
+    <td><p>1143149</p></td>
+    <td><p>呂O縈</p></td>
+    <td><p>1/A</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>44</p></td>
+    <td><p>1134413</p></td>
+    <td><p>吳O杰</p></td>
+    <td><p>2/A</p></td>
+    <td><p>320</p></td>
+    <td><p>淨零碳排永續發展學士後專班</p></td>
+    <td><p>Post-Baccalaureate Program for Carbon Zero Sustainable Development Preparatory Office</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>學士後專班</p></td>
+  </tr>
+  <tr>
+    <td><p>45</p></td>
+    <td><p>1134414</p></td>
+    <td><p>林O誠</p></td>
+    <td><p>2/A</p></td>
+    <td><p>320</p></td>
+    <td><p>淨零碳排永續發展學士後專班</p></td>
+    <td><p>Post-Baccalaureate Program for Carbon Zero Sustainable Development Preparatory Office</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>學士後專班</p></td>
+  </tr>
+  <tr>
+    <td><p>46</p></td>
+    <td><p>1111451</p></td>
+    <td><p>陳O諺</p></td>
+    <td><p>4/A</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>僑生獨招</p></td>
+  </tr>
+  <tr>
+    <td><p>47</p></td>
+    <td><p>1113311</p></td>
+    <td><p>李O霖</p></td>
+    <td><p>4/C</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>48</p></td>
+    <td><p>1121416</p></td>
+    <td><p>葉O妤</p></td>
+    <td><p>3/A</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>49</p></td>
+    <td><p>1121533</p></td>
+    <td><p>黃O恩</p></td>
+    <td><p>3/B</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>50</p></td>
+    <td><p>1123303</p></td>
+    <td><p>鄭O彤</p></td>
+    <td><p>3/C</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>51</p></td>
+    <td><p>1131453</p></td>
+    <td><p>黎O香</p></td>
+    <td><p>2/A</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>9</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>52</p></td>
+    <td><p>1131542</p></td>
+    <td><p>陳O辰</p></td>
+    <td><p>2/B</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>2</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>53</p></td>
+    <td><p>1133360</p></td>
+    <td><p>吳O恩</p></td>
+    <td><p>2/C</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>13</p></td>
+    <td><p>寒假大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>54</p></td>
+    <td><p>1141466</p></td>
+    <td><p>黎O仲</p></td>
+    <td><p>1/A</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>55</p></td>
+    <td><p>1103249</p></td>
+    <td><p>葉O桁</p></td>
+    <td><p>4/A</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>僑生/個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>56</p></td>
+    <td><p>1103626</p></td>
+    <td><p>周O維</p></td>
+    <td><p>4/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>57</p></td>
+    <td><p>1111841</p></td>
+    <td><p>廖O歆</p></td>
+    <td><p>4/A</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>58</p></td>
+    <td><p>1112021</p></td>
+    <td><p>李O宇</p></td>
+    <td><p>4/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>5</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>59</p></td>
+    <td><p>1112021</p></td>
+    <td><p>李O宇</p></td>
+    <td><p>4/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>5</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>60</p></td>
+    <td><p>1121826</p></td>
+    <td><p>高O妤</p></td>
+    <td><p>3/A</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>61</p></td>
+    <td><p>1122017</p></td>
+    <td><p>劉O妮</p></td>
+    <td><p>3/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>3</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>62</p></td>
+    <td><p>1131808</p></td>
+    <td><p>吳O彤</p></td>
+    <td><p>2/A</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>63</p></td>
+    <td><p>1132021</p></td>
+    <td><p>詹O瑋</p></td>
+    <td><p>2/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>64</p></td>
+    <td><p>1132037</p></td>
+    <td><p>任O寧</p></td>
+    <td><p>2/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>65</p></td>
+    <td><p>1142046</p></td>
+    <td><p>徐O惠</p></td>
+    <td><p>1/B</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>66</p></td>
+    <td><p>1111624</p></td>
+    <td><p>游O甯</p></td>
+    <td><p>4/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>67</p></td>
+    <td><p>1111625</p></td>
+    <td><p>賴O錡</p></td>
+    <td><p>4/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>68</p></td>
+    <td><p>1111643</p></td>
+    <td><p>傅O婷</p></td>
+    <td><p>4/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>69</p></td>
+    <td><p>1111706</p></td>
+    <td><p>簡O軒</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>70</p></td>
+    <td><p>1111727</p></td>
+    <td><p>任O恩</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>71</p></td>
+    <td><p>1111733</p></td>
+    <td><p>徐O儀</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>72</p></td>
+    <td><p>1111744</p></td>
+    <td><p>黃O綺</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>73</p></td>
+    <td><p>1111754</p></td>
+    <td><p>吳O嘉</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>74</p></td>
+    <td><p>1111757</p></td>
+    <td><p>鍾O玲</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>75</p></td>
+    <td><p>1111760</p></td>
+    <td><p>劉O綸</p></td>
+    <td><p>4/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>76</p></td>
+    <td><p>1121618</p></td>
+    <td><p>湯O安</p></td>
+    <td><p>3/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>77</p></td>
+    <td><p>1121632</p></td>
+    <td><p>趙O妤</p></td>
+    <td><p>3/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>78</p></td>
+    <td><p>1121637</p></td>
+    <td><p>游O碩</p></td>
+    <td><p>3/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>6</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>79</p></td>
+    <td><p>1121650</p></td>
+    <td><p>陳O均</p></td>
+    <td><p>3/A</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>80</p></td>
+    <td><p>1121712</p></td>
+    <td><p>王O儒</p></td>
+    <td><p>3/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>81</p></td>
+    <td><p>1121735</p></td>
+    <td><p>徐O庭</p></td>
+    <td><p>3/B</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>82</p></td>
+    <td><p>1123514</p></td>
+    <td><p>吳O彰</p></td>
+    <td><p>3/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>83</p></td>
+    <td><p>1123546</p></td>
+    <td><p>柏O孜</p></td>
+    <td><p>3/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>7</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>84</p></td>
+    <td><p>1123553</p></td>
+    <td><p>諾O吉</p></td>
+    <td><p>3/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>85</p></td>
+    <td><p>1123568</p></td>
+    <td><p>容O漢</p></td>
+    <td><p>3/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>86</p></td>
+    <td><p>1123581</p></td>
+    <td><p>吳O緯</p></td>
+    <td><p>3/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>87</p></td>
+    <td><p>1133543</p></td>
+    <td><p>高O哲</p></td>
+    <td><p>2/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>88</p></td>
+    <td><p>1143574</p></td>
+    <td><p>徐O鴻</p></td>
+    <td><p>1/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>89</p></td>
+    <td><p>1143582</p></td>
+    <td><p>穆O亞</p></td>
+    <td><p>1/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>90</p></td>
+    <td><p>1143583</p></td>
+    <td><p>黛O蒂</p></td>
+    <td><p>1/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>91</p></td>
+    <td><p>1143587</p></td>
+    <td><p>胡O盛</p></td>
+    <td><p>1/A</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>92</p></td>
+    <td><p>1110409</p></td>
+    <td><p>張O誠</p></td>
+    <td><p>4/B</p></td>
+    <td><p>312</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>93</p></td>
+    <td><p>1110543</p></td>
+    <td><p>劉O蒨</p></td>
+    <td><p>4/A</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>94</p></td>
+    <td><p>1110642</p></td>
+    <td><p>羅O熏</p></td>
+    <td><p>4/B</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>95</p></td>
+    <td><p>1110647</p></td>
+    <td><p>鄭O杰</p></td>
+    <td><p>4/B</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>96</p></td>
+    <td><p>1110748</p></td>
+    <td><p>江O宇</p></td>
+    <td><p>4/A</p></td>
+    <td><p>313</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>97</p></td>
+    <td><p>1120628</p></td>
+    <td><p>陳O妘</p></td>
+    <td><p>3/B</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>98</p></td>
+    <td><p>1120656</p></td>
+    <td><p>温O宇</p></td>
+    <td><p>3/B</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>99</p></td>
+    <td><p>1120677</p></td>
+    <td><p>陳O瑋</p></td>
+    <td><p>3/B</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>6</p></td>
+    <td><p>大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>100</p></td>
+    <td><p>1140413</p></td>
+    <td><p>潘O希</p></td>
+    <td><p>1/B</p></td>
+    <td><p>312</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>101</p></td>
+    <td><p>1140555</p></td>
+    <td><p>陳O陽</p></td>
+    <td><p>1/A</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>僑生分發/僑大先修班分發</p></td>
+  </tr>
+  <tr>
+    <td><p>102</p></td>
+    <td><p>1140577</p></td>
+    <td><p>裴O達</p></td>
+    <td><p>1/A</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>103</p></td>
+    <td><p>1113733</p></td>
+    <td><p>吳O益</p></td>
+    <td><p>4/A</p></td>
+    <td><p>310</p></td>
+    <td><p>電機通訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Electrical and Communication Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>104</p></td>
+    <td><p>1111668</p></td>
+    <td><p>板O風</p></td>
+    <td><p>4/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>105</p></td>
+    <td><p>1112217</p></td>
+    <td><p>黃O庭</p></td>
+    <td><p>4/A</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>106</p></td>
+    <td><p>1112223</p></td>
+    <td><p>胡O婷</p></td>
+    <td><p>4/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>107</p></td>
+    <td><p>1112304</p></td>
+    <td><p>吳O儀</p></td>
+    <td><p>4/B</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>108</p></td>
+    <td><p>1112315</p></td>
+    <td><p>吳O億</p></td>
+    <td><p>4/B</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>109</p></td>
+    <td><p>1112320</p></td>
+    <td><p>江O玟</p></td>
+    <td><p>4/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>5</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>110</p></td>
+    <td><p>1112334</p></td>
+    <td><p>陳O垂</p></td>
+    <td><p>4/B</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>111</p></td>
+    <td><p>1112423</p></td>
+    <td><p>林O瑄</p></td>
+    <td><p>4/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>112</p></td>
+    <td><p>1112434</p></td>
+    <td><p>蔣O晏</p></td>
+    <td><p>4/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>113</p></td>
+    <td><p>1112526</p></td>
+    <td><p>李O慈</p></td>
+    <td><p>4/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>114</p></td>
+    <td><p>1112531</p></td>
+    <td><p>黃O秦</p></td>
+    <td><p>4/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>115</p></td>
+    <td><p>1112535</p></td>
+    <td><p>蘇O嫻</p></td>
+    <td><p>2/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>116</p></td>
+    <td><p>1112541</p></td>
+    <td><p>許O甄</p></td>
+    <td><p>4/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>4</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>117</p></td>
+    <td><p>1112610</p></td>
+    <td><p>葉O妤</p></td>
+    <td><p>4/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>118</p></td>
+    <td><p>1112614</p></td>
+    <td><p>羅O妤</p></td>
+    <td><p>4/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>119</p></td>
+    <td><p>1112615</p></td>
+    <td><p>郭O濬</p></td>
+    <td><p>4/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>120</p></td>
+    <td><p>1112701</p></td>
+    <td><p>鄭O甫</p></td>
+    <td><p>4/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>2</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>121</p></td>
+    <td><p>1112702</p></td>
+    <td><p>辛O庭</p></td>
+    <td><p>4/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>122</p></td>
+    <td><p>1112738</p></td>
+    <td><p>熊O翎</p></td>
+    <td><p>4/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>123</p></td>
+    <td><p>1112743</p></td>
+    <td><p>黃O瑩</p></td>
+    <td><p>4/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>124</p></td>
+    <td><p>1112765</p></td>
+    <td><p>張O欣</p></td>
+    <td><p>3/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>125</p></td>
+    <td><p>1112768</p></td>
+    <td><p>譚O如</p></td>
+    <td><p>4/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>126</p></td>
+    <td><p>1112825</p></td>
+    <td><p>江O諺</p></td>
+    <td><p>4/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>127</p></td>
+    <td><p>1112833</p></td>
+    <td><p>趙O涵</p></td>
+    <td><p>4/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>128</p></td>
+    <td><p>1122613</p></td>
+    <td><p>李O葳</p></td>
+    <td><p>3/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>129</p></td>
+    <td><p>1129928</p></td>
+    <td><p>曾O宸</p></td>
+    <td><p>3/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>130</p></td>
+    <td><p>1132319</p></td>
+    <td><p>陳O瑩</p></td>
+    <td><p>2/B</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>131</p></td>
+    <td><p>1132526</p></td>
+    <td><p>蔣O妤</p></td>
+    <td><p>2/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>132</p></td>
+    <td><p>1132619</p></td>
+    <td><p>范O宸</p></td>
+    <td><p>2/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>133</p></td>
+    <td><p>1132627</p></td>
+    <td><p>陳O文</p></td>
+    <td><p>2/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>134</p></td>
+    <td><p>1132850</p></td>
+    <td><p>劉O凡</p></td>
+    <td><p>2/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>135</p></td>
+    <td><p>1142201</p></td>
+    <td><p>高O瑩</p></td>
+    <td><p>1/A</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>136</p></td>
+    <td><p>1142234</p></td>
+    <td><p>萌O克</p></td>
+    <td><p>1/A</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>運動績優生/單獨招生</p></td>
+  </tr>
+  <tr>
+    <td><p>137</p></td>
+    <td><p>1142406</p></td>
+    <td><p>王O源</p></td>
+    <td><p>1/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>138</p></td>
+    <td><p>1142420</p></td>
+    <td><p>楊O勻</p></td>
+    <td><p>1/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>9</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>139</p></td>
+    <td><p>1142430</p></td>
+    <td><p>葉O澤</p></td>
+    <td><p>1/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>140</p></td>
+    <td><p>1142440</p></td>
+    <td><p>房O鳳</p></td>
+    <td><p>1/C</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>運動績優生/單獨招生</p></td>
+  </tr>
+  <tr>
+    <td><p>141</p></td>
+    <td><p>1142551</p></td>
+    <td><p>廖O勛</p></td>
+    <td><p>1/D</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>142</p></td>
+    <td><p>1142654</p></td>
+    <td><p>黎O花</p></td>
+    <td><p>1/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>143</p></td>
+    <td><p>1142655</p></td>
+    <td><p>黎O線</p></td>
+    <td><p>1/E</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>144</p></td>
+    <td><p>1142744</p></td>
+    <td><p>陳O杰</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>145</p></td>
+    <td><p>1142745</p></td>
+    <td><p>魯O成</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>146</p></td>
+    <td><p>1142834</p></td>
+    <td><p>高O琳</p></td>
+    <td><p>1/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>147</p></td>
+    <td><p>1142838</p></td>
+    <td><p>林O瑤</p></td>
+    <td><p>1/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>運動績優生/單獨招生</p></td>
+  </tr>
+  <tr>
+    <td><p>148</p></td>
+    <td><p>1142843</p></td>
+    <td><p>曾O琁</p></td>
+    <td><p>1/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>149</p></td>
+    <td><p>1142849</p></td>
+    <td><p>王O驊</p></td>
+    <td><p>1/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>4</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>150</p></td>
+    <td><p>1142858</p></td>
+    <td><p>許O嘉</p></td>
+    <td><p>1/F</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>151</p></td>
+    <td><p>1149655</p></td>
+    <td><p>艾O森</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>152</p></td>
+    <td><p>1149659</p></td>
+    <td><p>胡O柯</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>153</p></td>
+    <td><p>1149660</p></td>
+    <td><p>阮O玲</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>154</p></td>
+    <td><p>1149662</p></td>
+    <td><p>阮O玲</p></td>
+    <td><p>1/G</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>155</p></td>
+    <td><p>1149943</p></td>
+    <td><p>羅O鍹</p></td>
+    <td><p>1/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>156</p></td>
+    <td><p>1149947</p></td>
+    <td><p>陳O琪</p></td>
+    <td><p>1/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>12</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>157</p></td>
+    <td><p>1149952</p></td>
+    <td><p>阮O香</p></td>
+    <td><p>1/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>158</p></td>
+    <td><p>1149953</p></td>
+    <td><p>武O英</p></td>
+    <td><p>1/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>159</p></td>
+    <td><p>1149954</p></td>
+    <td><p>阮O娟</p></td>
+    <td><p>1/I</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>16</p></td>
+    <td><p>0</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>160</p></td>
+    <td><p>1110841</p></td>
+    <td><p>高O宏</p></td>
+    <td><p>4/A</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>7</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>161</p></td>
+    <td><p>1110911</p></td>
+    <td><p>張O毅</p></td>
+    <td><p>4/B</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>162</p></td>
+    <td><p>1110921</p></td>
+    <td><p>區O科</p></td>
+    <td><p>4/B</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>9</p></td>
+    <td><p>3</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>163</p></td>
+    <td><p>1120839</p></td>
+    <td><p>楊O軒</p></td>
+    <td><p>3/A</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>164</p></td>
+    <td><p>1120843</p></td>
+    <td><p>陳O恩</p></td>
+    <td><p>3/A</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>7</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>165</p></td>
+    <td><p>1120963</p></td>
+    <td><p>何O擎</p></td>
+    <td><p>3/B</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學轉學考</p></td>
+  </tr>
+  <tr>
+    <td><p>166</p></td>
+    <td><p>1130939</p></td>
+    <td><p>劉O承</p></td>
+    <td><p>2/B</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>167</p></td>
+    <td><p>1130955</p></td>
+    <td><p>凌O檠</p></td>
+    <td><p>2/B</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>16</p></td>
+    <td><p>11</p></td>
+    <td><p>運動績優生/單獨招生</p></td>
+  </tr>
+  <tr>
+    <td><p>168</p></td>
+    <td><p>1110451</p></td>
+    <td><p>荒O明</p></td>
+    <td><p>4/A</p></td>
+    <td><p>601</p></td>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>169</p></td>
+    <td><p>1112917</p></td>
+    <td><p>蔡O芬</p></td>
+    <td><p>4/A</p></td>
+    <td><p>601</p></td>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>170</p></td>
+    <td><p>1112930</p></td>
+    <td><p>衛O宜</p></td>
+    <td><p>4/A</p></td>
+    <td><p>601</p></td>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>9</p></td>
+    <td><p>0</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>171</p></td>
+    <td><p>1112941</p></td>
+    <td><p>阮O蓉</p></td>
+    <td><p>4/A</p></td>
+    <td><p>601</p></td>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>9</p></td>
+    <td><p>6</p></td>
+    <td><p>外國學生申請入學</p></td>
+  </tr>
+  <tr>
+    <td><p>172</p></td>
+    <td><p>1113216</p></td>
+    <td><p>梁O媞</p></td>
+    <td><p>4/A</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>9</p></td>
+    <td><p>8</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>173</p></td>
+    <td><p>1123208</p></td>
+    <td><p>黃O雅</p></td>
+    <td><p>3/A</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>16</p></td>
+    <td><p>15</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>174</p></td>
+    <td><p>1123232</p></td>
+    <td><p>蔡O妮</p></td>
+    <td><p>3/A</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>16</p></td>
+    <td><p>13</p></td>
+    <td><p>大學甄選入學繁星推薦</p></td>
+  </tr>
+  <tr>
+    <td><p>175</p></td>
+    <td><p>1123240</p></td>
+    <td><p>莊O茹</p></td>
+    <td><p>3/A</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>16</p></td>
+    <td><p>6</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>176</p></td>
+    <td><p>1133220</p></td>
+    <td><p>邱O騏</p></td>
+    <td><p>2/A</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>177</p></td>
+    <td><p>1134006</p></td>
+    <td><p>賴O蓁</p></td>
+    <td><p>2/A</p></td>
+    <td><p>A11</p></td>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+  <tr>
+    <td><p>178</p></td>
+    <td><p>1134017</p></td>
+    <td><p>宋O璇</p></td>
+    <td><p>2/A</p></td>
+    <td><p>A11</p></td>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學甄選入學個人申請</p></td>
+  </tr>
+  <tr>
+    <td><p>179</p></td>
+    <td><p>1144046</p></td>
+    <td><p>陳O新</p></td>
+    <td><p>1/A</p></td>
+    <td><p>A11</p></td>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>16</p></td>
+    <td><p>14</p></td>
+    <td><p>大學考試入學</p></td>
+  </tr>
+</table>
+```
+
+<!-- OCR_END -->
+
+
+---

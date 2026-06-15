@@ -1,0 +1,150 @@
+﻿# 網站文章資料_113學年度上學期學生汽車識別優惠通行申請時程_236
+
+## 一、文章基本資料
+
+- **文章ID**: 236
+- **文章標題**: 113學年度上學期學生汽車識別優惠通行申請時程
+- **文章網址**: https://www.yzu.edu.tw/admin/ga/index.php/tw/113-1
+- **文章簡介**: 各位同學好！
+
+本校自113學年度起將正式推動入校汽車停車收費。
+擬申請113學年度上學期(113/08/01-114/01/31)汽車識別優惠通行許可者，請先行上網填妥申請資料並列印申請表。
+於下列統一辦理期間，請攜申請表並貼妥相關證件影本至五館1樓聯合服務櫃檯辦理。
+
+辦理程序：
+
+(1)上網 ( http://140.138.35.130/GeneralOffice/park/ ) 填妥汽車識別許可申請表印出簽名，並貼妥駕照、行照影本。
+
+
+
+(2)至五館1樓聯合服務櫃檯（臨時櫃台），由受理單位收件核對、登錄資料。
+
+(3)申請人完成繳費。
+
+(4)受理單位完成汽車識別許可登錄，3日後生效。
+
+ 
+
+聯合服務櫃檯現場收費時間規劃如下：
+
+ 
+
+非於上述收費時間辦理者，請於週一至週五上班時間，先與總務處警衛隊劉逢相先生聯繫辦理時間（03-4638800分機2261），俾便配合辦理。
+
+備註：
+
+1、本次所辦停車優惠許可使用時間為113/08/01～114/01/31，逾期自動失效 。
+
+2、學生每人限辦1車，請備妥相關資料及現金：一般生4,400元、在職碩專班及延修生3,000元，可託人代為繳費辦理。
+
+3、入校車輛相關規範及收費標準請詳參車輛管理辦法及車輛停放收費標準。
+
+ 
+
+總務處 敬啟 113.06.14公告
+- **文章全文**: 
+- **文章更新日期**: 2024/6/14 上午 04:08:20
+- **文章發表日期**: 2024/6/14 上午 03:58:59
+- **文章點擊數**: 1767
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: http://140.138.35.130/GeneralOffice/park/
+- **2. [超連結（網站）]**: https://www.yzu.edu.tw/admin/so/files/regulations/e/1-39.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=ec201662ddccc10d -->
+#### OCR 2: https://www.yzu.edu.tw/admin/so/files/regulations/e/1-39.pdf
+
+- 關聯類型: 超連結（網站）
+- 本機檔案: admin/so/files/regulations/e/1-39.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ec201662ddccc10d_1-39.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1493
+- 驗證狀態: ok
+
+```markdown
+## 元智大學校本部校區車輛管理辦法
+
+113.03.13 112 學年度第 2 次總務會議通過
+
+113.10.11 113 學年度第 1 次總務會議修訂通過
+
+115.03.04 114 學年度第 1 次總務會議修訂通過
+
+<table><tr><td>第二條</td><td>第一條　本校為維持校區交通安全、校區寧靜、環境景觀、停車秩序，特訂定本辦法。 本辦法定義車輛包括汽車、機車、腳踏車、電動滑板車。 進入本校區之汽車以車牌辨識通行，並採計時收費，收費標準另訂之。具優惠</td></tr><tr><td>第三條</td><td>通行身分者，專任教職員工及校內進駐營業廠商最多得申辦2輛汽車，其餘身 分者限申辦1輛·申辦優惠通行類別者進入校門左側之A區停車場（以下簡稱 A區停車場）停車，停放車輛不另計時收費。一般生汽車限停放A區停車場， 倘進入主校區則另依一般計時收費費率繳交停車費。 專任教職員工、校內進駐營業廠商以及具有公立醫院診斷證明不良於行的學生</td></tr><tr><td></td><td>之機車得經申請獲准後入校，送餐機車得換證入校，其他機車不得駛入校區。 機車識別證應貼放於機車正前方明顯識別處，並禁止將機車識別證借予或轉讓 他人使用。送餐機車應遵循本校公告之時段、路徑及地點送餐，滯留校區以30 分鐘為限。</td></tr><tr><td>第四條 第五條</td><td>公務任務明顯車輛得經校門警衛查明後免收費出校，包括郵務車、電信修護 車、消防車救護車、警車垃圾車清潔車、台電電力公務車、快遞貨車 工程工務車等。 入校車輛應遵守道路交通安全規則，不得違反道路交通管理處罰條例各違規事</td></tr><tr><td></td><td>項，並應停放於指定之停車場或停車格（架）。符合前條特殊車輛於工作期間 得停放於不妨礙交通之工作地點，不受停車格或地點限制。停放專用停車格 （無障礙專用、其他專用車位）應於車輛明顯處置放相關證明。 第六條佔遇本校主辦活動日，得限定時段開放車輛自由進出校門或採當日計次收費。 第七條 駛入校區車輛應依規定速限行駛（校區30公里，宿舍區20公里以內）。</td></tr><tr><td></td><td>騎乘腳踏車行至本校下坡路段，禁止俯衝與逆向騎乘。 電動滑板車騎乘以主校區紅磚道、環校道路為主要行駛路線，騎乘於環校道路 應行駛道路右側。騎乘者應遵守電動滑板車使用規範，放慢騎乘速度、禮讓行 人。嚴禁多人共乘、花式騎乘、逆向、俯衝而行。 元智六、七館地下室停車場限教職員工車輛停放，廠商送貨車輛為搬運卸貨得 臨時停放；第三宿舍地下室限教職員工車輛及校內進駐營業廠商停車。 連續假期及颱風期間，停車場於公告關閉時間內不受理臨時開放進出。 校區內禁止洗車。</td></tr><tr><td>第八條</td><td>掛有監理單位核發牌照之電力輔助車輛，依汽、機車相關規定辦理。外觀樣式 與一般腳踏車相似（有腳踏板鍊條可人力傳動者），依腳踏車相關規定管理；外 觀樣式與一般機車相似（無腳踏板鍊條可人力傳動者），依機車相關規定管理。 第九條　違規車輛，本校得鎖車、移置或憑錄影照相紀錄逕行開立違規告發單予以取</td></tr></table>
+
+締，並收取違規處理費：汽車500元，機車 300元，腳踏車100 元。三次違規
+
+者列為黑名單禁止入校；肇事車輛移送警察局處理。
+
+第十條 校區內久未移動之車輛，經通知車主或公告期間未再移動者，視同無主車輛處理。
+
+第十一條 本辦法經總務會議通過後公布實施，修正時亦同。
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（網站）]**: https://www.yzu.edu.tw/admin/so/files/regulations/e/1-40.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=526a97b6d78a93a3 -->
+#### OCR 3: https://www.yzu.edu.tw/admin/so/files/regulations/e/1-40.pdf
+
+- 關聯類型: 超連結（網站）
+- 本機檔案: admin/so/files/regulations/e/1-40.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/526a97b6d78a93a3_1-40.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2365
+- 驗證狀態: ok
+
+```markdown
+# 元智大學校本部校區車輛停放收費標準
+
+113.05.08 112 學年度第 18 次行政會議通過
+
+113.09.25 113 學年度第 3 次行政會議修訂通過
+
+114.12.31 114 學年度第 11 次行政會議修訂通過
+
+一、依本校校本部校區車輛管理辦法需求，訂定本標準。
+
+## 二、校本部校區汽車停放一般計時收費費率：
+
+入校半小時內離校免費，若入校汽車未在半小時內離校，前半小時時段仍須一併計費。繳費後30分鐘內應出校，每日最高收費 240元（每日凌晨零時換日計算）。
+
+週一至週五（不含例假日）08:00\~18:00：每半小時收費 15元，如未逾 30分鐘以半小時計算。
+
+除前條以外之其他時段（含例假日）：每半小時收費 10元，如未逾 30分鐘以半小時計算。
+
+凡經本校公告採計次收費之日期，入校半小時內離校免費，逾時當日每次收費50元。
+
+## 三、符合以下類別條件者，得依各優惠內容申辦汽車入校：
+
+<table><tr><td rowspan=1 colspan=2>優惠通行類別</td><td rowspan=1 colspan=1>申辦費用（新台幣）</td><td rowspan=1 colspan=1>適用期間</td><td rowspan=1 colspan=1>優惠内容</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>專任教職員工/榮譽退休教授/榮譽教授</td><td rowspan=1 colspan=1>免</td><td rowspan=1 colspan=1>任職期間</td><td rowspan=1 colspan=1>進入主校區每次停車48小時內免費（車主應為本人、配偶或直系血親），逾時應另依一般計時收費費率繳交停車費或停放至A區停車場，停放A區停車場不另計時收費。若有特殊情況停放非規定車主之車輛，得向警衛隊申請限期停放。</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>一般生</td><td rowspan=1 colspan=1>3,500</td><td rowspan=1 colspan=1>1學期</td><td rowspan=1 colspan=1>限停放A區停車場，進入主校區應另依一般計時收費費率繳交停車費</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>兼任教師</td><td rowspan=1 colspan=1>免</td><td rowspan=1 colspan=1>1學期</td><td rowspan=4 colspan=1>進入主校區每次停車24小時內免費，逾時應另依一般計時收費費率繳交停車費或停放至A區停車場，停放A區停車場不另計時收費。</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>在職專班/延修生</td><td rowspan=1 colspan=1>3,000</td><td rowspan=1 colspan=1>1學期</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>校內進駐營業廠商/協力廠商</td><td rowspan=1 colspan=1>4,400</td><td rowspan=1 colspan=1>1學期</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>短期課程/休閒中心學員</td><td rowspan=1 colspan=1>1,200</td><td rowspan=1 colspan=1>1個月</td></tr></table>
+
+四、非前條優惠通行類別者進入 A區停車場停車，應依一般計時收費費率繳交停車費。與本校簽有校際互惠合約者依約辦理。校友經申請核准者及本校退休教職人員得享有進入主校區每次停車4小時內免費，逾時應另依一般計時收費費率繳交停車費或停放至 A區停車場，停放 A 區停車場不另計時收費，捐贈者另依本校致謝規定給予優惠，以上特定身分者由公共事務暨校友服務中心與人事室造冊提出申請。
+
+本校退休教師在研究室使用禮遇期間（退休後半年內），車輛入校停放依專任教職員工優惠內容辦理。
+
+五、申辦優惠通行繳費後有異議者得申辦退費，並限繳費後 14日內辦理，逾期不予退費。因不可抗力因素擬申辦退費，請檢附證明及原繳費發票，按已使用期間扣減金額，辦理餘額退費。
+
+六、本校各單位辦理活動邀請貴賓/講員若需提供停車優惠，應由邀請單位自行代為繳費，或於活動舉行前向警衛隊預購停車抵用券。各單位有全校性公務目的之來賓車輛，得於三日前向警衛隊提出洽公車輛申請與登錄，經審核通過得免費停放。
+
+舉辦校級重要活動當日開放車輛免費停放校園，活動包括：校慶日、畢業典禮、經學校核定之大型活動等。
+
+各院、系辦理學術研討會或自行舉辦畢業典禮、校友聯誼會、家長日活動，參加人員停車需求達30輛以上者，得預訂半日 5小時50 元／全日10小時100元之計次收費停車折抵券，會後依規定結算，此券限活動當日有效。
+
+七、以上各類收費數額悉數納入本校收入，專款專用規劃作為改善校內交通及停車管理之各項措施用途。
+
+八、本收費標準經行政會議通過後實施，修正時亦同。
+```
+
+<!-- OCR_END -->
+
+- **4. [圖片]**: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIUAAACFCAYAAAB12js8AAAAAXNSR0ICQMB9xQAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAACFLSURBVHja7Z0DlOzK88effZ9t27Zt2/fZtm3eZ9u2bdu2bczv/8k5vafznZ5Ud5KZ3f2/rXPqZu+k00qlurrUAzX6oA88OPDAAwcaqG8a+qCPKPqgjyj6oAai+Oabbxq3335744477ugY3nbbbY3PP/+8sLPffvtt1i+Q8vfdd1/jjz/+qDQBP//8c+Ouu+7qqpe/+c2Hl156qXHrrbdm/eT6xhtv5O5/99132T1XR6hfTz31VNZnV8d7772Xu//ZZ5913e8U0lfedRRR0OmB/u/nTuMll1xS+ALvvPPOXPmRRhopm8wq8OKLLzb1AyLwYeWVV87d32abbXL377333tz94YcfvvHxxx/nysw999y5MgcffHDuPmPvjjmHEKOIAirqjg5efvnlhS/w7rvvzpUfY4wxGl988UUlonjllVcagw8+eFed/M1vPqy55pq5dnfYYYfc/fvvvz93f5RRRml88sknuTILLLBArswRRxyRu3/FFVd0y5zzoUURBSy0JxLFww8/nCs/5phjmkuOBXAF7cebb76ZK7Puuuvm7u+66665+4888kjufr9+/ZqIYqGFFsqVOfLII3P3GXuPJgpl04MMMkhjrLHGaow33niNcccdtxYcZ5xxGoMNNlghUfz444/Z2vvhhx9mk3zllVc2EYVyCv7//vvvZ88oUpeuoa+//npjggkmyPoD8vcDDzzQ+Oijj7ra1eVj0003bXz66afZfcrddNNNXWMae+yxG9NNN10TsVpEoZyCuaG+uuabd8c75F367bAqlFo+GCjCFRP61VdfVcavv/46m9TJJ5881w4T48Nxxx2Xrc8jjzxyY9RRR82+QItTLLnkko0RRhghe0aR3/v3758r//fff2f9+fLLL7O+IaPMMcccmbzi2h1yyCFz7Q411FDZ79yn3GKLLdY1Nuphnv75559cOwsuuGASp2BuIEj6Vsec0yc4IO+yFk4BpfHV1gm8jCmmmKKQKA477LBC1hciijnnnLPwmdVWW83s22STTZbEghEiLUhdPpgb5qhO+OGHH7J3WYoolFPAxvgC6oRff/21iVPo8oEwVvQyYId8ST7MP//8hc+sscYahf36/fffm4jVwnnmmccc78ILL5y0fNAH5qhOgGMop4hePpRTdBdRWJwCotB+qZSfShS//fZbjyAK5uaXX36pdc6ZK95lLTJFiCg23njjxqyzztqYa665TKTc2muv3fjzzz+7nmfAlkzBXp8dB9I9yp9TTjklV57tI3XDvl1byCB+me23377x9NNPZ3U8+OCDTYonBWSBZ599tvHQQw9lzzz55JOZzODXyRaV37lPOdVrwL2WXnrpxuyzz97VL+SZVJnC5xR//fVXNocpc67yU4goSssUIaKYccYZk76miSaaKKflY8CWTKHw+OOPJ2+5IKSqsP766+fq3H333QvLI0QPN9xwhf1KJQqWtYknnjhp7Lyj2jhFDFGohs5Ctmk+UYQ4haWnuOeee5KJ4thjj61MFGuttVah8kqBbTFLWwpRWMsHc8ccVhGAK3GKmOWDdTSlg9NOO625fFhEAcvuDqJYbrnlmpakImBHxM6oqF8HHHCASRQ+pyhDFCrr9HhOERLolCgw2GyxxRaNrbfeOvs6V1xxxSYbw+GHH54tEQMGDMiuk0wySSFRsARtueWWWZ2KW221VWPbbbdtslswcehMaOOkk05i0rJyPENdxxxzTBOnUKLYbrvtGqeddlpWB3Uh57SbKHo8p4hZPlSm2H///QvrpF8+9wlJ+UoUZ599ttnXF154oZATHH/88bny008/fe4+CjAlCiUChZBMUXX56HWcIoYojjrqqGTl1XzzzVdIFBdffHFhnWgv1SBmEQVtWpwCeajTRNHrOEXM8mFximGGGaZpLz/LLLMUEkWMNdLiFIccckiuPNs/H9gpqJLIIgpLefWf5RRKFBiakPzZEiqut956mWHqjDPOaJx77rmN8847r3H++edna71fDr8F7rkySP2h+kCsoRtttFFm5CoC/E1cv+gH8gJt08YFF1yQyR0jjjhiJaLolZyiO7akCujyhx122FwdCJI+7LTTTsm2j1R44oknzPF3B1H0Ok5RRnmlgEA32mij5erA7O3DjjvumLvPF1430GZVoggZxHrd7mOmmWZK6iBbxVRB0wI0hxZRsM307+MbUTfEKNVCk58iaCKn6HbbQt5RbUQRwynWWWedTCHFdsxCyqFjSF0+kOKfeeaZTPDDHvHWW2+Z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
+- **5. [圖片]**: images/113-1辦證時程.png
+
+---

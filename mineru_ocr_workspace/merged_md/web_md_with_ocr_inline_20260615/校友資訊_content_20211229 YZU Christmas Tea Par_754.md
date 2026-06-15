@@ -1,0 +1,127 @@
+﻿# 網站文章資料_20211229 YZU Christmas Tea Party_754
+
+## 一、文章基本資料
+
+- **文章ID**: 754
+- **文章標題**: 20211229 YZU Christmas Tea Party
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20211229-2
+- **文章簡介**: YZU Christmas Tea Party
+
+Date：2021/12/29
+
+Location：YZU Building 6
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2021/12/29 上午 10:20:28
+- **文章點擊數**: 788
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: files/Latest_News/20211229-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=1a428cf340b81848 -->
+#### OCR 1: files/Latest_News/20211229-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/Latest_News/20211229-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1a428cf340b81848_20211229-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 17
+- 驗證狀態: ok
+
+```markdown
+## 元智大学感恩茶会
+
+2021
+```
+
+<!-- OCR_END -->
+
+- **2. [圖片]**: ../admin/pr/images/20211229-4.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=1bddb0c1283cd25b -->
+#### OCR 2: ../admin/pr/images/20211229-4.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20211229-4.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1bddb0c1283cd25b_20211229-4.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/325c3eb0dc90c0ae75d276c0e8d20dc89b1a945e5350b3df57c147630ae6a6a2.jpg)
+```
+
+<!-- OCR_END -->
+
+- **3. [圖片]**: ../admin/pr/images/20220103-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=af498b40f154ca70 -->
+#### OCR 3: ../admin/pr/images/20220103-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20220103-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/af498b40f154ca70_20220103-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 98
+- 驗證狀態: ok
+
+```markdown
+![](images/df7e7cb66325a3a46d21e235e4ff22bba7d2a4927d385db10d70a83ade707ed0.jpg)
+
+# 元智大学感恩茶会
+
+2021
+```
+
+<!-- OCR_END -->
+
+- **4. [圖片]**: ../admin/pr/images/20220103-4.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=b05b7792f90e1c82 -->
+#### OCR 4: ../admin/pr/images/20220103-4.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20220103-4.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/b05b7792f90e1c82_20220103-4.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/92f30a3839054e5c06cb4b7c2b5a8c49ea39dcd939aa83e5485e8a1d5a834e55.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: https://lh3.googleusercontent.com/4r_07CpUFDnNiu1JI5V3OE85yajW9YjJJKDXt8mrMTxYdVc0xqiKWFrpWLCs701Hsz8q4WtAiflnhjjTxBAg8qQopQHP9xokQC1FYRH8isZGQN8hBydSGKNPp3bVio_oE9ENlbNVBG4kFi0z5B8WCgf7B-C0XJjEJhUhp_F2mDJ9zwPn9o7tpqGa8jZwRglHW6sFz6l3WSFc43BUXlhVF5iBOifKsiIQ9H1Z0FMGohSOyq3289pCaR-fA_S_Zqk5DflyIze4pXJ799UveHS7uaxEYq5a_lq7kQd7g1w8bubQjNigNjfsfB2vqahFis2p_odhcFk_Ur1BircnA2bNeqt0i-ulXewsoQqSCDOV-iEK7f0o_u1c1D8p7am-GQMCrcRyK4ww_OnyraYN0yU3zIEJbJ0eg1PSAqhUhJ87xVJ_5Eh73SzNYvR1g9RpGQN0_xGlOqtV55ItGxmQKLBeFm02BFyI7ZBxGrLFoxfMvSSOiGQ08NFsfPV73uCosfWfxm141rRlZ8XuZSkP5bZHqfszHsz5eHhAOVDgy9eiE6kYcb75jChpeLk6svuSHxKIXC6CoeNOvCrPF3G1g1oCd0eMPPkl04m5ifTwV2mh2zep_e02k_yQVKlCPwQ-H7P4aZSl3ThQFvuJpx6Bv7jv3FtLiGA6ocjzXyyULEmswZCLENT8RJlTgKlIOGxORtXEWLPD8OopPaULA6VhFEOlnbpDbA=w1562-h1171-no?authuser=0
+- **6. [圖片]**: files/Latest_News/20211229.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=b66f50addfa4e26c -->
+#### OCR 6: files/Latest_News/20211229.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/Latest_News/20211229.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/b66f50addfa4e26c_20211229.md
+- OCR 狀態: completed_cached
+- OCR 字數: 17
+- 驗證狀態: ok
+
+```markdown
+## 元智大学感恩茶会
+
+2021
+```
+
+<!-- OCR_END -->
+
+
+---

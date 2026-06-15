@@ -1,0 +1,107 @@
+﻿# 網站文章資料_工學院碩博士國際專班(International Students on M.S. and Ph.D. Degrees)_133
+
+## 一、文章基本資料
+
+- **文章ID**: 133
+- **文章標題**: 工學院碩博士國際專班(International Students on M.S. and Ph.D. Degrees)
+- **文章網址**: https://www.yzu.edu.tw/admissions/index.php/tw/
+- **文章簡介**: 
+- **文章全文**: 生物科技學程(Biotechnology and Bioengineering Program for International Students on M.S. and Ph.D. Degrees) download
+
+
+    
+能源工程學程(Energy Engineering Program for International Students on M.S. and Ph.D. Degrees ) download
+- **文章更新日期**: 2010/6/24 下午 03:33:21
+- **文章發表日期**: 2009/8/26 下午 03:21:15
+- **文章點擊數**: 2514
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: http://www.cg.yzu.edu.tw/yzucg/index.php?option=com_content&amp;task=view&amp;id=112&amp;Itemid=117
+- **2. [超連結（網站）]**: http://www.yzu.edu.tw/admissions/files/Foreign%20Students/Biotechnology%20and%20Bioengineering%20Program%20for%20International%20Students%20on%20M_S_%20and%20Ph_D_%20Degrees.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=3db74d3b57b9da72 -->
+#### OCR 2: http://www.yzu.edu.tw/admissions/files/Foreign%20Students/Biotechnology%20and%20Bioengineering%20Program%20for%20International%20Students%20on%20M_S_%20and%20Ph_D_%20Degrees.pdf
+
+- 關聯類型: 超連結（網站）
+- 本機檔案: admissions/files/Foreign Students/Biotechnology and Bioengineering Program for International Students on M_S_ and Ph_D_ Degrees.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/3db74d3b57b9da72_Biotechnology_and_Bioengineering_Program_for_International_Students_on_M_S__and.md
+- OCR 狀態: completed_cached
+- OCR 字數: 7233
+- 驗證狀態: ok
+
+```markdown
+# Biotechnology and Bioengineering Program for International Students on M.S. and Ph.D. Degrees (Apply to the Students Admitted from Fall 2009 Onward) College of Engineering, YZU
+
+Passed on 2009.04.08 (97-05) by College Faculty & Course Design Committees Passed on 2009.04.22 (97-05) by University Academic Affair Committees
+
+## 1. Course Offerings:
+
+<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CourseCode</td><td rowspan=1 colspan=1>Course Title(in English)</td><td rowspan=1 colspan=1>Course Title(in Chinese)</td><td rowspan=1 colspan=1>Number of CreditsAwarded</td><td rowspan=1 colspan=1>Instructor</td><td rowspan=1 colspan=1>Note</td></tr><tr><td rowspan=4 colspan=1>CoreCourses</td><td rowspan=1 colspan=1>BI507</td><td rowspan=1 colspan=1>Special Tocnol</td><td rowspan=1 colspan=1>微生物學特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-C. Chien (簡志青)</td><td rowspan=4 colspan=1>(Students arerequired totake at leasttwo coursesfrom these)</td></tr><tr><td rowspan=1 colspan=1>BI522</td><td rowspan=1 colspan=1>Bioprocess Engineering</td><td rowspan=1 colspan=1>生物程序工程</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>S.-Y. Chen (陳姍)</td></tr><tr><td rowspan=1 colspan=1>BI547</td><td rowspan=1 colspan=1>Introduction to Bioenergy</td><td rowspan=1 colspan=1>生質能源概論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Y.-H. Wei (魏毓宏)</td></tr><tr><td rowspan=1 colspan=1>BI552</td><td rowspan=1 colspan=1>Biochemical Engineering</td><td rowspan=1 colspan=1>生化工程學</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>S.-Y. Chen (陈姍)</td></tr><tr><td rowspan=7 colspan=1>ElectiveCourses</td><td rowspan=1 colspan=1>BI504</td><td rowspan=1 colspan=1>Special Topics in Biochemistry</td><td rowspan=1 colspan=1>生物化學特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>P.-C. Su (蘇伯琦)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>B1506</td><td rowspan=1 colspan=1>Molecular Biology</td><td rowspan=1 colspan=1>分子生物學</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>P.-C.Su (蘇伯琦)</td><td rowspan=1 colspan=1>(Offered everyother year)</td></tr><tr><td rowspan=1 colspan=1>BI511</td><td rowspan=1 colspan=1>Special Toicdstries</td><td rowspan=1 colspan=1>生物技術產業特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Y.-H. Wei (魏毓宏)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>BI533</td><td rowspan=1 colspan=1>Bioinstrumentation</td><td rowspan=1 colspan=1>生化儀器分析</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-C.Chien (簡志青)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>BI548</td><td rowspan=1 colspan=1>Enzymes and Bioenergy</td><td rowspan=1 colspan=1>酵素與生質能</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>L.-F. Huang (黃麗芬)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>BI550</td><td rowspan=1 colspan=1>Environmtal</td><td rowspan=1 colspan=1>環境植物生理學</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>L.-F. Huang (黃麗芬)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>CH596</td><td rowspan=1 colspan=1>Special Topics in Bioseparations</td><td rowspan=1 colspan=1>生化分離特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>R.-S. Juang (莊瑞鑫)</td><td rowspan=1 colspan=1></td></tr></table>
+
+## 2. Course Regulations:
+
+a) For international students, their names/student status will be listed and their degrees will be awarded under the departments of their supervisors.
+
+b) Before graduation, international students on this program must obtain no less than 24 credits, in which at least 6 credits should be from core courses.
+
+c) The College of Engineering may award a Certificate of Achievement separately.
+
+3. Supervisor/Teaching Faculty:
+<table><tr><td rowspan=1 colspan=1>Title/Department*</td><td rowspan=1 colspan=1>Name</td><td rowspan=1 colspan=1>Highest Education</td><td rowspan=1 colspan=1>Research Interests</td><td rowspan=1 colspan=1>Contact Information</td></tr><tr><td rowspan=1 colspan=1>Professor of CEMS andDean of EngineeringColge</td><td rowspan=1 colspan=1>R.-S. Juang(莊瑞鑫)</td><td rowspan=1 colspan=1>PD in Chemicl EgNational ChengKung UivriTaiwan</td><td rowspan=1 colspan=1>Membrane separations;olvnt exration;AdsortionocnllionBioseparation;oecaleneing</td><td rowspan=1 colspan=1>Tel.: +886-3-463880 xt55e-mail: rsjuang@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Professor of CEMS</td><td rowspan=1 colspan=1>Y.-M. Sun（孫一明）</td><td rowspan=1 colspan=1>PD in ChemcaleeinUniversity of Cincinnati, USA</td><td rowspan=1 colspan=1>MmbraneliDiffusion in olroor;oaterials</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 ext 2558e-mail:cesunym@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Professor and Chair ofCEMS</td><td rowspan=1 colspan=1>H.-S. Wu（吳和生）</td><td rowspan=1 colspan=1>PhD in Chemical nieerinNational TingHua UivritT iwan</td><td rowspan=1 colspan=1>Phase-trancali;aprtphomena;Reactio/;oclengineering</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 ext 2564e-mail:cehswu@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Associate Professor ofBB</td><td rowspan=1 colspan=1>Y.-H. Wei（魏毓宏）</td><td rowspan=1 colspan=1>PhD in ChemicalEnierinNtional TiHuaveTaiwan</td><td rowspan=1 colspan=1>Bioenergcu;clMcoltctalbiotechnology</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 t 21e-mail: yhwei@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Assistant Professor ofBB</td><td rowspan=1 colspan=1>C.-C. Chien（簡志青）</td><td rowspan=1 colspan=1>PD n co,iversityof Connecticut, USA</td><td rowspan=1 colspan=1>Mrobalhct;oialiMicrobial iortio/olecllo(genomics, proteomics)</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 ext 2184e-mail: ccchien@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Assistant Professor ofCEMS</td><td rowspan=1 colspan=1>John C.-W. Lan（藍祺偉）</td><td rowspan=1 colspan=1>PhD in ChemicalnirinUniversity of Birmingham, U</td><td rowspan=1 colspan=1>Enzymetchuexpanded-bedcromatography;Ptosi;ncues</td><td rowspan=1 colspan=1>Tel.:+886-3-4638800 ext 3550e-mail: lanchiwei@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Assistant Professor ofBB</td><td rowspan=1 colspan=1>S.-Y.Chen（陳姍玗）</td><td rowspan=1 colspan=1>PhDin Chemical EigNational ChengKungvrsitTaiwan</td><td rowspan=1 colspan=1>Genetic eniei;rmtatioineering;</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 ext 2188e-mail: chensy@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Assistant Professor ofBB</td><td rowspan=1 colspan=1>L.-F. Huang（黃麗芬）</td><td rowspan=1 colspan=1>PhD in Plant Molecular andCellular Biology Program,University of Floid</td><td rowspan=1 colspan=1>Protein expsiotniisuspenonclltun-ustarch metabolism related enymes</td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 ext 2189e-mail: hlf326@saturn.yzu.edu.tw</td></tr><tr><td rowspan=1 colspan=1>Assistant Professor ofCEMS</td><td rowspan=1 colspan=1>S.-L. Yao（姚少凌）</td><td rowspan=1 colspan=1>PhD in Chemical EiNionalnHtT aian</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Tel.: +886-3-4638800 exte-mail:</td></tr></table>
+
+\*Department:  
+BB = Graduate School of Biotechnology and Bioengineering  
+CEMS = Department of Chemical Engineering and Materials Science
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（網站）]**: http://www.cg.yzu.edu.tw/yzucg/index.php?option=com_content&amp;task=view&amp;id=113&amp;Itemid=116
+- **4. [超連結（網站）]**: http://www.yzu.edu.tw/admissions/files/Foreign%20Students/Energy%20Engineering%20Program%20for%20International%20Students%20on%20M_S_%20and%20Ph_D_%20Degrees.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=4da382dbbfe14ea1 -->
+#### OCR 4: http://www.yzu.edu.tw/admissions/files/Foreign%20Students/Energy%20Engineering%20Program%20for%20International%20Students%20on%20M_S_%20and%20Ph_D_%20Degrees.pdf
+
+- 關聯類型: 超連結（網站）
+- 本機檔案: admissions/files/Foreign Students/Energy Engineering Program for International Students on M_S_ and Ph_D_ Degrees.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/4da382dbbfe14ea1_Energy_Engineering_Program_for_International_Students_on_M_S__and_Ph_D__Degrees.md
+- OCR 狀態: completed_cached
+- OCR 字數: 11554
+- 驗證狀態: ok
+
+```markdown
+# Energy Engineering Program for International Students on M.S. and Ph.D. Degrees (Apply to the Students Admitted from Fall 2009 Onward) College of Engineering, YZU
+
+Passed on 2009.04.08 (97-05) by College Faculty & Course Design Committees Passed on 2009.04.22 (97-05) by University Academic Affair Committees
+
+## 1. Course Offerings:
+
+<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CourseCode</td><td rowspan=1 colspan=1>Course Title(in English)</td><td rowspan=1 colspan=1>Course Title(in Chinese)</td><td rowspan=1 colspan=1>Number ofCredits Awarded</td><td rowspan=1 colspan=1>Instructor</td><td rowspan=1 colspan=1>Note</td></tr><tr><td rowspan=4 colspan=1>CoreCourses</td><td rowspan=1 colspan=1>ME584</td><td rowspan=1 colspan=1>Advanced Teoles ndApplications</td><td rowspan=1 colspan=1>新能源技術</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>G.-B. Jung (鐘國濱)</td><td rowspan=4 colspan=1>(Students arerequired totake at leasttwo coursesfrom these)</td></tr><tr><td rowspan=1 colspan=1>EG502</td><td rowspan=1 colspan=1>Energy Materials</td><td rowspan=1 colspan=1>能源材料</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-T. Hsieh(謝建德) /I1.-M. Hung (洪逸明)</td></tr><tr><td rowspan=1 colspan=1>CH600</td><td rowspan=1 colspan=1>Physical Chemistry of Materials</td><td rowspan=1 colspan=1>材料物理化學</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-E. Ho (何政恩)</td></tr><tr><td rowspan=1 colspan=1>BI547</td><td rowspan=1 colspan=1>Introduction to Bioenergy</td><td rowspan=1 colspan=1>生質能源概論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Y.-H. Wei (魏毓宏)</td></tr><tr><td rowspan=4 colspan=1>Elective</td><td rowspan=1 colspan=1>BI548</td><td rowspan=1 colspan=1>Enzymes and Bioenergy</td><td rowspan=1 colspan=1>酵素與生質能</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>L.-F. Huang (黃麗芬)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>CH537</td><td rowspan=1 colspan=1>Special oiOlcerials</td><td rowspan=1 colspan=1>光電材料特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>J.-C. Huang (黄振球)</td><td rowspan=1 colspan=1>(Offered everyother year)</td></tr><tr><td rowspan=1 colspan=1>CH539</td><td rowspan=1 colspan=1>Special Topics inlectrtry</td><td rowspan=1 colspan=1>電化學特論</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>K.-M. Yin (尹庚鳴)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>CH588</td><td rowspan=1 colspan=1>Solar Energy Technology</td><td rowspan=1 colspan=1>太陽能技術</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Leo C.-K. Liao (廖朝光)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=4 colspan=1>Courses</td><td rowspan=1 colspan=1>ER513</td><td rowspan=1 colspan=1> Nuclear Power Generation</td><td rowspan=1 colspan=1>核能發電</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-S. Lin (林誠興)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ME538</td><td rowspan=1 colspan=1>ComputationalFluid Dynamicad etTransfer</td><td rowspan=1 colspan=1>計算流力及熱傳學</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>C.-S. Lin (林誠興)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ME553</td><td rowspan=1 colspan=1>Electrochemical Engineering</td><td rowspan=1 colspan=1>電化學工程</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>F.-B. Weng (翁芳柏)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ME599</td><td rowspan=1 colspan=1>Intelligent Control Systems</td><td rowspan=1 colspan=1>智慧控制系統</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>J.-S. Shieh (謝建興)</td><td rowspan=1 colspan=1></td></tr></table>
+
+## 2. Course Regulations:
+
+a) For international students, their names/student status will be listed and their degrees will be awarded under the departments of their supervisors.
+
+b) Before graduation, international students on this program must obtain no less than 24 credits, in which at least 6 credits should be from core courses.
+
+c) The College of Engineering may award a Certificate of Achievement separately.
+
+3. Supervisor/Teaching Faculty:
+<table><tr><td colspan="1" rowspan="1">Title/Department*</td><td colspan="1" rowspan="1">Name</td><td colspan="1" rowspan="1">Highest Education</td><td colspan="1" rowspan="1">Research Interests</td><td colspan="1" rowspan="1">Contact Information</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof BB</td><td colspan="1" rowspan="1">Y.-H. Wei（魏毓宏）</td><td colspan="1" rowspan="1">PD in Chemical Eeei,National Ting Hua UivesityTaiwan</td><td colspan="1" rowspan="1">elMcrolbiotechnology</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2183e-mail: yhwei@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Assistant Professor ofCESS</td><td colspan="1" rowspan="1">John C.-W. Lan（藍祺偉）</td><td colspan="1" rowspan="1">PD in ChemiclUversit of</td><td colspan="1" rowspan="1">Enzyme techniques; Expanded-bedchromatograph;ototesis ehanism;Biorefinery techniques</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 350e-mail: lanchiwei@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Assistant Professor ofBB</td><td colspan="1" rowspan="1">S.-Y. Chen（陳姍玗）</td><td colspan="1" rowspan="1">PhD in Chemical Engineering,National Cheng Kung UniversityT iwan</td><td colspan="1" rowspan="1">Geticn;oein;Bioenergy;ll/neilitiontechniques</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2188e-mail:chensy@saturn.yzu.edu.w</td></tr><tr><td colspan="1" rowspan="1">Professor and Chairof  ME</td><td colspan="1" rowspan="1">S.-J.Lee（李碩仁）</td><td colspan="1" rowspan="1">PDin MechanicaliUniversityofIlliisatbaaChampaign, USA</td><td colspan="1" rowspan="1">Manufactui;lctocclliaachinin;Rv;;l;Solar cells</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2455e-mail: mesjl@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof CESS</td><td colspan="1" rowspan="1">Leo C.-K. Liau（廖朝光）</td><td colspan="1" rowspan="1">PhD in Chemical EngineeringUniversity ofMssouri-Columbia,UAA</td><td colspan="1" rowspan="1">Electronccals;lallscontrol and optimization</td><td colspan="1" rowspan="1">Tel.:+886-3-4638800 ext 2573e-mail: lckliau@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate ProfessorofC EMSS</td><td colspan="1" rowspan="1">C.-S. Liao（廖建勛）</td><td colspan="1" rowspan="1">PD in Chemical EiNational TingHuaUniversityTaiwan</td><td colspan="1" rowspan="1">Conjuaedoolredinorganic mateial;lymerncomposites;Biodegradable polymers</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2567e-mail: csliao@aturn.yu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof CEMS</td><td colspan="1" rowspan="1">C.-T. Hsieh（謝建德）</td><td colspan="1" rowspan="1">PhD in Chemical ning,National Cheng Kung University,Taiwan</td><td colspan="1" rowspan="1">Synthesis of nomateils;ynthesis ofenergy-stolyporous carbons</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2577e-mail:cthsieh@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Assistant Professor ofCES</td><td colspan="1" rowspan="1">1.-M. Hung（洪逸明）</td><td colspan="1" rowspan="1">PhD in Materials Science andEnieinKUniversity, Taiwan</td><td colspan="1" rowspan="1">nerylNomaterials;Ceramproesing</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2569e-mail:imhun@atur.y.e.t</td></tr><tr><td colspan="1" rowspan="1">Assistant Professor ofME</td><td colspan="1" rowspan="1">W.-C. Ke（柯文政）</td><td colspan="1" rowspan="1">PDinChiao Tung </td><td colspan="1" rowspan="1">arsemiconductor physics  devices; Compoundsemiconductor; Nanomaterials &amp; devices</td><td colspan="1" rowspan="1">Tel.: +886-3-463800 ext4e-mail: wcke@saturn.yzu.ed.tw</td></tr><tr><td colspan="1" rowspan="1">Chair Professor of ME</td><td colspan="1" rowspan="1">S.-H. Chan（詹世弘）</td><td colspan="1" rowspan="1">PDin chanalversityofCo-USA</td><td colspan="1" rowspan="1">Energeni;ol;;Low-pollutionombustio;Flud mc;cells</td><td colspan="1" rowspan="1">Tel.:+886-3-4638800 ext 2477e-mail: Janshun@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Professor of CEMS</td><td colspan="1" rowspan="1">Leon T.-L. Yu（余子隆）</td><td colspan="1" rowspan="1">PD in Polymer ien,CeWestern Reserve University, USA</td><td colspan="1" rowspan="1">Fuel cells</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2553e-mail:cetlyu@saturn.y.e.t</td></tr><tr><td colspan="1" rowspan="1">Professor of CEMS</td><td colspan="1" rowspan="1">K.-M. Yin（尹庚鳴）</td><td colspan="1" rowspan="1">PD in Chemical EiTexas A&amp;M University, USA</td><td colspan="1" rowspan="1">Eltroc uel cell</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2556e-mail: cekenyin@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Professor of ME</td><td colspan="1" rowspan="1">A.Su（蘇艾）</td><td colspan="1" rowspan="1">PhD in Aerospace Engineering,Gria IntieoUSA</td><td colspan="1" rowspan="1">RotatorcolPollution control;l clls</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2460e-mail:aysu@atur.y.ed.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof CEMS</td><td colspan="1" rowspan="1">H.-L.Lin（林秀麗）</td><td colspan="1" rowspan="1">PDin Chemittioal ingHua University, Taiwan</td><td colspan="1" rowspan="1">Inorac;rchemistry; Fuel cells</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2568e-mail: sherry@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof ME</td><td colspan="1" rowspan="1">F.-B. Weng（翁芳柏）</td><td colspan="1" rowspan="1">PhD in Mechanical EieringCase WestrnRve ritUSA</td><td colspan="1" rowspan="1">FullWater and thermal management in fulcells;Electrochemicalsystem; Thermoflud science</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2475e-mail: fangbor@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof  MEEE</td><td colspan="1" rowspan="1">Y.-M. Sheen（沈幼敏）</td><td colspan="1" rowspan="1">PhD in Nuclear Engineering,University of Illinois atUrbana-Champaign, USA</td><td colspan="1" rowspan="1">Solarllcharacterizationof thin-film silicon solar cells</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2463e-mail: yms@saturn.yz.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof ME</td><td colspan="1" rowspan="1">G.-B. Jung（鐘國濱）</td><td colspan="1" rowspan="1">PD in ChemicaliNational Tsing Hua University,Taiwan</td><td colspan="1" rowspan="1">Fuelll;oaicmaterial synthesis; Hydrogen generation</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2469e-mail: guobin@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Assistant Professor ofME</td><td colspan="1" rowspan="1">C.-C.Shen（沈家傑）</td><td colspan="1" rowspan="1">PhD in Materials Science andEngineering, Ntional Ting HuaUniversity, Taiwan</td><td colspan="1" rowspan="1">Characterizationofhydrogn-oraealloys;Characteroofmloruecells</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 384e-mail: ccshen@saturn.yzu.edu.tw</td></tr><tr><td colspan="1" rowspan="1">Associate Professorof ME</td><td colspan="1" rowspan="1">C.-Y. Lee（李其源）       T</td><td colspan="1" rowspan="1">PhDin Mechanical EinNational Taiwansiy,aiwan</td><td colspan="1" rowspan="1">Nano-electro-mechanical systemsMS);Acousticdvclr;Microsensors; Microactuators</td><td colspan="1" rowspan="1">Tel.: +886-3-4638800 ext 2478e-mail: cylee@saturn.yzu.edu.tw</td></tr></table>
+
+\*Department:  
+BB = Graduate School of Biotechnology and Bioengineering  
+CEMS = Department of Chemical Engineering and Materials Science
+
+ME = Department of Mechanical Engineering
+```
+
+<!-- OCR_END -->
+
+
+---

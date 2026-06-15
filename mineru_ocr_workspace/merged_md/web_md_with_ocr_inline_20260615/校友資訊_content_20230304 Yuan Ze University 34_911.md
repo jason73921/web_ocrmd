@@ -1,0 +1,134 @@
+﻿# 網站文章資料_20230304 Yuan Ze University 34th Anniversary Alumni Reunion Party_911
+
+## 一、文章基本資料
+
+- **文章ID**: 911
+- **文章標題**: 20230304 Yuan Ze University 34th Anniversary Alumni Reunion Party
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20230304-1
+- **文章簡介**: For more photos, please visit YZU Alumni Service Center Facebook fanpage album.
+- **文章全文**: 
+- **文章更新日期**: 2023/4/26 上午 02:47:22
+- **文章發表日期**: 2023/3/4 上午 08:09:40
+- **文章點擊數**: 796
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.facebook.com/media/set/?set=a.654330613369035&amp;type=3
+- **2. [圖片]**: images/photo/20230304/057A9203_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=8dca51e1ca802c60 -->
+#### OCR 2: images/photo/20230304/057A9203_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9203_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8dca51e1ca802c60_057A9203_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/13729715696f0f43bc988a278f82f4ed8aefae7b00f3326312b3f32057d497ab.jpg)
+```
+
+<!-- OCR_END -->
+
+- **3. [圖片]**: images/photo/20230304/057A9373_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=cee1943efc4c01af -->
+#### OCR 3: images/photo/20230304/057A9373_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9373_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/cee1943efc4c01af_057A9373_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/850db527c1022aab59d11bc12663a84bdc87ed8bd75718391bd9783746b72905.jpg)
+```
+
+<!-- OCR_END -->
+
+- **4. [圖片]**: images/photo/20230304/057A9570_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=99616ad168099369 -->
+#### OCR 4: images/photo/20230304/057A9570_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9570_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/99616ad168099369_057A9570_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/6f0e419a1a2afe67ef678c55703463fc85fe1e43a61d89dae47e179fd165f791.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: images/photo/20230304/057A9657_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=fa576994a168bffb -->
+#### OCR 5: images/photo/20230304/057A9657_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9657_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/fa576994a168bffb_057A9657_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/b272b067f289c57724ad9abb14598bff9e0b20b5c7eb7d5f4e101db8c1a89fee.jpg)
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: images/photo/20230304/057A9702_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=d86561adb7201d6e -->
+#### OCR 6: images/photo/20230304/057A9702_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9702_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/d86561adb7201d6e_057A9702_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/332a52a3f65a9206e8bd418de877433838154ba10dca67a8ca3efa8af28fe12e.jpg)
+```
+
+<!-- OCR_END -->
+
+- **7. [圖片]**: images/photo/20230304/057A9892_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=7 assetId=2612ad2a9421dfa0 -->
+#### OCR 7: images/photo/20230304/057A9892_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/photo/20230304/057A9892_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2612ad2a9421dfa0_057A9892_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/c714fa4b53b8190f6d4fc333861191cacd372c531d94d2d0fbb8043c91a9682e.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

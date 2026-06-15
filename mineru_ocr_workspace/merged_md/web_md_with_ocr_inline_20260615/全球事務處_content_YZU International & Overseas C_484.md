@@ -1,0 +1,66 @@
+﻿# 網站文章資料_YZU International & Overseas Chinese Students Scholarship Application Schedule for Spring 2025 Semester (113-2 Semester)_484
+
+## 一、文章基本資料
+
+- **文章ID**: 484
+- **文章標題**: YZU International & Overseas Chinese Students Scholarship Application Schedule for Spring 2025 Semester (113-2 Semester)
+- **文章網址**: https://www.yzu.edu.tw/admin/gao/index.php/tw/gao-202502171000-02
+- **文章簡介**: Please find attached the application schedule for the 113-2 YZU International & Overseas Chinese Students Scholarship.
+
+If you have any questions, please feel free to contact us. Thank you!
+- **文章全文**: 
+- **文章更新日期**: 2025/2/19 上午 10:50:55
+- **文章發表日期**: 2025/2/17 上午 02:10:04
+- **文章點擊數**: 1079
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/YZU_Admission_Scholarships/113-2%E5%A2%83%E5%A4%96%E7%94%9F%E7%8D%8E%E5%AD%B8%E9%87%91%E7%94%B3%E8%AB%8B%E6%99%82%E7%A8%8B_YZU_International__Overseas_Chinese_Students_scholarship_application_schedule_final.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=053a4a2aeadee477 -->
+#### OCR 1: files/YZU_Admission_Scholarships/113-2%E5%A2%83%E5%A4%96%E7%94%9F%E7%8D%8E%E5%AD%B8%E9%87%91%E7%94%B3%E8%AB%8B%E6%99%82%E7%A8%8B_YZU_International__Overseas_Chinese_Students_scholarship_application_schedule_final.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/gao/files/YZU_Admission_Scholarships/113-2境外生獎學金申請時程_YZU_International__Overseas_Chinese_Students_scholarship_application_schedule_final.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/053a4a2aeadee477_113-2境外生獎學金申請時程_YZU_International__Overseas_Chinese_Students_scholarship_applica.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2421
+- 驗證狀態: ok
+
+```markdown
+# 113 學年度第 2 學期 境外生獎助學金 申請作業時程
+
+2025 Spring Semester (113-2 Semester)  
+YZU International & Overseas Chinese Students Scholarship Application Schedule
+<table><tr><td rowspan=1 colspan=1>日期 Date</td><td rowspan=1 colspan=1>流程說明 Event</td><td rowspan=1 colspan=1>備註 Note</td></tr><tr><td rowspan=1 colspan=1>2024/12/16</td><td rowspan=1 colspan=1>公告申請相關作業時程及程序Application schedule announcement</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2024/12/16-2025/01/03</td><td rowspan=1 colspan=1>研究生(碩士博士)線上申請生活津貼Application for YZU Scholarship - StipendGraduate degrees (Master&#x27;s, Ph.D.) ONLY</td><td rowspan=1 colspan=1>生活津貼線上表單 ApplicationLink for Stipend</td></tr><tr><td rowspan=1 colspan=1>2025/01/06-01/08</td><td rowspan=1 colspan=1>全球處彙整申請清冊Global AfairsOffceompledteaplication list.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/01/09-01/23</td><td rowspan=1 colspan=1>系所審查研究生生活津貼Stipend Review by Department and College</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/02/03-02/07</td><td rowspan=1 colspan=1>全球處覆核獎助學金Approval by Global Affairs Office</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/02/17</td><td rowspan=1 colspan=1>公告研究生(碩士、博士)生活津貼結果Result Announcement for YZU Scholarship - Stipend</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=3 colspan=1>2025/02/17-02/21</td><td rowspan=3 colspan=1>獎助學金-學雜費補助 申請作業開始Application for YZU Scholarship - Reimbursement請填寫右方表單連結並上傳成績單Please fill out the online form and upload thetranscript.</td><td rowspan=1 colspan=1>→外籍生線上表單Application Link for</td></tr><tr><td rowspan=1 colspan=1>Reimbursement(Internationalstudents only)→僑生線上表單Application Link for</td></tr><tr><td rowspan=1 colspan=1>ReimbursementOverseas Chinesestudents only)</td></tr><tr><td rowspan=1 colspan=1>2025/02/24-02/27</td><td rowspan=1 colspan=1>全球處彙整申請清冊Global fmldist.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/03-03/14</td><td rowspan=1 colspan=1>系所審查獎助學金Review by Department and College</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/17-03/21</td><td rowspan=1 colspan=1>全球處覆核獎助學金Approval by Global Affairs Offfice</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/24</td><td rowspan=1 colspan=1>公告獎助學金結果Result Announcement for YZU Scholarship - Reimbursement</td><td rowspan=1 colspan=1></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **2. [圖片]**: images/1739757727547.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=ca6acb7f32b24bf2 -->
+#### OCR 2: images/1739757727547.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/gao/images/1739757727547.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ca6acb7f32b24bf2_1739757727547.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2235
+- 驗證狀態: ok
+
+```markdown
+113學年度第2學期境外生獎助學金申請作業時程  
+2025 Spring Semester (113-2 Semester)  
+YZU International & Overseas Chinese Students Scholarship Application Schedule
+<table><tr><td rowspan=1 colspan=1>日期Date</td><td rowspan=1 colspan=1>流程說明 Event</td><td rowspan=1 colspan=1>備註 Note</td></tr><tr><td rowspan=1 colspan=1>2024/12/16</td><td rowspan=1 colspan=1>公告申請相關作業時程及程序Application schedule announcement</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2024/12/16-2025/01/03</td><td rowspan=1 colspan=1>研究生（碩士、博士）線上申請生活津貼ApplicationorYcolarip-Stipendadue</td><td rowspan=1 colspan=1>→生活津貼線上表單ApplicationLink for Stipend</td></tr><tr><td rowspan=1 colspan=1>2025/01/06-01/08</td><td rowspan=1 colspan=1>全球處彙整申請清冊Global Aas Oie miled the litin list.</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/01/09-01/23</td><td rowspan=1 colspan=1>系所審查研究生生活津貼Stipenl</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/02/03-02/07</td><td rowspan=1 colspan=1>全球處覆核獎助學金Approval byGobal Afairs Office</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/02/17</td><td rowspan=1 colspan=1>公告研究生(碩士、博士)生活津貼结果ReultAnotien</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=3 colspan=1>2025/02/17-02/21</td><td rowspan=3 colspan=1>獎助學金-學雜費補助申請作業開始Application for YZU Scholarship - Reimbursement請填寫右方表單連結並上傳成績單Please fill out the online form and upload thetranscript.</td><td rowspan=1 colspan=1>外籍生線上表單Application Link for</td></tr><tr><td rowspan=1 colspan=1>ReimbursementInternationalstudents onlv)→僑生線上表單Application Link for_</td></tr><tr><td rowspan=1 colspan=1>ReimbursementOverseas Chinesestudents only)</td></tr><tr><td rowspan=1 colspan=1>2025/02/24-02/27</td><td rowspan=1 colspan=1>全球處彙整申請清冊Gl</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/03-03/14</td><td rowspan=1 colspan=1>系所審查獎助學金Review by Det and lleg</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/17-03/21</td><td rowspan=1 colspan=1>全球處覆核獎助學金ApprovalbGlolAairsfice</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2025/03/24</td><td rowspan=1 colspan=1>公告獎助學金結果Result Annouemt for  Scholrhip-eimbursement</td><td rowspan=1 colspan=1></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,48 @@
+﻿# 網站文章資料_【亮點新聞】元智大學桃園文化廊道計畫　獲頒優質教育金獎殊榮_856
+
+## 一、文章基本資料
+
+- **文章ID**: 856
+- **文章標題**: 【亮點新聞】元智大學桃園文化廊道計畫　獲頒優質教育金獎殊榮
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20220817
+- **文章簡介**: 【ettoday/記者楊淑媛／桃園報導】
+
+由於在地文化逐漸消失、人文景觀被水泥建築遮蔽，為挽救這樣的頹勢，元智大學通識教學部致力於文化永續，執行的「桃園文化廊道」USR計畫，參加第二屆「TSAA台灣永續行動獎」，在總參賽247件作品中，脫穎而出，獲得「SDGs 4 優質教育金獎」肯定。
+
+元智大學校長廖慶榮表示，元智大學以導覽、記錄、共生為出發點，創立了桃園文化廊道，希望能善盡社會責任，保護桃園歷史文化，藉著導覽活動串起學生和社區的連結，發揮社會影響力，元智大學將持續推動USR計畫，與在地連結，培育優秀人才，並規劃推動教學/研究鏈結，達全球永續發展目標。（待續）
+
+
+
+詳全文:https://www.ettoday.net/news/20220813/2315880.htm
+- **文章全文**: 
+- **文章更新日期**: 2022/8/17 上午 06:07:57
+- **文章發表日期**: 2022/8/17 上午 06:06:58
+- **文章點擊數**: 803
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: files/Latest_News/20220815-2.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=eb9822213bdab8a8 -->
+#### OCR 1: files/Latest_News/20220815-2.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/Latest_News/20220815-2.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/eb9822213bdab8a8_20220815-2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 162
+- 驗證狀態: ok
+
+```markdown
+![](images/6f4e51c80e63bb2aa7c979409e5eba37ee3069188e65da1008c787da4563fb81.jpg)
+
+![](images/c8da2f5d62a4ffbb9a13019d25d82530544b72a9053620357b7b65867ef3a835.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

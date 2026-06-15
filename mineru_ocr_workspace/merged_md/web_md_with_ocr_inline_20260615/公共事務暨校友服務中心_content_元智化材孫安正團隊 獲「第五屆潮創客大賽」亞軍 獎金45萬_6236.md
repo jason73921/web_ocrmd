@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智化材孫安正團隊 獲「第五屆潮創客大賽」亞軍 獎金45萬_6236
+
+## 一、文章基本資料
+
+- **文章ID**: 6236
+- **文章標題**: 元智化材孫安正團隊 獲「第五屆潮創客大賽」亞軍 獎金45萬
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福/台北市報導】
+ 
+元智大學化材系孫安正教授與齒科生醫陶瓷組研究生陳奕倫與高瑋蔆，研製之『齒科生醫陶瓷材料』，參加「第五屆潮創客大賽」，獲得亞軍暨45萬元高額研究獎金殊榮。
+
+『牙疼不是病，但是疼起來要人命。』是此次團隊參展主題，這也是在孩提時代長輩常用來告誡保養牙齒的警語，但大部分的人還是會遇到牙疼的問題，傳統大多以根管方式治療，也就是取出整條牙髓，俗稱抽神經。抽神經過程既痛又久，失去牙髓的牙齒就像沒了靈魂一樣，將逐漸變黑凋零。
+
+孫安正團隊所研製出齒科活髓治療之覆髓術用生醫陶瓷粉末，讓牙疼時不再只有抽掉整條神經這條絕路，反讓牙醫師可以盡可能保留仍健康的牙髓，使牙齒依舊保持有靈魂的生命。而填補進牙髓空缺的生醫陶瓷粉末，將扮演仿生材料的角色，使活性牙髓延伸生長於內，遞補失去的牙髓組織，讓牙齒有機會一直健康的存在。孫教授團隊所開發的『齒科生醫陶瓷材料』，目前在台灣、中國大陸、乃至於整個東南亞地區都沒有自主研製的產品，尚須仰賴進口。（待續）
+
+
+
+詳全文: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-af0b2e00-31aa-4e3a-a445-94656b721b76&currentCategory=101
+
+【2022/11/04】
+- **文章全文**: 
+- **文章更新日期**: 2022/11/4 上午 01:51:52
+- **文章發表日期**: 2022/11/4 上午 01:51:52
+- **文章點擊數**: 605
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-af0b2e00-31aa-4e3a-a445-94656b721b76&amp;currentCategory=101
+- **2. [圖片]**: images/20221104-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=50bd1b9bae970716 -->
+#### OCR 2: images/20221104-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20221104-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/50bd1b9bae970716_20221104-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/f3dd751a68817b9940a8956c97e14df309f89170c5b2f47e0ef5f44859cb0a53.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

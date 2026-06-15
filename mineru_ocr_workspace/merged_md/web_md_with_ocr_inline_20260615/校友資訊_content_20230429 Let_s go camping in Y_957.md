@@ -1,0 +1,76 @@
+﻿# 網站文章資料_20230429 Let"s go camping in YZU!_957
+
+## 一、文章基本資料
+
+- **文章ID**: 957
+- **文章標題**: 20230429 Let"s go camping in YZU!
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20230429-2
+- **文章簡介**: 
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2023/4/29 上午 02:42:44
+- **文章點擊數**: 690
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: images/最新消息/20230429-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=4a8e4e24fd51cd6a -->
+#### OCR 1: images/最新消息/20230429-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/最新消息/20230429-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/4a8e4e24fd51cd6a_20230429-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/7922c610048ead8b1450230ab03113acdafa51f2ba8d44a5f065c3512ce47104.jpg)
+```
+
+<!-- OCR_END -->
+
+- **2. [圖片]**: images/最新消息/20230429-2.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=8b116120aa0ff8c0 -->
+#### OCR 2: images/最新消息/20230429-2.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/最新消息/20230429-2.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8b116120aa0ff8c0_20230429-2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/1c57baa391f6644fbdb1a3c00dd98b5177e5a44213a456bb9c715dcbe503f571.jpg)
+```
+
+<!-- OCR_END -->
+
+- **3. [圖片]**: images/最新消息/20230429-3.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=e2b8a10081963c8f -->
+#### OCR 3: images/最新消息/20230429-3.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/最新消息/20230429-3.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/e2b8a10081963c8f_20230429-3.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/d273d2923bf10816ad96839786a16af61ed1c66fa752e676daf6a009f7b0c184.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

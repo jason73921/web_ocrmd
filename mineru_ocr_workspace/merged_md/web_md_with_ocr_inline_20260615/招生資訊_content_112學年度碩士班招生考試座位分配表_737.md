@@ -1,0 +1,42 @@
+﻿# 網站文章資料_112學年度碩士班招生考試座位分配表_737
+
+## 一、文章基本資料
+
+- **文章ID**: 737
+- **文章標題**: 112學年度碩士班招生考試座位分配表
+- **文章網址**: https://www.yzu.edu.tw/admissions/index.php/tw/112xue-nian-du-shuo-shi-ban-zhao-sheng-kao-shi-zuo-wei-fen-pei-biao
+- **文章簡介**: 112學年度碩士班招生考試座位分配表
+- **文章全文**: 
+- **文章更新日期**: 2023/2/23 上午 01:49:22
+- **文章發表日期**: 2023/2/23 上午 01:49:09
+- **文章點擊數**: 572
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/AA/exam/news/112研究所考試座位分配表1120217版.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=8e4cd64713059fc5 -->
+#### OCR 1: files/AA/exam/news/112研究所考試座位分配表1120217版.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admissions/files/AA/exam/news/112研究所考試座位分配表1120217版.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8e4cd64713059fc5_112研究所考試座位分配表1120217版.md
+- OCR 狀態: completed_cached
+- OCR 字數: 2544
+- 驗證狀態: ok
+
+```markdown
+112學年度 碩士班招生考試座位分配表  
+考試日期：112年03月01日
+<table><tr><td rowspan=1 colspan=4></td><td rowspan=1 colspan=4>第一節（09:30- 11:00）</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>館別</td><td rowspan=1 colspan=1>樓別</td><td rowspan=1 colspan=1>試場</td><td rowspan=1 colspan=1>試場容量</td><td rowspan=1 colspan=1>招生系所組別</td><td rowspan=1 colspan=1>考試科目</td><td rowspan=1 colspan=1>應考證號碼</td><td rowspan=1 colspan=1>人數</td><td rowspan=1 colspan=1>筆試節數</td></tr><tr><td rowspan=12 colspan=1>一館</td><td rowspan=12 colspan=1>1樓</td><td rowspan=7 colspan=1>1109</td><td rowspan=7 colspan=1>25</td><td rowspan=1 colspan=1>管碩-不分組-生產管制</td><td rowspan=1 colspan=1>生產管制</td><td rowspan=1 colspan=1>2210001~2210009</td><td rowspan=1 colspan=1>9</td><td rowspan=7 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>工管碩-不分組-品質管制</td><td rowspan=1 colspan=1>品質管制</td><td rowspan=1 colspan=1>2211001~2211006</td><td rowspan=1 colspan=1>6</td></tr><tr><td rowspan=1 colspan=1>管碩-不分組-作業研究</td><td rowspan=1 colspan=1>作業研究</td><td rowspan=1 colspan=1>2212001~2212004</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>工管碩-不分組-計算機概論</td><td rowspan=1 colspan=1>計算機概論</td><td rowspan=1 colspan=1>2214001~2214002</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>工管碩-不分組-微積分</td><td rowspan=1 colspan=1>微積分</td><td rowspan=1 colspan=1>2215001~2215002</td><td rowspan=1 colspan=1>2</td></tr><tr><td rowspan=1 colspan=1>工管碩-不分組-管理學</td><td rowspan=1 colspan=1>管理學</td><td rowspan=1 colspan=1>2216001~2216001</td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=5 colspan=1>1111</td><td rowspan=5 colspan=1>25</td><td rowspan=1 colspan=1>工管碩-不分組-機率與統計</td><td rowspan=1 colspan=1>機率與統計</td><td rowspan=1 colspan=1>2213001~2213012</td><td rowspan=1 colspan=1>12</td><td rowspan=5 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>機械碩-不分組-工程數學</td><td rowspan=1 colspan=1>工程數學</td><td rowspan=1 colspan=1>2219001~2219005</td><td rowspan=1 colspan=1>5</td></tr><tr><td rowspan=1 colspan=1>機械碩-不分組-材料力學</td><td rowspan=1 colspan=1>材料力學</td><td rowspan=1 colspan=1>2221001~2221001</td><td rowspan=1 colspan=1>１</td></tr><tr><td rowspan=1 colspan=1>機械碩-不分組-自動控制</td><td rowspan=1 colspan=1>自動控制</td><td rowspan=1 colspan=1>2222001~2222003</td><td rowspan=1 colspan=1>3</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+
+2間教室
+```
+
+<!-- OCR_END -->
+
+
+---

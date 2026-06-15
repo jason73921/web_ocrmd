@@ -1,0 +1,50 @@
+﻿# 網站文章資料_20120317 AAYZU Daxi Day Trip_606
+
+## 一、文章基本資料
+
+- **文章ID**: 606
+- **文章標題**: 20120317 AAYZU Daxi Day Trip
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20120317
+- **文章簡介**: 
+- **文章全文**: 20120317 AAYZU Daxi Day Trip
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2012/4/16 下午 04:32:18
+- **文章點擊數**: 684
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/alumni/images/main/20120317-1.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=25490e54561c0e0b -->
+#### OCR 1: http://www.yzu.edu.tw/alumni/images/main/20120317-1.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/main/20120317-1.JPG
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/25490e54561c0e0b_20120317-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 543
+- 驗證狀態: ok
+
+```markdown
+## 探訪高度神密管制區 後慈湖&大溪之旅
+
+## 校友會2012年春季之旅大溪一日遊
+
+在春暖花開，赏樱之餘，校友會特於2012年3月17日舉辦春季旅游，在許應深理事長的帶領下，参觀台灣十大觀光小城一大溪，探訪高度神秘管制區一後慈湖，以及搭船暢遊石門水庫，走訪薑母島·並在午後優閒的參觀鳳飛飛紀念館，與前往大溪老街閒逛、領略巴洛克式風格的牌樓建築。
+
+今年度春季旅遊，特別要感謝主辦人陳隆全副理事長及李榮維理事精心規畫出此完美行程，許多學長姐與寶眷盛情参與，以及在秘書處帶动之下，校友會成員彼此間更為熟悉，為此次春游，畫下完美句點。下一次的活動，預計將由劉志奇學長，主辦九份金瓜石的秋季旅游。
+
+![](images/7758855919c53d456c7f036e39a458c0d86f01c0606a5d869a9b2784b28559c9.jpg)
+
+![](images/e96c7562075d0a9ebd3e4963e789216bde8bf50cd34bc84bdbc7ac84a81f16ed.jpg)
+
+![](images/ec57ca5325f343fca6f82c5f59fd651a3dfbbe92329e4e3a1dc21f7530f67794.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

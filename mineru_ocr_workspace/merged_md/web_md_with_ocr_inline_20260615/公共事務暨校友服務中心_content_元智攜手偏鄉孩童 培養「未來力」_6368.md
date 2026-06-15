@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智攜手偏鄉孩童 培養「未來力」_6368
+
+## 一、文章基本資料
+
+- **文章ID**: 6368
+- **文章標題**: 元智攜手偏鄉孩童 培養「未來力」
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+ 
+元智大學機器人研究社同學，在聖誕節前夕，運用自行設計的桌遊程式，與海星計畫的孩子們，共度溫馨的程式學習之旅。
+
+元智大學課外組於今年夏天帶領流行音樂錄音社、金融科技與人才發展社、機器人研究社等7個社團近百人次，啟動陪伴海星孩童多元素養學習之旅。同學們犧牲晚上休息時間，陪伴孩子進行多面向的探索與學習，迄今已執行羽球、音樂、手作紙藝、金融知識、點心製作及機器人程式設計等，服務孩童超過150人次。
+
+對這群大學生而言，如何規劃全齡適用的課程是最大挑戰。流行音樂錄音社教學長，企管系大二的顏湘晴同學表示，課程中啟發小海星們對音樂的喜愛，讓音樂成為孩子們生活的一部分；金融科技與人才發展社社長，管理學院陳佳瑜同學則透過金融遊戲，讓原本枯燥乏味的經濟金融知識，藉由簡單的實作課程，增加金融理論與知識。（待續）
+
+
+
+詳全文: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-3d329e29-f6ee-41c0-831d-dc2f90f6c4f8&currentCategory=101
+
+【2022/12/22】
+- **文章全文**: 
+- **文章更新日期**: 2022/12/22 上午 01:44:13
+- **文章發表日期**: 2022/12/22 上午 01:44:13
+- **文章點擊數**: 378
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-3d329e29-f6ee-41c0-831d-dc2f90f6c4f8&amp;currentCategory=101
+- **2. [圖片]**: images/20221222-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=8f2854283fc57654 -->
+#### OCR 2: images/20221222-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20221222-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8f2854283fc57654_20221222-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/9f9cfa3593e0778e18e59e83cba77e18ed17b7c102c4d168db60f91edf8fc5a9.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

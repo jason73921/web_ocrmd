@@ -1,0 +1,44 @@
+﻿# 網站文章資料_20110611 Alumni Forum of Department of Mechanical Engineering_614
+
+## 一、文章基本資料
+
+- **文章ID**: 614
+- **文章標題**: 20110611 Alumni Forum of Department of Mechanical Engineering
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20110611
+- **文章簡介**: Alumni Forum of Department of Mechanical Engineering
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2011/6/11 下午 05:31:22
+- **文章點擊數**: 660
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/alumni/images/main/271000611-6.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=d7e980ddb81ffe4a -->
+#### OCR 1: http://www.yzu.edu.tw/alumni/images/main/271000611-6.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/main/271000611-6.JPG
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/d7e980ddb81ffe4a_271000611-6.md
+- OCR 狀態: completed_cached
+- OCR 字數: 272
+- 驗證狀態: ok
+
+```markdown
+## 機械系友回娘家師生相見歡
+
+元智大學機械工程學系自2004年成立系友會，每年固定於畢業典禮當天舉行系友大會，活動以自助餐方式舉行，希望系友能攜家帶眷回系上聚會，除了聯絡系友請誼，亦安排系友資料庫更新調查活動，下午依往例邀請學長姐參加系上舉辦的畢業典禮觀禮，加強聯繫工作，更希望能凝聚系友對母系的向心力。
+
+今年於6月11日畢業典禮當天舉辦系友餐敘，李碩仁主任、徐業良教授以及
+
+![](images/2a3c79e585245414cad2e546ae45517f6c60f452873bb70e613cf463b7471fbe.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

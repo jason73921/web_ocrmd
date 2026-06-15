@@ -1,0 +1,102 @@
+﻿# 網站文章資料_【迎新】花好閱圓：那一年，在元智的中秋慢時光_1178
+
+## 一、文章基本資料
+
+- **文章ID**: 1178
+- **文章標題**: 【迎新】花好閱圓：那一年，在元智的中秋慢時光
+- **文章網址**: https://www.yzu.edu.tw/library/index.php/tw/20200911-1
+- **文章簡介**: 身為大學新鮮人的你，在元智渡過離家的第一個中秋節，心中是否有不同的城市，同一抹淡黃，花好月圓盼團圓，每逢佳節倍思親的心情呢？元智圖書館陪你一起渡過你在元智的第一個中秋，一起把多愁善感的心情打包送到遙遠的月亮那兒，換上好心情，透過星座、透過花作、透過閱讀， 一起共度那一年在元智的中秋慢時光。
+
+
+新鮮人璀璨時光：中秋主題書展 
+時間：09/14-10/16
+地點：圖書館新書展示區、電子書牆
+線上書展：
+
+自我實現 or 自我肯定
+
+星座
+
+花藝
+
+天文
+
+
+
+
+
+
+
+新鮮人浪漫花作：法式甜美不凋花手作
+時間：10/07(三)
+地點：圖書館新書展示區
+
+
+
+新鮮人星星相映：從星座來探索自己
+時間：10/14(三)
+地點：圖書館新書展示區
+
+
+@@
+防疫新生活，參與手作及講座者應戴口罩，於入口及場所內提供乾(濕)洗手用品，保持手部清潔，活動採取實名制，執行人流管制及環境的清潔消毒。
+- **文章全文**: 
+- **文章更新日期**: 2020/9/11 上午 03:50:08
+- **文章發表日期**: 2020/9/11 上午 03:50:08
+- **文章點擊數**: 1535
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: index.php?option=com_content&amp;view=article&amp;id=1170:20200825-1&amp;catid=17&amp;lang=zh-TW
+- **2. [超連結（網站）]**: http://lib.yzu.edu.tw/ajaxYZlib/Search/SearchConnect.aspx?code=SU&amp;requestStr=%e8%87%aa%e6%88%91%e5%af%a6%e7%8f%be&amp;op_request2=OR&amp;code2=SU&amp;request2=%e8%87%aa%e6%88%91%e8%82%af%e5%ae%9a
+- **3. [超連結（網站）]**: http://lib.yzu.edu.tw/ajaxYZlib/Search/SearchConnect.aspx?code=TI&amp;requestStr=%e6%98%9f%e5%ba%a7
+- **4. [超連結（網站）]**: http://lib.yzu.edu.tw/ajaxYZlib/Search/SearchConnect.aspx?code=TI&amp;requestStr=%e8%8a%b1%e8%97%9d
+- **5. [超連結（網站）]**: http://lib.yzu.edu.tw/ajaxYZlib/Search/SearchConnect.aspx?code=SU&amp;requestStr=%e5%a4%a9%e6%96%87
+- **6. [超連結（檔案）]**: index.php?option=com_content&amp;view=article&amp;id=1171:20200825-2&amp;catid=17&amp;lang=zh-TW
+- **7. [超連結（檔案）]**: index.php?option=com_content&amp;view=article&amp;id=1172:20200825-3&amp;catid=17&amp;lang=zh-TW
+- **8. [圖片]**: images/main/sp/2020/20200824-moon.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=8 assetId=40aba396e7eb0cc5 -->
+#### OCR 8: images/main/sp/2020/20200824-moon.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/sp/2020/20200824-moon.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/40aba396e7eb0cc5_20200824-moon.md
+- OCR 狀態: completed_cached
+- OCR 字數: 507
+- 驗證狀態: ok
+
+```markdown
+9/14-10/16
+
+身為大學新鮮人的你，在元智渡過離家的第一個中秋節心中是否有不同的城市，同一抹淡黄花好月圆盼團圓：每逢佳節備思親的心情呢？元智圖書館陪你一起渡過你在元智的第一個中秋一起把多愁善感的心情打包送到遥遠的月亮那兒，换上好心情透過星座透過花作透過閱讀 一起共度那年在元智的中秋慢时光
+
+![](images/9e057e40f5fe2d95aaf62b5d1a19f04b898655a5a2de8baf314b78340a4e879d.jpg)
+
+那一年，在元智的中秋慢时光
+
+新鮮人璀璨時光：中秋主題書展  
+9/14-10/16  
+新閱緣圓月心書展好禮  
+讓你，勇闖學海提升就學力享好康  
+新鮮人浪漫花作：法式甜美不凋花手作  
+講師：莉朵花藝Winnie老師  
+10/07(三）12:00\~14:00  
+圖書館1F新書展示區  
+線上報名：限額：30名  
+新鮮人星星相映：從星座來探索自己  
+講師：宋怡慧老師  
+10/14(三)12:00\~14:00  
+圖書館1F新書展示區  
+線上報名：限額：40名
+
+以上活動詳情見元智圖書館網頁或FB訊息：主辦單位：元智大學圖書館
+```
+
+<!-- OCR_END -->
+
+
+---

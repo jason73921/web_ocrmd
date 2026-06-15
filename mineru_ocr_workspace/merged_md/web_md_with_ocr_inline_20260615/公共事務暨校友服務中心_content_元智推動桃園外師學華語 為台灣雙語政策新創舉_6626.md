@@ -1,0 +1,49 @@
+﻿# 網站文章資料_元智推動桃園外師學華語 為台灣雙語政策新創舉_6626
+
+## 一、文章基本資料
+
+- **文章ID**: 6626
+- **文章標題**: 元智推動桃園外師學華語 為台灣雙語政策新創舉
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+ 
+ 元智大學成立華語中心，期望協助更多境外生、新住民、及外籍老師和移工朋友進修華語，同時認識在地特色，加速適應力和溝通力，提高本國認同。元智華語中心為推動雙語教學，首次與桃園市義興國小合作，為在台外籍教師開設華語專班，導入各種生活主題，協助外籍教師善用雙語優勢，成為台灣雙語政策的新創舉。
+
+元智大學華語中心黃郁蘭主任表示，為落實2030年雙語政策，近年來各縣市政府為國中小和高中增聘外籍教師，全面提升國人英語能力，在桃園就有近140位外籍教師。然而，全世界說華語人口高達十多億，另有超過11億人口以華語作為第二語言；既然外師在台任教，更應藉地利之便，自我增能學習華語，培植雙語能量的競爭力。也希望未來教師們返國後，能將中文和台灣特色發揚光大，傳播到世界各地。（待續）
+
+
+
+詳全文: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-1c0c33c9-3c5b-45b0-b621-1ae388b1b5bd&currentCategory=101
+
+【2023/03/31】
+- **文章全文**: 
+- **文章更新日期**: 2023/3/31 上午 02:55:54
+- **文章發表日期**: 2023/3/31 上午 02:55:54
+- **文章點擊數**: 0
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-1c0c33c9-3c5b-45b0-b621-1ae388b1b5bd&amp;currentCategory=101
+- **2. [圖片]**: images/20230331-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=cea0b4256fddcde3 -->
+#### OCR 2: images/20230331-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20230331-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/cea0b4256fddcde3_20230331-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/ae876c4e8ed43689ec03b217d3494bcfbd8397fb8d0243d638b16a82526dcbdf.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

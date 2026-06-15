@@ -1,0 +1,61 @@
+﻿# 網站文章資料_[Sanitary & Health Care Section Announcement] 114-2 Semester Campus Doctor Consultation Schedule_6512
+
+## 一、文章基本資料
+
+- **文章ID**: 6512
+- **文章標題**: [Sanitary & Health Care Section Announcement] 114-2 Semester Campus Doctor Consultation Schedule
+- **文章網址**: https://www.yzu.edu.tw/admin/st/index.php/tw/?option=com_content&view=article&id=6512
+- **文章簡介**: Dear Faculty, Staff, and Students,
+
+1.The on-campus physician consultation hours for the 114-2 semester are listed in the table below. If you require medical treatment or consultation, please visit the Health Protection Division on the 1st floor of the Third Dormitory during the physician’s service hours.
+
+2.If you experience any discomfort outside of the consultation hours, please seek medical attention at a nearby medical institution. Oral medications must be prescribed by a physician after consultation and evaluation, and can only be dispensed by a pharmacist. Therefore, medications cannot be provided outside of the scheduled consultation hours. Thank you for your understanding and cooperation.
+
+
+
+Note: Nearby medical institutions can be found at:
+ https://www.yzu.edu.tw/admin/st/index.php/tw/component/sppagebuilder/page/106
+
+With care from the Sanitary & Health Care Section, Student Affairs Office
+- **文章全文**: 
+- **文章更新日期**: 2026/2/24 上午 02:59:33
+- **文章發表日期**: 2026/2/24 上午 02:56:56
+- **文章點擊數**: 49
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: index.php/tw/component/sppagebuilder/page/106
+- **2. [超連結（檔案）]**: index.php/tw/component/sppagebuilder/page/106
+- **3. [圖片]**: images/111衛保組_健促/1150224.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=161d5b671afd75c7 -->
+#### OCR 3: images/111衛保組_健促/1150224.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/st/images/111衛保組_健促/1150224.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/161d5b671afd75c7_1150224.md
+- OCR 狀態: completed_cached
+- OCR 字數: 841
+- 驗證狀態: ok
+
+```markdown
+## 114學年度第二學期 校醫駐診時間表
+
+## '114-2 Semester Campus Doctor Consultation Schedule 2026/02/23 \~ 2026/06/26
+
+<table><tr><td rowspan=1 colspan=1>星期二 (Tuesday)</td><td rowspan=1 colspan=1>星期四 (Thursday)</td></tr><tr><td rowspan=1 colspan=1>13:00-15:00</td><td rowspan=1 colspan=1>14:00-16:00</td></tr><tr><td rowspan=1 colspan=1>急診專科(Emergency Medicine)</td><td rowspan=1 colspan=1>復健科(Rehabilitation Medicine)</td></tr></table>
+
+非駐診時段若有不適症狀，請前往鄰近醫療院所就醫.口服藥物須由醫師診視評估後開立處方，再由藥師發放，恕無法於非駐診時段提供，感謝您的理解與配合！
+
+If you experience any discomfort outside these hours,kindly visit a nearby medical facility for treatment, Oral medication can only be prescribed after a doctor's consultation and will be dispensed by a pharmacist. It will not be available outside. 衛生保健組服務時間：週一至週五8:00-17:00
+
+Sanitary&HealthCareSectionService hours:Monday toFriday8:0OAMto5:0oPM
+```
+
+<!-- OCR_END -->
+
+
+---

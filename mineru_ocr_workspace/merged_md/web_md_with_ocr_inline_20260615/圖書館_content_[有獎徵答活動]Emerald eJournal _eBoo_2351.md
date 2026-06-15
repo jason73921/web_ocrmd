@@ -1,0 +1,77 @@
+﻿# 網站文章資料_[有獎徵答活動]Emerald eJournal /eBooks Quiz 測驗｜全球財富地圖大測驗_2351
+
+## 一、文章基本資料
+
+- **文章ID**: 2351
+- **文章標題**: [有獎徵答活動]Emerald eJournal /eBooks Quiz 測驗｜全球財富地圖大測驗
+- **文章網址**: https://www.yzu.edu.tw/library/index.php/tw/is-202510011105
+- **文章簡介**: 活動名稱：Emerald eJournal /eBooks Quiz 測驗｜全球財富地圖大測驗
+
+五分鐘挑戰你的財富知識！想知道全球財富如何分布？誰擁有最多資產？快來挑戰看看！
+
+Quiz連結:https://forms.office.com/e/4su4E3MGDQ
+
+活動期間：即日起至 2025 年 11 月 28 日（五）台灣時間 17:00 截止
+
+活動獎項
+
+○  一獎｜Nintendo Switch 2 遊戲機 × 1 名
+
+○  二獎｜樂扣 不鏽鋼吸管杯 × 2 名
+
+○  三獎｜全家便利商店 NT$200 禮物卡 × 15 名
+
+○  每週加碼｜星巴克禮券 × 每週 1 名 共七週
+
+活動辦法：
+
+○  請確認您的裝置連線於貴校網域內，否則可能無法點閱文章。
+
+○  星巴克禮券（每週 1 名，首抽會在10/13號開始，限已在學校網域下完成 Emerald Insight 註冊之用戶，註冊資格將由後台確認。）
+
+○  每人每日限填寫一次，我們將以「姓名 + Email」為判斷依據，重複作答不予計算。
+
+○  本活動開放給台灣所有大專校院的在校學生及現任教職員參加。
+
+○  中獎者若於通知寄出後 10 個工作天內未回覆，將視同放棄，並重新抽出得獎者
+- **文章全文**: 
+- **文章更新日期**: 2025/10/7 上午 03:10:52
+- **文章發表日期**: 2025/10/7 上午 03:10:52
+- **文章點擊數**: 269
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://forms.office.com/e/4su4E3MGDQ
+- **2. [超連結（網站）]**: https://forms.office.com/e/4su4E3MGDQ
+- **3. [圖片]**: images/main/news/1141/is-202510071106.png
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=edc160e64a7873a5 -->
+#### OCR 3: images/main/news/1141/is-202510071106.png
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/news/1141/is-202510071106.png
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/edc160e64a7873a5_is-202510071106.md
+- OCR 狀態: completed
+- OCR 字數: 118
+- 驗證狀態: ok
+
+```markdown
+Emerald Publishing2025 2H Quiz全球財富分配知識大挑戰
+
+Quiz活動期間  
+至即日起至  
+2025年11月28日  
+Quiz now.  
+Switch 2等  
+豐富好禮等你
+
+立即掃碼參加Quiz
+```
+
+<!-- OCR_END -->
+
+
+---

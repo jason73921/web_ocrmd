@@ -1,0 +1,37 @@
+﻿# 網站文章資料_【Student Housing Service Section Announcement】Notice on Bus Service Change(2023/6/17-9/10)暑假校園公車停駛公告(2023/6/17-9/10)_3738
+
+## 一、文章基本資料
+
+- **文章ID**: 3738
+- **文章標題**: 【Student Housing Service Section Announcement】Notice on Bus Service Change(2023/6/17-9/10)暑假校園公車停駛公告(2023/6/17-9/10)
+- **文章網址**: 
+- **文章簡介**: 公告日期：2023年6月14日(星期三)
+
+
+Bus No.155 and No.156 will not enter the campus during Summer Vacation starting from 2023 Jun. 17h (Sat.) to 2023 Sep. 10th (Sun.), the bus will resume its regular routine from 2023/9/11 (Mon), sorry for the inconvenience.
+
+ 
+
+暑假期間2023/6/17 (六) - 9/10 (日)，
+
+155、156號公車將暫停駛入校園，
+
+自2023/9/11(一)恢復正常運行，
+
+造成不便請見諒。
+
+ 
+
+學生事務處宿舍服務組 Student Housing Service Section
+- **文章全文**: 
+- **文章更新日期**: 2023/6/15 上午 06:07:00
+- **文章發表日期**: 2023/6/13 上午 10:02:42
+- **文章點擊數**: 1012
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+（無關聯檔案）
+
+---

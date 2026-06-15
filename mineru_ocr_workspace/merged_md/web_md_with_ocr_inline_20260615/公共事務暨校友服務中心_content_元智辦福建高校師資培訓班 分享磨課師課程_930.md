@@ -1,0 +1,79 @@
+﻿# 網站文章資料_元智辦福建高校師資培訓班 分享磨課師課程_930
+
+## 一、文章基本資料
+
+- **文章ID**: 930
+- **文章標題**: 元智辦福建高校師資培訓班 分享磨課師課程
+- **文章網址**: https://www.yzu.edu.tw/admin/pr/index.php/tw/
+- **文章簡介**: 
+- **文章全文**: 【中央社】
+
+中國大陸福建省教育廳為提升大學院校教師的職業水平，委託元智大學與廈門理工學院共同承辦「福建應用型本科高校理工領域師資閩台聯合培訓班」，自4月11日至22日，來自福建22所高校的專業帶頭人與骨幹教師們，共計30位老師到元智大學進行為期二週的集中培訓。 
+
+
+廈門城市職業學院豐海老師擔任本團領隊，他表示，春天是各種養分都很充足的一個季節，很榮幸接受元智大學各種養分的滋潤，希望學成之後，回到各自學校將所學傳遞給學生，相信兩岸的學術交流，會因為元智大學的貢獻而變得更加精采。 
+
+元智大學教務處為此次承辦培訓班的主辦單位，元智大學教務長張百棧表示，為推展理論與實務互動學習及經驗分享，精心籌畫一系列創新課程，以工作坊形式教學，並分享磨課師（MOOCs大陸稱為慕課專題）介紹教材製作、線上討論、翻轉教室及資訊輔助教學之應用。張百棧表示，整個課程內容有分析國際高等教育趨勢、挑戰及創新轉型因應之道等，並分享最新教學方法、教室經營管理技巧，以改善師生互動。課程中並安排參訪瞭解臺灣產業發展趨勢，特別安排遠東集團相關產業如遠傳電訊、東聯化學、遠東研究中心參觀。 
+
+元智大學表示，整個課程依專業研究領域分組座談，瞭解兩岸學者在教學及研究的策略方向，以及學術生涯發展的規劃，有助建立未來合作網路。在學生方面則邀請陸生及台生一起座談，從學生角度比較兩岸高教，分享學習經驗。 
+
+
+「福建本科高校和高職院校理工領域師資閩台聯合培訓計畫」為兩岸首開大規模的學術交流，此次交流培訓班不僅能共同提升教學能量，奠定兩岸紮實、寬廣的學術合作基礎，也深具正面意義。
+
+
+
+福建高校師資閩台培訓班開業典禮合影留念 
+
+
+磨課師課程設計與實踐由工管系蔡介元教授上課 
+
+
+【2016/04/21】
+- **文章更新日期**: 2016/5/3 上午 10:13:26
+- **文章發表日期**: 2016/4/21 上午 09:28:00
+- **文章點擊數**: 1103
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/admin/pr/images/main/20160419%E7%A6%8F%E5%BB%BA%E9%AB%98%E6%A0%A1%E5%B8%AB%E8%B3%87%E9%96%A9%E5%8F%B0%E5%9F%B9%E8%A8%93%E7%8F%AD%E9%96%8B%E6%A5%AD%E5%85%B8%E7%A6%AE%E5%90%88%E5%BD%B1%E7%95%99%E5%BF%B5.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=ed53fbfdfbb83c78 -->
+#### OCR 1: http://www.yzu.edu.tw/admin/pr/images/main/20160419%E7%A6%8F%E5%BB%BA%E9%AB%98%E6%A0%A1%E5%B8%AB%E8%B3%87%E9%96%A9%E5%8F%B0%E5%9F%B9%E8%A8%93%E7%8F%AD%E9%96%8B%E6%A5%AD%E5%85%B8%E7%A6%AE%E5%90%88%E5%BD%B1%E7%95%99%E5%BF%B5.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/main/20160419福建高校師資閩台培訓班開業典禮合影留念.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ed53fbfdfbb83c78_20160419福建高校師資閩台培訓班開業典禮合影留念.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/f65e5042f778ae149486473fc1bdb976bd4275bbb6207d74fff9201c9a17bb2d.jpg)
+```
+
+<!-- OCR_END -->
+
+- **2. [圖片]**: http://www.yzu.edu.tw/admin/pr/images/main/20160419%E6%85%95%E8%AA%B2%E8%AA%B2%E7%A8%8B%E8%A8%AD%E8%A8%88%E8%88%87%E5%AF%A6%E8%B8%90%E7%94%B1%E5%B7%A5%E7%AE%A1%E7%B3%BB%E8%94%A1%E4%BB%8B%E5%85%83%E6%95%99%E6%8E%88%E4%B8%8A%E8%AA%B2.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=322b029ea819c84c -->
+#### OCR 2: http://www.yzu.edu.tw/admin/pr/images/main/20160419%E6%85%95%E8%AA%B2%E8%AA%B2%E7%A8%8B%E8%A8%AD%E8%A8%88%E8%88%87%E5%AF%A6%E8%B8%90%E7%94%B1%E5%B7%A5%E7%AE%A1%E7%B3%BB%E8%94%A1%E4%BB%8B%E5%85%83%E6%95%99%E6%8E%88%E4%B8%8A%E8%AA%B2.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/main/20160419慕課課程設計與實踐由工管系蔡介元教授上課.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/322b029ea819c84c_20160419慕課課程設計與實踐由工管系蔡介元教授上課.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/0313a2d80d69ba8985366f16314605f40e3be3e9f96ad4d6bbcb644bb471f46b.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

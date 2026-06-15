@@ -1,0 +1,221 @@
+﻿# 網站文章資料_【Internship Recruitment】 Kaohsiung Public Library: "2026 Summer Internship Program – 184 Openings Available"_8435
+
+## 一、文章基本資料
+
+- **文章ID**: 8435
+- **文章標題**: 【Internship Recruitment】 Kaohsiung Public Library: "2026 Summer Internship Program – 184 Openings Available"
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=8435
+- **文章簡介**: The Kaohsiung Public Library is offering a total of 184 internship positions for the summer of 2026. For detailed information, please refer to the following documents:
+
+
+
+Summary of Summer Internship Openings 
+
+
+
+
+Summer Internship Application Instructions 
+
+
+
+
+Internship Code of Conduct/Regulations 
+
+
+
+
+ 
+
+Internship Period and Terms:
+
+
+
+Period: July 1, 2026, to August 21, 2026.
+
+
+
+
+Compensation: This is an unpaid internship. The Library does not provide any remuneration, meals, accommodation, transportation, or insurance.
+
+
+
+
+Insurance Requirement: To ensure student safety during the internship, universities or students must arrange for relevant accidental injury insurance for all admitted interns.
+
+
+
+
+ 
+
+Application Details:
+
+
+
+Application Period: From now until April 17, 2026 (Friday).
+
+
+
+
+How to Apply: Applications are accepted exclusively via the online registration form: https://forms.gle/Z8PYeXzrvw8Xdejn6
+
+
+
+
+(Late applications will not be processed.)
+
+
+
+
+ 
+
+Admission Notification:
+
+The list of admitted interns is expected to be announced by June 5, 2026 (Friday). Notification will be sent via formal letter to the university and posted on the official library website.
+- **文章全文**: 
+- **文章更新日期**: 2026/3/18 上午 02:51:37
+- **文章發表日期**: 2026/3/18 上午 02:51:37
+- **文章點擊數**: 63
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/115年度大學院校暑期實習名額彙整表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=1f3b7e7cdda5c044 -->
+#### OCR 1: files/115年度大學院校暑期實習名額彙整表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/115年度大學院校暑期實習名額彙整表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/1f3b7e7cdda5c044_115年度大學院校暑期實習名額彙整表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 22418
+- 驗證狀態: ok
+
+```markdown
+<table><tr><td colspan="9" rowspan="1">高雄市立圖書館115年度大學院校暑期實習名額彙整表</td></tr><tr><td colspan="1" rowspan="1">代號</td><td colspan="1" rowspan="1">實習單位(總館部門分館)</td><td colspan="1" rowspan="1">實習項目</td><td colspan="1" rowspan="1">實習名额</td><td colspan="1" rowspan="1">特殊專長需求</td><td colspan="1" rowspan="1">實習地址</td><td colspan="1" rowspan="1">連絡人</td><td colspan="1" rowspan="1">連絡人電話</td><td colspan="1" rowspan="1">備註</td></tr><tr><td colspan="1" rowspan="1">A01</td><td colspan="1" rowspan="1">總館-採編部4</td><td colspan="1" rowspan="1">1.每月新出版圖書圖書資訊整理、新書選書推薦2.每月好書講座活動活動協助(含社群文案撰寫)3.政府出版品寄存即贈書登記.圖書加工作業</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">喜愛關註新書出版及行銷活動尤佳</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號5樓</td><td colspan="1" rowspan="1">薛雅君</td><td colspan="1" rowspan="1">07-5360238#5110</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A02</td><td colspan="1" rowspan="1">總館-研發部(生活索書號)</td><td colspan="1" rowspan="1">選務店相關販售業務</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號3樓</td><td colspan="1" rowspan="1">林以婷</td><td colspan="1" rowspan="1">07-5360238#3600</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A03</td><td colspan="1" rowspan="1">總館-總務部</td><td colspan="1" rowspan="1">1.協助財產盤點2.資料登打、整理</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">王卿娘</td><td colspan="1" rowspan="1">07-5360238#8901</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A04</td><td colspan="1" rowspan="1">總館-國際繪本部</td><td colspan="1" rowspan="1">1.圖書流通上架及整理。2.閱覽環境檢視及維護。3.協助櫃台館員之讀者服務。4.協助業務執行5.主管交辦計畫(策畫小書展或說故事活動等)6.其他臨時交辦事項</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">喜愛繪本尤佳喜愛兒童尤佳(需可接受孩童聲)</td><td colspan="1" rowspan="1">前鎮區新光路61號</td><td colspan="1" rowspan="1">李靜怡</td><td colspan="1" rowspan="1">07-5360238#1157</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A05</td><td colspan="1" rowspan="1">總館-人力資源部</td><td colspan="1" rowspan="1">協助人事相關業務</td><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">葉子櫻</td><td colspan="1" rowspan="1">07-5360238#8015</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A06</td><td colspan="1" rowspan="1">總館-閱覽部</td><td colspan="1" rowspan="1">閱覽流通服務及活動支援</td><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">電腦文書操作</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">許芬雅</td><td colspan="1" rowspan="1">07-5360238#3209</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A07</td><td colspan="1" rowspan="1">總館-系統部</td><td colspan="1" rowspan="1">智慧圖書館相關業務</td><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">高右臻</td><td colspan="1" rowspan="1">07-5360238#8803</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A08</td><td colspan="1" rowspan="1">總館-多元文化部12</td><td colspan="1" rowspan="1">.書籍通閱處理.協助閱讀推廣活動</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">具外語能力者佳</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">林子娣</td><td colspan="1" rowspan="1">07-5360238#5506</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A09</td><td colspan="1" rowspan="1">總館-推廣部4</td><td colspan="1" rowspan="1">1.協助導覽接待2.閱讀推廣活動現場見習3.社群媒體文案及影音製作.行政或活動支援</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">1.設計排版2.有行銷活動經驗尤佳</td><td colspan="1" rowspan="1">高雄市前鎮區新光路61號</td><td colspan="1" rowspan="1">饒宜姍</td><td colspan="1" rowspan="1">07-5360238#8304</td><td colspan="1" rowspan="1">高雄市立圖書館總館</td></tr><tr><td colspan="1" rowspan="1">A10</td><td colspan="1" rowspan="1">文化中心分館</td><td colspan="1" rowspan="1">1.顧客服務-流通櫃台作業借還書服務2.圖書館環境布置美化、簡報製作3.圖書典藏整理4.讀者需求及滿意度調查5.數位電子資源及閱讀推廣行銷</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">1.1-2名具有投影片製作、活動海報設計製作專長2.外語能力強佳(英文韓文優)3.數位資源檢索能力強或善於活動帶領佳4.熟悉圖書資料(含雜誌)管理佳5.策展規劃能力文案強者佳</td><td colspan="1" rowspan="1">高雄市苓雅區五福一路67號</td><td colspan="1" rowspan="1">洪慈芬主任</td><td colspan="1" rowspan="1">07-2288919</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A11</td><td colspan="1" rowspan="1">新興分館45</td><td colspan="1" rowspan="1">1.協助圖書上架、整架、調整櫃位、盤點2.櫃檯流通讀者服務3.行政或活动支援及拍照.館舍美化.其他臨時交辦事項</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1.擅電腦文書處理2.擅美工軟體佳(AI、PS、CANVA皆可)</td><td colspan="1" rowspan="1">高雄市新興區中正三路34號3樓</td><td colspan="1" rowspan="1">張瑜洳</td><td colspan="1" rowspan="1">07-2372563</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A12</td><td colspan="1" rowspan="1">新興民眾閱覽室45</td><td colspan="1" rowspan="1">1.協助圖書上架、整架、調整櫃位2.櫃檯流通讀者服務3.行政或活動支援及拍照.館舍美化.其他臨時交辦事項</td><td colspan="1" rowspan="1">2 2</td><td colspan="1" rowspan="1">1.擅電腦文書處理.擅美工軟体佳</td><td colspan="1" rowspan="1">高雄市新興區民生一路271號</td><td colspan="1" rowspan="1">藍婉菱</td><td colspan="1" rowspan="1">07-241-1805</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A13</td><td colspan="1" rowspan="1">1寶珠分館</td><td colspan="1" rowspan="1">.閱覽流通業務2.櫃台讀者服務3.挪架移架報銷等協助4.推廣活動協辦與紀錄</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">1.電腦操作文書處理2.文宣排版設計、攝影剪輯</td><td colspan="1" rowspan="1">高雄市三民區大順二路468號4樓</td><td colspan="1" rowspan="1">辜苹紋</td><td colspan="1" rowspan="1">07-3950813</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A14</td><td colspan="1" rowspan="1">三民分館</td><td colspan="1" rowspan="1">1.協助各研習、座等文化推活動之辦理2.協助活動會場布置、海報設計製作3.圖書流通作業與閱覽諮詢服務4.運用自身專業能力服務民眾5.訓練處理事情的危機反應</td><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">諳電腦操作</td><td colspan="1" rowspan="1">高雄市三民區十全一路220號</td><td colspan="1" rowspan="1">吳慧真主任</td><td colspan="1" rowspan="1">07-3225528</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">代號</td><td colspan="1" rowspan="1">實習單位(總館部門分館)</td><td colspan="1" rowspan="1">實習項目</td><td colspan="1" rowspan="1">宾名</td><td colspan="1" rowspan="1">特殊專長需求</td><td colspan="1" rowspan="1">實習地址</td><td colspan="1" rowspan="1">連絡人</td><td colspan="1" rowspan="1">連絡人電話</td><td colspan="1" rowspan="1">備註</td></tr><tr><td colspan="1" rowspan="1">A15</td><td colspan="1" rowspan="1">鼓山分館</td><td colspan="1" rowspan="1">1.提供圖書資訊服務及推廣城市閱讀活動2.圆整理上架、整架3.協助櫃台流通作業4.協助各項活動之籌備5.協助資料之整理6.其他臨時交辦事項</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">熟諳電腦操作</td><td colspan="1" rowspan="1">高雄市鼓山區鼓山三路19-3號</td><td colspan="1" rowspan="1">陳宜君</td><td colspan="1" rowspan="1">07-551555407-5615393</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A16</td><td colspan="1" rowspan="1">左營分館5</td><td colspan="1" rowspan="1">1.提供圖書資訊服務及推廣城市閱讀活動2.圖書整理.上架、整架3.協助櫃台流通作業4.協助各項活動之籌備.協助資料之整理6.其他臨時交辦事項</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">熟諳電腦操作</td><td colspan="1" rowspan="1">高雄市左營區啟文路12號(海青工商東南側)</td><td colspan="1" rowspan="1">蔡明純</td><td colspan="1" rowspan="1">07-582051407-5839802</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A17</td><td colspan="1" rowspan="1">美濃分館      2</td><td colspan="1" rowspan="1">1.圖書閱覽管理與櫃檯流通服務.協助辦理閱讀推廣活動</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市美濃區中正路一段59號</td><td colspan="1" rowspan="1">陳明珠</td><td colspan="1" rowspan="1">07-6817002</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A18</td><td colspan="1" rowspan="1">1大寮分館</td><td colspan="1" rowspan="1">.閱覽流通業務2.櫃台讀者服務3.挪架移架報銷等協助4.推廣活動協辦與紀錄</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1.基本文書處理2.有文宣美編計能力佳</td><td colspan="1" rowspan="1">高雄市大寮區進學路133號</td><td colspan="1" rowspan="1">周淑芳</td><td colspan="1" rowspan="1">07-7826855</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A19</td><td colspan="1" rowspan="1">1鹽埕分館</td><td colspan="1" rowspan="1">.圖書整理2.櫃台流通作業服務3.協助閱讀推廣活動辦理4.協助社群媒體經營及文案影音製作</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">具備設計、美編能力者尤佳</td><td colspan="1" rowspan="1">高雄市鹽埕區大仁路179號6樓</td><td colspan="1" rowspan="1">陳宣穎</td><td colspan="1" rowspan="1">07-5322912</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A20</td><td colspan="1" rowspan="1">南鼓山分館</td><td colspan="1" rowspan="1">1.圖書上架、整架、清潔整理2.服務台借還書3.行政或活動支援及拍照</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市鼓山區延平街87-13號4樓</td><td colspan="1" rowspan="1">張婉瑜</td><td colspan="1" rowspan="1">07-5610940</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A21</td><td colspan="1" rowspan="1">楠仔坑分館</td><td colspan="1" rowspan="1">1.圖書閱覽管理與讀者服務2.協助推廣活動辦理執行3.協助社群媒體文案及影音素材彙編製作4.其他臨時交辦事項</td><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">具備設計/美編能力或外語專長者尤佳</td><td colspan="1" rowspan="1">高雄市楠梓區楠梓路262號(楠仔坑圖書館在旗楠路上·楠梓派出所旁邊)</td><td colspan="1" rowspan="1">莊幸蓉</td><td colspan="1" rowspan="1">07-3551381</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A22</td><td colspan="1" rowspan="1">翠屏分館</td><td colspan="1" rowspan="1">1. 圖書閱覽管理與讀者服務2.協助推廣活動辦理執行3.協助社群媒體文案及影音素材彙編製作4.其他臨時交辦事項</td><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">具備設計/美編能力或外語專長者尤佳</td><td colspan="1" rowspan="1">高雄市楠梓區德惠路55號3樓(翠屏圖書館在翠屏里活動中心3樓)</td><td colspan="1" rowspan="1">黃瓊瑢</td><td colspan="1" rowspan="1">07-3639358</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A23</td><td colspan="1" rowspan="1">林園分館</td><td colspan="1" rowspan="1">1.櫃台流通作業2.圖書整理相關業務3.協助各項活動業務</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市林園區林園北路236號</td><td colspan="1" rowspan="1">韓素月</td><td colspan="1" rowspan="1">07-6431419</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A24</td><td colspan="1" rowspan="1">1林園二館      23</td><td colspan="1" rowspan="1">.圖書上架、整架.櫃台服務.活动支援</td><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">電腦文書操作</td><td colspan="1" rowspan="1">高雄市林園區西溪路56-20號2樓</td><td colspan="1" rowspan="1">康小玲</td><td colspan="1" rowspan="1">07-6434731</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A25</td><td colspan="1" rowspan="1">1小港分館</td><td colspan="1" rowspan="1">.櫃台流通作業2.協助圖書資料整理3.其他臨時交辦事項</td><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市小港區博學路365號</td><td colspan="1" rowspan="1">李雅華</td><td colspan="1" rowspan="1">07-8021512</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A26</td><td colspan="1" rowspan="1">中崙分館</td><td colspan="1" rowspan="1">1.圖書流通上架及整理2.閱覽環境檢視及維持3.協助辦理暑期閱讀推廣活動</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">對文化、閱讀、設計、活動有興趣</td><td colspan="1" rowspan="1">高雄市鳳山區中崙五路1號</td><td colspan="1" rowspan="1">邱敏媛主任</td><td colspan="1" rowspan="1">07-7555508</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">代號</td><td colspan="1" rowspan="1">實習單位(總館部門分館)</td><td colspan="1" rowspan="1">實習項目</td><td colspan="1" rowspan="1">實習名额</td><td colspan="1" rowspan="1">特殊專長需求</td><td colspan="1" rowspan="1">實習地址</td><td colspan="1" rowspan="1">連絡人</td><td colspan="1" rowspan="1">連絡人電話</td><td colspan="1" rowspan="1">備註</td></tr><tr><td colspan="1" rowspan="1">A27</td><td colspan="1" rowspan="1">鳳二分館</td><td colspan="1" rowspan="1">1.櫃台流通作業。2.協助圖書資料整理。3.其他臨時交辦事項。</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市鳳山區自強一路119巷75號</td><td colspan="1" rowspan="1">楊美玲</td><td colspan="1" rowspan="1">07-8415875</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A28</td><td colspan="1" rowspan="1">前鎮分館</td><td colspan="1" rowspan="1">1.圖書流通上架及整理2.閱覽環境檢視及維持3.協助規劃及辦理每月主題閱讀推廣活動</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區保泰路303號5樓</td><td colspan="1" rowspan="1">黃惠雀</td><td colspan="1" rowspan="1">07-7173008</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A29</td><td colspan="1" rowspan="1">文學館</td><td colspan="1" rowspan="1">地方文學展示、文學典藏研究</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">文學、博物館相關(符合其一即可)</td><td colspan="1" rowspan="1">高雄市前金區民生二路39號</td><td colspan="1" rowspan="1">王珮穎</td><td colspan="1" rowspan="1">07-2611706</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A30</td><td colspan="1" rowspan="1">2橋頭分館</td><td colspan="1" rowspan="1">1.閱覽服務.讀者服務3.協助閱讀推廣活動4.海報設計、社群媒體文案撰寫及影音製作5.環境清潔維護</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市橋頭區隆豐路7號</td><td colspan="1" rowspan="1">許碧真</td><td colspan="1" rowspan="1">07-6110154</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A31</td><td colspan="1" rowspan="1">岡山分館</td><td colspan="1" rowspan="1">1.服務台流通及參考詢服務2.協助文書整理及活動辦理3.圖書上架、整架4.環境整理維護5.其他臨時交辦事項</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市岡山區公園路2之1號</td><td colspan="1" rowspan="1">朱品錡主任</td><td colspan="1" rowspan="1">07-6224518#33</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A32</td><td colspan="1" rowspan="1">彌陀分館4</td><td colspan="1" rowspan="1">1.閱覽流通業務2.台讀者服務3.閱讀推廣協辦.協助整理館舍環境</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市彌陀區四維路1之1號</td><td colspan="1" rowspan="1">魏均庭</td><td colspan="1" rowspan="1">07-6102317</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A33</td><td colspan="1" rowspan="1">彌陀公園分館</td><td colspan="1" rowspan="1">1.閱覽流通業務2.櫃台讀者服務3.閱讀推廣協辦4.數位機會中心課程協力</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市彌陀區中正路281巷50號</td><td colspan="1" rowspan="1">陳雅燕</td><td colspan="1" rowspan="1">07-6107928</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A34</td><td colspan="1" rowspan="1">旗津分館</td><td colspan="1" rowspan="1">1.圖書上架整架清潔整理2.服務台借還書</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市旗津區中洲三路528號</td><td colspan="1" rowspan="1">林上渼</td><td colspan="1" rowspan="1">07-5715785</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A35</td><td colspan="1" rowspan="1">草衙分館</td><td colspan="1" rowspan="1">1.協助辦理櫃檯流通服務2.協助執行閱讀推廣活動3.協助盤點、通閱書整理</td><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前鎮區新衙路17號</td><td colspan="1" rowspan="1">林家慶</td><td colspan="1" rowspan="1">07-8126708</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A36</td><td colspan="1" rowspan="1">阿蓮分館</td><td colspan="1" rowspan="1">1.圖書上架、整架2.櫃台服務3.行政、活動支援</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">電腦操作</td><td colspan="1" rowspan="1">高雄市阿蓮區中正路381巷35號2樓</td><td colspan="1" rowspan="1">古哲安主任</td><td colspan="1" rowspan="1">07-6312144</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A37</td><td colspan="1" rowspan="1">左新分館</td><td colspan="1" rowspan="1">1.圖書櫃台流通處理2.圖書上架整理3.活動協辦執行4.活動海報繪製協助</td><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市左營區博愛三路453號</td><td colspan="1" rowspan="1">許惠珍</td><td colspan="1" rowspan="1">07-3500228</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A38</td><td colspan="1" rowspan="1">大東藝術圖書館</td><td colspan="1" rowspan="1">1.圖書館參考服務2.協助藝術館藏書展活動策畫</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1.平面設計、美編2.影像拍攝剪輯、活動企劃</td><td colspan="1" rowspan="1">高雄市鳳山區光遠路161號</td><td colspan="1" rowspan="1">陳啟東</td><td colspan="1" rowspan="1">07-7430011#1147</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A39</td><td colspan="1" rowspan="1">岡山文化中心分館</td><td colspan="1" rowspan="1">1.圖書上架、整架、清潔整理2.服務台借還書3.行政或活動支援及拍照</td><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">岡山區岡山南路43號</td><td colspan="1" rowspan="1">莊萬里主任</td><td colspan="1" rowspan="1">07-6262620</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A40</td><td colspan="1" rowspan="1">右昌分館</td><td colspan="1" rowspan="1">1.圖書上架、整架、清潔整理2.服務台借還書4.行政或活動支援及拍照</td><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市楠梓區藍昌路72號</td><td colspan="1" rowspan="1">莊萬里主任</td><td colspan="1" rowspan="1">07-3631338</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A41</td><td colspan="1" rowspan="1">旗山分館</td><td colspan="1" rowspan="1">圖書館相關業務及活動協助</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市旗山區中學路42號</td><td colspan="1" rowspan="1">洪瑋聯</td><td colspan="1" rowspan="1">07-6626536</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A42</td><td colspan="1" rowspan="1">燕巢分館</td><td colspan="1" rowspan="1">數位中心課程支援、圖書館流通服務</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">電腦圖像美編.影片剪輯.平板電導操作</td><td colspan="1" rowspan="1">高雄市燕巢區中民路592號</td><td colspan="1" rowspan="1">蔡英惠主任</td><td colspan="1" rowspan="1">07-6168670</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">代號</td><td colspan="1" rowspan="1">實習單位(總館部門、分館)</td><td colspan="1" rowspan="1">實習項目</td><td colspan="1" rowspan="1">名</td><td colspan="1" rowspan="1">特殊專長需求</td><td colspan="1" rowspan="1">實習地址</td><td colspan="1" rowspan="1">連絡人</td><td colspan="1" rowspan="1">連絡人電話</td><td colspan="1" rowspan="1">備註</td></tr><tr><td colspan="1" rowspan="1">A43</td><td colspan="1" rowspan="1">澄觀分館</td><td colspan="1" rowspan="1">通閱相關業務</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市仁武區澄仁路200號</td><td colspan="1" rowspan="1">金美妤</td><td colspan="1" rowspan="1">07-3747592</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A44</td><td colspan="1" rowspan="1">中庄分館</td><td colspan="1" rowspan="1">1.流通櫃台相關業務2.網路借書通閱服務3.挪架移架報銷等協助4.推廣活動協辦與紀錄</td><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">1.基本文書處理2.有文宣美編設計能力佳</td><td colspan="1" rowspan="1">高雄市大寮區光明路三段1437號</td><td colspan="1" rowspan="1">蔡承真</td><td colspan="1" rowspan="1">07-7023199</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A45</td><td colspan="1" rowspan="1">河堤分館</td><td colspan="1" rowspan="1">1.圖書流通管理與讀者服務2.協助文宣品發想與設計3.協助推廣活動辦理執行</td><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">具備設計/美編能力專長者尤佳</td><td colspan="1" rowspan="1">高雄市三民區裕誠路1號</td><td colspan="1" rowspan="1">王乃妍</td><td colspan="1" rowspan="1">07-3412637</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A46</td><td colspan="1" rowspan="1">李科永分館4</td><td colspan="1" rowspan="1">1.協助辦理閱讀推廣活動2.協助辦理文宣設計3.流通櫃台服務.書籍整理、盤點</td><td colspan="1" rowspan="1">6</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市前金區民生二路37號</td><td colspan="1" rowspan="1">王詩凱</td><td colspan="1" rowspan="1">07-2610005</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A47</td><td colspan="1" rowspan="1">苓雅分館</td><td colspan="1" rowspan="1">1.協飭理閱讀推廣活動2.協助辦理文宣設計3.流通櫃台服務5.書籍整理、盤點</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市苓雅區青年二路101號4-5樓</td><td colspan="1" rowspan="1">王詩凱</td><td colspan="1" rowspan="1">07-5350287</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A48</td><td colspan="1" rowspan="1">仁武分館</td><td colspan="1" rowspan="1">通閱相關事務</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市仁武區中正區80號</td><td colspan="1" rowspan="1">張美琪</td><td colspan="1" rowspan="1">07-3710955</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A49</td><td colspan="1" rowspan="1">鳥松分館</td><td colspan="1" rowspan="1">1.圖書上架、整架2.協助圖書櫃台流通作業3.協助活動海報設計製作</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市鳥松區鳥松里大仁北路10號</td><td colspan="1" rowspan="1">葉昇達</td><td colspan="1" rowspan="1">07-7314809</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A50</td><td colspan="1" rowspan="1">大社分館</td><td colspan="1" rowspan="1">2.協助圖書櫃台流通作業3.協助活動海報設計製作4.協助書展設計及展出5.協助多元閱讀推廣活動</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市大社區自強街11號</td><td colspan="1" rowspan="1">曹君為</td><td colspan="1" rowspan="1">07-3519582</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A51</td><td colspan="1" rowspan="1">梓官分館</td><td colspan="1" rowspan="1">2.圖書上架及整架3.櫃台流通作業4.協助各項活動之籌備5.協助資料整理</td><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市梓官區梓官路263號</td><td colspan="1" rowspan="1">涂瑞衍</td><td colspan="1" rowspan="1">07-6170324</td><td colspan="1" rowspan="1">高雄市立圖書館分館</td></tr><tr><td colspan="1" rowspan="1">A52</td><td colspan="1" rowspan="1">梓官赤東分館</td><td colspan="1" rowspan="1">2.圖書上架及整架3.櫃台流通作業4.協助各項活動之籌備5.協助資料整理乙.其他臨時交辦事項</td><td colspan="1" rowspan="1">2</td><td colspan="1" rowspan="1">無</td><td colspan="1" rowspan="1">高雄市梓官區赤崁東路48-5號2樓</td><td colspan="1" rowspan="1">蔡幸蓉</td><td colspan="1" rowspan="1">07-6100990</td><td colspan="1" rowspan="1"></td></tr><tr><td colspan="3" rowspan="1">小計</td><td colspan="1" rowspan="1">184</td><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1"></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/2026031716054566089069_11530112100A0C_ATTCH2.docx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=37e3974c7bc26b8b -->
+#### OCR 2: files/2026031716054566089069_11530112100A0C_ATTCH2.docx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/2026031716054566089069_11530112100A0C_ATTCH2.docx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/37e3974c7bc26b8b_2026031716054566089069_11530112100A0C_ATTCH2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 361
+- 驗證狀態: ok
+
+```markdown
+高雄市立圖書館
+
+115年度暑期實習申請作業說明
+
+- 申請期間：即日起至<strong><u>115年4月17日(星期五)止</u></strong>(逾期恕不受理)。
+- 申請方式：
+
+- <strong>一律採<u>網路報名</u>方式</strong>：請於送出前務必確認填寫內容正確，以利後續審查與通知。(報名網址：https://forms.gle/Z8PYeXzrvw8Xdejn6)
+- 請於Google表單內上傳清晰大頭照1張(1MB以內)，檔名請命名「學校-姓名」，檔案格式為JPG**圖片檔**。
+- 報名成功後，系統將發送完成表單的 E-mail 通知，請確認信件以確保報名程序順利完成。
+
+- 錄取通知：錄取名單預計**115年6月5日(星期五)** 前，另函通知學校並公告於高雄市立圖書館網站。
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（檔案）]**: files/2026031716054566089069_11530112100A0C_ATTCH3.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=8c60f7759a989f16 -->
+#### OCR 3: files/2026031716054566089069_11530112100A0C_ATTCH3.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/2026031716054566089069_11530112100A0C_ATTCH3.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8c60f7759a989f16_2026031716054566089069_11530112100A0C_ATTCH3.md
+- OCR 狀態: completed_cached
+- OCR 字數: 427
+- 驗證狀態: ok
+
+```markdown
+## 高雄市立圖書館
+
+## 學生實習規約
+
+一、為使學生有實習之機會，俾理論與實務融合貫通，本館提供學生
+
+實習名額，實習期間不支付任何報酬、膳宿、交通及保險費用。
+
+二、為利學生實習，本館提供辦公設備、電腦、文具用品及參考資料
+
+等予學生使用，並指派專責人員於實習期間督導並協助實習學生
+
+認識工作環境、運作方式與辦理之活動，並提供參與工作之機會。
+
+三、實習學生應接受本館人員之指導，使用設備、文案資料應負有保
+
+密之義務。
+
+四、實習學生應依本館上班時間規定，實習學生不得遲到早退，並按
+
+時簽到退，如需請假應預先告知督導人員；如因業務需要，應配
+
+合加班或假日出勤，並得予補休。
+
+五、實習學生如欲提前於實習期間結束實習，請學校函文至本館。
+
+六、學生實習期間不得從事違法或損害本館權益及聲譽之情事。
+
+七、實習學生如因工作表現不符本館之要求，或未遵守本實習規約規
+
+定，本館得隨時終止實習，不得異議。
+
+八、本規約如有未盡事宜，得隨時補充之。
+```
+
+<!-- OCR_END -->
+
+- **4. [超連結（網站）]**: https://forms.gle/Z8PYeXzrvw8Xdejn6
+- **5. [超連結（網站）]**: https://forms.gle/Z8PYeXzrvw8Xdejn6
+- **6. [圖片]**: images/Internship_Rights_Notice_EN.png
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=36d5f514092dd6c6 -->
+#### OCR 6: images/Internship_Rights_Notice_EN.png
+
+- 關聯類型: 圖片
+- 本機檔案: admin/rd/images/Internship_Rights_Notice_EN.png
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/36d5f514092dd6c6_Internship_Rights_Notice_EN.md
+- OCR 狀態: completed_cached
+- OCR 字數: 906
+- 驗證狀態: ok
+
+```markdown
+![](images/389b18e48b1adb3ce996de60c93e0403506c884d56e212300cb0dc27079cc905.jpg)
+
+## Important Notice: Credits & Rights
+
+ThisanoinrmihilItiTafiliio contracted by the University.
+
+·Credit Recognition: To transfer credits,you MUST confirm with your department before participation and complete the agreement signing and course selection. Retroactive credit recognition is NOT possible.
+
+·Rights Protection:Without completing the official procedure (agreement & course selection)tis is considered a personal "workplace experience." While the University provides consultation and emergency aid, we cannot legally intervene in labor disputes without a tripartite agreement. All rights are subject to the employment contract.
+
+【Regulatory Basis】 Handled in accordance with:
+
+1. MOE Letter No.1142302853 (Jan 9,2026).
+
+2. MOE Letter No. 1142302416 (Dec 18, 2025).
+
+3. Internship Operation Manual (Version 115.01).
+```
+
+<!-- OCR_END -->
+
+
+---

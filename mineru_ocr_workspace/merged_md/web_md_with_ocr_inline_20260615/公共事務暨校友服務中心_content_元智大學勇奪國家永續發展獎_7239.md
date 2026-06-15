@@ -1,0 +1,55 @@
+﻿# 網站文章資料_元智大學勇奪國家永續發展獎_7239
+
+## 一、文章基本資料
+
+- **文章ID**: 7239
+- **文章標題**: 元智大學勇奪國家永續發展獎
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+
+ 元智大學以「深耕永續種子、延續發展動力」為核心推動校務發展，繼2023年經濟部節能標竿教育業組榮獲唯一「金獎」後，再獲國家永續發展獎肯定。頒獎典禮11月30日在台大醫院國際會議中心舉行，由行政院長陳建仁頒獎，元智大學由校長廖慶榮出席代表領獎。
+
+元智大學「以創新教學、重點研究及社會關懷為特色，擁有多元、智慧及人文的永續校園，成為高度國際化的指標大學」為發展願景推動各項工作，首次申請即獲教育類獎項。
+
+在環境永續面向，元智2009年起即運用網路科技及節能設施，建置「校園電力監控及節能管理系統」。早於2009年即通過ISO 14064-1溫室氣體盤查驗證、2011年成為全球第一所通過ISO 50001能源管理系統驗證大學。（待續）
+
+
+
+詳全文：https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-6551594c-a0de-403f-b352-3d36856f66f9&currentCategory=101
+
+【2023/12/04】
+- **文章全文**: 
+- **文章更新日期**: 2023/12/4 上午 02:34:27
+- **文章發表日期**: 2023/12/4 上午 02:34:27
+- **文章點擊數**: 534
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-6551594c-a0de-403f-b352-3d36856f66f9&amp;currentCategory=101
+- **2. [圖片]**: images/20231130-5.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=d4311a000014207f -->
+#### OCR 2: images/20231130-5.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20231130-5.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/d4311a000014207f_20231130-5.md
+- OCR 狀態: completed_cached
+- OCR 字數: 127
+- 驗證狀態: ok
+
+```markdown
+![](images/80a4e041a07ff21671ed85512eaee82d76d4db51dcec646ec3f72433905d3d50.jpg)
+
+## I Sustainable Development Awards
+
+家永續發展委員會
+```
+
+<!-- OCR_END -->
+
+
+---

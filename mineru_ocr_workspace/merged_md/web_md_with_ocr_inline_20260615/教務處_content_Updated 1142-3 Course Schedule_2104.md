@@ -1,0 +1,2340 @@
+﻿# 網站文章資料_Updated 1142-3 Course Schedule_2104
+
+## 一、文章基本資料
+
+- **文章ID**: 2104
+- **文章標題**: Updated 1142-3 Course Schedule
+- **文章網址**: https://www.yzu.edu.tw/admin/aa/index.php/tw/updated-1142-3-course-schedule
+- **文章簡介**: Announcement
+
+Office of Academic Affairs
+
+Date: 2026/02/03
+
+Statement: Updated 1142-3 Course Schedule.
+
+1、The list of the courses Schedule.
+
+2、Notice:
+
+
+For the courses with time adjustment (including required course), course selection system will delete the old time selection and add in the new time selection automatically. If the add-in course with new time causes course schedule conflict, Curriculum Section will inform the student by e-mail.  Student will have to delete the overlapping course before enrolling deadline.
+
+During Stage II and  Stage III course selection period, if students drop of the course that has reached the maximum capacity, the quota won’t be released immediately but after a period (e.g., 10 minutes or 1 hour) randomly.
+
+*Transfer students should confirm the required courses they need to take. If you are unable to add required courses, please contact the department for enquiry.
+
+Period: 2026/02/23 (Mon.)12:00 p.m.~ 2026/03/03(Tue.)12:00 p.m.
+
+The first day 02/23 (Mon.)12:00 p.m. is open only to fourth-year students and the prolonged study students of the two-year undergraduate program, graduate students and students who reached the B2 threshold in the English Examination.
+
+The second day 02/24 (Tue.)12:00 p.m. is open for all students.
+
+
+
+
+Extension students do not need to pay first during the third stage of course selection, and can directly add courses. Payment after course selection is only available through ATM transfer. The payment period is from 2026/03/10 (Tue.) to 2025/03/16(Mon.) at 15:30 pm.
+Query path for payment details of extension students : https://portalfun.yzu.edu.tw/tuiRegistryWeb/login.html
+
+Students who reached the B2 threshold in the English Examination. Please submit your scores in the Portal language license area no later than the final exam week of the previous semester, and the list will be captured (only students below senior year will be captured).
+
+Students should always be aware of the individual Confirmation of 1142 online course sign-up sheets at Portal / Academics / Elective System / Course Selection List / Confirmation. The sheet mentioned above must be confirmed on line by 2026/03/16(Mon.) , when credit fees refund calculation will be made for prolonged students.
+
+
+3、On-line course selection system:
+
+
+YZU homepage/Course Selection System/On-line Course Selectionhttps://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+
+YZU homepage/Portal/ Academics/Elective System/ Course Selection System/On-line Course Selection.
+
+
+4、Other Links:
+
+
+Course Selection System Manual
+
+Courses Sign-Up Schedule
+
+Course Selection Notification
+
+University Curriculum
+
+
+Office of Academic Affairs, Curriculum Section
+- **文章全文**: 
+- **文章更新日期**: 2026/2/3 上午 08:22:47
+- **文章發表日期**: 2026/2/2 上午 07:09:35
+- **文章點擊數**: 0
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/Curriculum/1142三階選課異動公告0203.xlsx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=9873fa2bf01c96f3 -->
+#### OCR 1: files/Curriculum/1142三階選課異動公告0203.xlsx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/aa/files/Curriculum/1142三階選課異動公告0203.xlsx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/9873fa2bf01c96f3_1142三階選課異動公告0203.md
+- OCR 狀態: completed_cached
+- OCR 字數: 65943
+- 驗證狀態: ok
+
+```markdown
+<table>
+  <tr>
+    <th colspan="13"><p>教師姓名(紫字為待聘)</p></th>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2"><p>異動類別/ Category</p></td>
+    <td><p>系所代碼/</p></td>
+    <td><p>開課系所(中)/</p></td>
+    <td><p>開課系所(英)/</p></td>
+    <td><p>課號/</p></td>
+    <td><p>班別/</p></td>
+    <td><p>課名(中)/</p></td>
+    <td><p>課名(英)/</p></td>
+    <td><p>選別(中)/</p></td>
+    <td><p>選別(英)/</p></td>
+    <td><p>老師/</p></td>
+    <td><p>上課時間/</p></td>
+  </tr>
+  <tr>
+    <td><p>Dept.Code</p></td>
+    <td><p>Dept.</p></td>
+    <td><p>Dept.</p></td>
+    <td><p>Course Code</p></td>
+    <td><p>Class</p></td>
+    <td><p>Course Name</p></td>
+    <td><p>Course Name</p></td>
+    <td><p>Course Type</p></td>
+    <td><p>Course Type in English</p></td>
+    <td><p>Teacher Name</p></td>
+    <td><p>Course Hours</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>300</p></td>
+    <td><p>工程學院</p></td>
+    <td><p>College of Engineering</p></td>
+    <td><p>EG010</p></td>
+    <td><p>B</p></td>
+    <td><p>基礎程式設計(二)</p></td>
+    <td><p>FundamentalComputerProgramming(II)</p></td>
+    <td><p>院必修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>莊凱翔</p></td>
+    <td><p>506,507</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME115</p></td>
+    <td><p>A</p></td>
+    <td><p>工程材料</p></td>
+    <td><p>EngineeringMaterials</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>鐘國濱</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME309</p></td>
+    <td><p>A</p></td>
+    <td><p>材料力學</p></td>
+    <td><p>MechanicsofMaterials</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>徐澤志、余念一</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME204</p></td>
+    <td><p>B</p></td>
+    <td><p>工程數學（二）</p></td>
+    <td><p>EngineeringMathematics(II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>莊凱翔</p></td>
+    <td><p>202,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME207</p></td>
+    <td><p>A</p></td>
+    <td><p>機動學</p></td>
+    <td><p>Mechanisms</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳傳生</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME335</p></td>
+    <td><p>A</p></td>
+    <td><p>自動控制</p></td>
+    <td><p>AutomaticControl</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳傳生</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME335</p></td>
+    <td><p>B</p></td>
+    <td><p>自動控制</p></td>
+    <td><p>AutomaticControl</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>吳昌暉</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>302</p></td>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>ME381</p></td>
+    <td><p>A</p></td>
+    <td><p>機械工程實務</p></td>
+    <td><p>PracticeofMechanicalEngineering</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>江右君、吳昌暉、翁芳柏、莊凱翔</p></td>
+    <td><p>103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>CH211</p></td>
+    <td><p>A</p></td>
+    <td><p>儀器分析實驗</p></td>
+    <td><p>InstrumentalAnalysisLaboratory</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>邱冠雄(KHOO KUAN SHIONG)</p></td>
+    <td><p>506,507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>CH211</p></td>
+    <td><p>B</p></td>
+    <td><p>儀器分析實驗</p></td>
+    <td><p>InstrumentalAnalysisLaboratory</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>傅薈如</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>303</p></td>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>CH448</p></td>
+    <td><p>A</p></td>
+    <td><p>無機材料</p></td>
+    <td><p>InorganicMaterials</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>洪逸明</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS350</p></td>
+    <td><p>D</p></td>
+    <td><p>資訊科技應用</p></td>
+    <td><p>ApplicationsofInformationTechnology</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>系主任等</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS411</p></td>
+    <td><p>A</p></td>
+    <td><p>多媒體技術與應用</p></td>
+    <td><p>MultimediaApplications</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>蘇瑞龍</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS329</p></td>
+    <td><p>A</p></td>
+    <td><p>電子商務概論</p></td>
+    <td><p>ElectronicCommerce</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>黃志明</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS350</p></td>
+    <td><p>A</p></td>
+    <td><p>資訊科技應用</p></td>
+    <td><p>Applications of Information Technology</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>系主任等</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS350</p></td>
+    <td><p>B</p></td>
+    <td><p>資訊科技應用</p></td>
+    <td><p>Applications of Information Technology</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>系主任等</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS350</p></td>
+    <td><p>C</p></td>
+    <td><p>資訊科技應用</p></td>
+    <td><p>Applications of Information Technology</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>系主任等</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS310</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧概論</p></td>
+    <td><p>IntroductiontoArtificialIntelligence</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>高巧汶</p></td>
+    <td><p>106,107,108</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>304</p></td>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS335</p></td>
+    <td><p>A</p></td>
+    <td><p>無線網路概論</p></td>
+    <td><p>IntroductiontoWirelessInternet</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>王培元</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>IE248</p></td>
+    <td><p>A</p></td>
+    <td><p>永續管理概論</p></td>
+    <td><p>IntroductiontoSustainableManagement</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張柏毅</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>IE301</p></td>
+    <td><p>A</p></td>
+    <td><p>工業會計</p></td>
+    <td><p>IndustrialAccounting</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>王芮秋</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>IE322</p></td>
+    <td><p>A</p></td>
+    <td><p>物料管理</p></td>
+    <td><p>MaterialManagement</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鍾武勳</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>IE356</p></td>
+    <td><p>A</p></td>
+    <td><p>行動應用程式設計與開發</p></td>
+    <td><p>DesignandDevelopmentofMobileApplication</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>方志群</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>305</p></td>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>IE377</p></td>
+    <td><p>A</p></td>
+    <td><p>組織行為與職場能力</p></td>
+    <td><p>OrganizationalBehaviorandWorkplaceCompetence</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>陳靖紳</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>DE217</p></td>
+    <td><p>A1</p></td>
+    <td><p>工程數學（二）</p></td>
+    <td><p>EngineeringMathematics(II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>莊凱翔</p></td>
+    <td><p>202,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>DE218</p></td>
+    <td><p>A</p></td>
+    <td><p>材料力學</p></td>
+    <td><p>MechanicsofMaterials</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>徐澤志、余念一</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>DE313</p></td>
+    <td><p>A1</p></td>
+    <td><p>機動學</p></td>
+    <td><p>Mechanisms</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳傳生</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>309</p></td>
+    <td><p>工程學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Engineering</p></td>
+    <td><p>DE314</p></td>
+    <td><p>A</p></td>
+    <td><p>自動控制</p></td>
+    <td><p>AutomaticControl</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>吳昌暉</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>310</p></td>
+    <td><p>電機通訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Electrical and Communication Engineering</p></td>
+    <td><p>EI332</p></td>
+    <td><p>A</p></td>
+    <td><p>半導體元件模擬實驗</p></td>
+    <td><p>SemiconductorDeviceSimulationLab.</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>巴拉吉(BALAJI GURURAJAN)</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>310</p></td>
+    <td><p>電機通訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Electrical and Communication Engineering</p></td>
+    <td><p>EI108</p></td>
+    <td><p>A1</p></td>
+    <td><p>邏輯電路實驗</p></td>
+    <td><p>LogicCircuitLab.</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>張玲華</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>310</p></td>
+    <td><p>電機通訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Electrical and Communication Engineering</p></td>
+    <td><p>EI107</p></td>
+    <td><p>A</p></td>
+    <td><p>邏輯電路設計</p></td>
+    <td><p>DigitalLogicDesign</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>黃能添</p></td>
+    <td><p>109,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA112</p></td>
+    <td><p>B</p></td>
+    <td><p>邏輯電路設計</p></td>
+    <td><p>DigitalLogicDesign</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>王崇喆</p></td>
+    <td><p>106,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA328</p></td>
+    <td><p>A</p></td>
+    <td><p>工程數學（三）</p></td>
+    <td><p>EngineeringMathematics(III)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張育珉</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA478</p></td>
+    <td><p>A</p></td>
+    <td><p>電機專題</p></td>
+    <td><p>ElectricalTopics</p></td>
+    <td><p>不必及格必選修</p></td>
+    <td><p>Compulsory/Elective Course which allow students&#x27; fail</p></td>
+    <td><p>李宇軒、郭文興、陳鏗元</p></td>
+    <td><p>503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>311</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA497</p></td>
+    <td><p>A</p></td>
+    <td><p>Python程式設計</p></td>
+    <td><p>PythonProgramming</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張育珉</p></td>
+    <td><p>106,107,108</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>312</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEB439</p></td>
+    <td><p>A</p></td>
+    <td><p>微電腦智慧應用</p></td>
+    <td><p>Intelligent Microcontroller Applications</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>甘堯江</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>313</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEC108</p></td>
+    <td><p>A</p></td>
+    <td><p>普通化學</p></td>
+    <td><p>GeneralChemistry</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>劉敏憲</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>313</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEC419</p></td>
+    <td><p>A</p></td>
+    <td><p>節能照明</p></td>
+    <td><p>GreenLighting</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>賴俊儒</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>313</p></td>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEC425</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧與影像辨識</p></td>
+    <td><p>ArtificialIntelligenceandImageIdentification</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>洪紹航</p></td>
+    <td><p>102,103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>326</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EE886</p></td>
+    <td><p>B</p></td>
+    <td><p>半導體製程技術導論</p></td>
+    <td><p>IntroductiontoSemiconductorManufacturingTechnology</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>顏睿希</p></td>
+    <td><p>411,412,413</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA610</p></td>
+    <td><p>A</p></td>
+    <td><p>樣形識別</p></td>
+    <td><p>PatternRecognition</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>王崇喆</p></td>
+    <td><p>202,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA628</p></td>
+    <td><p>A</p></td>
+    <td><p>多媒體處理</p></td>
+    <td><p>MultimediaProcessing</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>王崇喆</p></td>
+    <td><p>108,109,110</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA664</p></td>
+    <td><p>A</p></td>
+    <td><p>進階積體電路專題實作I</p></td>
+    <td><p>AdvancedDesignandImplementationofIntegratedCircuitsⅠ</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄭穎仁</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA666</p></td>
+    <td><p>A</p></td>
+    <td><p>進階積體電路專題實作Ⅲ</p></td>
+    <td><p>AdvancedDesignandImplementationofIntegratedCircuitsⅢ</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄭穎仁</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA802</p></td>
+    <td><p>A</p></td>
+    <td><p>專題製作</p></td>
+    <td><p>ProjectsProduction</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄭穎仁</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA806</p></td>
+    <td><p>A</p></td>
+    <td><p>專業實習（一）</p></td>
+    <td><p>FieldStudy(I)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>熊甘霖、戴烱峯</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA807</p></td>
+    <td><p>A</p></td>
+    <td><p>專業實習（二）</p></td>
+    <td><p>FieldStudy(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>熊甘霖、戴烱峯</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>331</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEA808</p></td>
+    <td><p>A</p></td>
+    <td><p>專業實習（三）</p></td>
+    <td><p>FieldStudy(Ⅲ)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>熊甘霖、戴烱峯</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>332</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEB503</p></td>
+    <td><p>A</p></td>
+    <td><p>數位信號處理</p></td>
+    <td><p>DigitalSignalProcessing</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄭元斌</p></td>
+    <td><p>202,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>332</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEB531</p></td>
+    <td><p>A</p></td>
+    <td><p>雷達原理</p></td>
+    <td><p>RadarPrinciple</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄭元斌</p></td>
+    <td><p>106,107,108</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>333</p></td>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>EEC530</p></td>
+    <td><p>A</p></td>
+    <td><p>光電子學</p></td>
+    <td><p>Opto-Electronics</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>郭明貴</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>340</p></td>
+    <td><p>智慧電子產品製造碩士產學專班</p></td>
+    <td><p>Master of Science Degree of Smart Manufacturing for Electronics</p></td>
+    <td><p>PM513</p></td>
+    <td><p>A</p></td>
+    <td><p>決策分析</p></td>
+    <td><p>DecisionAnalysis</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>樂代義</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>340</p></td>
+    <td><p>智慧電子產品製造碩士產學專班</p></td>
+    <td><p>Master of Science Degree of Smart Manufacturing for Electronics</p></td>
+    <td><p>PM502</p></td>
+    <td><p>A</p></td>
+    <td><p>資料探勘</p></td>
+    <td><p>DataMining</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>羅志豪(LOH CHEE HOE)</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM436</p></td>
+    <td><p>C</p></td>
+    <td><p>企業實習（二）</p></td>
+    <td><p>Internship(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>吳菊華、呂倩如、翁華鴻</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM394</p></td>
+    <td><p>B</p></td>
+    <td><p>醫療服務行銷管理</p></td>
+    <td><p>MarketingManagementofMedicalServices</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>陳榮堅</p></td>
+    <td><p>106,107,108</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM248</p></td>
+    <td><p>E</p></td>
+    <td><p>商業數據分析實作</p></td>
+    <td><p>PracticeofBusinessDataAnalysis</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>游雅晴</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM483</p></td>
+    <td><p>I</p></td>
+    <td><p>策略布局與商業模式新創實作</p></td>
+    <td><p>PracticeinStrategicFormulationandBusinessModelInnovation</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>葉莉亭</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM222</p></td>
+    <td><p>D1</p></td>
+    <td><p>投資學</p></td>
+    <td><p>Investments</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>蔡明欽</p></td>
+    <td><p>402,403,404</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM372</p></td>
+    <td><p>A</p></td>
+    <td><p>創業行銷</p></td>
+    <td><p>Entrepreneurial Marketing</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>曾詠青</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM113</p></td>
+    <td><p>A</p></td>
+    <td><p>商事法</p></td>
+    <td><p>TheCommercialLaw</p></td>
+    <td><p>管院共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>丁銓佑</p></td>
+    <td><p>406,407</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM113</p></td>
+    <td><p>C</p></td>
+    <td><p>商事法</p></td>
+    <td><p>TheCommercialLaw</p></td>
+    <td><p>管院共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>丁銓佑</p></td>
+    <td><p>408,409</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM223</p></td>
+    <td><p>D1</p></td>
+    <td><p>公司理財</p></td>
+    <td><p>CorporateFinance</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>張瑞岩</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM238</p></td>
+    <td><p>C</p></td>
+    <td><p>企業財務分析</p></td>
+    <td><p>BusinessAnalysisUsingFinancialStatements</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>張志翔</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM363</p></td>
+    <td><p>C</p></td>
+    <td><p>銀行風險管理實務</p></td>
+    <td><p>RiskManggementPracticesBanking</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>胡志宏</p></td>
+    <td><p>506,507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM414</p></td>
+    <td><p>C</p></td>
+    <td><p>風險管理</p></td>
+    <td><p>RiskManagement</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>陳錫棟</p></td>
+    <td><p>402,403,404</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM483</p></td>
+    <td><p>E</p></td>
+    <td><p>策略布局與商業模式新創實作</p></td>
+    <td><p>PracticeinStrategicFormulationandBusinessModelInnovation</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>蔡金倉</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>505</p></td>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>CM436</p></td>
+    <td><p>A</p></td>
+    <td><p>企業實習（二）</p></td>
+    <td><p>Internship(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>楊炎杰、陳懷傑</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>530</p></td>
+    <td><p>管理學院經營管理碩士班</p></td>
+    <td><p>Master of Business Administration Program, College of Management</p></td>
+    <td><p>CM620</p></td>
+    <td><p>E1</p></td>
+    <td><p>跨國營運管理</p></td>
+    <td><p>TransnationalManagement</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>魏煒圻</p></td>
+    <td><p>206,207,208</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>AdditionalCourses</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM764</p></td>
+    <td><p>S3</p></td>
+    <td><p>專業實習（一）</p></td>
+    <td><p>ProfessionalInternship(I)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>李宗霖</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM768</p></td>
+    <td><p>S1</p></td>
+    <td><p>金融數據分析</p></td>
+    <td><p>FinancialDataAnalytics</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>辛敬文、胡銘哲</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM765</p></td>
+    <td><p>S2</p></td>
+    <td><p>專業實習（二）</p></td>
+    <td><p>Professional Internship (II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>李宗霖</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM524</p></td>
+    <td><p>S1</p></td>
+    <td><p>財務研究方法</p></td>
+    <td><p>Empirical Finance</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>辛敬文</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM759</p></td>
+    <td><p>S6</p></td>
+    <td><p>機器學習</p></td>
+    <td><p>MachineLearning</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>林千文</p></td>
+    <td><p>402,403,404</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>531</p></td>
+    <td><p>管理學院財務金融暨會計碩士班</p></td>
+    <td><p>Master of Science in Finance and Accounting, College of Management</p></td>
+    <td><p>CM733</p></td>
+    <td><p>S1</p></td>
+    <td><p>財務金融專題研討（二）</p></td>
+    <td><p>SeminaronFinance(II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>吳志強、陳珮瑛</p></td>
+    <td><p>406,407,408</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>532</p></td>
+    <td><p>管理學院管理碩士在職專班</p></td>
+    <td><p>Executive Master of Business Administration Program, College of Management</p></td>
+    <td><p>GM764</p></td>
+    <td><p>A</p></td>
+    <td><p>當代管理論壇</p></td>
+    <td><p>Forum on Contemporary Management</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>魏煒圻</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>532</p></td>
+    <td><p>管理學院管理碩士在職專班</p></td>
+    <td><p>Executive Master of Business Administration Program, College of Management</p></td>
+    <td><p>GM779</p></td>
+    <td><p>A</p></td>
+    <td><p>數位科技與產業趨勢變革</p></td>
+    <td><p>DigitalTechnologiesandEmergingIndustryTrends</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張育美、謝志宏</p></td>
+    <td><p>311,312,313</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>532</p></td>
+    <td><p>管理學院管理碩士在職專班</p></td>
+    <td><p>Executive Master of Business Administration Program, College of Management</p></td>
+    <td><p>GM755</p></td>
+    <td><p>A</p></td>
+    <td><p>溝通與談判</p></td>
+    <td><p>CommunicationandNegotiation</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>劉春輝</p></td>
+    <td><p>606,607,608</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>600</p></td>
+    <td><p>人文社會學院</p></td>
+    <td><p>College of Humanities and Social Sciences</p></td>
+    <td><p>HS006</p></td>
+    <td><p>D</p></td>
+    <td><p>數位人文應用（二）</p></td>
+    <td><p>DigitalApplicationsinHumanitiesII</p></td>
+    <td><p>院必修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林楚卿(CHOR-KHENG LIM)、何昆瀚</p></td>
+    <td><p>106,107</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>600</p></td>
+    <td><p>人文社會學院</p></td>
+    <td><p>College of Humanities and Social Sciences</p></td>
+    <td><p>HS006</p></td>
+    <td><p>E</p></td>
+    <td><p>數位人文應用（二）</p></td>
+    <td><p>DigitalApplicationsinHumanitiesII</p></td>
+    <td><p>院必修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>羅志豪(LOH CHEE HOE)</p></td>
+    <td><p>301,302</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>CC175</p></td>
+    <td><p>A</p></td>
+    <td><p>明清小品</p></td>
+    <td><p>StudiesonAVignetteofTheMingandChinVignettes</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>韋欣(WELCH CHRISTINE I</p></td>
+    <td><p>103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>CC473</p></td>
+    <td><p>A</p></td>
+    <td><p>歐美華文文學</p></td>
+    <td><p>EuropeanandAmericanChineseLiterature</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>韋欣(WELCH CHRISTINE I</p></td>
+    <td><p>408,409</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>602</p></td>
+    <td><p>中國語文學系學士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>CC499</p></td>
+    <td><p>A</p></td>
+    <td><p>專案實習（B）</p></td>
+    <td><p>Internship Program(B)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>洪士惠</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>AD446</p></td>
+    <td><p>A</p></td>
+    <td><p>互動科技裝置：實務與應用</p></td>
+    <td><p>Interactive Media Installation : Practice &amp; Application</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林楚卿(CHOR-KHENG LIM)</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>AD374</p></td>
+    <td><p>A</p></td>
+    <td><p>建築空間與數位影像思維／實作（二）</p></td>
+    <td><p>Architectural Space and Digital Imaging Thinking / Practice(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>羅嘉惠</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>AD414</p></td>
+    <td><p>B</p></td>
+    <td><p>藝術與設計創作（四）</p></td>
+    <td><p>ArtandDesignStudio(IV)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>王弘志、邱杰森、郭嘉羚、陳依純</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>AD221</p></td>
+    <td><p>A</p></td>
+    <td><p>設計創作（四）</p></td>
+    <td><p>DesignStudio(IV)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>龔詩文、蘇哲甫</p></td>
+    <td><p>207,208,209</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>603</p></td>
+    <td><p>藝術與設計學系學士班</p></td>
+    <td><p>Department of Art and Design</p></td>
+    <td><p>AD223</p></td>
+    <td><p>B</p></td>
+    <td><p>藝術創作（四）</p></td>
+    <td><p>ArtStudio(IV)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>巫銘紘、廖堉安</p></td>
+    <td><p>407,408,409</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>SC121</p></td>
+    <td><p>A</p></td>
+    <td><p>人力資源管理</p></td>
+    <td><p>HumanResourcesManagement</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>林政鴻</p></td>
+    <td><p>307,308</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>604</p></td>
+    <td><p>社會暨政策科學學系學士班</p></td>
+    <td><p>Department of Social and Policy Sciences</p></td>
+    <td><p>SC428</p></td>
+    <td><p>A</p></td>
+    <td><p>社會福利行政</p></td>
+    <td><p>SocialWelfareAdministration</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>賴兩陽</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>IH246</p></td>
+    <td><p>A</p></td>
+    <td><p>戲劇英文</p></td>
+    <td><p>Drama(Theatre)English</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>楊明憲</p></td>
+    <td><p>503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>608</p></td>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>IH248</p></td>
+    <td><p>A1</p></td>
+    <td><p>AI多媒體內容管理與創造</p></td>
+    <td><p>MultimediaContentManagementandCreationwithAI</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>何凱洛(HERNANDEZ MERCADO CARLOS)</p></td>
+    <td><p>108,109,110</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>622</p></td>
+    <td><p>中國語文學系碩士班</p></td>
+    <td><p>Department of Chinese Linguistics and Literature</p></td>
+    <td><p>CC509</p></td>
+    <td><p>A</p></td>
+    <td><p>古典文學專題</p></td>
+    <td><p>SpecialTopicsinClassicalChineseLiterature</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>韋欣(WELCH CHRISTINE I</p></td>
+    <td><p>302,303,304</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>623</p></td>
+    <td><p>藝術與設計學系(藝術與設計管理碩士班)</p></td>
+    <td><p>Master Program in Art and Design Management, Department of Art and Design</p></td>
+    <td><p>AM590</p></td>
+    <td><p>A</p></td>
+    <td><p>設計思維與跨域創新</p></td>
+    <td><p>Design Thinking and Cross-Domain Innovation</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>林楚卿(CHOR-KHENG LIM)</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>623</p></td>
+    <td><p>藝術與設計學系(藝術與設計管理碩士班)</p></td>
+    <td><p>Master Program in Art and Design Management, Department of Art and Design</p></td>
+    <td><p>AM656</p></td>
+    <td><p>A1</p></td>
+    <td><p>當代展演與創作研究</p></td>
+    <td><p>StudiesforExhibitionandPracticeinContemporaryVisualArt</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>王弘志</p></td>
+    <td><p>207,208,209</p></td>
+  </tr>
+  <tr>
+    <td><p>時段/教師異動</p></td>
+    <td><p>Class Timetable/Instructors Alteration</p></td>
+    <td><p>623</p></td>
+    <td><p>藝術與設計學系(藝術與設計管理碩士班)</p></td>
+    <td><p>Master Program in Art and Design Management, Department of Art and Design</p></td>
+    <td><p>AM663</p></td>
+    <td><p>A1</p></td>
+    <td><p>生成式AI藝術</p></td>
+    <td><p>GenerativeAIArt</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林楚卿(CHOR-KHENG LIM)、徐顥</p></td>
+    <td><p>202,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>623</p></td>
+    <td><p>藝術與設計學系(藝術與設計管理碩士班)</p></td>
+    <td><p>Master Program in Art and Design Management, Department of Art and Design</p></td>
+    <td><p>AM587</p></td>
+    <td><p>A</p></td>
+    <td><p>藝術節策展與執行</p></td>
+    <td><p>ArtFestivalCurationandExecution</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>羅嘉惠</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM132</p></td>
+    <td><p>C</p></td>
+    <td><p>管理資訊系統</p></td>
+    <td><p>ManagementInformationSystems</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>林志麟、林敬峯</p></td>
+    <td><p>102,103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM226</p></td>
+    <td><p>E</p></td>
+    <td><p>網際網路程式設計</p></td>
+    <td><p>InternetProgramming</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>郭文嘉、謝國強</p></td>
+    <td><p>506,507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM218</p></td>
+    <td><p>C</p></td>
+    <td><p>行銷管理</p></td>
+    <td><p>MarketingManagement</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>劉俞志、劉源森</p></td>
+    <td><p>502,503,504</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM304</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧應用</p></td>
+    <td><p>ApplicationtoArtificialIntelligence</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>林志麟、賴詩雅</p></td>
+    <td><p>106,107,108</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>701</p></td>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM304</p></td>
+    <td><p>B</p></td>
+    <td><p>人工智慧應用</p></td>
+    <td><p>ApplicationtoArtificialIntelligence</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>林志麟、賴詩雅</p></td>
+    <td><p>506,507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>IC340</p></td>
+    <td><p>A</p></td>
+    <td><p>多媒體概論</p></td>
+    <td><p>IntroductiontoMultimedia</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>劉書瑋</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>IC200</p></td>
+    <td><p>A</p></td>
+    <td><p>程式設計實習（二）</p></td>
+    <td><p>ComputerProgrammingLab.(II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>方文聘、陳宥寧</p></td>
+    <td><p>506,507</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>IC200</p></td>
+    <td><p>B</p></td>
+    <td><p>程式設計實習（二）</p></td>
+    <td><p>ComputerProgrammingLab.(II)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>方文聘、陳宥寧</p></td>
+    <td><p>508,509</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>IC248</p></td>
+    <td><p>A</p></td>
+    <td><p>線性代數</p></td>
+    <td><p>LinearAlgebra</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>鄧進宏、溫叔桓</p></td>
+    <td><p>109,409,410</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>702</p></td>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>IC451</p></td>
+    <td><p>A</p></td>
+    <td><p>專業實習（二）</p></td>
+    <td><p>Internship(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張世明、李昀叡</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>705</p></td>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>IN313</p></td>
+    <td><p>A</p></td>
+    <td><p>學術英文寫作</p></td>
+    <td><p>AcademicEnglishWriting</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>陳旻青</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>721</p></td>
+    <td><p>資訊管理學系碩士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>IM564</p></td>
+    <td><p>B</p></td>
+    <td><p>電子化企業管理</p></td>
+    <td><p>E-BusinessManagement</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>邱金田</p></td>
+    <td><p>606,607,608</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS567</p></td>
+    <td><p>A</p></td>
+    <td><p>影像處理</p></td>
+    <td><p>ImageProcessing</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>黃炳森</p></td>
+    <td><p>402,403,404</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS675</p></td>
+    <td><p>A</p></td>
+    <td><p>智慧型系統專題</p></td>
+    <td><p>SpecialTopicsonIntelligentSystems</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林明義</p></td>
+    <td><p>408,409,410</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS683</p></td>
+    <td><p>A</p></td>
+    <td><p>電子設計自動化專題</p></td>
+    <td><p>SpecialTopicsonElectronicDesignAutomation</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林佑政</p></td>
+    <td><p>408,409,410</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS578</p></td>
+    <td><p>B</p></td>
+    <td><p>電腦網路</p></td>
+    <td><p>ComputerNetworking</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>曾家偉</p></td>
+    <td><p>602,603,604</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS556</p></td>
+    <td><p>A</p></td>
+    <td><p>研究專題</p></td>
+    <td><p>ResearchProject</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>系主任等</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>724</p></td>
+    <td><p>資訊工程學系碩士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>CS554</p></td>
+    <td><p>A</p></td>
+    <td><p>書報討論</p></td>
+    <td><p>Seminar</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>歐昱言、周志岳、陳尚寬、曾王道</p></td>
+    <td><p>507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>725</p></td>
+    <td><p>生物與醫學資訊碩士學位學程</p></td>
+    <td><p>Graduate Program in Biomedical Informatics</p></td>
+    <td><p>CB676</p></td>
+    <td><p>A</p></td>
+    <td><p>演算法專題</p></td>
+    <td><p>SpecialTopicsonAlgorithms</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>楊正仁</p></td>
+    <td><p>109,203,204</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>725</p></td>
+    <td><p>生物與醫學資訊碩士學位學程</p></td>
+    <td><p>Graduate Program in Biomedical Informatics</p></td>
+    <td><p>CB554</p></td>
+    <td><p>A</p></td>
+    <td><p>書報討論</p></td>
+    <td><p>Seminar</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>歐昱言、周志岳、陳尚寬、曾王道</p></td>
+    <td><p>507,508</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>GN433</p></td>
+    <td><p>A</p></td>
+    <td><p>滑世代的影音素養</p></td>
+    <td><p>VideoLiteracyfortheSwipeGeneration</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>張世明</p></td>
+    <td><p>506,507</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>LS217</p></td>
+    <td><p>A</p></td>
+    <td><p>認識藥物</p></td>
+    <td><p>IntroductiontoDrugs</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>邱文璽</p></td>
+    <td><p>106,107</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>LS244</p></td>
+    <td><p>A</p></td>
+    <td><p>健康與生活</p></td>
+    <td><p>HealthandLife</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>蘇英華</p></td>
+    <td><p>206,207</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>LS236</p></td>
+    <td><p>A</p></td>
+    <td><p>生死學概論</p></td>
+    <td><p>IntroductiontoLifeandDeath</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>楊濟鶴</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>LE338</p></td>
+    <td><p>B</p></td>
+    <td><p>現代邏輯</p></td>
+    <td><p>ModernLogic</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>楊濟鶴</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>904</p></td>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>PL101</p></td>
+    <td><p>H6</p></td>
+    <td><p>體育</p></td>
+    <td><p>PhysicalEducation</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>呂竺昇</p></td>
+    <td><p>408,409</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>904</p></td>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>PL101</p></td>
+    <td><p>H8</p></td>
+    <td><p>體育</p></td>
+    <td><p>PhysicalEducation</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>呂竺昇</p></td>
+    <td><p>406,407</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL360</p></td>
+    <td><p>G3</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>EnglishTesting</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>袁怡雯</p></td>
+    <td><p>408</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL360</p></td>
+    <td><p>G4</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>EnglishTesting</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>袁怡雯</p></td>
+    <td><p>409</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL223</p></td>
+    <td><p>D</p></td>
+    <td><p>媒體與新聞英文</p></td>
+    <td><p>Media&amp;NewsEnglish</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>饒慧琳</p></td>
+    <td><p>506,507</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL270</p></td>
+    <td><p>B</p></td>
+    <td><p>華語（三）</p></td>
+    <td><p>Mandarin Chinese(III)</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>莊子瑩</p></td>
+    <td><p>101102</p></td>
+  </tr>
+  <tr>
+    <td><p>加開</p></td>
+    <td><p>Additional Courses</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL373</p></td>
+    <td><p>A</p></td>
+    <td><p>進階華語會話</p></td>
+    <td><p>Advanced Mandarin Conversation</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>莊子瑩</p></td>
+    <td><p>103104</p></td>
+  </tr>
+  <tr>
+    <td><p>停開</p></td>
+    <td><p>Course Cancellation</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL225</p></td>
+    <td><p>G</p></td>
+    <td><p>商業英語</p></td>
+    <td><p>Business English</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>袁怡雯</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>時段/教師異動</p></td>
+    <td><p>Class Timetable/Instructors Alteration</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL304</p></td>
+    <td><p>A1</p></td>
+    <td><p>德語（二）</p></td>
+    <td><p>German(II)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>魏榮貴</p></td>
+    <td><p>309,310</p></td>
+  </tr>
+  <tr>
+    <td><p>時段/教師異動</p></td>
+    <td><p>Class Timetable/Instructors Alteration</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL306</p></td>
+    <td><p>A1</p></td>
+    <td><p>德語（四）</p></td>
+    <td><p>German(IV)</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>魏榮貴</p></td>
+    <td><p>307,308</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL170</p></td>
+    <td><p>C</p></td>
+    <td><p>華語（一）</p></td>
+    <td><p>MandarinChinese(I)</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>張勝昔</p></td>
+    <td><p>101,102</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL171</p></td>
+    <td><p>C</p></td>
+    <td><p>華語（二）</p></td>
+    <td><p>MandarinChinese(II)</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>張勝昔</p></td>
+    <td><p>103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>906</p></td>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>EL372</p></td>
+    <td><p>A</p></td>
+    <td><p>華語檢定</p></td>
+    <td><p>ChineseProficiencyTest</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>薛芸如</p></td>
+    <td><p>210</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI001</p></td>
+    <td><p>A</p></td>
+    <td><p>機率與統計</p></td>
+    <td><p>ProbabilityandStatistics</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>黃毅然、TAICA教師</p></td>
+    <td><p>412,413,414</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI002</p></td>
+    <td><p>B</p></td>
+    <td><p>人工智慧倫理</p></td>
+    <td><p>AIEthics</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林真如、TAICA教師</p></td>
+    <td><p>208,209,210</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI501</p></td>
+    <td><p>B</p></td>
+    <td><p>生成式人工智慧的人文導論</p></td>
+    <td><p>IntroducingGenerativeAIfortheHumanities</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>盧政良、TAICA教師</p></td>
+    <td><p>503,504,505</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI503</p></td>
+    <td><p>A</p></td>
+    <td><p>深度學習</p></td>
+    <td><p>DeepLearning</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>張育珉、TAICA教師</p></td>
+    <td><p>405,406,407</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI504</p></td>
+    <td><p>B</p></td>
+    <td><p>機器導航與探索</p></td>
+    <td><p>RoboticNavigationandExploration</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>林柏江、TAICA教師</p></td>
+    <td><p>111,112,113</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI510</p></td>
+    <td><p>A</p></td>
+    <td><p>智慧製造執行系統</p></td>
+    <td><p>IntelligentManufacturingExecutionSystems</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>李其源、TAICA教師</p></td>
+    <td><p>107,108,109</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI511</p></td>
+    <td><p>A</p></td>
+    <td><p>大型語言模型與資訊安全系統</p></td>
+    <td><p>ApplyingLargeLanguageModelsinCybersecuritySystems</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>孫天龍、TAICA教師</p></td>
+    <td><p>102,103,104</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>910</p></td>
+    <td><p>大專院校人工智慧學程聯盟</p></td>
+    <td><p>Taiwan Artificial Intelligence College Alliance</p></td>
+    <td><p>AI512</p></td>
+    <td><p>A</p></td>
+    <td><p>生成式AI應用系統與工程</p></td>
+    <td><p>GenerativeAIApplicationSystemsandEngineering</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>王仁甫、TAICA教師</p></td>
+    <td><p>307,308,309</p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>A11</p></td>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>SN206</p></td>
+    <td><p>E</p></td>
+    <td><p>基本護理學實習</p></td>
+    <td><p>FundamentalsofNursingPractice</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳彥良</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>教師異動</p></td>
+    <td><p>Instructors Alteration</p></td>
+    <td><p>A11</p></td>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>SN206</p></td>
+    <td><p>G</p></td>
+    <td><p>基本護理學實習</p></td>
+    <td><p>FundamentalsofNursingPractice</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳彥良</p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>A21</p></td>
+    <td><p>醫學研究所碩士班</p></td>
+    <td><p>Graduate Institute of Medicine</p></td>
+    <td><p>MR502</p></td>
+    <td><p>A1</p></td>
+    <td><p>專題討論（二）</p></td>
+    <td><p>Seminar(Ⅱ)</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>陳芸</p></td>
+    <td><p>401402403</p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>A21</p></td>
+    <td><p>醫學研究所碩士班</p></td>
+    <td><p>Graduate Institute of Medicine</p></td>
+    <td><p>MR510</p></td>
+    <td><p>A1</p></td>
+    <td><p>創新醫療與精準醫學</p></td>
+    <td><p>InnovationandPrecisionMedicine</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>羅武嘉、林恆甫、張藝耀</p></td>
+    <td><p>408409410</p></td>
+  </tr>
+  <tr>
+    <td><p>時段異動</p></td>
+    <td><p>Class Timetable Alteration</p></td>
+    <td><p>A21</p></td>
+    <td><p>醫學研究所碩士班</p></td>
+    <td><p>Graduate Institute of Medicine</p></td>
+    <td><p>MR513</p></td>
+    <td><p>A1</p></td>
+    <td><p>心智拓樸：社會神經科學研究</p></td>
+    <td><p>MindTopology:ResearchinSocialNeuroscience</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>范揚騰</p></td>
+    <td><p>404406407</p></td>
+  </tr>
+</table>
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（網站）]**: https://portalfun.yzu.edu.tw/tuiRegistryWeb/login.html
+- **3. [超連結（網站）]**: https://portalfun.yzu.edu.tw/tuiRegistryWeb/login.html
+- **4. [超連結（網站）]**: https://portalfun.yzu.edu.tw/tuiRegistryWeb/login.html
+- **5. [超連結（網站）]**: https://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+- **6. [超連結（網站）]**: https://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+- **7. [超連結（網站）]**: https://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+- **8. [超連結（檔案）]**: index.php/en-us/students-resource/courses/course-selection-system-manual
+- **9. [超連結（檔案）]**: index.php/en-us/students-resource/courses/course-sign-up-schedule
+- **10. [超連結（檔案）]**: index.php/en-us/students-resource/courses/course-selection-notifications
+- **11. [超連結（網站）]**: https://portalfun.yzu.edu.tw/cosSelect/Index.aspx?Lang=EN
+
+---

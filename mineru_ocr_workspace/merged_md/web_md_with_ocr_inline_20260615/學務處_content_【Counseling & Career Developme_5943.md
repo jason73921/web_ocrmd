@@ -1,0 +1,105 @@
+﻿# 網站文章資料_【Counseling & Career Development Section】Counseling Service Announcement_5943
+
+## 一、文章基本資料
+
+- **文章ID**: 5943
+- **文章標題**: 【Counseling & Career Development Section】Counseling Service Announcement
+- **文章網址**: https://www.yzu.edu.tw/admin/st/index.php/tw/?option=com_content&view=article&id=5943
+- **文章簡介**: What is psychological counseling?
+
+
+Counseling is a process that helps you gain self-understanding and exploration while also promoting personal growth and change.
+
+A counseling psychologist will accompany you in facing your emotions and difficulties, working together to determine priorities and the depth of engagement. Through counseling, you will develop a deeper understanding of yourself, gain clarity and awareness of life challenges, and enhance your ability to adapt to your surroundings.
+
+
+How to schedule a psychological counseling appointment?
+
+
+To schedule an initial counseling appointment, please visit R8302 on the third floor of the Activity Center between 9:00 AM and 11:30 AM, or 1:00 PM and 4:30 PM, Monday through Friday. Alternatively, you may send an email to wecare@saturn.yzu.edu.tw.
+
+
+List of Mental Health Resources
+
+Counseling Service
+- **文章全文**: 
+- **文章更新日期**: 2025/3/12 上午 07:07:37
+- **文章發表日期**: 2025/3/12 上午 02:13:21
+- **文章點擊數**: 417
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: mailto:wecare@saturn.yzu.edu.tw
+- **2. [超連結（檔案）]**: mailto:wecare@saturn.yzu.edu.tw
+- **3. [超連結（檔案）]**: index.php/en-us/counseling-guidence
+- **4. [超連結（檔案）]**: files/%E8%AB%AE%E5%B0%B1%E7%B5%84/1132%E8%AB%AE%E5%95%86%E6%9C%8D%E5%8B%99.png?1741745451
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=2eb702be2f3ff09a -->
+#### OCR 4: files/%E8%AB%AE%E5%B0%B1%E7%B5%84/1132%E8%AB%AE%E5%95%86%E6%9C%8D%E5%8B%99.png?1741745451
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/st/files/諮就組/1132諮商服務.png
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2eb702be2f3ff09a_1132諮商服務.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1927
+- 驗證狀態: ok
+
+```markdown
+## 【服務方式】
+
+個別諮商：週一至週五9:00-11:30/13:00-16:30，請至活動中心三樓R8302預約。
+
+身心精神科諮詢：黃醫師隔週服務，亦歡迎諮詢睡眠、情緒、藥物等議題。
+
+網路諮詢：請寄信至wecare@saturn.yzu.edu.tw預約。
+
+Pleasemakeaappoimetoitilcouliat83otetirdloorofteAivitynter from 9:00 AM to 11:30 AM and 1:00 PM to 4:30 PM, Monday through Friday, or send an email to wecare@saturn.yzu.edu.tw.
+
+## 【服務團隊】
+
+方淯霖專任諮商心理師/人際關係、親密關係、原生家庭、深度自我探索、生涯規劃。
+
+李亭葦兼任諮商心理師/自我探索、人際關係、情感議題、同志議題、家庭關係、分手調適、情緒疾患、伴侶諮商。
+
+范植棠兼任諮商心理師/關係議題、情緒議題、過動症亞斯伯格症、生涯議題、深度自我探索。
+
+吳淑萍專任諮商心理師/自我探索、人際關係、情感議題、性別議題。
+
+吳蕙如專任諮商心理師/自我探索、人際關係、生涯探索與規劃。
+
+陳新霖專任社會工作師／職涯諮詢、自我探索、生涯輔導、家庭關係。
+
+陳靜儀兼任諮商心理師/自我探索、家庭關係、情感議題、生涯發展、夢境探索。
+
+張玉萱兼任諮商心理師/學習輔導、生涯輔導、壓力管理。
+
+張妙綾兼任諮商心理師/自我探索、人際議題、親密關係、情緒與壓力、原生家庭探索。
+
+張明惠兼任諮商心理師/自我探索、人際關係、親密關係、家庭關係、生涯探索。
+
+黃韋欽兼任身心精神科醫師/心身醫學、心理治療（衛福部桃園療養院一般精神科主治醫師）。
+
+黃貴貞兼任諮商心理師/自我探索、人際關係、情感議題、自傷防治、情緒困擾。
+
+趙乙勵兼任諮商心理師/人際課業壓力調適、文化衝擊與適應、留學議題、劈腿外遇創傷議題表達性藝術治療、伴侶諮商、同志諮商。
+
+蔡卉軒專任諮商心理師/自我探索、情緒困擾、親密關係、家庭議題、沙盤治療。
+
+劉庭妤專任諮商心理師/家庭與人際關係、情緒困擾、自我探索、身心議題。
+
+陳雪玉實習諮商心理師/自我探索、人際關係、生涯探索
+
+黃孟涓實習諮商心理師/自我探索、人際關係、情緒困擾 。
+
+## 【諮商時間】
+
+<table><tr><td></td><td>週一</td><td>週二</td><td>週三</td><td>週四</td><td>週五</td></tr><tr><td>09:10-10:00</td><td>黄貴貞/方淯霖</td><td>陳靜儀/吳蕙如</td><td>范植棠/劉庭妤</td><td>張妙綾/陳新霖</td><td>黃韋欽/黃孟涓</td></tr><tr><td>10:10-11:00</td><td>黃貴貞/方淯霖</td><td>陳靜儀/吳蕙如</td><td>范植棠/劉庭妤</td><td>張妙綾/陳新霖</td><td>黃韋欽/黃孟涓</td></tr><tr><td>11:10-12:00</td><td>黃貴貞/方淯霖</td><td>陳靜儀/吳蕙如</td><td>范植棠/劉庭妤</td><td>張妙綾/陳新霖</td><td>黃韋欽/黃孟涓</td></tr><tr><td>13:10-14:00</td><td>張明惠/方淯霖</td><td>趙乙勵/陳雪玉</td><td>范植棠/黃孟涓</td><td>李亭葦/吳蕙如</td><td>吳淑萍/蔡卉軒</td></tr><tr><td>14:10-15:00</td><td>張明惠/陳雪玉</td><td>趙乙勵/陳雪玉</td><td>范植棠/黄孟涓</td><td>李亭葦/吳蕙如</td><td>吳淑萍/蔡卉軒</td></tr><tr><td>15:10-16:00</td><td>張明惠/陳雪玉</td><td>趙乙勵/陳雪玉</td><td>范植棠/黄孟涓</td><td>李亭葦/張玉萱</td><td>吳淑萍/蔡卉軒</td></tr><tr><td>16:10-17:00</td><td>張明惠/陳雪玉</td><td>趙乙勵/陳雪玉</td><td>蔡卉軒/黄孟涓</td><td>吳淑萍/張玉萱</td><td>吳淑萍/劉庭妤</td></tr><tr><td>17:10-18:00</td><td>吳蕙如</td><td>方淯霖</td><td>蔡卉軒</td><td>吳淑萍</td><td>劉庭妤</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+
+---

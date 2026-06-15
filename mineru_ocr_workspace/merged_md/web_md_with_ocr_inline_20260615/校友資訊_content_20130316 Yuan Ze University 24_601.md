@@ -1,0 +1,72 @@
+﻿# 網站文章資料_20130316 Yuan Ze University 24th Anniversary Celebration_601
+
+## 一、文章基本資料
+
+- **文章ID**: 601
+- **文章標題**: 20130316 Yuan Ze University 24th Anniversary Celebration
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/24-1989
+- **文章簡介**: 
+- **文章全文**: Yuan Ze University 30th Anniversary Celebration
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2013/7/6 上午 10:17:12
+- **文章點擊數**: 761
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/alumni/images/main/(29)3-2(20130312).jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=9152828f99d5e24f -->
+#### OCR 1: http://www.yzu.edu.tw/alumni/images/main/(29)3-2(20130312).jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/main/(29)3-2(20130312).jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/9152828f99d5e24f_29_3-2_20130312.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1495
+- 驗證狀態: ok
+
+```markdown
+# 24週年校慶日首屆校友值年
+
+![](images/d0f786c1cc4bdb2c62744d89db0dcb45894ef6ace9fbf59578933fb990a6c38c.jpg)
+
+# 勇敢·志氣 我們這一屆(1989)
+
+元智大學自1989年创校以来，迄今已邁入第24年，也是元智第一届校友畢業20年，共有五系約102位首屆校友及眷属於校慶日回母校舉辦值年·學長杨中化總召回首20年前學校草創時期的簡陋，面對不確定未來的挑戰，當年我們這群年輕人選擇一所剛創立的學校需要冒險的勇氣·不過也造就第一屆學生勇於嘗試的精神與探索開创的性格·正是當年元智校友们「勇敢·志氣」的精神典範。
+
+標榜為「勇敢·志氣一我們這一屆（1989）」的元智大學首次校友值年活動，於2013年3月16日下午在元智六館有庠廳盛大舉行·返校的校友们除了回顧老照片·创業經驗分享外·為感念當時師長的醇教誨·以奉茶以及按摩背儀式回報師恩·並捐贈部分活動款項關懷學弟妹順利就學。
+
+開创的基因在元智第一届校友身上窗流·如今有人白手起家创立事業，有人投身企業擔任要職·力争上游·源藉的都是這樣大無畏的勇氣·坤源校友分享創業經驗表示，因為元智第一屆冒險的經驗·讓他在创業上不怕辛苦·遇到挫折越戰越勇，他建議创業者先儲蓄再消费，做好基本功；楊偉智說，沒有人是用抱怨成功的，所以停止抱怨，努力做好自己
+
+首屆校友過去那段青春故事，是一個世代的縮影，希望藉由這樣的精神·激勵更多年輕的一代·面對未来的不確定，必须更勇敢、更坚定、更有志氣的坚持，准備好自己，勇敢向前行
+
+![](images/a9dc3129cd693a1d624db9d5e29f41b98bafab82941f5f983c457c735018ecbc.jpg)
+
+![](images/350b427de4fc10a15b97df82f9759f8c73388a7a8fdff1452124c29fc1218810.jpg)
+
+![](images/fb729e5696945a8e50288ef3afceca8f290f330f5f11673b636a6fd8d1b0092d.jpg)  
+▲楊中化總召致贈謝登旺學務長助學金關懷學弟妹  
+▲老師·您辛苦了·学生为您背
+
+![](images/7703067d91dc29e5213d4fbeaf0e42f072694bee66bb4fa00ee04f565efd2d63.jpg)  
+▲校友代表行按摩挑背報師思儀式
+
+![](images/b7ac24439bdf0fc0085de1a6ec94808d5d740f227f452f624c50aab41ea1c71d.jpg)
+
+![](images/3e5aeebdd002bf519e621b564eab39d46e173f7a036e019027f55e9b200dc169.jpg)
+
+![](images/cf9b203b73b11e02036b8c0afd2a3bd6b9d0c6f496d08b390588dc2b66b2440c.jpg)  
+▲開创的基因在元智第一届校友身上竄流·安排创經验分享
+
+![](images/db709335d7b371ba17befb3c28469b1bea5ec425d991587312e5291a64b014b7.jpg)
+
+![](images/8bc5a8e3207d3920c72e6823ab2a583ce5d0d97eb2edb3a862cdbc8839e8ed58.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,144 @@
+﻿# 網站文章資料_智智君挑戰賽：問問AI，答出高手力！_2342
+
+## 一、文章基本資料
+
+- **文章ID**: 2342
+- **文章標題**: 智智君挑戰賽：問問AI，答出高手力！
+- **文章網址**: https://www.yzu.edu.tw/library/index.php/tw/is-202507041360
+- **文章簡介**: 嘿，你聽說了嗎？智智君最近記憶竟然有點亂套了，
+這位圖書館裡的AI大明星，居然需要你的幫助來理清頭緒！
+
+這次的挑戰非常簡單～
+只要你將準備好的11個問題，向智智君一一發問，
+然後把他給出的答案完整且仔細地填入官方表單裡，
+就能展開一場智慧大考驗。
+
+千萬別小看這個任務！
+只有答對全部題目的超級救星，
+才能幫助智智君回復正常，
+讓圖書館的世界恢復正常秩序。
+
+這是一場和AI的精彩互動，
+也是屬於你我的知識冒險。
+準備好了嗎？ 展現你的提問力和解答力吧！
+
+活動時間：2025年10月1日至2025年10月31日
+
+參加方式：
+
+Step1       掃描現場QR碼或點擊活動連結，
+
+Step2       詢問智智君表單上的題目
+
+Step3       將智智君的答案完整填入表單
+
+Step4       完成即可參加抽獎！
+
+表單：https://forms.office.com/r/LqsMH3rtFy (表單於2025/10/1 00:00開啟)
+
+活動獎品（抽出1名）：
+
+Mobiscribe WAVE COLOR 彩色版 7.8吋 64G 電子筆記‧電子書
+
+超人氣閱讀/筆記神器，一機在手，學習效率瞬間提升！
+
+注意事項：
+
+
+限元智大學在校教職員參與。
+
+一人僅填寫一次。
+
+得獎名單將於活動結束後公告，並另行通知領獎方式。
+
+圖書資訊服務處保有活動最終修改、變更解釋及取消的權利，若有相關異動將公告於網站，恕不另行通知。
+- **文章全文**: 
+- **文章更新日期**: 2025/9/30 上午 02:55:16
+- **文章發表日期**: 2025/9/30 上午 02:55:16
+- **文章點擊數**: 616
+- **文章語系**: *
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: images/main/sp/1141/is-11409010324.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=10593032c22bbeb0 -->
+#### OCR 1: images/main/sp/1141/is-11409010324.jpg
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: library/images/main/sp/1141/is-11409010324.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/10593032c22bbeb0_is-11409010324.md
+- OCR 狀態: completed_cached
+- OCR 字數: 422
+- 驗證狀態: ok
+
+```markdown
+## SMART智智君 $1 0 ) 1 1 0 0 ( c m )$ 從問AI到玩創意成為圖書館高玩！
+
+![](images/c441613feb8e6bc64e9c0e2d551be3c1fb6361bfe8651d02c3ab5cf55e48c37d.jpg)
+
+智智君挑戰賽：問問AI，答出高手力！
+
+1 掃描QR碼或點擊活動連結
+
+2】 詢問智智君表單上的題目
+
+3将智智君的答案完整填入表單
+
+完成即可參加抽獎
+
+![](images/43854cb610f06f73170b727972764912ea3a85d028c04cdf54b9b9d2c5e75040.jpg)
+
+解答高手奖
+
+![](images/57d67330e260bb0a4e201f345c8f2f02a46a45ac0912e59552b8b124ef7632bc.jpg)
+
+Mobiscribe WAVE COLOR彩色版 7.8吋 646電子筆記
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（網站）]**: https://forms.office.com/r/LqsMH3rtFy
+- **3. [圖片]**: images/main/sp/1141/is-11409010324.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=10593032c22bbeb0 -->
+#### OCR 3: images/main/sp/1141/is-11409010324.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/sp/1141/is-11409010324.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/10593032c22bbeb0_is-11409010324.md
+- OCR 狀態: completed_cached
+- OCR 字數: 422
+- 驗證狀態: ok
+
+```markdown
+## SMART智智君 $1 0 ) 1 1 0 0 ( c m )$ 從問AI到玩創意成為圖書館高玩！
+
+![](images/c441613feb8e6bc64e9c0e2d551be3c1fb6361bfe8651d02c3ab5cf55e48c37d.jpg)
+
+智智君挑戰賽：問問AI，答出高手力！
+
+1 掃描QR碼或點擊活動連結
+
+2】 詢問智智君表單上的題目
+
+3将智智君的答案完整填入表單
+
+完成即可參加抽獎
+
+![](images/43854cb610f06f73170b727972764912ea3a85d028c04cdf54b9b9d2c5e75040.jpg)
+
+解答高手奖
+
+![](images/57d67330e260bb0a4e201f345c8f2f02a46a45ac0912e59552b8b124ef7632bc.jpg)
+
+Mobiscribe WAVE COLOR彩色版 7.8吋 646電子筆記
+```
+
+<!-- OCR_END -->
+
+
+---

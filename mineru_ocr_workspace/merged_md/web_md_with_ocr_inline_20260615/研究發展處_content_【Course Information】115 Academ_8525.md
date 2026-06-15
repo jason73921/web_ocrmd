@@ -1,0 +1,155 @@
+﻿# 網站文章資料_【Course Information】115 Academic Year Human Research Ethics Training by SKH_8525
+
+## 一、文章基本資料
+
+- **文章ID**: 8525
+- **文章標題**: 【Course Information】115 Academic Year Human Research Ethics Training by SKH
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=8525
+- **文章簡介**: Hosted by Shin Kong Wu Ho-Su Memorial Hospital. We cordially invite you to register! The event details are as follows:
+
+
+Organizer: Shin Kong Wu Ho-Su Memorial Hospital
+
+Sessions: (Maximum 100 participants per session)
+
+Session 1: May 23, 2026 (Sat)
+
+Session 2: August 15, 2026 (Sat)
+
+Session 3: November 07, 2026 (Sat)
+
+
+
+
+Venue: Online Workshop (via Video Conferencing)
+
+Agenda: Please refer to Attachment 1
+
+Registration Info: Please refer to Attachment 2
+
+Course Fee: NT$1,000 per person (Includes NT$300 for Examination and Certification)
+
+Registration Link: https://reurl.cc/ObyOW7
+
+Contact: Ms. Li; Tel: (02) 2833-2211 ext. 2019
+- **文章全文**: 
+- **文章更新日期**: 2026/4/15 上午 07:58:41
+- **文章發表日期**: 2026/4/15 上午 07:58:41
+- **文章點擊數**: 33
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/學倫專區/115_新光醫院活動議程.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=de9faaa1deb1cc52 -->
+#### OCR 1: files/學倫專區/115_新光醫院活動議程.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/學倫專區/115_新光醫院活動議程.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/de9faaa1deb1cc52_115_新光醫院活動議程.md
+- OCR 狀態: completed_cached
+- OCR 字數: 3976
+- 驗證狀態: ok
+
+```markdown
+# 人體試驗研究倫理講習班(一)
+
+新光吳火獅紀念醫院人體試驗委員會 主辦
+
+新光吳火獅紀念醫院臨床試驗中心 協辦
+
+台灣受試者保護協會 協辦
+
+為加強所有同仁對於人體試驗暨研究倫理之認知特舉辦三場「人體試驗研究倫理講習班(一)」、「人體試驗研究倫理講習班(二)」及「人體試驗研究倫理講習班(三)」。
+
+全程參與活動者，核發「課程訓練證明」6 小時，會後進行認證考試，通過認證考試者核發「考試及格證書」2 小時，作為未來執行臨床試驗資格之認定。
+
+歡迎凡從事及有意進行研究之相關人員、人體試驗委員會、倫理審查會之委員及其他有興趣人員一同參與。
+
+時間：115 年 5 月 23 日 星期六
+
+地點：線上課程
+
+<table><tr><td rowspan=1 colspan=1>時段</td><td rowspan=1 colspan=1>主題</td><td rowspan=1 colspan=1>講員</td></tr><tr><td rowspan=1 colspan=1>08:30-08:50</td><td rowspan=1 colspan=2>報到</td></tr><tr><td rowspan=1 colspan=1>08:50-09:00</td><td rowspan=1 colspan=2>長官致詞</td></tr><tr><td rowspan=1 colspan=1>09:00-09:50</td><td rowspan=1 colspan=1>數位時代的知情同意：從傳統書面到電子同意的轉型與挑戰</td><td rowspan=1 colspan=1>台大醫院臨床研究受試者保護中心/臨床試驗中心陳怡安/執行秘書副主任</td></tr><tr><td rowspan=1 colspan=1>09:50-10:10</td><td rowspan=1 colspan=2>休息</td></tr><tr><td rowspan=1 colspan=1>10:10-11:00</td><td rowspan=1 colspan=1>數位科技去中心臨床試驗與倫理挑戰</td><td rowspan=1 colspan=1>佛教慈濟醫療財團法人花蓮慈濟醫院癌症中心/慈濟大學醫學院醫學系許仁駿 主任/副教授</td></tr><tr><td rowspan=1 colspan=1>11:00-11:50</td><td rowspan=1 colspan=1>生成式AI在人體研究設計與資料處理中的倫理風險</td><td rowspan=1 colspan=1>台灣受試者保護協會郭英調 創會理事長</td></tr><tr><td rowspan=1 colspan=1>11:50-13:00</td><td rowspan=1 colspan=2>休息</td></tr><tr><td rowspan=1 colspan=1>13:00-13:50</td><td rowspan=1 colspan=1>研究中的性別議題</td><td rowspan=1 colspan=1>台灣受試者保護協會林綠紅理事長</td></tr><tr><td rowspan=1 colspan=1>13:50-14:40</td><td rowspan=1 colspan=1>全民健康保險資料管理條例草案與生醫資料庫研究之未來展望</td><td rowspan=1 colspan=1>中央研究院法律學研究所資訊法中心吳全峰主任</td></tr><tr><td rowspan=1 colspan=1>14:40-15:00</td><td rowspan=1 colspan=2>休息</td></tr><tr><td rowspan=1 colspan=1>15:00-15:50</td><td rowspan=1 colspan=1>AI/ML-based智慧醫材的審查機制</td><td rowspan=1 colspan=1>台北宏恩醫院韓志平 醫師</td></tr><tr><td rowspan=1 colspan=1>15:50-16:30</td><td rowspan=1 colspan=2>綜合討論＆認證考試</td></tr></table>
+
+# 人體試驗研究倫理講習班(二)
+
+# 人體試驗研究倫理講習班(三)
+
+新光吳火獅紀念醫院人體試驗委員會 主辦
+
+新光吳火獅紀念醫院臨床試驗中心 協辦
+
+台灣受試者保護協會 協辦
+
+為加強所有同仁對於人體試驗暨研究倫理之認知特舉辦三場「人體試驗研究倫理講習班(一)」、「人體試驗研究倫理講習班(二)」及「人體試驗研究倫理講習班(三)」。
+
+全程參與活動者，核發「課程訓練證明」6 小時，會後進行認證考試，通過認證考試者核發「考試及格證書」2 小時，作為未來執行臨床試驗資格之認定。
+
+歡迎凡從事及有意進行研究之相關人員、人體試驗委員會、倫理審查會之委員及其他有興趣人員一同參與。
+
+地點：線上課程
+
+<table><tr><td rowspan=1 colspan=1>主題</td><td rowspan=1 colspan=1>人體試驗研究倫理講習班(二)</td><td rowspan=1 colspan=1>人體試驗研究倫理講習班(三)</td></tr><tr><td rowspan=1 colspan=1>日    期</td><td rowspan=1 colspan=1>115年08月15日(星期六)</td><td rowspan=1 colspan=1>115年11月07日(星期六)</td></tr><tr><td rowspan=1 colspan=1>時段</td><td rowspan=1 colspan=2>議程</td></tr><tr><td rowspan=1 colspan=1>08:30-08:50</td><td rowspan=1 colspan=1>報到</td><td rowspan=1 colspan=1>報到</td></tr><tr><td rowspan=1 colspan=1>08:50-09:00</td><td rowspan=1 colspan=1>長官致詞</td><td rowspan=1 colspan=1>長官致詞</td></tr><tr><td rowspan=1 colspan=1>09:00-09:50</td><td rowspan=1 colspan=1>再生醫療的倫理考量</td><td rowspan=1 colspan=1>風險評估與資料安全性監測稽查與溝通</td></tr><tr><td rowspan=1 colspan=1>09:50-10:10</td><td rowspan=1 colspan=1>休息</td><td rowspan=1 colspan=1>休息</td></tr><tr><td rowspan=1 colspan=1>10:10-11:00</td><td rowspan=1 colspan=1>細胞治療與再生醫學之現況與國際趨勢</td><td rowspan=1 colspan=1>IRB 案例實務討論</td></tr><tr><td rowspan=1 colspan=1>11:00-11:50</td><td rowspan=1 colspan=1>人工智慧醫療器材軟體法規介紹暨臨床法規</td><td rowspan=1 colspan=1>學術倫理與研究倫理之差異化與實務應用</td></tr><tr><td rowspan=1 colspan=1>11:50-13:00</td><td rowspan=1 colspan=1>午餐</td><td rowspan=1 colspan=1>午餐</td></tr><tr><td rowspan=1 colspan=1>13:00-13:50</td><td rowspan=1 colspan=1>AI/APP研究對象權益保護與倫理考量</td><td rowspan=1 colspan=1>SUSAR 與不良事件通報</td></tr><tr><td rowspan=1 colspan=1>13:50-14:40</td><td rowspan=1 colspan=1>ICH-GCPE6 R3 核心原則新舊版變革</td><td rowspan=1 colspan=1>藥品優良臨床試驗準則</td></tr><tr><td rowspan=1 colspan=1>14:40-15:00</td><td rowspan=1 colspan=1>休息</td><td rowspan=1 colspan=1>休息</td></tr><tr><td rowspan=1 colspan=1>15:00-15:50</td><td rowspan=1 colspan=1>性別是偏見還是事實</td><td rowspan=1 colspan=1>人工智慧人體研究—IRB審查註意事項及受試者保護</td></tr><tr><td rowspan=1 colspan=1>15:50-16:30</td><td rowspan=1 colspan=1>綜合討論&amp;認證考試</td><td rowspan=1 colspan=1>綜合討論＆認證考試</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/學倫專區/115新光醫院報名資訊.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=8a1bcb406b66f68a -->
+#### OCR 2: files/學倫專區/115新光醫院報名資訊.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/學倫專區/115新光醫院報名資訊.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8a1bcb406b66f68a_115新光醫院報名資訊.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1406
+- 驗證狀態: ok
+
+```markdown
+# 新光醫院人體試驗研究倫理講習班報名方式
+
+1. 報名方式：以網路線上報名，額滿為止（每場限額100名），不受理現場報名及其他方式報名。報名網址：請至新光醫院網站/教學研究/人體試驗委員會首頁(https://reurl.cc/ObyOW7)，點選該場次研討會報名網址進行登錄報名及繳費資訊。
+
+2. 報名費用：每場次壹仟元整。（全部費用含講義及證書費）。
+
+3. 繳費方式：配合院方財務作業以虛擬帳號匯款，故每筆報名者匯款應是獨立帳號，請勿匯入本會首頁之院方共用帳號。
+
+ 匯款帳號：「92005+繳款人(您的)身份證阿拉伯數字 9碼」共 14碼
+
+ 匯入銀行名稱：臺灣新光商業銀行承德分行，銀行代號：103。
+
+ 戶名：新光醫療財團法人
+
+ 可親臨郵局/銀行櫃檯辦理匯款、使用自動提款機 ATM或操作網路銀行轉帳。[舉例：您的身份證字號為A123456789，則您的匯款帳號是92005123456789]。
+
+ 報名與繳費期限：建議於報名期間先匯款並於當天完成填報程序。若因報名踴躍即將額滿，可先來電詢問剩餘名額是否足夠登錄報名再行匯款。
+
+ 請於網路報名表第 2 頁填入匯款日期、匯款金額、匯出銀行等資訊，以便快速對帳。
+
+ci::) 待本會與財務課對帳作業完成(對帳亦約需 5 個工作天)，將核發報名成功確認信，始完成報名手續。
+
+僅先登錄卻未能 2 天內匯款完畢者，以及匯款後卻沒登錄報名者，因本院無法順利對帳成功，將視同未完成報名，其名額將釋出予他人，造成不便請見諒。報名後因故未能參加者，報名費無法退還，故請於繳費前審慎考慮。若需變更參加場次/變更報名者，敬請於活動前 3個工作天通知本院承辦人。
+
+<table><tr><td rowspan=1 colspan=1>課程主題</td><td rowspan=1 colspan=1>開放登錄報名日</td><td rowspan=1 colspan=1>報名截止日</td></tr><tr><td rowspan=1 colspan=1>115年5月23日(六)人體試驗研究倫理講習班(一)</td><td rowspan=1 colspan=1>115年4月20日(一)</td><td rowspan=1 colspan=1>5月15日(五)</td></tr><tr><td rowspan=1 colspan=1>115年8月15日(六)人體試驗研究倫理講習班(二)</td><td rowspan=1 colspan=1>115年7月6日(一)</td><td rowspan=1 colspan=1>8月7日(五)</td></tr><tr><td rowspan=1 colspan=1>115年11月7日(六)人體試驗研究倫理講習班(三)</td><td rowspan=1 colspan=1>115年10月5日(一)</td><td rowspan=1 colspan=1>10月30日(五)</td></tr></table>
+
+4. 收據：收據抬頭欲列舉機關全銜或個人姓名，請於網站報名時登錄正確資料。
+
+## 5. 注意事項：
+
+(1) 本課程僅申請｢醫師｣、｢護理師｣、｢醫檢師｣、「放射師」衛福部繼續教育積分認證。
+
+(2) 本院保留修改課程、額滿提前截止報名及未達最低開課人數時取消課程之權利。
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（網站）]**: https://reurl.cc/ObyOW7
+- **4. [超連結（網站）]**: https://reurl.cc/ObyOW7
+
+---

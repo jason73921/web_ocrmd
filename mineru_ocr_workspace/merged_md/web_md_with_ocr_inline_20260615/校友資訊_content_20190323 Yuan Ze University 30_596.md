@@ -1,0 +1,268 @@
+﻿# 網站文章資料_20190323 Yuan Ze University 30th Anniversary Celebration_596
+
+## 一、文章基本資料
+
+- **文章ID**: 596
+- **文章標題**: 20190323 Yuan Ze University 30th Anniversary Celebration
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20190323-30-30
+- **文章簡介**: Yuan Ze University 30th Anniversary Celebration
+
+Date：2019/03/23
+
+Video：https://www.youtube.com/watch?v=htqDDOkv_BI
+
+Photo：
+
+      
+
+    
+
+    
+
+    
+
+ 
+
+YZU Alumni Service Center Facebook：https://reurl.cc/R1V1zn
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2019/3/25 上午 11:02:49
+- **文章點擊數**: 1298
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.youtube.com/watch?v=htqDDOkv_BI
+- **2. [超連結（網站）]**: https://reurl.cc/R1V1zn
+- **3. [超連結（網站）]**: https://reurl.cc/R1V1zn
+- **4. [圖片]**: files/30周年校慶/傑出校友_1.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=72b5043c3ed2462c -->
+#### OCR 4: files/30周年校慶/傑出校友_1.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/傑出校友_1.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/72b5043c3ed2462c_傑出校友_1.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/48e0424c3cb00e7aa961cd7880b651c258729b8b1d857f77a21a695d086a680c.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: files/30周年校慶/校友太鼓.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=7fae211a7ef9074b -->
+#### OCR 5: files/30周年校慶/校友太鼓.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友太鼓.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/7fae211a7ef9074b_校友太鼓.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/65103930da6e5b0d5665358630ffb416e497517e4a6680907c3b7c55246e9863.jpg)
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: files/30周年校慶/校友手風琴演奏_2_1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=0582dda668cdb74c -->
+#### OCR 6: files/30周年校慶/校友手風琴演奏_2_1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友手風琴演奏_2_1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/0582dda668cdb74c_校友手風琴演奏_2_1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/310d394ed539a73736f60127a43aee4d9a9d44e54cbbb84d60949fe09b4d9832.jpg)
+```
+
+<!-- OCR_END -->
+
+- **7. [圖片]**: files/30周年校慶/校友自創歌曲30釀__3.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=7 assetId=6985941c60a60fdd -->
+#### OCR 7: files/30周年校慶/校友自創歌曲30釀__3.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友自創歌曲30釀__3.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/6985941c60a60fdd_校友自創歌曲30釀__3.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/086f45961e136095edc4ab75e4cc68b2d9a12854891c6b0a44c4e1610db7bb74.jpg)
+```
+
+<!-- OCR_END -->
+
+- **8. [圖片]**: files/30周年校慶/蒙古舞蹈表演_4.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=8 assetId=f169434235403c8b -->
+#### OCR 8: files/30周年校慶/蒙古舞蹈表演_4.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/蒙古舞蹈表演_4.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/f169434235403c8b_蒙古舞蹈表演_4.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/3f58e6c011acca591a84fe85aa7a14b866b3a4288e43436485fbbcc0e5e1372c.jpg)
+```
+
+<!-- OCR_END -->
+
+- **9. [圖片]**: files/30周年校慶/酷爸爸SAX_1.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=9 assetId=19e0d3450adbba7b -->
+#### OCR 9: files/30周年校慶/酷爸爸SAX_1.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/酷爸爸SAX_1.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/19e0d3450adbba7b_酷爸爸SAX_1.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/4136644d91b5a17ba5d6471f2e3502bcbb539e18445ebc367f8f526a23676434.jpg)
+```
+
+<!-- OCR_END -->
+
+- **10. [圖片]**: files/30周年校慶/大改樂團_3.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=10 assetId=43e0d8ff10258565 -->
+#### OCR 10: files/30周年校慶/大改樂團_3.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/大改樂團_3.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/43e0d8ff10258565_大改樂團_3.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/35044ac750a2561a6095a4fc97982980d2460b7092920f302f044bad7ce4621f.jpg)
+```
+
+<!-- OCR_END -->
+
+- **11. [圖片]**: files/30周年校慶/致贈表演校友感謝狀_1.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=11 assetId=80c2e10487d2c1d8 -->
+#### OCR 11: files/30周年校慶/致贈表演校友感謝狀_1.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/致贈表演校友感謝狀_1.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/80c2e10487d2c1d8_致贈表演校友感謝狀_1.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/05a39b81b5bcea70fb85db02e2ee05da6964eac25546759a5ecdccfcd6033e8d.jpg)
+```
+
+<!-- OCR_END -->
+
+- **12. [圖片]**: files/30周年校慶/IMG_0498_裁切.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=12 assetId=947e69ebdf3efbda -->
+#### OCR 12: files/30周年校慶/IMG_0498_裁切.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/IMG_0498_裁切.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/947e69ebdf3efbda_IMG_0498_裁切.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/34a7214d5719f3731f06fc1abe65e1f6cca08fdeb80fce3074bd13316d870f24.jpg)
+```
+
+<!-- OCR_END -->
+
+- **13. [圖片]**: files/30周年校慶/校友感恩回饋產學合作_5.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=13 assetId=292b6b298124a2ab -->
+#### OCR 13: files/30周年校慶/校友感恩回饋產學合作_5.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友感恩回饋產學合作_5.JPG
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/292b6b298124a2ab_校友感恩回饋產學合作_5.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/a9cc2829953c7ca0e19dd46f979f2a9bcbe91e50c000cd1681092239fd824995.jpg)
+```
+
+<!-- OCR_END -->
+
+- **14. [圖片]**: files/30周年校慶/校友感恩回饋產學合作_16.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=14 assetId=07dcf8918c330aa7 -->
+#### OCR 14: files/30周年校慶/校友感恩回饋產學合作_16.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友感恩回饋產學合作_16.JPG
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/07dcf8918c330aa7_校友感恩回饋產學合作_16.md
+- OCR 狀態: completed
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/b9c7d7129bc0e202f0ef2510512ed09ba0fd477159b298bcccce9e365fcb5ba1.jpg)
+```
+
+<!-- OCR_END -->
+
+- **15. [圖片]**: files/30周年校慶/校友感恩回饋產學合作_8-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=15 assetId=7ffba9d51ece70bf -->
+#### OCR 15: files/30周年校慶/校友感恩回饋產學合作_8-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/30周年校慶/校友感恩回饋產學合作_8-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/7ffba9d51ece70bf_校友感恩回饋產學合作_8-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/47e47b9a9730d135f1c1d53c010fcc593a46a53ec5e9c8568a42b109ca256106.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

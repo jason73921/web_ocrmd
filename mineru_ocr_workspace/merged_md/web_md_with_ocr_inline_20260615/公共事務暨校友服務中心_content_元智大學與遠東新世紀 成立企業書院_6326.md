@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智大學與遠東新世紀 成立企業書院_6326
+
+## 一、文章基本資料
+
+- **文章ID**: 6326
+- **文章標題**: 元智大學與遠東新世紀 成立企業書院
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福/台北市報導】
+
+元智大學於12月8日與遠東新世紀公司簽立產學合作意向書，成立企業書院。元智大學廖慶榮校長與遠東新世紀股份有限公司行政總部鄭澄宇總經理共同簽署，由企業提供業師，與元智教師共同授課，透過學校及企業共同培育人才，強化技術與實務能力，以符合產業發展及青年就業所需。
+
+元智大學廖慶榮校長表示，元智大學自111學年起成立企業書院，攜手產業和業師共同育才，讓學生認識公司理念與文化、實際了解企業工作環境，提高學生對企業就職的興趣與意願。元智大學企業書院，以人才培育為願景，延伸擴大產學合作之基礎，進而接引產業寶貴資源。基於教育部產學攜手合作計畫，元智大學與遠東新世紀股份有限公司共同成立企業書院，與產業建立跨域共享鏈結，透過學界與業界整合資源，共同培育未來產業所需人才，元智大學持續為永續發展目標精進，為社會責任努力。（待續）
+
+
+
+
+
+詳全文: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5d43f29f-bd92-46fd-aa35-b0053dd2a406&currentCategory=101
+
+【2022/12/09】
+- **文章全文**: 
+- **文章更新日期**: 2022/12/9 上午 01:52:55
+- **文章發表日期**: 2022/12/9 上午 01:52:55
+- **文章點擊數**: 334
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-5d43f29f-bd92-46fd-aa35-b0053dd2a406&amp;currentCategory=101
+- **2. [圖片]**: images/20221209-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=26d63953ff90f247 -->
+#### OCR 2: images/20221209-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20221209-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/26d63953ff90f247_20221209-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/bd7eeae1a0c6c225c0324d1cddb9633fc562a080f9546bb4eeff57dd75727c36.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,60 @@
+﻿# 網站文章資料_Summer Library Hours / Extension of Loan Periods_2574
+
+## 一、文章基本資料
+
+- **文章ID**: 2574
+- **文章標題**: Summer Library Hours / Extension of Loan Periods
+- **文章網址**: https://www.yzu.edu.tw/library/index.php/tw/is-202605191036-1
+- **文章簡介**: 
+- **文章全文**: 
+- **文章更新日期**: 2026/5/19 上午 02:37:43
+- **文章發表日期**: 2026/5/19 上午 02:37:43
+- **文章點擊數**: 11
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: images/main/news/1142/Pending%20Deletion/is-202605191036.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=e176b89cadca80d2 -->
+#### OCR 1: images/main/news/1142/Pending%20Deletion/is-202605191036.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: library/images/main/news/1142/Pending Deletion/is-202605191036.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/e176b89cadca80d2_is-202605191036.md
+- OCR 狀態: completed_cached
+- OCR 字數: 5584
+- 驗證狀態: ok
+
+```markdown
+# 圖書館暑假開館時間/借期彈性展延公告Summer2026 Library Hours / Extension of Loan Periods
+
+借期彈性展延：凡借閱（含原始借書、續借、召回）到期日介於115.6.29\~115.9.6，且符合下列條件者，到期日一律自動展延至115.9.7
+
+資料類型：限圖書、書後附件、跨校借書證
+
+讀者身份：限本校教職員生
+
+注意事項：預約取件期限不適用展延，請依正常借閱規則辦理。
+
+暑假開館時間：請參閱以下行事曆
+
+All checked-out items with due dates between June 29 and September 6, 2026,and meeting the following conditions are subject to summer loan extension.
+
+Borrowers: YZUstudents,faculty, and staff
+
+Material types: books, accompanying materials, and interlibrary cards only
+
+\*The extended due date of the summer loan will be on\_September 7,2026.
+
+For more information,refer to the calendar below.
+
+<table><tr><td rowspan=1 colspan=9>圖書館暑期行事曆 Library Summer Calendar 2026</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Sun</td><td rowspan=1 colspan=1>Mon</td><td rowspan=1 colspan=1>Tue</td><td rowspan=1 colspan=1>Wed</td><td rowspan=1 colspan=1>Thu</td><td rowspan=1 colspan=1>Fri</td><td rowspan=1 colspan=1>Sat</td><td rowspan=12 colspan=1>6/2-6/15期末考暫停校外訪客入館(VisitorAdmission Suspended during Final Exams.)6/19端午節閉館（Closed for Dragon BoatFestival, June 19)6/29暑假借期展延適用起始日(SummerExtended Borrowing Starts, June 29)6/29-8/30 暑期開館時間 (Library Hours forSummer Break, June 29 ~Aug. 30)週一~五Monday~ Friday: 9:00~16:30週六日閉館: Closed on Weekend7/13-7/14调整放假(Closed for AdjustedHolidays, July 13-14)8/31 恢復正常開館時間 （Regular Library HoursResume, Aug. 31)</td></tr><tr><td rowspan=5 colspan=1>JUN</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>20</td></tr><tr><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>27</td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=5 colspan=1>JUL</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>18</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>25</td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=6 colspan=1>AUG</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>週一~五Monday ~ Friday : 8:00~22:00</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>15</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>22</td></tr><tr><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>29</td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>SEPT</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>5</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>12</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+
+---

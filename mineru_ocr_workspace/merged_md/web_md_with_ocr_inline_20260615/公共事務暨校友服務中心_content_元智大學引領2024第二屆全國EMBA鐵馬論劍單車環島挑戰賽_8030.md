@@ -1,0 +1,52 @@
+﻿# 網站文章資料_元智大學引領2024第二屆全國EMBA鐵馬論劍單車環島挑戰賽_8030
+
+## 一、文章基本資料
+
+- **文章ID**: 8030
+- **文章標題**: 元智大學引領2024第二屆全國EMBA鐵馬論劍單車環島挑戰賽
+- **文章網址**: 
+- **文章簡介**: 【台灣時報 記者張添福】
+
+元智大學EMBA校友會於10月19日舉辦「2024第二屆全國EMBA鐵馬論劍單車環島挑戰賽」，歷時九天八夜，匯聚來自全台15所頂尖大學的EMBA成員，不僅是體能上的挑戰，更傳遞出參賽者對社會責任和環境永續的承諾。
+
+單車環島挑戰賽由元智大學EMBA校友會主辦，10月19日從元智大學出發，10月27日歸來。吸引來自政大、台科大、北科大、中央、陽明交大、清華等大學的EMBA成員，包含知名企業高階管理者、創業家及專業人士，共計150名菁英參與，加上陪騎者及親友加油團，總人數超過300人。
+
+此次挑戰賽的主題圍繞健康生活與環境保護。元智大學校長廖慶榮表示，他曾兩度參與這項活動，第一次是在擔任台科大校長期間，如今再以元智大學校長身分參與，倍感榮幸。他強調，這不僅是個人意志力的挑戰，更是推動環保和永續發展的重要實踐。透過此活動，呼籲更多企業領袖參與永續行動，引領社會關注環保議題。（待續）
+
+
+
+詳全文：
+https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-c3222897-c709-43f9-8b10-324bee26df00&currentCategory=101
+
+【2024/10/21】
+- **文章全文**: 
+- **文章更新日期**: 2024/10/21 上午 03:12:17
+- **文章發表日期**: 2024/10/21 上午 03:12:17
+- **文章點擊數**: 333
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-c3222897-c709-43f9-8b10-324bee26df00&amp;currentCategory=101
+- **2. [圖片]**: images/20241021.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=7ac107315774918f -->
+#### OCR 2: images/20241021.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20241021.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/7ac107315774918f_20241021.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/8e710e73f196bc6608b72ba1371b66f6dce36c2c65f4d485331243e72bce84d0.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,1937 @@
+﻿# 網站文章資料_專案計畫報支法規要點及匯率查詢 -備份_162
+
+## 一、文章基本資料
+
+- **文章ID**: 162
+- **文章標題**: 專案計畫報支法規要點及匯率查詢 -備份
+- **文章網址**: https://www.yzu.edu.tw/admin/bo/index.php/tw/2016-03-18-07-38-41
+- **文章簡介**: 科技部計畫變更操作實例
+- **文章全文**: 1.支出標準及審核作業手冊
+
+ 2.(1).國家科學及技術委員會補助專題研究計畫作業要點
+
+
+    (2).國家科學及技術委員會補助產學合作研究計畫作業要點(1110823版)
+
+    (3).科技部補助雙邊協議下科技合作活動作業要點(1081225版)
+
+    (4).國家科學及技術委員會補助延攬客座科技人才作業要點(1111013版)
+
+ 3.國家科學及技術委員會補助專題研究計畫經費處理原則
+
+ 4.國家科學及技術委員會專題研究計畫相關函釋
+
+ 5.國家科學及技術委員會專題研究計畫Q&A問答集 
+
+ 6.國家科學及技術委員會補助專題研究計畫研究人力約用注意事項(1110728版)
+
+ 7.國內出差報支要點(1081126生效)
+
+ 8.國外出差報支要點(1110714生效)
+
+9.國家科學及技術委員會國際合作各類補助辦法
+
+10.(1) 中央政府各機關派赴國外各地區出差人員生活費日支數額表(世界各地)-1130101起適用
+
+     (2)中央政府各機關派赴國外各地區出差人員生活費日支數額表(世界各地)-1120101起適用
+
+     (3) 因公赴國外出差或返國述職人員綜合保險。(1130621-1140620適用保險費率表)
+
+     (4) 因公赴國外出差或返國述職人員綜合保險。(1120621-1130620適用保險費率表)
+
+     (5) 因公赴國外出差或返國述職人員綜合保險。(1110501-1120430適用保險費率表)
+
+     (6)大陸地區出差人員生活費日支數額表-1050101修訂版
+
+11.國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表(1110830生效)
+
+12.各機關派員參加各項訓練講習報支費用規定
+
+
+13.國家科學及技術委員會大專學生研究計畫作業要點
+
+
+14.國家科學及技術委員會補助基礎研究核心設施共同使用服務計畫作業要點
+
+15.國家科學及技術委員會補助科學與技術人員國外短期研究作業要點(1111013)
+
+16.國家科學及技術委員會補助專題研究計畫之業務費項下匡列彈性支用額度相關規範限制及說明(1011026起)
+
+17.公務員執行公務應注意之(1).法律問題與案例; (2).實務案例說明 (10104)
+
+18.學術倫理常見態樣說明(10104)  
+
+19.台灣銀行歷史匯率查詢
+
+20.國家科學及技術委員會補助專題研究計畫耗材、物品、圖書及雜項費用及研究設備支出用途範例
+- **文章更新日期**: 2024/12/18 上午 06:08:54
+- **文章發表日期**: 2007/8/28 上午 08:58:02
+- **文章點擊數**: 0
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.dgbas.gov.tw/cl.aspx?n=4304
+- **2. [超連結（網站）]**: https://law.nstc.gov.tw/LawContent.aspx?id=FL026713
+- **3. [超連結（網站）]**: https://www.nstc.gov.tw/nstc/attachments/eb2a1800-3183-4e69-8e1d-c120836624e8
+- **4. [超連結（網站）]**: https://www.nstc.gov.tw/nstc/attachments/042af745-e5da-4f90-9cf5-9ec909b1dd63
+- **5. [超連結（檔案）]**: files/法規/國家科學及技術委員會補助延攬客座科技人才作業要點.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=c7625ad978089dc7 -->
+#### OCR 5: files/法規/國家科學及技術委員會補助延攬客座科技人才作業要點.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/法規/國家科學及技術委員會補助延攬客座科技人才作業要點.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/c7625ad978089dc7_國家科學及技術委員會補助延攬客座科技人才作業要點.md
+- OCR 狀態: completed_cached
+- OCR 字數: 5788
+- 驗證狀態: ok
+
+```markdown
+# 國家科學及技術委員會補助延攬客座科技人才作業要點
+
+國家科學及技術委員會111年 10 月 13 日科會科字第 1110063980B 號函修正
+
+一、國家科學及技術委員會（以下簡稱本會）為配合科技發展需要，補助延攬優秀科技人才參與科技研究計畫、擔任特殊領域教學或協助推動科技研發及管理工作，特訂定本要點。
+
+## 二、申請機構如下：
+
+(一)依本會受補助單位申請作業要點，經核定納為本會補助延攬人才項目之補助單位者。
+
+(二)設有科技研發或管理單位之政府機關(構)。
+
+前項第二款所稱科技研發或管理單位，指主管科技政策執行、從事科技政策規劃、研究或管理之政府單位。
+
+第一項第二款申請機構不得申請延攬中國大陸科技人士。
+
+## 三、申請人：
+
+申請補助延攬科技人才案者(以下簡稱申請人)須為申請機構之教學、研究或一級行政主管人員(含本會補助專題研究計畫主持人)。
+
+四、 依本要點補助之受延攬人，分下列三類：
+
+(一) 講座人員：
+
+1.特聘講座：其資格應符合下列條件之一：
+
+(1)諾貝爾獎得主。
+
+(2)國家科學院院士且具國際聲望者(限國外科技人才)。
+
+2.講座教授(限國外科技人才)：現任或曾任大學講座教授，最近三年內有研究成果發表為國際所推崇者。
+
+(二)客座人員(限國外科技人才)：其資格條件，分下列四種：
+
+1.客座教授(客座研究員)：現任或曾任大學教授或研究機構之研究員，在學術上有重要貢獻或重要專門著作者。
+
+2.客座副教授(客座副研究員)：現任或曾任大學副教授或研究機構之副研究員，成績優良，並有專門著作者。
+
+3.客座助理教授(客座助研究員)：現任或曾任大學助理教授或研究機構之助理研究員，成績優良，並有專門著作者。
+
+4.客座專家，其資格應符合下列條件之一：
+
+(1)獲得博士學位後，繼續執行專門職業或於研究機構從事研究工作或於科技機構從事科技研發或管理工作四年以上，著有成績者。
+
+(2)在特殊技術或科技機構之科技研發或管理工作上，具有獨到之才能，為國內外所少見者。
+
+(三)博士級研究人員：具有博士學位之國內外優秀科技人才，其職銜由申請機構依實際工作內容屬性或人員專業訂定。
+
+前項各款受延攬人，不得為申請人之配偶及三親等以內血親、姻親，並符合「行政院及所屬各機關學校臨時人員進用及運用要點」第十一點第一項迴避進用規定。
+
+第一項第一款及第二款之國外科技人才於申請時，應符合下列條件之一：
+
+(一)任職於中華民國以外國家或地區之公私立大專院校、公私立研究機構、行政法人學術研究機構或財團法人學術研究機構，連續服務一年以上，且不得為國內任一公私立大專院校、公私立研究機構、行政法人學術研究機構或財團法人學術研究機構退休人員。
+
+(二)現為本會依本要點補助延攬之受延攬人。
+
+五、申請方式：
+
+申請人應至本會研究人才網內之「補助延攬科技人才及兩岸科技交流」項下，線上製作申請文件後，將申請案送至申請機構，由申請機構彙整送出；文件不全或不符合規定者，不予受理：
+
+(一)講座人員、客座人員：
+
+1.申請機構對講座人員及客座人員之申請補助資格，應依各機構相關學術審查程序審定後予以推薦。本會得視實際審查情形，調整核定補助資格。
+
+2.申請機構應針對其參與之研究、教學或科技研發與管理計畫，依本會訂定之格式提出具體工作計畫及下列文件，向本會提出申請：
+
+(1)申請書。
+
+(2)現職、學經歷及身分證明文件(本國籍者應提供身分證影本)。學經歷無法提供者得以現職證明替代。
+
+(3)最近三年內(此段期間曾生產或請育嬰假者，得依每一出生數再延長二年，曾服國民義務役者，得依實際服役時間予以延長，但應檢附相關證明文件)已出版最具代表性或與計畫內容相關之學術著作至多五篇。
+
+(4)申請機構完成審查程序並經機關用印之相關證明文件。(二)博士級研究人員：
+
+1.參與本會補助之專題研究計畫者：
+
+(1)於申請本會補助之專題研究計畫時一併提出「補助延攬博士級研究人員之員額／人才進用申請書」送本會審查。計畫核定時得僅核定名額，於覓得人選後，向本會提出申請。
+
+(2)未於申請本會專題研究計畫時一併提出申請者，應針對其參與之研究計畫，上傳前款第二目之 1 至 3 申請文件向本會個案提出申請。
+
+2.參與申請機構自籌經費之科技研究計畫或從事科技管理工作者，上傳前款第二目之 1 至 3 申請文件及依本會訂定之格式提出具體工作計畫，向本會提出申請。
+
+3.本款受延攬人如具研發替代役男身分者，應隨同檢附其研發替代役男身分證影本，如尚未取得研發替代役男身分證者，得出具經申請機構用印之役男資料清單及研發替代役錄取役男名冊辦理。
+
+4.受延攬之博士級研究人員如為應屆畢業者，得先出具下列文件向本會提出申請，並於報到時，提供博士學位證書供申請機構查核：
+
+(1)受延攬人於國外就讀博士學位者，應提供國外大學出具口試及論文審查通過之臨時學歷證明文件。
+
+(2)受延攬人於國內就讀博士學位者，應提供經系所用印之博士學位考試委員審查通過證明文件及口試會議紀錄之臨時學歷證明文件。
+
+申請機構應確實查核申請人及受延攬人所提各項申請與證明文件。如有隱匿或查核不實情形，經本會查證屬實，得於一定期間停止受理申請機構向本會申請補助延攬科技人才案。
+
+## 六、審查：
+
+本會審查期間，自收件之次日起二個月內完成；必要時，得延長一次。不具本國籍之受延攬人從事之教學或研究如涉及國家安全、機密及國家核心科技，本會得不予補助。
+
+## 七、補助期間：
+
+(一)講座人員：補助期間以一個月至一年為一期，補助期滿得申請繼續補助，其總補助期間最長為三年。
+
+(二)客座人員：補助期間以三個月至一年為一期，補助期滿得申請繼續補助，其總補助期間最長為三年。
+
+(三)博士級研究人員：補助期間以三個月至一年為原則；配合多年期研究計畫之全程執行期間，經審查後，研究表現優異者，其補助期間得配合所參與計畫之全程期間核給。補助期滿得申請繼續補助。
+
+前項總補助期間之計算，如遇受延攬人之前後二次補助期間間隔未滿一年者，應合併計算。
+
+申請繼續補助者，應於補助期滿一個月前，由申請人登入本會研究人才網內本項補助作業項下，線上繳交前一補助期間之參與研究(教學或研發與管理)工作報告，並依第五點規定提出申請。
+
+八、補助項目：包括教學研究費或研究費、機票費、保險費、薪給差額補助金、勞工退休金或離職儲金、及研究發展費。各項補助基準如下：
+
+## (一)教學研究費或研究費：
+
+受延攬人之教學研究費或研究費，依本會補助延攬客座科技人才教學研究費或研究費支給基準表支給。申請機構應依稅法規定按月扣繳其所得稅，所得稅之申報由受延攬人自行辦理，申請機構應予協助。
+
+(二)機票費：
+
+1.依下列基準補助由居住地至目的地最直接航程之往返機票。補助對象為受延攬人及其配偶與直系親屬二人：
+
+1.特聘講座及講座教授：補助往返商務艙機票。
+
+2.客座人員及博士級研究人員：補助往返經濟艙機票。
+
+2.機票費之補助以一次為限，依前點第一項規定向本會申請繼續補助或已獲得國內其他單位之旅費補助者，本會不另予補助。(三)保險費：
+
+1.於本會補助期間內，由申請機構依勞工保險條例及全民健康保險法之規定，為受延攬人辦理參加勞工保險及全民健保。其雇主應負擔之保險費由本會補助。
+
+2.未具參加勞工保險或全民健康保險規定之投保資格者，於本會補助期間內，得由申請機構協助辦理「新國際技術合作人員綜合保險」最高總保額為新臺幣四百萬元整，保險費由本會補助百分之六十五。
+
+3.受延攬人如遇提前離職或中斷投保情形，自離職日或中斷投保日起，本會不再補助本款保險費。
+
+(四)薪給差額補助金：
+
+特聘講座、講座教授、客座教授(客座研究員)資格，於補助期間經納入本會受補助單位之編制內專任職位者，本會得補助教學研究費與納編單位之薪給差額全部或一部，補助期間以三年為限。但本要點規定之其他補助費用則不再予以補助。
+
+## (五)勞工退休金或離職儲金：
+
+申請機構應就與受延攬之博士級研究人員間之實質契約關係，於本會補助期間內，分別依下列相關規定辦理提繳勞工退休金或提存離職儲金：
+
+1.適用勞動基準法者，應依勞工退休金條例相關規定，辦理提繳勞工退休金，其中雇主應按月提繳部分由本會補助。
+
+2.不適用勞動基準法者，
+
+(1)應比照各機關學校聘僱人員離職給與辦法之規定辦理離職儲金，其中公提儲金部分由本會補助。
+
+(2)申請機構如符合勞工退休金條例第七條第二項自願提繳情形者，得改以提繳勞工退休金，其中雇主應按月提繳部分由本會補助。
+
+(六)研究發展費：
+
+1.研究發展費係指申請機構依替代役實施條例規定應按月向主管機關繳納之費用。
+
+2.申請機構延攬之博士級研究人員，如為研發替代役之第二階段服役期間者，其應繳納之研究發展費由本會補助。
+
+3.本會於補助研究發展費期間，不再補助本項第一款至第五款所列項目。
+
+前項各款補助項目為部分補助性質，申請機構得於補助期間內，由自籌經費或執行本會各類計畫經費支應其餘不足之經費。
+
+、受延攬人應由申請機構發給聘書，其服務期間之各項權利義務應以契約明定。契約內容須包括補助延攬期間、補助經費、雙方應遵守之權利義務、差假管理、出國之事項及工作內容等項目。
+
+依本要點補助之科技人才於本會補助期間內，應專任於延攬事由之職務，並由申請機構負管理之責。
+
+受延攬人於補助期間內如有違背應履行義務或相關規定者，申請機構應負責查證，並依相關法令規定處理後，將處理結果函報本會。
+
+前項經申請機構或本會查證屬實後之應辦事項，經催辦仍未辦理者，本會得終止補助或將應繳回而未繳回之補助經費於申請機構之其他延攬科技人才補助經費項內扣除，並得視情節暫停受理其向本會申請補助延攬科技人才案。
+
+十、受延攬人應於補助期間結束後二個月內，經由申請人登入本會學術研發服務網內本項補助作業項下，線上繳交研究(教學或研發與管理)工作報告，向本會辦理結案。
+
+十一、經費之撥付，依本會核定通知函及經費核定清單規定辦理。
+
+依第五點第一項第二款第四目以臨時學歷證明文件申請者，於撥款時應同時檢附博士學位證書影本。
+
+十二、經費之結報：申請機構應於補助期滿後三個月內，檢附收支報告總表、核定清單，向本會辦理經費結報，如有餘款並應繳回，或有不足者，應附收據由本會補發差額。
+
+十三、申請機構或申請人應於補助期間結束後三個月內辦理經費結報及繳交參與研究(教學或研發與管理)工作報告，經本會催告仍未辦理
+
+者，本會得於申請機構之其他延攬科技人才補助經費項內扣除，亦得視情形暫停申請機構向本會申請補助延攬科技人才案。
+
+十四、支用單據之處理、保存及查核：申請機構對補助款項之各項支用單據，應依政府支出憑證處理要點規定辦理，並按補助編號順序，整理審核裝訂成冊，依有關規定妥善存管備查，本會得派員或陪同審計人員前往實地查核，如發現未依規定妥善保存，致有毀損、滅失等情事，依情節輕重酌減嗣後補助款或停止補助一年至五年。
+
+十五、申請人應依補助用途支用，並對各項支出所提出支用單據之支付事實真實性負責，如有不實應負相關責任。
+
+本會補助經費之支用，有未依補助用途支用或虛報、浮報之處置，準用本會補助專題研究計畫作業要點第二十四點及第二十五點規定。
+
+十六、受延攬人因參與研究所產生之研發成果，其歸屬、管理及運用，應依政府科學技術研究發展成果歸屬及運用辦法及相關法令規定辦理。
+
+## 附表國家科學及技術委員會補助延攬客座科技人才教學研究費或研究費支給基準表
+
+國家科學及技術委員會111年 10 月 13 日科會科字第 1110063980B 號函修正
+
+<table><tr><td>補助延攬類別</td><td>教學研究費或研究費</td></tr><tr><td>特聘講座</td><td>教學研究費之支給基準，最高得以其原國外服務單 位待遇標準支給。</td></tr><tr><td>講座教授</td><td>每月教學研究費新台幣144,200元至259,560元。</td></tr><tr><td>客座教授 （客座研究員）</td><td>每月教學研究費新臺幣77,250元至194,090元。</td></tr><tr><td>客座副教授 （客座副研究員）</td><td>每月教學研究費新臺幣72,100元至149300元。</td></tr><tr><td>客座助理教授 （客座助研究員）</td><td>每月教學研究費新台幣66,950元至104,410元。</td></tr><tr><td>客座專家</td><td>每月教學研究費新臺幣 66,950元至194,090元。</td></tr><tr><td>博士級研究人員 備註：</td><td>每月研究費（由申請機構綜合考量後，依據自行訂 定標準提供建議金額）及年終獎金。</td></tr><tr><td colspan="2">一、本會依本要點補助之各款補助項目為部分補助性質，申請機構得 於補助期間內，由自籌經費或執行本會各類計畫經費支應其餘不 足之經費。 二本會補助之教學研究費或研究費係依受延攬人之學經歷學術地 位、特殊技術及工作經驗近年來論著價值研究或教學對國內</td></tr><tr><td colspan="2">學術科技領域助益及貢獻程度等，由本會酌情審定本會補助之金 額·但情形特殊者，得視受延攬人特殊專長，且敘明具體理由並 經專案核定酌予提高。 三、教學研究費或研究費應按月支給，如有未滿一個月者，按實際在</td></tr><tr><td colspan="2">職日覈實計支；其每日計發金額，以當月全月教學研究費或研究 費總額除以該月全月之日數計算。 四、申請機構應依稅法規定按月扣繳其所得稅，所得稅之申報由受延</td></tr><tr><td colspan="2">攬人自行辦理，申請機構應予協助。 五、本要點第四點第一項第三款博士級研究人員，其職銜由申請機構 依實際工作內容屬性或人員專業訂定(如博士後研究員或專案研究 員等)。</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **6. [超連結（網站）]**: https://law.nstc.gov.tw/LawContent.aspx?id=GL000059&amp;kw=%E8%A3%9C%E5%8A%A9%E5%B0%88%E9%A1%8C%E7%A0%94%E7%A9%B6%E8%A8%88%E7%95%AB%E7%B6%93%E8%B2%BB%E8%99%95%E7%90%86%E5%8E%9F%E5%89%87
+- **7. [超連結（網站）]**: https://www.nstc.gov.tw/folksonomy/list/6992afae-aa9c-465d-b90d-66dc3a3b1291?l=ch
+- **8. [超連結（網站）]**: https://www.nstc.gov.tw/folksonomy/list/6992afae-aa9c-465d-b90d-66dc3a3b1291?l=ch
+- **9. [超連結（網站）]**: https://www.nstc.gov.tw/folksonomy/list/d2997b07-710c-4ec5-9c06-54de0660f2c4?l=ch
+- **10. [超連結（檔案）]**: files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助專題研究計畫研究人力約用注意事項-1110728.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=10 assetId=ca8091927db635af -->
+#### OCR 10: files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助專題研究計畫研究人力約用注意事項-1110728.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助專題研究計畫研究人力約用注意事項-1110728.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ca8091927db635af_國家科學及技術委員會補助專題研究計畫研究人力約用注意事項-1110728.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1806
+- 驗證狀態: ok
+
+```markdown
+一、國家科學及技術委員會(以下簡稱本會)為使專題研究計畫研究人力之約用有所依循，特訂定本注意事項。
+
+二、執行機構約用研究人力時，應確實審核其資格並載明約用之類(級)別，依執行機構規定之程序簽報核准後約用之。辦理經費結報時，應檢附核准約用之相關資料。
+
+## 三、研究人力分下列三類：
+
+(一)專任人員：指執行機構約用之專職從事專題研究計畫工作人員。但在職行政人員或在學學生，除在職進修或進修部學生專職於專題研究計畫外，不得擔任專任人員。
+
+(二)兼任人員：指執行機構約用之以部分時間參與專題研究計畫人員，分為下列三級：
+
+1.講師、助教級：與計畫性質相關之講師、助教或相當級職之人員，確為計畫所需者。
+
+2.研究生：與計畫性質相關之博士班或碩士班研究生。
+
+3.大專學生：與計畫性質相關之大學部或專科部之學生。
+
+## (三)臨時工：指臨時僱用且無專職工作之人員。
+
+大專校院執行機構約用學生擔任兼任人員，應依教育部「專科以上學校獎助生權益保障指導原則」認定屬學習範疇或僱傭關係，並依相應之規定辦理。學生至所就讀大專校院以外之執行機構擔任兼任人員，經學生就讀之大專校院認定屬學習範疇者，該執行機構得比照大專校院之規定約用其為學習範疇之兼任人員。
+
+研究生或大專學生如辦理休學，自學校開立休學證明書所載之日期起，不得擔任兼任人員。
+
+於專題研究計畫中已擔任第一項任一類者，不得再擔任同一計畫之其他類研究人力。
+
+專任人員不得擔任本會其他專題研究計畫之研究人力。
+
+計畫主持人如因計畫執行需要，得循執行機構行政程序簽報核准，由自籌經費或本會其他經費共同列支研究人力所需費用。
+
+## 四、研究人力所需下列費用由業務費列支：
+
+## (一)專任人員費用：
+
+1.由執行機構綜合考量工作內容、專業技能、預期績效表現及學經歷年資等因素，自行訂定職銜及工作酬金標準，並核實支給。但首次約用人員月支酬金不得低於下列金額：
+
+(1)專科級：新臺幣(以下同)二萬八千三百元。
+
+(2)學士級：三萬三千八百元。
+
+(3)碩士級：三萬八千六百元。
+
+2.為研發替代役第二階段服役期間者，執行機構依替代役實施條例規定應繳納之研究發展費得於業務費支應。
+
+3.執行機構得按專任人員工作酬金核列至多一個半月數額之年終工作獎金準備金。擔任本會不同計畫項下專任人員，同年十二月一日仍在職者，不論其在職月份是否銜接，得依當年實際在職月數合併計算後，按比例發給（其任職前之政府機構相關工作經驗年資可合併計算發給年終工作獎金）。其他有關年終工作獎金之發放，依行政院規定辦理。
+
+## (二)兼任人員費用：
+
+1.依執行機構自行訂定之標準按計畫性質核實支給講師、助教級兼任人員工作酬金。
+
+2.學生兼任人員認定屬學習範疇者，支給研究津貼；認定屬僱傭關係者，支給工作酬金。每月均應至少支給新臺幣六千元。
+
+(三)臨時工資：依執行機構自行訂定之標準按工作性質，按日或按時核實支給。
+
+(四)保險費：依勞工保險條例及全民健康保險法之規定辦理勞工保險及全民健康保險之雇主應負擔部分，費用編列基準依勞動部勞工保險局及衛生福利部中央健康保險署規定辦理。
+
+(五)勞工退休金或離職儲金：
+
+1.適用勞動基準法者，應依勞工退休金條例相關規定，由執行機構辦理按月提繳退休金，儲存於勞保局設立之勞工退休金個人專戶之雇主應按月提繳部分。
+
+2.不適用勞動基準法者，應比照各機關學校聘僱人員離職儲金給與辦法之規定，由執行機構辦理按月提存離職儲金之公提儲金部分。
+
+五、前點以外依其他法令應支出之研究人力費用，以於管理費列支為原則；如經徵得計畫主持人同意後，得自業務費列支。
+
+六、專題研究計畫執行完成或停止時應即終止約用關係，各執行機構於約用時應預為說明。
+
+七、研究人力如與執行機構間屬僱傭關係而適用勞動基準法者，應依勞動相關法規辦理，並於契約內載明約用期間有關工作時間、內容、酬金、差假、兼職限制等各項權利義務，其任職證明由執行機構核發。執行機構並應考量研究人力類別、領域、工作環境之特性，為適當之差勤管理。
+
+八、其他應注意事項：
+
+(一)專題研究計畫應迴避進用計畫主持人及共同主持人之配偶或三親等以內血親及姻親為研究人力。
+
+(二)執行機構約用研究人力，如發現有虛報、浮報情事，依本會補助專題研究計畫作業要點規定辦理。
+
+九、本注意事項未盡事宜，依相關法令規定辦理。
+```
+
+<!-- OCR_END -->
+
+- **11. [超連結（網站）]**: http://law.dgbas.gov.tw/NewsContent.aspx?id=884
+- **12. [超連結（網站）]**: https://law.dgbas.gov.tw/LawContent.aspx?id=FL017585&amp;kw=%e5%9c%8b%e5%85%a7%e5%87%ba%e5%b7%ae%e6%97%85%e8%b2%bb%e5%a0%b1%e6%94%af%e8%a6%81%e9%bb%9e
+- **13. [超連結（網站）]**: https://law.dgbas.gov.tw/LawContent.aspx?id=FL017584&amp;kw=%e5%9c%8b%e5%a4%96
+- **14. [超連結（網站）]**: https://www.nstc.gov.tw/sci/ch/list/b3aa92b4-989b-43a9-b21d-0122c2ab4bc9
+- **15. [超連結（檔案）]**: files/專案計畫-1030519起/中央政府各機關派赴國外各地區出差人員生活費日支數額表-1130101起適用.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=15 assetId=6313ea0171a97be3 -->
+#### OCR 15: files/專案計畫-1030519起/中央政府各機關派赴國外各地區出差人員生活費日支數額表-1130101起適用.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/中央政府各機關派赴國外各地區出差人員生活費日支數額表-1130101起適用.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/6313ea0171a97be3_中央政府各機關派赴國外各地區出差人員生活費日支數額表-1130101起適用.md
+- OCR 狀態: completed_cached
+- OCR 字數: 120752
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **16. [超連結（檔案）]**: files/法規/國外差旅日支數額表20230101起適用.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=16 assetId=618e8685dc873288 -->
+#### OCR 16: files/法規/國外差旅日支數額表20230101起適用.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/法規/國外差旅日支數額表20230101起適用.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/618e8685dc873288_國外差旅日支數額表20230101起適用.md
+- OCR 狀態: completed_cached
+- OCR 字數: 392875
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **17. [超連結（檔案）]**: files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=17 assetId=8b08aa6ba11c4c66 -->
+#### OCR 17: files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8b08aa6ba11c4c66_113年6月21日起至114年6月20日止費率表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 227701
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **18. [超連結（檔案）]**: files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=18 assetId=8b08aa6ba11c4c66 -->
+#### OCR 18: files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/113年6月21日起至114年6月20日止費率表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8b08aa6ba11c4c66_113年6月21日起至114年6月20日止費率表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 227701
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **19. [超連結（檔案）]**: files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=19 assetId=75441fd81deb2dca -->
+#### OCR 19: files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/75441fd81deb2dca_因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 127976
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **20. [超連結（檔案）]**: files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=20 assetId=75441fd81deb2dca -->
+#### OCR 20: files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/75441fd81deb2dca_因公赴國外出差或返國述職人員綜合保險1120621-1130620適用保險費率表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 127976
+- 驗證狀態: oversized_for_llm_context
+
+> 此 OCR Markdown 超過 LargeMarkdownChars=120000，已標記但未內嵌全文；請改讀上方 OCR Markdown 檔案。
+
+<!-- OCR_END -->
+
+- **21. [超連結（檔案）]**: files/1080501-1090430適用費率.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=21 assetId=b3ff844b49bc3260 -->
+#### OCR 21: files/1080501-1090430適用費率.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/1080501-1090430適用費率.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/b3ff844b49bc3260_1080501-1090430適用費率.md
+- OCR 狀態: completed_cached
+- OCR 字數: 118749
+- 驗證狀態: ok
+
+```markdown
+## 科技部 書函
+
+地址：台北市和平東路2段106號
+
+聯絡人：邱瑜筑
+
+電話：02-2737-7284
+
+傳真：02-2737-7249
+
+電子信箱：ycchiu@most.gov.tw
+
+台北市和平東路二段106號
+
+受文者：綜合規劃司
+
+發文日期：中華民國108年5月1日
+
+發文字號：科部秘字第1080026516號
+
+速別：普通件
+
+密等及解密條件或保密期限：
+
+附件：如文
+
+主旨：函轉外交部代辦「因公赴國外出差或返國述職人員綜合保險」(標案案號:MOFA108036CB)，業與華南產物保險股份有限公司高雄分公司簽署共同供應契約，可供各機關利用，請查照。
+
+說明：依外交部108年4月26日外秘購字第10835519450號函辦理(原函如附)。
+
+正本：本部各所屬機關（共3單位）、財團法人國家實驗研究院、財團法人國家同步輻射研究中心、國家災害防救科技中心  
+副本：本部各司處（共22單位）(含附件)
+
+內部遞送電子公文
+
+![](images/2fb0ad21e3f395fadeb82843ddd7c74bc854c4b016db3f1b86c5841fc83a0331.jpg)
+
+檔　　號:保存年限:
+
+## 外交部 函
+
+地址：臺北市凱達格蘭大道二號承辦人：林素霞  
+電話：(02)2348-2172  
+電子信箱：shlin01@mofa.gov.tw
+
+## 受文者：科技部
+
+發文日期：中華民國108年4月26日  
+發文字號：外秘購字第10835519450號  
+速別：普通件  
+密等及解密條件或保密期限：  
+附件：無
+
+主旨：本部代辦「因公赴國外出差或返國述職人員綜合保險」(標案案號:MOFA108036CB)，業與華南產物保險股份有限公司高雄分公司簽署共同供應契約，可供各機關利用，請查照並轉知所屬。
+
+## 說明：
+
+一、旨揭共同供應契約之履約期限自本(108)年5月1日起至明(109)年4月30日止，契約相關資料已依照「共同供應契約實施辦法」第7條規定，公開於行政院公共工程委員會「政府電子採購網」(網址:http://web.pcc.gov.tw)，請逕行上網查詢及下載利用，據以辦理投保。
+
+二、如有訂購相關問題，可洽詢旨揭廠商聯絡人夏熒卿小姐(電話:07-2380909轉分機255；電子信箱kbusi@scins.com.tw)。
+
+正本：總統府、立法院、司法院、考試院、監察院、行政院、公務人員保障暨培訓委員會、公務人員退休撫卹基金監理委員會、中央各部會、國家安全會議、國家安全局、各縣市政府、各縣市議會
+
+副本：華南產物保險股份有限公司高雄分公司 - 换
+
+保险金额：400萬元
+
+<table><tr><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=1>保背</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保背</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=3>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=1>天教</td><td rowspan=1 colspan=2>保货</td><td rowspan=1 colspan=1>天款</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>保费</td></tr><tr><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>390</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1>671</td><td rowspan=1 colspan=1>121</td><td rowspan=1 colspan=2>944</td><td rowspan=1 colspan=1>161</td><td rowspan=1 colspan=3>1.224</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=2>1.505</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=2>1.674</td><td rowspan=1 colspan=1>281</td><td rowspan=1 colspan=2>1.820</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>1.964</td><td rowspan=1 colspan=2>361</td><td rowspan=1 colspan=1>2.068</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>398</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1>678</td><td rowspan=1 colspan=1>122</td><td rowspan=1 colspan=2>951</td><td rowspan=1 colspan=1>162</td><td rowspan=1 colspan=3>1.232</td><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=2>1.511</td><td rowspan=1 colspan=1>242</td><td rowspan=1 colspan=2>1.676</td><td rowspan=1 colspan=1>282</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.822</td><td rowspan=1 colspan=1>322</td><td rowspan=1 colspan=1>1.966</td><td rowspan=1 colspan=2>362</td><td rowspan=1 colspan=1>2.074</td></tr><tr><td rowspan=1 colspan=2>3</td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>405</td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1>684</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=2>957</td><td rowspan=1 colspan=1>163</td><td rowspan=1 colspan=3>1.238</td><td rowspan=1 colspan=1>203</td><td rowspan=1 colspan=2>1.518</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=2>1.682</td><td rowspan=1 colspan=1>283</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.828</td><td rowspan=1 colspan=1>323</td><td rowspan=1 colspan=1>1,968</td><td rowspan=1 colspan=2>363</td><td rowspan=1 colspan=1>2.076</td></tr><tr><td rowspan=1 colspan=2>4</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>411</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>690</td><td rowspan=1 colspan=1>124</td><td rowspan=1 colspan=2>965</td><td rowspan=1 colspan=1>164</td><td rowspan=1 colspan=3>1.245</td><td rowspan=1 colspan=1>204</td><td rowspan=1 colspan=2>1.524</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=2>1.684</td><td rowspan=1 colspan=1>284</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>,831</td><td rowspan=1 colspan=1>324</td><td rowspan=1 colspan=1>1.970</td><td rowspan=1 colspan=2>364</td><td rowspan=1 colspan=1>2.083</td></tr><tr><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>419</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>697</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=2>972</td><td rowspan=1 colspan=1>165</td><td rowspan=1 colspan=3>1.253</td><td rowspan=1 colspan=1>205</td><td rowspan=1 colspan=2>1.530</td><td rowspan=1 colspan=1>245</td><td rowspan=1 colspan=2>1.691</td><td rowspan=1 colspan=1>285</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>.837</td><td rowspan=1 colspan=1>325</td><td rowspan=1 colspan=1>1.972</td><td rowspan=1 colspan=2>365</td><td rowspan=1 colspan=1>2.084</td></tr><tr><td rowspan=1 colspan=2>6</td><td rowspan=1 colspan=1>\e4</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>426</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>703</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=2>980</td><td rowspan=1 colspan=1>166</td><td rowspan=1 colspan=3>12</td><td rowspan=1 colspan=1>206</td><td rowspan=1 colspan=2>1,537</td><td rowspan=1 colspan=1>246</td><td rowspan=1 colspan=2>1.693</td><td rowspan=1 colspan=1>286</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.839</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=1>1.974</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>148</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>433</td><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1>709</td><td rowspan=1 colspan=1>127</td><td rowspan=1 colspan=2>986</td><td rowspan=1 colspan=1>167</td><td rowspan=1 colspan=3>1.28</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=2>1.543</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=2>1.699</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.845</td><td rowspan=1 colspan=1>327</td><td rowspan=1 colspan=1>1.976</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>440</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>715</td><td rowspan=1 colspan=1>128</td><td rowspan=1 colspan=2>995</td><td rowspan=1 colspan=1>168</td><td rowspan=1 colspan=3>1.274</td><td rowspan=1 colspan=1>208</td><td rowspan=1 colspan=2>1.549</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=2>1f70</td><td rowspan=1 colspan=1>288</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.847</td><td rowspan=1 colspan=1>328</td><td rowspan=1 colspan=1>1.978</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>448</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>723</td><td rowspan=1 colspan=1>f9</td><td rowspan=1 colspan=2>1.000</td><td rowspan=1 colspan=1>\69</td><td rowspan=1 colspan=3>1.282</td><td rowspan=1 colspan=1>209</td><td rowspan=1 colspan=2>1.558</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=2>1,707</td><td rowspan=1 colspan=1>289</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.849</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=1>1.980</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>454</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>729</td><td rowspan=1 colspan=1>130</td><td rowspan=1 colspan=2>1.009</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>1.288</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=2>1,56</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=2>1.709</td><td rowspan=1 colspan=1>290</td><td rowspan=1 colspan=2>1.851</td><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=1>1.980</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>463</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>736</td><td rowspan=1 colspan=1>131</td><td rowspan=1 colspan=2>1.015</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=3>1.296</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=2>1.569</td><td rowspan=1 colspan=1>251</td><td rowspan=1 colspan=2>1.716</td><td rowspan=1 colspan=1>291</td><td rowspan=1 colspan=2>1.857</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>1.989</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>469</td><td rowspan=1 colspan=1>92</td><td rowspan=1 colspan=1>742</td><td rowspan=1 colspan=1>132</td><td rowspan=1 colspan=2>1.023</td><td rowspan=1 colspan=1>172</td><td rowspan=1 colspan=3>1.303</td><td rowspan=1 colspan=1>212</td><td rowspan=1 colspan=2>1.572</td><td rowspan=1 colspan=1>252</td><td rowspan=1 colspan=2>1.718</td><td rowspan=1 colspan=1>292</td><td rowspan=1 colspan=2>1.859</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=1>1.991</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>475</td><td rowspan=1 colspan=1>93</td><td rowspan=1 colspan=1>748</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=2>1.030</td><td rowspan=1 colspan=1>173</td><td rowspan=1 colspan=3>1.309</td><td rowspan=1 colspan=1>213</td><td rowspan=1 colspan=2>1.578</td><td rowspan=1 colspan=1>253</td><td rowspan=1 colspan=2>1.724</td><td rowspan=1 colspan=1>293</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.861</td><td rowspan=1 colspan=1>333</td><td rowspan=1 colspan=1>1.993</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>482</td><td rowspan=1 colspan=1>94</td><td rowspan=1 colspan=1>757</td><td rowspan=1 colspan=1>134</td><td rowspan=1 colspan=2>1.036</td><td rowspan=1 colspan=1>174</td><td rowspan=1 colspan=3>1.315</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.580</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=2>1.726</td><td rowspan=1 colspan=1>294</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.863</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=1>1.995</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>204</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>488</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>763</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=2>1.044</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=3>1.322</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.586</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=2>1.733</td><td rowspan=1 colspan=1>295</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1,866</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=1>1.997</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>213</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>494</td><td rowspan=1 colspan=1>96</td><td rowspan=1 colspan=1>771</td><td rowspan=1 colspan=1>136</td><td rowspan=1 colspan=2>1.051</td><td rowspan=1 colspan=1>176</td><td rowspan=1 colspan=3>1.328</td><td rowspan=1 colspan=1>216</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.588</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=2>1.735</td><td rowspan=1 colspan=1>296</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1868</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=1>1.999</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>219</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>501</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>778</td><td rowspan=1 colspan=1>137</td><td rowspan=1 colspan=2>1.059</td><td rowspan=1 colspan=1>177</td><td rowspan=1 colspan=3>1.334</td><td rowspan=1 colspan=1>217</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.595</td><td rowspan=1 colspan=1>257</td><td rowspan=1 colspan=2>1.741</td><td rowspan=1 colspan=1>297</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.870</td><td rowspan=1 colspan=1>337</td><td rowspan=1 colspan=1>2.001</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>507</td><td rowspan=1 colspan=1>98</td><td rowspan=1 colspan=1>786</td><td rowspan=1 colspan=1>138</td><td rowspan=1 colspan=2>1.065</td><td rowspan=1 colspan=1>178</td><td rowspan=1 colspan=3>1.341</td><td rowspan=1 colspan=1>218</td><td rowspan=1 colspan=2>1.597</td><td rowspan=1 colspan=1>258</td><td rowspan=1 colspan=2>1.743</td><td rowspan=1 colspan=1>298</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.872</td><td rowspan=1 colspan=1>338</td><td rowspan=1 colspan=1>2.003</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>513</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>792</td><td rowspan=1 colspan=1>139</td><td rowspan=1 colspan=2>1.074</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=3>1.347</td><td rowspan=1 colspan=1>219</td><td rowspan=1 colspan=2>1.603</td><td rowspan=1 colspan=1>259</td><td rowspan=1 colspan=2>1.745</td><td rowspan=1 colspan=1>299</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.874</td><td rowspan=1 colspan=1>339</td><td rowspan=1 colspan=1>2.006</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>242</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>521</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>801</td><td rowspan=1 colspan=1>140</td><td rowspan=1 colspan=2>1.080</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=3>1.355</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=2>1.605</td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=2>1.747</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>876</td><td rowspan=1 colspan=1>340</td><td rowspan=1 colspan=1>2.008</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>527</td><td rowspan=1 colspan=1>101</td><td rowspan=1 colspan=1>806</td><td rowspan=1 colspan=1>141</td><td rowspan=1 colspan=2>1.089</td><td rowspan=1 colspan=1>181</td><td rowspan=1 colspan=3>1.362</td><td rowspan=1 colspan=1>221</td><td rowspan=1 colspan=2>1.611</td><td rowspan=1 colspan=1>261</td><td rowspan=1 colspan=2>1.753</td><td rowspan=1 colspan=1>301</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.882</td><td rowspan=1 colspan=1>341</td><td rowspan=1 colspan=1>2.010</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>533</td><td rowspan=1 colspan=1>102</td><td rowspan=1 colspan=1>815</td><td rowspan=1 colspan=1>142</td><td rowspan=1 colspan=2>1.094</td><td rowspan=1 colspan=1>182</td><td rowspan=1 colspan=3>1.368</td><td rowspan=1 colspan=1>222</td><td rowspan=1 colspan=2>1.614</td><td rowspan=1 colspan=1>262</td><td rowspan=1 colspan=2>1.755</td><td rowspan=1 colspan=1>302</td><td rowspan=1 colspan=2>1.884</td><td rowspan=1 colspan=1>342</td><td rowspan=1 colspan=1>2.012</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>540</td><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1>821</td><td rowspan=1 colspan=1>143</td><td rowspan=1 colspan=2>1.100</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=3>1.374</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=2>1.620</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=2>1.757</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=2>1.891</td><td rowspan=1 colspan=1>343</td><td rowspan=1 colspan=1>2.014</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>548</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>827</td><td rowspan=1 colspan=1>144</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.107</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=3>1.382</td><td rowspan=1 colspan=1>224</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.622</td><td rowspan=1 colspan=1>264</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.759</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=2>1.893</td><td rowspan=1 colspan=1>344</td><td rowspan=1 colspan=1>2.016</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>554</td><td rowspan=1 colspan=1>105</td><td rowspan=1 colspan=1>836</td><td rowspan=1 colspan=1>145</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>185</td><td rowspan=1 colspan=3>1.388</td><td rowspan=1 colspan=1>225</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.628</td><td rowspan=1 colspan=1>265</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>761</td><td rowspan=1 colspan=1>305</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.899</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>2.018</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=5 colspan=1></td><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>283</td><td rowspan=1 colspan=1>666</td><td rowspan=1 colspan=1>563</td><td rowspan=1 colspan=1>106</td><td rowspan=1 colspan=1>842</td><td rowspan=1 colspan=1>146</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>186</td><td rowspan=1 colspan=3>1,397</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>630</td><td rowspan=1 colspan=1>266</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.763</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.901</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=1>2.024</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>292</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>569</td><td rowspan=1 colspan=1>107</td><td rowspan=1 colspan=1>851</td><td rowspan=1 colspan=1>147</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.16</td><td rowspan=1 colspan=1>187</td><td rowspan=1 colspan=3>1.403</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.637</td><td rowspan=1 colspan=1>267</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.765</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=2>1.908</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=1>2.027</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>298</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>578</td><td rowspan=1 colspan=1>108</td><td rowspan=1 colspan=1>857</td><td rowspan=1 colspan=1>148</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>188</td><td rowspan=1 colspan=3>1,411</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.639</td><td rowspan=1 colspan=1>268</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.768</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.910</td><td rowspan=1 colspan=1>348</td><td rowspan=1 colspan=1>2.029</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>584</td><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1>865</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>.140</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=3>1.418</td><td rowspan=1 colspan=1>229</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.641</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>770</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.916</td><td rowspan=1 colspan=1>349</td><td rowspan=1 colspan=1>2.035</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>592</td><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>872</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>146</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>-</td><td></td><td rowspan=1 colspan=1>1,426</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.643</td><td rowspan=1 colspan=1>270</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.771</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.918</td><td rowspan=1 colspan=1>350</td><td rowspan=1 colspan=1>2.037</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1>599</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>880</td><td rowspan=1 colspan=1>151</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.153</td><td rowspan=1 colspan=1>\191</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=2>1.649</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=2>1.778</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=2>1.924</td><td rowspan=1 colspan=1>351</td><td rowspan=1 colspan=1>2.043</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>607</td><td rowspan=1 colspan=1>112</td><td rowspan=1 colspan=1>886</td><td rowspan=1 colspan=1>152</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.159</td><td rowspan=1 colspan=1>192</td><td rowspan=1 colspan=3>1.441</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=2>1.65</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=2>1.780</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=2>1.926</td><td rowspan=1 colspan=1>352</td><td rowspan=1 colspan=1>2.045</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=8 colspan=1>L</td><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>613</td><td rowspan=1 colspan=1>113</td><td rowspan=1 colspan=1>893</td><td rowspan=1 colspan=1>153</td><td rowspan=1 colspan=2>1.166</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=3>1.447</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=2>1.786</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=2>1.933</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>2.047</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>340</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>619</td><td rowspan=1 colspan=1>114</td><td rowspan=1 colspan=1>899</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>,174</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>1,453</td><td rowspan=1 colspan=1>234</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.656</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.789</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=2>193</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>2.049</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>904</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>1.42</td><td rowspan=1 colspan=1>235</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>658</td><td rowspan=1 colspan=1>275</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>795</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=2>1,944</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=1>2.051</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>634</td><td rowspan=1 colspan=1>116</td><td rowspan=1 colspan=1>911</td><td rowspan=1 colspan=1>156</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.188</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>1.468</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=2>1.659</td><td rowspan=1 colspan=1>276</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>797</td><td rowspan=1 colspan=1>316</td><td rowspan=1 colspan=2>1.943</td><td rowspan=1 colspan=1>356</td><td rowspan=1 colspan=1>2.053</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>361</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>117</td><td rowspan=1 colspan=1>917</td><td rowspan=1 colspan=1>157</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.194</td><td rowspan=1 colspan=1>197</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>1.476</td><td rowspan=1 colspan=1>237</td><td rowspan=1 colspan=2>1.61</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.803</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=2>1.951</td><td rowspan=1 colspan=1>357</td><td rowspan=1 colspan=1>2.055</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>369</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>648</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>923</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.203</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>238</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=2>1.953</td><td rowspan=1 colspan=1>358</td><td rowspan=1 colspan=1>2.057</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>375</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>657</td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>930</td><td rowspan=1 colspan=1>159</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.209</td><td rowspan=1 colspan=1>199</td><td rowspan=1 colspan=1></td><td></td><td rowspan=1 colspan=1>1.490</td><td rowspan=1 colspan=1>239</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.812</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=2>1.955</td><td rowspan=1 colspan=1>359</td><td rowspan=1 colspan=1>2.059</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>384</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>663</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=2>1.217</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=3>1.497</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=2>1.667</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=2>1.814</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=2>1.957</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>2.062</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr></table>
+
+<table><tr><td rowspan=1 colspan=10></td><td rowspan=1 colspan=2>[ab]</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=3>保费</td><td rowspan=4 colspan=2>天教</td><td rowspan=4 colspan=3>保费</td><td rowspan=4 colspan=2>天敦</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天教</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天敦</td><td rowspan=4 colspan=2>保费</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=3 colspan=2>保费</td><td rowspan=3 colspan=2>天敦</td><td rowspan=3 colspan=2>保费</td><td rowspan=3 colspan=2>天数</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=27 colspan=1></td></tr><tr><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2>天数</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>161</td><td rowspan=2 colspan=3>854</td><td rowspan=2 colspan=2>201</td><td rowspan=2 colspan=3>1.050</td><td rowspan=2 colspan=2>241</td><td rowspan=2 colspan=2>1.168</td><td rowspan=2 colspan=2>281</td><td rowspan=2 colspan=2>1.20</td><td rowspan=2 colspan=2>321</td><td rowspan=2 colspan=2>1.370</td><td rowspan=2 colspan=2>361</td><td rowspan=2 colspan=2>1.443</td></tr><tr><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=2>73</td><td rowspan=1 colspan=2>41</td><td rowspan=1 colspan=2>272</td><td rowspan=1 colspan=2>81</td><td rowspan=1 colspan=2>468</td><td rowspan=1 colspan=2>121</td><td rowspan=1 colspan=2>659</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>664</td><td rowspan=2 colspan=2>162</td><td rowspan=2 colspan=3>860</td><td rowspan=2 colspan=2>202</td><td rowspan=2 colspan=3>1.055</td><td rowspan=2 colspan=2>242</td><td rowspan=2 colspan=2>1.170</td><td rowspan=2 colspan=2>282</td><td rowspan=2 colspan=2>1.271</td><td rowspan=2 colspan=2>322</td><td rowspan=2 colspan=2>1.372</td><td rowspan=2 colspan=2>362</td><td rowspan=2 colspan=2>1.448</td></tr><tr><td></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=2>77</td><td rowspan=1 colspan=2>42</td><td rowspan=1 colspan=2>278</td><td rowspan=1 colspan=2>82</td><td rowspan=1 colspan=2>473</td><td rowspan=1 colspan=2>122</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>163</td><td rowspan=2 colspan=3>864</td><td rowspan=2 colspan=2>203</td><td rowspan=2 colspan=3>1.059</td><td rowspan=2 colspan=2>243</td><td rowspan=2 colspan=2>1.174</td><td rowspan=2 colspan=2>283</td><td rowspan=2 colspan=2>1.275</td><td rowspan=2 colspan=2>323</td><td rowspan=2 colspan=2>1.373</td><td rowspan=2 colspan=2>363</td><td rowspan=2 colspan=2>1.449</td></tr><tr><td></td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=2>43</td><td rowspan=1 colspan=2>282</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=2>477</td><td rowspan=1 colspan=2>123</td><td rowspan=1 colspan=2>668</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>673</td><td rowspan=2 colspan=2>164</td><td rowspan=2 colspan=3>869</td><td rowspan=2 colspan=2>204</td><td rowspan=2 colspan=3>1.063</td><td rowspan=2 colspan=2>244</td><td rowspan=2 colspan=2>1.175</td><td rowspan=2 colspan=2>284</td><td rowspan=2 colspan=2>1.277</td><td rowspan=2 colspan=2>324</td><td rowspan=2 colspan=2>1.375</td><td rowspan=2 colspan=2>364</td><td rowspan=2 colspan=2>1.453</td></tr><tr><td></td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=2>87</td><td rowspan=1 colspan=2>44</td><td rowspan=1 colspan=2>286</td><td rowspan=1 colspan=2>84</td><td rowspan=1 colspan=2>482</td><td rowspan=1 colspan=2>124</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>165</td><td rowspan=2 colspan=3>874</td><td rowspan=2 colspan=2>205</td><td rowspan=2 colspan=3>1.068</td><td rowspan=2 colspan=2>245</td><td rowspan=2 colspan=2>1.180</td><td rowspan=2 colspan=2>285</td><td rowspan=2 colspan=2>1.282</td><td rowspan=2 colspan=2>325</td><td rowspan=2 colspan=2>1.376</td><td rowspan=2 colspan=2>365</td><td rowspan=2 colspan=2>1.455</td></tr><tr><td></td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=2>93</td><td rowspan=1 colspan=2>45r</td><td rowspan=1 colspan=2>293</td><td rowspan=1 colspan=2>85</td><td rowspan=1 colspan=2>486</td><td rowspan=1 colspan=2>125</td><td rowspan=1 colspan=2>678</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>684</td><td rowspan=2 colspan=2>166</td><td rowspan=2 colspan=3>879</td><td rowspan=2 colspan=2>206</td><td rowspan=2 colspan=3>1.072</td><td rowspan=2 colspan=2>246</td><td rowspan=2 colspan=2>1.181</td><td rowspan=2 colspan=2>286</td><td rowspan=2 colspan=2>1.283</td><td rowspan=2 colspan=2>326</td><td rowspan=2 colspan=2>1.378</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=2>97</td><td rowspan=1 colspan=2>46</td><td rowspan=1 colspan=2>297</td><td rowspan=1 colspan=2>86</td><td rowspan=1 colspan=2>490</td><td rowspan=1 colspan=2>126</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>167</td><td rowspan=2 colspan=3>884</td><td rowspan=2 colspan=2>207</td><td rowspan=2 colspan=3>1.077</td><td rowspan=2 colspan=2>247</td><td rowspan=2 colspan=2>1.186</td><td rowspan=2 colspan=2>287</td><td rowspan=2 colspan=2>1.287</td><td rowspan=2 colspan=2>327</td><td rowspan=2 colspan=2>1.379</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=2>103</td><td rowspan=1 colspan=2>47</td><td rowspan=1 colspan=2>302</td><td rowspan=1 colspan=2>87</td><td rowspan=1 colspan=2>495</td><td rowspan=1 colspan=2>127</td><td rowspan=1 colspan=2>688</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>694</td><td rowspan=2 colspan=2>168</td><td rowspan=2 colspan=3>889</td><td rowspan=2 colspan=2>208</td><td rowspan=2 colspan=3>1.081</td><td rowspan=2 colspan=2>248</td><td rowspan=2 colspan=2>1.187</td><td rowspan=2 colspan=2>288</td><td rowspan=2 colspan=2>1.289</td><td rowspan=2 colspan=2>328</td><td rowspan=2 colspan=2>1.380</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=2>307</td><td rowspan=1 colspan=2>88</td><td rowspan=1 colspan=2>499</td><td rowspan=1 colspan=2>128</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>169</td><td rowspan=2 colspan=3>895</td><td rowspan=2 colspan=2>209</td><td rowspan=2 colspan=3>1.086</td><td rowspan=2 colspan=2>249</td><td rowspan=2 colspan=2>1.191</td><td rowspan=2 colspan=2>289</td><td rowspan=2 colspan=2>1.290</td><td rowspan=2 colspan=2>329</td><td rowspan=2 colspan=2>1.382</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=2>113</td><td></td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=2>313</td><td rowspan=1 colspan=2>89</td><td rowspan=1 colspan=2>505</td><td rowspan=1 colspan=2>129</td><td rowspan=1 colspan=2>698</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>170</td><td rowspan=2 colspan=3>899</td><td rowspan=2 colspan=2>210</td><td rowspan=2 colspan=3>1.091</td><td rowspan=2 colspan=2>250</td><td rowspan=2 colspan=2>1.193</td><td rowspan=2 colspan=2>290</td><td rowspan=2 colspan=2>1.292</td><td rowspan=2 colspan=2>330</td><td rowspan=2 colspan=2>1.382</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=2>118</td><td></td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=2>317</td><td rowspan=1 colspan=2>90</td><td rowspan=1 colspan=2>509</td><td rowspan=1 colspan=2>130</td><td rowspan=1 colspan=2>704</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>708</td><td rowspan=2 colspan=2>171</td><td rowspan=2 colspan=3>905</td><td rowspan=2 colspan=2>211</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1>1.096</td><td rowspan=2 colspan=2>251</td><td rowspan=2 colspan=2>1.197</td><td rowspan=2 colspan=2>291</td><td rowspan=2 colspan=2>1.296</td><td rowspan=2 colspan=2>331</td><td rowspan=2 colspan=2>1.387</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=2>122</td><td></td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=2>323</td><td rowspan=1 colspan=2>91</td><td rowspan=1 colspan=2>514</td><td rowspan=1 colspan=2>13</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>132</td><td rowspan=2 colspan=2>714</td><td rowspan=2 colspan=2>172</td><td rowspan=2 colspan=3>909</td><td rowspan=2 colspan=2>212</td><td rowspan=2 colspan=3>1.097</td><td rowspan=2 colspan=2>252</td><td rowspan=2 colspan=2>1.198</td><td rowspan=2 colspan=2>292</td><td rowspan=2 colspan=2>1.298</td><td rowspan=2 colspan=2>332</td><td rowspan=2 colspan=2>1.389</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>12</td><td></td><td rowspan=1 colspan=2>128</td><td rowspan=1 colspan=1>\5r</td><td rowspan=1 colspan=2>328</td><td></td><td rowspan=1 colspan=2>92</td><td rowspan=1 colspan=2>518</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>173</td><td rowspan=2 colspan=3>914</td><td rowspan=2 colspan=2>213</td><td rowspan=2 colspan=3>1.101</td><td rowspan=2 colspan=2>253</td><td rowspan=2 colspan=2>1.203</td><td rowspan=2 colspan=2>293</td><td rowspan=2 colspan=2>1.299</td><td rowspan=2 colspan=2>333</td><td rowspan=2 colspan=2>1.391</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>13</td><td></td><td rowspan=1 colspan=2>132</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=2>332</td><td></td><td rowspan=1 colspan=2>93</td><td rowspan=1 colspan=2>522</td><td rowspan=1 colspan=2>133</td><td rowspan=1 colspan=2>719</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>174</td><td rowspan=2 colspan=3>918</td><td rowspan=2 colspan=2>214</td><td rowspan=2 colspan=3>1.103</td><td rowspan=2 colspan=2>254</td><td rowspan=2 colspan=2>1.205</td><td rowspan=2 colspan=2>294</td><td rowspan=2 colspan=2>1.301</td><td rowspan=2 colspan=2>334</td><td rowspan=2 colspan=2>1.392</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>14</td><td></td><td rowspan=1 colspan=2>138</td><td rowspan=1 colspan=2>54</td><td rowspan=1 colspan=2>336</td><td></td><td rowspan=1 colspan=2>94</td><td rowspan=1 colspan=2>528</td><td rowspan=1 colspan=2>134</td><td rowspan=1 colspan=2>723</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>729</td><td rowspan=2 colspan=2>175</td><td rowspan=2 colspan=3>922</td><td rowspan=2 colspan=2>215</td><td rowspan=2 colspan=3>1.107</td><td rowspan=2 colspan=2>255</td><td rowspan=2 colspan=2>1.209</td><td rowspan=2 colspan=2>295</td><td rowspan=2 colspan=2>1.302</td><td rowspan=2 colspan=2>335</td><td rowspan=2 colspan=2>1.394</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td></td><td rowspan=1 colspan=1>15</td><td></td><td rowspan=1 colspan=2>143</td><td rowspan=1 colspan=1>55</td><td></td><td rowspan=1 colspan=2>340</td><td rowspan=1 colspan=2>95</td><td rowspan=1 colspan=2>533</td><td rowspan=1 colspan=2>135</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>176</td><td rowspan=2 colspan=3>927</td><td rowspan=2 colspan=2>216</td><td></td><td rowspan=2 colspan=3>1.108</td><td rowspan=2 colspan=2>256</td><td rowspan=2 colspan=2>1.210</td><td rowspan=2 colspan=2>296</td><td rowspan=2 colspan=2>1.303</td><td rowspan=2 colspan=2>336</td><td rowspan=2 colspan=2>1.395</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>16</td><td></td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=2>56</td><td rowspan=1 colspan=2>344</td><td rowspan=1 colspan=2>96</td><td rowspan=1 colspan=2>538</td><td rowspan=1 colspan=2>136</td><td rowspan=1 colspan=2>733</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>739</td><td></td><td rowspan=2 colspan=2>177</td><td rowspan=2 colspan=3>931</td><td rowspan=2 colspan=2>217</td><td rowspan=2 colspan=3>1.113</td><td></td><td rowspan=2 colspan=2>257</td><td rowspan=2 colspan=2>1.215</td><td></td><td rowspan=2 colspan=2>297</td><td rowspan=2 colspan=2>1.305</td><td rowspan=2 colspan=2>337</td><td></td><td rowspan=2 colspan=2>1.397</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>17</td><td></td><td rowspan=1 colspan=2>153</td><td rowspan=1 colspan=1>57</td><td></td><td rowspan=1 colspan=2>349</td><td rowspan=1 colspan=2>97</td><td rowspan=1 colspan=2>543</td><td rowspan=1 colspan=2>137</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=3>985</td><td rowspan=2 colspan=2>218</td><td rowspan=2 colspan=3>1.114</td><td rowspan=2 colspan=2>258</td><td rowspan=2 colspan=2>1.216</td><td rowspan=2 colspan=2>298</td><td rowspan=2 colspan=2>1.306</td><td rowspan=2 colspan=2>338</td><td></td><td rowspan=2 colspan=2>1.398</td><td rowspan=2 colspan=2></td><td></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>18</td><td></td><td rowspan=1 colspan=2>159</td><td rowspan=1 colspan=1>58</td><td></td><td rowspan=1 colspan=2>354</td><td rowspan=1 colspan=2>98</td><td rowspan=1 colspan=2>548</td><td rowspan=1 colspan=2>138</td><td rowspan=1 colspan=2>743</td><td></td><td rowspan=1 colspan=2>178</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=3>939</td><td rowspan=2 colspan=2>219</td><td rowspan=2 colspan=3>1.119</td><td rowspan=2 colspan=2>259</td><td rowspan=2 colspan=2>1.217</td><td rowspan=2 colspan=2>299</td><td rowspan=2 colspan=2>1.308</td><td rowspan=2 colspan=2>339</td><td rowspan=2 colspan=2>1.399</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>19</td><td></td><td rowspan=1 colspan=2>163</td><td rowspan=1 colspan=1>59</td><td></td><td rowspan=1 colspan=2>358</td><td rowspan=1 colspan=2>99</td><td rowspan=1 colspan=2>553</td><td rowspan=1 colspan=2>139</td><td rowspan=1 colspan=2>749</td><td></td><td rowspan=1 colspan=2>179</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>180</td><td rowspan=2 colspan=3>946</td><td rowspan=2 colspan=2>220</td><td rowspan=2 colspan=3>1.120</td><td rowspan=2 colspan=2>260</td><td rowspan=2 colspan=2>1.219</td><td rowspan=2 colspan=2>300</td><td rowspan=2 colspan=2>1.310</td><td rowspan=2 colspan=2>340</td><td rowspan=2 colspan=2>1.401</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=42 colspan=1></td><td rowspan=1 colspan=1>20</td><td></td><td rowspan=1 colspan=2>169</td><td rowspan=1 colspan=1>60</td><td></td><td rowspan=1 colspan=2>364</td><td rowspan=1 colspan=2>100</td><td rowspan=1 colspan=2>559</td><td rowspan=1 colspan=2>140</td><td rowspan=1 colspan=2>753</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=3>950</td><td rowspan=2 colspan=2>221</td><td rowspan=2 colspan=3>1.124</td><td rowspan=2 colspan=2>261</td><td rowspan=2 colspan=2>1.224</td><td rowspan=2 colspan=2>301</td><td rowspan=2 colspan=2>1.313</td><td rowspan=2 colspan=2>341</td><td rowspan=2 colspan=2>1.402</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>21</td><td></td><td rowspan=1 colspan=2>173</td><td rowspan=1 colspan=1>61</td><td></td><td rowspan=1 colspan=2>368</td><td rowspan=1 colspan=2>\</td><td rowspan=1 colspan=2>563</td><td rowspan=1 colspan=2>141</td><td rowspan=1 colspan=2>760</td><td rowspan=1 colspan=2>181</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>182</td><td rowspan=2 colspan=3>954</td><td rowspan=2 colspan=2>222</td><td rowspan=2 colspan=3>1.126</td><td rowspan=2 colspan=2>262</td><td rowspan=2 colspan=2>1.225</td><td rowspan=2 colspan=2>302</td><td rowspan=2 colspan=2>1.315</td><td rowspan=2 colspan=2>342</td><td rowspan=2 colspan=2>1.404</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>22</td><td></td><td rowspan=1 colspan=2>178</td><td rowspan=1 colspan=1>62</td><td></td><td rowspan=1 colspan=2>372</td><td rowspan=1 colspan=2>102</td><td rowspan=1 colspan=2>568</td><td rowspan=1 colspan=2>142</td><td rowspan=1 colspan=2>764</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>183</td><td rowspan=2 colspan=3>958</td><td rowspan=2 colspan=2>223</td><td rowspan=2 colspan=3>1.181</td><td rowspan=2 colspan=2>263</td><td rowspan=2 colspan=2>1.226</td><td rowspan=2 colspan=2>303</td><td rowspan=2 colspan=2>1.320</td><td rowspan=2 colspan=2>343</td><td rowspan=2 colspan=2>1.405</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>23</td><td></td><td rowspan=1 colspan=2>183</td><td rowspan=1 colspan=1>63</td><td></td><td rowspan=1 colspan=2>377</td><td rowspan=1 colspan=2>103</td><td rowspan=1 colspan=2>573</td><td rowspan=1 colspan=2>143</td><td rowspan=1 colspan=2>768</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>772</td><td rowspan=2 colspan=2>184</td><td rowspan=2 colspan=3>965</td><td rowspan=2 colspan=2>224</td><td rowspan=2 colspan=3>1.132</td><td rowspan=2 colspan=2>264</td><td rowspan=2 colspan=2>1.228</td><td rowspan=2 colspan=2>304</td><td rowspan=2 colspan=2>1.321</td><td rowspan=2 colspan=2>344</td><td rowspan=2 colspan=2>1.406</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>24</td><td></td><td rowspan=1 colspan=2>188</td><td rowspan=1 colspan=2>64</td><td rowspan=1 colspan=2>383</td><td rowspan=1 colspan=2>104</td><td rowspan=1 colspan=2>578</td><td rowspan=1 colspan=2>144</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>185</td><td rowspan=2 colspan=3>969</td><td rowspan=2 colspan=2>225</td><td rowspan=2 colspan=3>1.136</td><td rowspan=2 colspan=2>265</td><td rowspan=2 colspan=2>1.229</td><td rowspan=2 colspan=2>305</td><td rowspan=2 colspan=2>1.325.</td><td rowspan=2 colspan=2>345</td><td rowspan=2 colspan=2>1.408</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>25</td><td></td><td rowspan=1 colspan=2>194</td><td rowspan=1 colspan=1>65</td><td></td><td rowspan=1 colspan=2>387</td><td rowspan=1 colspan=2>105</td><td rowspan=1 colspan=2>583</td><td rowspan=1 colspan=2>145</td><td rowspan=1 colspan=2>777</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>146</td><td rowspan=2 colspan=2>781</td><td rowspan=2 colspan=2>186</td><td rowspan=2 colspan=3>974</td><td rowspan=2 colspan=2>226</td><td rowspan=2 colspan=3>1.138</td><td rowspan=2 colspan=2>266</td><td rowspan=2 colspan=2>1.231</td><td rowspan=2 colspan=2>306</td><td rowspan=2 colspan=2>1.327</td><td rowspan=2 colspan=2>346</td><td rowspan=2 colspan=2>1.413</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>26</td><td></td><td rowspan=1 colspan=2>198</td><td rowspan=1 colspan=1>66</td><td></td><td rowspan=1 colspan=2>393</td><td rowspan=1 colspan=2>106</td><td rowspan=1 colspan=2>588</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>785</td><td rowspan=2 colspan=2>187</td><td rowspan=2 colspan=3>979</td><td rowspan=2 colspan=2>227</td><td rowspan=2 colspan=3>1.142</td><td rowspan=2 colspan=2>267</td><td rowspan=2 colspan=2>1.232</td><td rowspan=2 colspan=2>307</td><td rowspan=2 colspan=2>1.331</td><td rowspan=2 colspan=2>347</td><td rowspan=2 colspan=2>1.414</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>27</td><td></td><td rowspan=1 colspan=2>204</td><td rowspan=1 colspan=1>6</td><td></td><td rowspan=1 colspan=2>397</td><td rowspan=1 colspan=2>107</td><td rowspan=1 colspan=2>594</td><td rowspan=1 colspan=2>147</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>790</td><td rowspan=2 colspan=2>188</td><td rowspan=2 colspan=3>985</td><td rowspan=2 colspan=2>228</td><td rowspan=2 colspan=3>1.148</td><td rowspan=2 colspan=2>268</td><td rowspan=2 colspan=2>1.233</td><td rowspan=2 colspan=2>308</td><td rowspan=2 colspan=2>1.332</td><td rowspan=2 colspan=2>348</td><td rowspan=2 colspan=2>1.415</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td></td><td rowspan=1 colspan=2>208</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=2>403</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>598</td><td rowspan=1 colspan=2>148</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>796</td><td rowspan=2 colspan=2>189</td><td rowspan=2 colspan=3>989</td><td rowspan=2 colspan=2>229</td><td rowspan=2 colspan=3>1.145</td><td rowspan=2 colspan=2>269</td><td rowspan=2 colspan=2>1.285</td><td rowspan=2 colspan=2>309</td><td rowspan=2 colspan=2>1.337</td><td rowspan=2 colspan=2>349</td><td rowspan=2 colspan=2>1.420</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td></td><td rowspan=1 colspan=2>214</td><td rowspan=1 colspan=1>69</td><td></td><td rowspan=1 colspan=2>407</td><td rowspan=1 colspan=2>109</td><td rowspan=1 colspan=2>603</td><td rowspan=1 colspan=2>149</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>800</td><td rowspan=2 colspan=2>190</td><td rowspan=2 colspan=3>995</td><td rowspan=2 colspan=2>230</td><td rowspan=2 colspan=3>1.146</td><td rowspan=2 colspan=2>270</td><td rowspan=2 colspan=2>1.237</td><td rowspan=2 colspan=2>310</td><td rowspan=2 colspan=2>1.338</td><td rowspan=2 colspan=2>350</td><td rowspan=2 colspan=2>1.41</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td></td><td rowspan=1 colspan=2>218</td><td rowspan=1 colspan=1>70</td><td></td><td rowspan=1 colspan=2>413</td><td rowspan=1 colspan=2>110</td><td rowspan=1 colspan=2>608</td><td rowspan=1 colspan=2>150</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>804</td><td rowspan=2 colspan=2>\19</td><td rowspan=2 colspan=3>1.00</td><td rowspan=2 colspan=2>231</td><td rowspan=2 colspan=3>1.151</td><td rowspan=2 colspan=2>271</td><td rowspan=2 colspan=2>1244</td><td rowspan=2 colspan=2>311</td><td rowspan=2 colspan=2>1.343</td><td rowspan=2 colspan=2>351</td><td rowspan=2 colspan=2>1.4</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>31</td><td></td><td rowspan=1 colspan=2>223</td><td rowspan=1 colspan=1>71</td><td></td><td rowspan=1 colspan=2>417</td><td rowspan=1 colspan=2>111</td><td rowspan=1 colspan=2>614</td><td rowspan=1 colspan=2>151</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>152</td><td rowspan=2 colspan=2>809</td><td rowspan=2 colspan=2>192</td><td rowspan=2 colspan=3>1.005</td><td rowspan=2 colspan=2>232</td><td rowspan=2 colspan=3>1.152</td><td rowspan=2 colspan=2>272</td><td rowspan=2 colspan=2>1.2</td><td rowspan=2 colspan=2>312</td><td rowspan=2 colspan=2>1,34</td><td rowspan=2 colspan=2>352</td><td rowspan=2 colspan=2>1.27</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td></td><td rowspan=1 colspan=2>227</td><td rowspan=1 colspan=1>72</td><td></td><td rowspan=1 colspan=2>424</td><td rowspan=1 colspan=2>112</td><td rowspan=1 colspan=2>618</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>153</td><td rowspan=2 colspan=2>813</td><td rowspan=2 colspan=2>\93</td><td rowspan=2 colspan=3>1.009</td><td rowspan=2 colspan=2>233</td><td rowspan=2 colspan=3>1.154</td><td rowspan=2 colspan=2>273</td><td rowspan=2 colspan=2>1.247</td><td rowspan=2 colspan=2>313</td><td rowspan=2 colspan=2>1.348</td><td rowspan=2 colspan=2>353</td><td rowspan=2 colspan=2>1,429</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>33</td><td></td><td rowspan=1 colspan=2>231</td><td rowspan=1 colspan=2>73</td><td rowspan=1 colspan=2>428</td><td rowspan=1 colspan=2>113</td><td rowspan=1 colspan=2>622</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>819</td><td rowspan=2 colspan=2>194</td><td rowspan=2 colspan=3>1.014</td><td rowspan=2 colspan=2>234</td><td rowspan=2 colspan=3>1.155</td><td rowspan=2 colspan=2>274</td><td rowspan=2 colspan=2>1.248</td><td rowspan=2 colspan=2>314</td><td rowspan=2 colspan=2>1.350</td><td rowspan=2 colspan=2>354</td><td rowspan=2 colspan=2>1.430</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td></td><td rowspan=1 colspan=2>237</td><td rowspan=1 colspan=1>74</td><td></td><td rowspan=1 colspan=2>432</td><td rowspan=1 colspan=2>114</td><td rowspan=1 colspan=2>627</td><td rowspan=1 colspan=2>154</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>55</td><td rowspan=2 colspan=2>823</td><td rowspan=2 colspan=2>195</td><td rowspan=2 colspan=3>1.020</td><td rowspan=2 colspan=2>235</td><td rowspan=2 colspan=3>1.156</td><td rowspan=2 colspan=2>275</td><td rowspan=2 colspan=2>1.252</td><td rowspan=2 colspan=2>315</td><td rowspan=2 colspan=2>1.355</td><td rowspan=2 colspan=2>355</td><td rowspan=2 colspan=2>1.432</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>35</td><td></td><td rowspan=1 colspan=2>242</td><td rowspan=1 colspan=1>75</td><td></td><td rowspan=1 colspan=2>438</td><td rowspan=1 colspan=2>115</td><td rowspan=1 colspan=2>631</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>636</td><td rowspan=2 colspan=2>156</td><td rowspan=2 colspan=2>829</td><td rowspan=2 colspan=2>196</td><td rowspan=2 colspan=3>1.024</td><td rowspan=2 colspan=2>236</td><td rowspan=2 colspan=3>1.158</td><td rowspan=2 colspan=2>276</td><td rowspan=2 colspan=2>1.254</td><td rowspan=2 colspan=2>316</td><td rowspan=2 colspan=2>1.356</td><td rowspan=2 colspan=2>356</td><td rowspan=2 colspan=2>1.433</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td></td><td rowspan=1 colspan=2>247</td><td rowspan=1 colspan=1>76</td><td></td><td rowspan=1 colspan=2>442</td><td rowspan=1 colspan=2>116</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>157</td><td rowspan=2 colspan=2>834</td><td rowspan=2 colspan=2>197</td><td rowspan=2 colspan=3>1.030</td><td rowspan=2 colspan=2>237</td><td rowspan=2 colspan=3>1.159</td><td rowspan=2 colspan=2>277</td><td rowspan=2 colspan=2>1.258</td><td rowspan=2 colspan=2>317</td><td rowspan=2 colspan=2>1.362</td><td rowspan=2 colspan=2>357</td><td rowspan=2 colspan=2>1.434</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>37</td><td></td><td rowspan=1 colspan=2>251</td><td rowspan=1 colspan=1>77</td><td></td><td rowspan=1 colspan=2>448</td><td rowspan=1 colspan=2>117</td><td rowspan=1 colspan=2>640</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>158</td><td rowspan=2 colspan=2>839</td><td rowspan=2 colspan=2>198</td><td rowspan=2 colspan=3>1.034</td><td rowspan=2 colspan=2>238</td><td rowspan=2 colspan=3>1.161</td><td rowspan=2 colspan=2>278</td><td rowspan=2 colspan=2>1.260</td><td rowspan=2 colspan=2>318</td><td rowspan=2 colspan=2>1.363</td><td rowspan=2 colspan=2>358</td><td rowspan=2 colspan=2>1.436</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td></td><td rowspan=1 colspan=2>258</td><td rowspan=1 colspan=1>78</td><td></td><td rowspan=1 colspan=2>452</td><td rowspan=1 colspan=2>118</td><td rowspan=1 colspan=2>645</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>649</td><td rowspan=2 colspan=2>159</td><td rowspan=2 colspan=2>844</td><td rowspan=2 colspan=2>199</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=2>,040</td><td rowspan=2 colspan=2>239</td><td rowspan=2 colspan=3>1.162</td><td rowspan=2 colspan=2>279</td><td rowspan=2 colspan=2>1.264</td><td rowspan=2 colspan=2>319</td><td rowspan=2 colspan=2>1.364</td><td rowspan=2 colspan=2>359</td><td rowspan=2 colspan=2>1.437</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td></td><td rowspan=1 colspan=2>262</td><td rowspan=1 colspan=1>79</td><td></td><td rowspan=1 colspan=2>459</td><td rowspan=1 colspan=2>119</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=3 colspan=2>850</td><td rowspan=3 colspan=2>200</td><td rowspan=3 colspan=3>1.044</td><td rowspan=3 colspan=2>240</td><td rowspan=3 colspan=3>1.164</td><td rowspan=3 colspan=2>280</td><td rowspan=2 colspan=2>1.266</td><td rowspan=2 colspan=2>320</td><td rowspan=2 colspan=2>1.366</td><td rowspan=2 colspan=2>360</td><td rowspan=2 colspan=2>1.439</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=2 colspan=1>40</td><td></td><td rowspan=2 colspan=2>267</td><td rowspan=2 colspan=1>80</td><td></td><td rowspan=2 colspan=2>463</td><td rowspan=2 colspan=2>120</td><td rowspan=2 colspan=2>655</td><td rowspan=2 colspan=2>160</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=1 colspan=11></td></tr></table>
+
+保障内容： 【申根方案】15足歲(含)以上保险金额：400萬元
+
+<table><tr><td rowspan=1 colspan=1>天</td><td rowspan=1 colspan=1>-保货</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天致</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>关数</td><td rowspan=1 colspan=1>保货</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>557</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1>960</td><td rowspan=1 colspan=1>121</td><td rowspan=1 colspan=1>1.350</td><td rowspan=1 colspan=1>161</td><td rowspan=1 colspan=1>1.749</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>2.152</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=1>2.393</td><td rowspan=1 colspan=1>281</td><td rowspan=1 colspan=1>2.602</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>2.808</td><td rowspan=1 colspan=1>361</td><td rowspan=1 colspan=1>2.957</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1>42</td><td rowspan=1 colspan=1>569</td><td rowspan=1 colspan=1>82</td><td rowspan=1 colspan=1>969</td><td rowspan=1 colspan=1>122</td><td rowspan=1 colspan=1>1.359</td><td rowspan=1 colspan=1>162</td><td rowspan=1 colspan=1>1.761</td><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>2.161</td><td rowspan=1 colspan=1>242</td><td rowspan=1 colspan=1>2.396</td><td rowspan=1 colspan=1>282</td><td rowspan=1 colspan=1>2.605</td><td rowspan=1 colspan=1>322</td><td rowspan=1 colspan=1>2.811</td><td rowspan=1 colspan=1>362</td><td rowspan=1 colspan=1>2.966</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>43</td><td rowspan=1 colspan=1>578</td><td rowspan=1 colspan=1>83</td><td rowspan=1 colspan=1>978</td><td rowspan=1 colspan=1>123</td><td rowspan=1 colspan=1>1.368</td><td rowspan=1 colspan=1>163</td><td rowspan=1 colspan=1>1.770</td><td rowspan=1 colspan=1>203</td><td rowspan=1 colspan=1>2.170</td><td rowspan=1 colspan=1>243</td><td rowspan=1 colspan=1>2.405</td><td rowspan=1 colspan=1>283</td><td rowspan=1 colspan=1>2.614</td><td rowspan=1 colspan=1>323</td><td rowspan=1 colspan=1>2.814</td><td rowspan=1 colspan=1>363</td><td rowspan=1 colspan=1>2.969</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=1>44</td><td rowspan=1 colspan=1>587</td><td rowspan=1 colspan=1>84</td><td rowspan=1 colspan=1>986</td><td rowspan=1 colspan=1>124</td><td rowspan=1 colspan=1>1.380</td><td rowspan=1 colspan=1>164</td><td rowspan=1 colspan=1>1.779</td><td rowspan=1 colspan=1>204</td><td rowspan=1 colspan=1>2.179</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>2.408</td><td rowspan=1 colspan=1>284</td><td rowspan=1 colspan=1>2.617</td><td rowspan=1 colspan=1>324</td><td rowspan=1 colspan=1>2.817</td><td rowspan=1 colspan=1>364</td><td rowspan=1 colspan=1>2.978</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>191</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>599</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>995</td><td rowspan=1 colspan=1>125</td><td rowspan=1 colspan=1>1.389</td><td rowspan=1 colspan=1>165</td><td rowspan=1 colspan=1>1.791</td><td rowspan=1 colspan=1>205</td><td rowspan=1 colspan=1>2.188</td><td rowspan=1 colspan=1>245</td><td rowspan=1 colspan=1>2.417</td><td rowspan=1 colspan=1>285</td><td rowspan=1 colspan=1>2.626</td><td rowspan=1 colspan=1>325</td><td rowspan=1 colspan=1>2.820</td><td rowspan=1 colspan=1>365</td><td rowspan=1 colspan=1>2.978</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>608</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>1.005</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=1>1.401</td><td rowspan=1 colspan=1>166</td><td rowspan=1 colspan=1>1.800</td><td rowspan=1 colspan=1>206</td><td rowspan=1 colspan=1>2.197</td><td rowspan=1 colspan=1>246</td><td rowspan=1 colspan=1>2.420</td><td rowspan=1 colspan=1>286</td><td rowspan=1 colspan=1>2.629</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=1>2.822</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>620</td><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1>1.014</td><td rowspan=1 colspan=1>127</td><td rowspan=1 colspan=1>1.410</td><td rowspan=1 colspan=1>167</td><td rowspan=1 colspan=1>1.812</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=1>2.206</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=1>2.429</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>2.638</td><td rowspan=1 colspan=1>327</td><td rowspan=1 colspan=1>2.826</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>629</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>1.02</td><td rowspan=1 colspan=1>128</td><td rowspan=1 colspan=1>1.422</td><td rowspan=1 colspan=1>168</td><td rowspan=1 colspan=1>1.821</td><td rowspan=1 colspan=1>208</td><td rowspan=1 colspan=1>2.215</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=1>2.433</td><td rowspan=1 colspan=1>288</td><td rowspan=1 colspan=1>2.641</td><td rowspan=1 colspan=1>328</td><td rowspan=1 colspan=1>2.829</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>641</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>1.035</td><td rowspan=1 colspan=1>129</td><td rowspan=1 colspan=1>1.481</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=1>1.833</td><td rowspan=1 colspan=1>209</td><td rowspan=1 colspan=1>2.227</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=1>2.441</td><td rowspan=1 colspan=1>289</td><td rowspan=1 colspan=1>2.644</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=1>2.829</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=1>50</td><td rowspan=1 colspan=1>650</td><td rowspan=1 colspan=1>90</td><td rowspan=1 colspan=1>1.042</td><td rowspan=1 colspan=1>130</td><td rowspan=1 colspan=1>1.443</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>1.842</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>2.234</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=1>2.444</td><td rowspan=1 colspan=1>290</td><td rowspan=1 colspan=1>2.647</td><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=1>2.829</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>662</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>1.052</td><td rowspan=1 colspan=1>131</td><td rowspan=1 colspan=1>1.452</td><td rowspan=1 colspan=1>171</td><td rowspan=1 colspan=1>1.854</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>2.244</td><td rowspan=1 colspan=1>251</td><td rowspan=1 colspan=1>2.453</td><td rowspan=1 colspan=1>291</td><td rowspan=1 colspan=1>2.656</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>2.843</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>262</td><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>671</td><td rowspan=1 colspan=1>92</td><td rowspan=1 colspan=1>1.061</td><td rowspan=1 colspan=1>132</td><td rowspan=1 colspan=1>1.464</td><td rowspan=1 colspan=1>172</td><td rowspan=1 colspan=1>1.863</td><td rowspan=1 colspan=1>212</td><td rowspan=1 colspan=1>2.248</td><td rowspan=1 colspan=1>252</td><td rowspan=1 colspan=1>2.456</td><td rowspan=1 colspan=1>292</td><td rowspan=1 colspan=1>2.659</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=1>2.846</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>680</td><td rowspan=1 colspan=1>93</td><td rowspan=1 colspan=1>1.070</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=1>1.472</td><td rowspan=1 colspan=1>173</td><td rowspan=1 colspan=1>1.872</td><td rowspan=1 colspan=1>213</td><td rowspan=1 colspan=1>2.256</td><td rowspan=1 colspan=1>253</td><td rowspan=1 colspan=1>2.465</td><td rowspan=1 colspan=1>293</td><td rowspan=1 colspan=1>2.661</td><td rowspan=1 colspan=1>333</td><td rowspan=1 colspan=1>2.850</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1f4}</td><td rowspan=1 colspan=1>283</td><td rowspan=1 colspan=1>5\frac}4}$</td><td rowspan=1 colspan=1>689</td><td rowspan=1 colspan=1>94</td><td rowspan=1 colspan=1>1.082</td><td rowspan=1 colspan=1>134</td><td rowspan=1 colspan=1>1.481</td><td rowspan=1 colspan=1>174</td><td rowspan=1 colspan=1>1.881</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>2.260</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=1>2.468</td><td rowspan=1 colspan=1>294</td><td rowspan=1 colspan=1>2.665</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=1>2.853</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>292</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>697</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>1.09</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=1>1.493</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>1.890</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1>2.268</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=1>2.477</td><td rowspan=1 colspan=1>295</td><td rowspan=1 colspan=1>2.668</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=1>2.855</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1r</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=1>56</td><td rowspan=1 colspan=1>706</td><td rowspan=1 colspan=1>96</td><td rowspan=1 colspan=1>1.103</td><td rowspan=1 colspan=1>136</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>176</td><td rowspan=1 colspan=1>1.898</td><td rowspan=1 colspan=1>216</td><td rowspan=1 colspan=1>2.272</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=1>2.480</td><td rowspan=1 colspan=1>296</td><td rowspan=1 colspan=1>2.671</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=1>2.858</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>715</td><td rowspan=1 colspan=1>97</td><td rowspan=1 colspan=1>1.112</td><td rowspan=1 colspan=1>137</td><td rowspan=1 colspan=1>1.514</td><td rowspan=1 colspan=1>177</td><td rowspan=1 colspan=1>1.908</td><td rowspan=1 colspan=1>217</td><td rowspan=1 colspan=1>2.280</td><td rowspan=1 colspan=1>257</td><td rowspan=1 colspan=1>2,489</td><td rowspan=1 colspan=1>297</td><td rowspan=1 colspan=1>2.673</td><td rowspan=1 colspan=1>337</td><td rowspan=1 colspan=1>2.862</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>325</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>725</td><td rowspan=1 colspan=1>98</td><td rowspan=1 colspan=1>1.124</td><td rowspan=1 colspan=1>138</td><td rowspan=1 colspan=1>1.523</td><td rowspan=1 colspan=1>178</td><td rowspan=1 colspan=1>1.917</td><td rowspan=1 colspan=1>218</td><td rowspan=1 colspan=1>2.283</td><td rowspan=1 colspan=1>258</td><td rowspan=1 colspan=1>2.492</td><td rowspan=1 colspan=1>298</td><td rowspan=1 colspan=1>2.677</td><td rowspan=1 colspan=1>338</td><td rowspan=1 colspan=1>2.864</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=1>59</td><td rowspan=1 colspan=1>733</td><td rowspan=1 colspan=1>99</td><td rowspan=1 colspan=1>1.133</td><td rowspan=1 colspan=1>139</td><td rowspan=1 colspan=1>1.535</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=1>1.926</td><td rowspan=1 colspan=1>219</td><td rowspan=1 colspan=1>2.292</td><td rowspan=1 colspan=1>259</td><td rowspan=1 colspan=1>2.495</td><td rowspan=1 colspan=1>299</td><td rowspan=1 colspan=1>2.680</td><td rowspan=1 colspan=1>339</td><td rowspan=1 colspan=1>2.867</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>745</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>1.145</td><td rowspan=1 colspan=1>140</td><td rowspan=1 colspan=1>1.54</td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>1.936</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>2.295</td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=1>2.498</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>2.680</td><td rowspan=1 colspan=1>340</td><td rowspan=1 colspan=1>2.870</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>754</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1>1.154</td><td rowspan=1 colspan=1>141</td><td rowspan=1 colspan=1>1.556</td><td rowspan=1 colspan=1>181</td><td rowspan=1 colspan=1>1.946</td><td rowspan=1 colspan=1>221</td><td rowspan=1 colspan=1>2.304</td><td rowspan=1 colspan=1>261</td><td rowspan=1 colspan=1>2.507</td><td rowspan=1 colspan=1>301</td><td rowspan=1 colspan=1>2.692</td><td rowspan=1 colspan=1>341</td><td rowspan=1 colspan=1>2.874</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>363</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>763</td><td rowspan=1 colspan=1>102</td><td rowspan=1 colspan=1>1.166</td><td rowspan=1 colspan=1>142</td><td rowspan=1 colspan=1>1.565</td><td rowspan=1 colspan=1>182</td><td rowspan=1 colspan=1>1.955</td><td rowspan=1 colspan=1>222</td><td rowspan=1 colspan=1>2.307</td><td rowspan=1 colspan=1>262</td><td rowspan=1 colspan=1>2.510</td><td rowspan=1 colspan=1>302</td><td rowspan=1 colspan=1>2.694</td><td rowspan=1 colspan=1>342</td><td rowspan=1 colspan=1>2.876</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>375</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>772</td><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1>1.175</td><td rowspan=1 colspan=1>143</td><td rowspan=1 colspan=1>1.574</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>1.964</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>2.316</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>2.512</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>2.703</td><td rowspan=1 colspan=1>343</td><td rowspan=1 colspan=1>2.879</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>384</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>1.183</td><td rowspan=1 colspan=1>144</td><td rowspan=1 colspan=1>1.583</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=1>1.976</td><td rowspan=1 colspan=1>224</td><td rowspan=1 colspan=1>2.319</td><td rowspan=1 colspan=1>264</td><td rowspan=1 colspan=1>2.516</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=1>2.706</td><td rowspan=1 colspan=1>344</td><td rowspan=1 colspan=1>2.882</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>396</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>793</td><td rowspan=1 colspan=1>105</td><td rowspan=1 colspan=1>1.195</td><td rowspan=1 colspan=1>145</td><td rowspan=1 colspan=1>1.592</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>1.985</td><td rowspan=1 colspan=1>225</td><td rowspan=1 colspan=1>2.328</td><td rowspan=1 colspan=1>265</td><td rowspan=1 colspan=1>2.519</td><td rowspan=1 colspan=1>305</td><td rowspan=1 colspan=1>2.715</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>2.885</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>405</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>805</td><td rowspan=1 colspan=1>106</td><td rowspan=1 colspan=1>1.204</td><td rowspan=1 colspan=1>146</td><td rowspan=1 colspan=1>1.601</td><td rowspan=1 colspan=1>186</td><td rowspan=1 colspan=1>1.997</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>2.331</td><td rowspan=1 colspan=1>266</td><td rowspan=1 colspan=1>2.521</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1>2.718</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=1>2.895</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>417</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>813</td><td rowspan=1 colspan=1>107</td><td rowspan=1 colspan=1>1.216</td><td rowspan=1 colspan=1>147</td><td rowspan=1 colspan=1>1.609</td><td rowspan=1 colspan=1>187</td><td rowspan=1 colspan=1>2.006</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=1>2.340</td><td rowspan=1 colspan=1>267</td><td rowspan=1 colspan=1>2.525</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=1>2.727</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=1>2897</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>426</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>825</td><td rowspan=1 colspan=1>108</td><td rowspan=1 colspan=1>1.225</td><td rowspan=1 colspan=1>148</td><td rowspan=1 colspan=1>1.618</td><td rowspan=1 colspan=1>188</td><td rowspan=1 colspan=1>2.018</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=1>2.343</td><td rowspan=1 colspan=1>268</td><td rowspan=1 colspan=1>2.528</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=1>2.730</td><td rowspan=1 colspan=1>348</td><td rowspan=1 colspan=1>2.900</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>438</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>834</td><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1>1.237</td><td rowspan=1 colspan=1>149</td><td rowspan=1 colspan=1>1.630</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=1>2.027</td><td rowspan=1 colspan=1>229</td><td rowspan=1 colspan=1>2.346</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=1>2.531</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>2.739</td><td rowspan=1 colspan=1>349</td><td rowspan=1 colspan=1>2.909</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>447</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>846</td><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>1.246</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>1.638</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>2.088</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>2.349</td><td rowspan=1 colspan=1>270</td><td rowspan=1 colspan=1>2.531</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>2.742</td><td rowspan=1 colspan=1>350</td><td rowspan=1 colspan=1>2.912</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>456</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>855</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>1.258</td><td rowspan=1 colspan=1>151</td><td rowspan=1 colspan=1>1.649</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>2.048</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>2.358</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=1>2.542</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=1>2.751</td><td rowspan=1 colspan=1>351</td><td rowspan=1 colspan=1>2.921</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>45</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>867</td><td rowspan=1 colspan=1>112</td><td rowspan=1 colspan=1>1.267</td><td rowspan=1 colspan=1>152</td><td rowspan=1 colspan=1>1.657</td><td rowspan=1 colspan=1>192</td><td rowspan=1 colspan=1>2.059</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=1>2.360</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=1>2.545</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>2.754</td><td rowspan=1 colspan=1>352</td><td rowspan=1 colspan=1>2.924</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>474</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>876</td><td rowspan=1 colspan=1>113</td><td rowspan=1 colspan=1>1.275</td><td rowspan=1 colspan=1>153</td><td rowspan=1 colspan=1>1.666</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=1>2.069</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=1>2.364</td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=1>2.554</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>2.763</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>2.927</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>486</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>886</td><td rowspan=1 colspan=1>114</td><td rowspan=1 colspan=1>1,285</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>1.678</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=1>2.078</td><td rowspan=1 colspan=1>234</td><td rowspan=1 colspan=1>2.367</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=1>2.557</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=1>2.766</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>2.930</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>495</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>897</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>1.294</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>1.687</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>2.090</td><td rowspan=1 colspan=1>235</td><td rowspan=1 colspan=1>2.370</td><td rowspan=1 colspan=1>275</td><td rowspan=1 colspan=1>2.566</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>2.775</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=1>2.933</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>507</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>906</td><td rowspan=1 colspan=1>116</td><td rowspan=1 colspan=1>1.303</td><td rowspan=1 colspan=1>156</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1>2.099</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=1>2.372</td><td rowspan=1 colspan=1>276</td><td rowspan=1 colspan=1>2.569</td><td rowspan=1 colspan=1>316</td><td rowspan=1 colspan=1>2.778</td><td rowspan=1 colspan=1>356</td><td rowspan=1 colspan=1>2.936</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>516</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1>918</td><td rowspan=1 colspan=1>117</td><td rowspan=1 colspan=1>1.312</td><td rowspan=1 colspan=1>157</td><td rowspan=1 colspan=1>1.708</td><td rowspan=1 colspan=1>197</td><td rowspan=1 colspan=1>2.111</td><td rowspan=1 colspan=1>237</td><td rowspan=1 colspan=1>2.376</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=1>2.578</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=1>2.790</td><td rowspan=1 colspan=1>357</td><td rowspan=1 colspan=1>2.939</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>528</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>927</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>1,320</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1>1.720</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=1>2.119</td><td rowspan=1 colspan=1>238</td><td rowspan=1 colspan=1>2.379</td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=1>2.581</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=1>2.793</td><td rowspan=1 colspan=1>358</td><td rowspan=1 colspan=1>2.942</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>536</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>939</td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>1.32</td><td rowspan=1 colspan=1>159</td><td rowspan=1 colspan=1>1.729</td><td rowspan=1 colspan=1>199</td><td rowspan=1 colspan=1>2.131</td><td rowspan=1 colspan=1>239</td><td rowspan=1 colspan=1>2.381</td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=1>2.590</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=1>2.796</td><td rowspan=1 colspan=1>359</td><td rowspan=1 colspan=1>2.945</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>..40</td><td rowspan=1 colspan=1>548</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>948</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>1.340</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>1741</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>2.140</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>2.382</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>2.593</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>2.799</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>2.948</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+
+保障內容： 【申根方案】未滿15足岁 保险金额：200萬元
+
+<table><tr><td rowspan=1 colspan=1>天</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>[保费</td><td rowspan=1 colspan=1>关数厂</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天致</td><td rowspan=1 colspan=1>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保资</td><td rowspan=1 colspan=1>失数]</td><td rowspan=1 colspan=1>保货</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>440</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1>757</td><td rowspan=1 colspan=1>121</td><td rowspan=1 colspan=2>1.065</td><td rowspan=1 colspan=1>161</td><td rowspan=1 colspan=1>1.380</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>1.697</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=1>1.887</td><td rowspan=1 colspan=1>281</td><td rowspan=1 colspan=1>2.052</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>2.214</td><td rowspan=1 colspan=1>361</td><td rowspan=1 colspan=1>2.332</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>42</td><td rowspan=2 colspan=1>449</td><td rowspan=2 colspan=1>82</td><td rowspan=2 colspan=1>764</td><td rowspan=2 colspan=1>122</td><td rowspan=2 colspan=2>1.072</td><td rowspan=2 colspan=1>162</td><td rowspan=2 colspan=1>1.390</td><td rowspan=2 colspan=1>202</td><td rowspan=2 colspan=1>1.705</td><td rowspan=2 colspan=1>242</td><td rowspan=2 colspan=1>1.890</td><td rowspan=2 colspan=1>282</td><td rowspan=2 colspan=1>2.055</td><td rowspan=2 colspan=1>322</td><td rowspan=2 colspan=1>2.217</td><td rowspan=2 colspan=1>362</td><td rowspan=2 colspan=1>2.339</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>125</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>456</td><td rowspan=2 colspan=1>83</td><td rowspan=2 colspan=1>771</td><td rowspan=2 colspan=1>123</td><td rowspan=2 colspan=2>1.079</td><td rowspan=2 colspan=1>163</td><td rowspan=2 colspan=1>1.397</td><td rowspan=2 colspan=1>203</td><td rowspan=2 colspan=1>1.712</td><td rowspan=2 colspan=1>243</td><td rowspan=2 colspan=1>1.897</td><td rowspan=2 colspan=1>283</td><td rowspan=2 colspan=1>2.062</td><td rowspan=2 colspan=1>323</td><td rowspan=2 colspan=1>2.219</td><td rowspan=2 colspan=1>363</td><td rowspan=2 colspan=1>2.342</td></tr><tr><td rowspan=1 colspan=1>\r</td><td rowspan=1 colspan=1>134</td><td rowspan=1 colspan=1>43</td></tr><tr><td></td><td rowspan=2 colspan=1>14</td><td rowspan=2 colspan=1>4r4}</td><td rowspan=2 colspan=1>463</td><td rowspan=2 colspan=1>84</td><td rowspan=2 colspan=1>778</td><td rowspan=2 colspan=1>124</td><td rowspan=2 colspan=2>1.089</td><td rowspan=2 colspan=1>164</td><td rowspan=2 colspan=1>1.404</td><td rowspan=2 colspan=1>204</td><td rowspan=2 colspan=1>1.719</td><td rowspan=2 colspan=1>244</td><td rowspan=2 colspan=1>1.899</td><td rowspan=2 colspan=1>284</td><td rowspan=2 colspan=1>2.064</td><td rowspan=2 colspan=1>324</td><td rowspan=2 colspan=1>2.221</td><td rowspan=2 colspan=1>364</td><td rowspan=2 colspan=1>2.349</td></tr><tr><td rowspan=1 colspan=1>4</td></tr><tr><td></td><td rowspan=2 colspan=1>151</td><td rowspan=2 colspan=1>45</td><td rowspan=2 colspan=1>473</td><td rowspan=2 colspan=1>85</td><td rowspan=2 colspan=1>785</td><td rowspan=2 colspan=1>125</td><td rowspan=2 colspan=2>1.096</td><td rowspan=2 colspan=1>165</td><td rowspan=2 colspan=1>1.413</td><td rowspan=2 colspan=1>205</td><td rowspan=2 colspan=1>1.726</td><td rowspan=2 colspan=1>245</td><td rowspan=2 colspan=1>1.906</td><td rowspan=2 colspan=1>285</td><td rowspan=2 colspan=1>2.071</td><td rowspan=2 colspan=1>325</td><td rowspan=2 colspan=1>2.224</td><td rowspan=2 colspan=1>365</td><td rowspan=2 colspan=1>2.352</td></tr><tr><td rowspan=1 colspan=1>5</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1>46</td><td rowspan=1 colspan=1>480</td><td rowspan=1 colspan=1>86</td><td rowspan=1 colspan=1>792</td><td rowspan=1 colspan=1>126</td><td rowspan=1 colspan=2>1.105</td><td rowspan=1 colspan=1>166</td><td rowspan=1 colspan=1>1.420</td><td rowspan=1 colspan=1>206</td><td rowspan=1 colspan=1>1.733</td><td rowspan=1 colspan=1>246</td><td rowspan=1 colspan=1>1.909</td><td rowspan=1 colspan=1>286</td><td rowspan=1 colspan=1>2.073</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=1>2.226</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>47</td><td rowspan=2 colspan=1>489</td><td rowspan=2 colspan=1>87</td><td rowspan=2 colspan=1>799</td><td rowspan=2 colspan=1>127</td><td rowspan=2 colspan=2>1.112</td><td rowspan=2 colspan=1>167</td><td rowspan=2 colspan=1>1.429</td><td rowspan=2 colspan=1>207</td><td rowspan=2 colspan=1>1.740</td><td rowspan=2 colspan=1>247</td><td rowspan=2 colspan=1>1.9</td><td rowspan=2 colspan=1>287</td><td rowspan=2 colspan=1>2.080</td><td rowspan=2 colspan=1>327</td><td rowspan=2 colspan=1>2.228</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>167</td></tr><tr><td></td><td rowspan=2 colspan=1>174</td><td rowspan=2 colspan=1>48</td><td rowspan=2 colspan=1>496</td><td rowspan=2 colspan=1>88</td><td rowspan=2 colspan=1>806</td><td rowspan=2 colspan=1>128</td><td rowspan=2 colspan=2>1.121</td><td rowspan=2 colspan=1>168</td><td rowspan=2 colspan=1>1.436</td><td rowspan=2 colspan=1>208</td><td rowspan=2 colspan=1>1.747</td><td rowspan=2 colspan=1>248</td><td rowspan=2 colspan=1>1.918</td><td rowspan=2 colspan=1>288</td><td rowspan=2 colspan=1>2.083</td><td rowspan=2 colspan=1>328</td><td rowspan=2 colspan=1>2.231</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>505</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>816</td><td rowspan=1 colspan=1>f9</td><td rowspan=1 colspan=2>1.128</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=1>1.446</td><td rowspan=1 colspan=1>209</td><td rowspan=1 colspan=1>1.756</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=1>1.925</td><td rowspan=1 colspan=1>289</td><td rowspan=1 colspan=1>2.085</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=1>2.233</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>191</td><td rowspan=2 colspan=1>50</td><td rowspan=2 colspan=1>512</td><td rowspan=2 colspan=1>90</td><td rowspan=2 colspan=1>823</td><td rowspan=2 colspan=1>130</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>1.138</td><td rowspan=2 colspan=1>170</td><td rowspan=2 colspan=1>1.453</td><td rowspan=2 colspan=1>210</td><td rowspan=2 colspan=1>1.764</td><td rowspan=2 colspan=1>250</td><td rowspan=2 colspan=1>1.928</td><td rowspan=2 colspan=1>290</td><td rowspan=2 colspan=1>2.087</td><td rowspan=2 colspan=1>330</td><td rowspan=2 colspan=1>2.234</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>10</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>522</td><td rowspan=1 colspan=1>91</td><td rowspan=1 colspan=1>830</td><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.145</td><td rowspan=1 colspan=1>171</td><td rowspan=1 colspan=1>1.462</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>1.770</td><td rowspan=1 colspan=1>251</td><td rowspan=1 colspan=1>1.935</td><td rowspan=1 colspan=1>291</td><td rowspan=1 colspan=1>2.094</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>2.245</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>529</td><td rowspan=2 colspan=1>92</td><td rowspan=2 colspan=1>837</td><td rowspan=2 colspan=1>132</td><td rowspan=2 colspan=2>1.154</td><td rowspan=2 colspan=1>17</td><td rowspan=2 colspan=1>1.469</td><td rowspan=2 colspan=1>212</td><td rowspan=2 colspan=1>1.772</td><td rowspan=2 colspan=1>252</td><td rowspan=2 colspan=1>1.937</td><td rowspan=2 colspan=1>292</td><td rowspan=2 colspan=1>2.097</td><td rowspan=2 colspan=1>332</td><td rowspan=2 colspan=1>2.245</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>\fr2}</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=1>52</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>536</td><td rowspan=1 colspan=1>93</td><td rowspan=1 colspan=1>844</td><td rowspan=1 colspan=1>133</td><td rowspan=1 colspan=2>1,161</td><td rowspan=1 colspan=1>173</td><td rowspan=1 colspan=1>1.476</td><td rowspan=1 colspan=1>213</td><td rowspan=1 colspan=1>1.779</td><td rowspan=1 colspan=1>253</td><td rowspan=1 colspan=1>1.944</td><td rowspan=1 colspan=1>293</td><td rowspan=1 colspan=1>2.099</td><td rowspan=1 colspan=1>333</td><td rowspan=1 colspan=1>2.247</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>54</td><td rowspan=1 colspan=1>543</td><td rowspan=1 colspan=1>94</td><td rowspan=1 colspan=1>853</td><td rowspan=1 colspan=1>134</td><td rowspan=1 colspan=2>1.168</td><td rowspan=1 colspan=1>174</td><td rowspan=1 colspan=1>1.483</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>1.782</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=1>1.946</td><td rowspan=1 colspan=1>294</td><td rowspan=1 colspan=1>2.101</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=1>2.250</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=9 colspan=1></td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>550</td><td rowspan=1 colspan=1>9 \</td><td rowspan=1 colspan=2>860</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=1>1.177</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>1.490</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1>1.789</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=1>1,953</td><td rowspan=1 colspan=1>295</td><td rowspan=1 colspan=1>2.104</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=1>2.252</td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>56</td><td rowspan=2 colspan=1>557</td><td rowspan=2 colspan=1>96</td><td rowspan=2 colspan=1>869</td><td rowspan=2 colspan=1>36</td><td rowspan=2 colspan=2>1.184</td><td rowspan=2 colspan=1>176</td><td rowspan=2 colspan=1>1.497</td><td rowspan=2 colspan=1>216</td><td rowspan=2 colspan=1>1.791</td><td rowspan=2 colspan=1>256</td><td rowspan=2 colspan=1>1.956</td><td rowspan=2 colspan=1>296</td><td rowspan=2 colspan=1>2.106</td><td rowspan=2 colspan=1>336</td><td rowspan=2 colspan=1>2.254</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>240</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>564</td><td rowspan=2 colspan=1>97</td><td rowspan=2 colspan=1>877</td><td rowspan=2 colspan=1>137</td><td rowspan=2 colspan=2>1.194</td><td rowspan=2 colspan=1>177</td><td rowspan=2 colspan=1>1.504</td><td rowspan=2 colspan=1>217</td><td rowspan=2 colspan=1>1.798</td><td rowspan=2 colspan=1>257</td><td rowspan=2 colspan=1>1.963</td><td rowspan=2 colspan=1>297</td><td rowspan=2 colspan=1>2.108</td><td rowspan=2 colspan=1>337</td><td rowspan=2 colspan=1>2.257</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=1>57</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=1>58</td><td rowspan=1 colspan=1>571</td><td rowspan=1 colspan=1>98</td><td rowspan=1 colspan=1>886</td><td rowspan=1 colspan=1>138</td><td rowspan=1 colspan=2>1.201</td><td rowspan=1 colspan=1>178</td><td rowspan=1 colspan=1>1.511</td><td rowspan=1 colspan=1>218</td><td rowspan=1 colspan=1>1.800</td><td rowspan=1 colspan=1>258</td><td rowspan=1 colspan=1>1.965</td><td rowspan=1 colspan=1>298</td><td rowspan=1 colspan=1>2.111</td><td rowspan=1 colspan=1>338</td><td rowspan=1 colspan=1>2.259</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>59</td><td rowspan=2 colspan=1>578</td><td rowspan=2 colspan=1>99</td><td rowspan=2 colspan=1>893</td><td rowspan=2 colspan=1>139</td><td rowspan=2 colspan=2>1,210</td><td rowspan=2 colspan=1>179</td><td rowspan=2 colspan=1>1.518</td><td rowspan=2 colspan=1>219</td><td rowspan=2 colspan=1>1.807</td><td rowspan=2 colspan=1>259</td><td rowspan=2 colspan=1>1.968</td><td rowspan=2 colspan=1>299</td><td rowspan=2 colspan=1>2.113</td><td rowspan=2 colspan=1>339</td><td rowspan=2 colspan=1>2.261</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>263</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=1>60</td><td rowspan=1 colspan=1>588</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>902</td><td rowspan=1 colspan=1>1404</td><td rowspan=1 colspan=2>1.217</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>1.529</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>1.810</td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=1>1.970</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>2.117</td><td rowspan=1 colspan=1>340</td><td rowspan=1 colspan=1>2.264</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=3 colspan=1></td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>61</td><td rowspan=1 colspan=1>595</td><td rowspan=1 colspan=1>101</td><td rowspan=1 colspan=2>910</td><td rowspan=1 colspan=1>141</td><td rowspan=1 colspan=1>1.227</td><td rowspan=1 colspan=1>181</td><td rowspan=1 colspan=1>1.535</td><td rowspan=1 colspan=1>221</td><td rowspan=1 colspan=1>1.817</td><td rowspan=1 colspan=1>261</td><td rowspan=1 colspan=1>1.977</td><td rowspan=1 colspan=1>301</td><td rowspan=1 colspan=1>2.122</td><td rowspan=1 colspan=1>341</td><td rowspan=1 colspan=1>2.266</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>287</td><td rowspan=2 colspan=1>62</td><td rowspan=2 colspan=1>602</td><td rowspan=2 colspan=1>102</td><td rowspan=2 colspan=1>919</td><td rowspan=2 colspan=1>142</td><td rowspan=2 colspan=2>1.234</td><td rowspan=2 colspan=1>182</td><td rowspan=2 colspan=1>1.542</td><td rowspan=2 colspan=1>222</td><td rowspan=2 colspan=1>1.819</td><td rowspan=2 colspan=1>262</td><td rowspan=2 colspan=1>1.979</td><td rowspan=2 colspan=1>302</td><td rowspan=2 colspan=1>2.125</td><td rowspan=2 colspan=1>342</td><td rowspan=2 colspan=1>2.268</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>22</td></tr><tr><td rowspan=18 colspan=1></td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>296</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>609</td><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=2>926</td><td rowspan=1 colspan=1>143</td><td rowspan=1 colspan=1>1.241</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>1.549</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>1.826</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>1.982</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>2.132</td><td rowspan=1 colspan=1>343</td><td rowspan=1 colspan=1>2.271</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>618</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>933</td><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=2>1.248</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=1>1.558</td><td rowspan=1 colspan=1>224</td><td rowspan=1 colspan=1>1.829</td><td rowspan=1 colspan=1>264</td><td rowspan=1 colspan=1>1.984</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=1>2.134</td><td rowspan=1 colspan=1>344</td><td rowspan=1 colspan=1>2.273</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>65</td><td rowspan=1 colspan=1>625</td><td rowspan=1 colspan=1>105</td><td rowspan=1 colspan=1>943</td><td rowspan=1 colspan=1>145</td><td rowspan=1 colspan=2>1.255</td><td rowspan=1 colspan=1>185</td><td rowspan=1 colspan=1>1.565</td><td rowspan=1 colspan=1>225</td><td rowspan=1 colspan=1>1.836</td><td rowspan=1 colspan=1>265</td><td rowspan=1 colspan=1>1.987</td><td rowspan=1 colspan=1>305</td><td rowspan=1 colspan=1>2.141</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=1>2.276</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>66</td><td rowspan=1 colspan=1>635</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>950</td><td rowspan=1 colspan=1>146</td><td rowspan=1 colspan=2>12</td><td rowspan=1 colspan=1>186</td><td rowspan=1 colspan=1>1.575</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>1.838</td><td rowspan=1 colspan=1>266</td><td rowspan=1 colspan=1>1.989</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1>2.143</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=1>2.283</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>642</td><td rowspan=1 colspan=1>107</td><td rowspan=1 colspan=1>959</td><td rowspan=1 colspan=1>147</td><td rowspan=1 colspan=2>f26</td><td rowspan=1 colspan=1>187</td><td rowspan=1 colspan=1>1.582</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=1>1.845</td><td rowspan=1 colspan=1>267</td><td rowspan=1 colspan=1>1.991</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=1>2.151</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=1>2285</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>651</td><td rowspan=1 colspan=1>1f8</td><td rowspan=1 colspan=1>966</td><td rowspan=1 colspan=1>148</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.276</td><td rowspan=1 colspan=1>188</td><td rowspan=1 colspan=1>1.591</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=1>1.847</td><td rowspan=1 colspan=1>268</td><td rowspan=1 colspan=1>1.994</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=1>2.153</td><td rowspan=1 colspan=1>348</td><td rowspan=1 colspan=1>2.287</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>658</td><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1>976</td><td rowspan=1 colspan=1>149</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.286</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=1>1.598</td><td rowspan=1 colspan=1>229</td><td rowspan=1 colspan=1>1.850</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=1>1.996</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>2.160</td><td rowspan=1 colspan=1>349</td><td rowspan=1 colspan=1>2.294</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>668</td><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>983</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=2>1.294</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>1.608</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>1.852</td><td rowspan=1 colspan=1>270</td><td rowspan=1 colspan=1>1.999</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>2.162</td><td rowspan=1 colspan=1>350</td><td rowspan=1 colspan=1>2.297</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1>675</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>992</td><td rowspan=1 colspan=1>151</td><td rowspan=1 colspan=2>1.300</td><td rowspan=1 colspan=1>191</td><td rowspan=1 colspan=1>1.615</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>1.859</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=1>2.005</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=1>2.169</td><td rowspan=1 colspan=1>351</td><td rowspan=1 colspan=1>2.304</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>367</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>684</td><td rowspan=1 colspan=1>112</td><td rowspan=1 colspan=1>999</td><td rowspan=1 colspan=1>152</td><td rowspan=1 colspan=2>1.307</td><td rowspan=1 colspan=1>192</td><td rowspan=1 colspan=1>1.624</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=1>1.862</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=1>2.008</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>2.172</td><td rowspan=1 colspan=1>352</td><td rowspan=1 colspan=1>2.306</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>374</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>691</td><td rowspan=1 colspan=1>113</td><td rowspan=1 colspan=1>1,006</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=2>1.314</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=1>1.631</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=1>1.864</td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=1>2.015</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>2.179</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>2.309</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>383</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>698</td><td rowspan=1 colspan=1>114</td><td rowspan=1 colspan=1>1.013</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=2>1.324</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=1>1.639</td><td rowspan=1 colspan=1>234</td><td rowspan=1 colspan=1>1.866</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=1>2.017</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=1>2.181</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>2.311</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>390</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>708</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>1.020</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=2>1.331</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>1.648</td><td rowspan=1 colspan=1>235</td><td rowspan=1 colspan=1>1.869</td><td rowspan=1 colspan=1>275</td><td rowspan=1 colspan=1>2.024</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>2.188</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=1>2.313</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>400</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>715</td><td rowspan=1 colspan=1>116</td><td rowspan=1 colspan=1>1.027</td><td rowspan=1 colspan=1>156</td><td rowspan=1 colspan=2>1.340</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1>1.655</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=1>1.871</td><td rowspan=1 colspan=1>276</td><td rowspan=1 colspan=1>2.027</td><td rowspan=1 colspan=1>316</td><td rowspan=1 colspan=1>2.191</td><td rowspan=1 colspan=1>356</td><td rowspan=1 colspan=1>2.316</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>[Tabl]</td></tr><tr><td rowspan=1 colspan=1>37</td><td rowspan=1 colspan=1>407</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1>724</td><td rowspan=1 colspan=1>117</td><td rowspan=1 colspan=1>1.085</td><td rowspan=1 colspan=1>157</td><td rowspan=1 colspan=2>1.3474</td><td rowspan=1 colspan=1>197</td><td rowspan=1 colspan=1>1.664</td><td rowspan=1 colspan=1>237</td><td rowspan=1 colspan=1>1.873</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=1>2.034</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=1>2.200</td><td rowspan=1 colspan=1>357</td><td rowspan=1 colspan=1>2.318</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>416</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>731</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>1.042</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=2>1,355</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=1>1.672</td><td rowspan=1 colspan=1>238</td><td rowspan=1 colspan=1>1.876</td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=1>2.036</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=1>2.202</td><td rowspan=1 colspan=1>358</td><td rowspan=1 colspan=1>2.320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>423</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>741</td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>1.049</td><td rowspan=1 colspan=1>159</td><td rowspan=1 colspan=2>134</td><td rowspan=1 colspan=1>199</td><td rowspan=1 colspan=1>1.681</td><td rowspan=1 colspan=1>239</td><td rowspan=1 colspan=1>1.878</td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=1>2.043</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=1>2.205</td><td rowspan=1 colspan=1>359</td><td rowspan=1 colspan=1>2.323</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>433</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>748</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>1.058</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=2>1.373</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>1.688</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>1.882</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>2.045</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>2.207</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>2.325</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **22. [超連結（檔案）]**: files/1090501-1100430適用保險費率表.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=22 assetId=8004ec808db4b93a -->
+#### OCR 22: files/1090501-1100430適用保險費率表.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/1090501-1100430適用保險費率表.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/8004ec808db4b93a_1090501-1100430適用保險費率表.md
+- OCR 狀態: completed_cached
+- OCR 字數: 117447
+- 驗證狀態: ok
+
+```markdown
+## 外交部函
+
+地址：台北市凱達格蘭大道二號承辦人：林素霞  
+電話：（02)2348-2172  
+電子信箱：shlin01@mofa.gov.tw
+
+受文者：教育部
+
+發文日期：中華民國109年2月27日  
+發文字號：外秘購字第10935508820號  
+速別：普通件  
+密等及解密條件或保密期限：  
+附件：無
+
+主旨：本部代辦政府各機關「『因公赴國外出差及返國述職人員綜合保險』續約1年案」（標案案號：MOFA109036CB），業與華南產物保險股份有限公司高雄分公司簽署共同供應契約，可供各機關利用，請查照並轉知所屬。
+
+說明：
+
+一、旨揭共同供應契約案之履約期限自本（109)年5月1日至明（110）年4月30日止，契約相關資料已依照「共同供應契約實施辦法」第7條規定，公開於行政院公共工程委員會「政府電子採購網」（網址：http：//web.pcc.gov.tw)，請逕行上網查詢及下載利用，據以辦理投保。
+
+二、如有訂購相關問題，請逕洽詢旨揭廠商聯絡人林昌煜先生（電話:07-2380909轉分機254；電子信箱:kbusi@scins.
+
+com.tw)。
+
+副本：華南產物保險股份有限公司高雄分公司電20002227文交 2YB 54 章保障內容： 【申根方案】15足歲（含)以上保险金额：400萬元
+
+<table><tr><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=2>保背</td><td rowspan=1 colspan=2>天教</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2>天款</td><td rowspan=1 colspan=2>保货</td><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=3>保费</td><td rowspan=1 colspan=2>天教</td><td rowspan=1 colspan=3>保费</td><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2>天教</td><td rowspan=1 colspan=2>保货</td><td rowspan=1 colspan=1>天教</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2>天款</td><td rowspan=1 colspan=2>保货</td><td rowspan=3 colspan=1></td></tr><tr><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=2>104</td><td rowspan=1 colspan=2>41</td><td rowspan=1 colspan=2>390</td><td rowspan=1 colspan=2>81</td><td rowspan=1 colspan=2>671</td><td rowspan=1 colspan=2>121</td><td rowspan=1 colspan=3>944</td><td rowspan=1 colspan=2>161</td><td rowspan=1 colspan=3>1.224</td><td rowspan=1 colspan=2>201</td><td rowspan=1 colspan=2>1.505</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=2>1.674</td><td rowspan=1 colspan=2>281</td><td rowspan=1 colspan=2>1.820</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=2>1.964</td><td rowspan=1 colspan=2>361</td><td rowspan=1 colspan=2>2.068</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=2>110</td><td rowspan=1 colspan=2>42</td><td rowspan=1 colspan=2>398</td><td rowspan=1 colspan=2>82</td><td rowspan=1 colspan=2>678</td><td rowspan=1 colspan=2>122</td><td rowspan=1 colspan=3>951</td><td rowspan=1 colspan=2>162</td><td rowspan=1 colspan=3>1.232</td><td rowspan=1 colspan=2>202</td><td rowspan=1 colspan=2>1.511</td><td rowspan=1 colspan=1>242</td><td rowspan=1 colspan=2>1.676</td><td rowspan=1 colspan=2>282</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.822</td><td rowspan=1 colspan=1>322</td><td rowspan=1 colspan=2>1.966</td><td rowspan=1 colspan=2>862</td><td rowspan=1 colspan=2>2.074</td></tr><tr><td rowspan=1 colspan=2>3</td><td rowspan=1 colspan=2>119</td><td rowspan=1 colspan=2>43</td><td rowspan=1 colspan=2>405</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=2>684</td><td rowspan=1 colspan=2>123</td><td rowspan=1 colspan=3>957</td><td rowspan=1 colspan=2>163</td><td rowspan=1 colspan=3>1.238</td><td rowspan=1 colspan=2>203</td><td rowspan=1 colspan=2>1.518</td><td rowspan=1 colspan=1>243</td><td rowspan=1 colspan=2>1.682</td><td rowspan=1 colspan=2>283</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.828</td><td rowspan=1 colspan=1>323</td><td rowspan=1 colspan=2>1.968</td><td rowspan=1 colspan=2>363</td><td rowspan=1 colspan=2>2.076</td><td rowspan=4 colspan=1></td></tr><tr><td rowspan=1 colspan=2>4</td><td rowspan=1 colspan=2>125</td><td rowspan=1 colspan=2>44</td><td rowspan=1 colspan=2>411</td><td rowspan=1 colspan=2>84</td><td rowspan=1 colspan=2>690</td><td rowspan=1 colspan=2>124</td><td rowspan=1 colspan=3>965</td><td rowspan=1 colspan=2>164</td><td rowspan=1 colspan=3>1.245</td><td rowspan=1 colspan=2>204</td><td rowspan=1 colspan=2>1.524</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=2>1.684</td><td rowspan=1 colspan=2>284</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>,831</td><td rowspan=1 colspan=1>324</td><td rowspan=1 colspan=2>1.970</td><td rowspan=1 colspan=2>364</td><td rowspan=1 colspan=2>2.083</td></tr><tr><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>133</td><td rowspan=1 colspan=2>45</td><td rowspan=1 colspan=2>419</td><td rowspan=1 colspan=2>85</td><td rowspan=1 colspan=2>697</td><td rowspan=1 colspan=2>125</td><td rowspan=1 colspan=3>972</td><td rowspan=1 colspan=2>165</td><td rowspan=1 colspan=3>1.253</td><td rowspan=1 colspan=2>205</td><td rowspan=1 colspan=2>1.580</td><td rowspan=1 colspan=1>245</td><td rowspan=1 colspan=2>1.691</td><td rowspan=1 colspan=2>285</td><td rowspan=1 colspan=2>1.837</td><td rowspan=1 colspan=1>325</td><td rowspan=1 colspan=2>1.972</td><td rowspan=1 colspan=2>365</td><td rowspan=1 colspan=2>2.084</td></tr><tr><td rowspan=1 colspan=2>6</td><td rowspan=1 colspan=2>140</td><td rowspan=1 colspan=2>46</td><td rowspan=1 colspan=2>426</td><td rowspan=1 colspan=2>86</td><td rowspan=1 colspan=2>703</td><td rowspan=1 colspan=2>126</td><td rowspan=1 colspan=3>980</td><td rowspan=1 colspan=2>166</td><td rowspan=1 colspan=3>1.259</td><td rowspan=1 colspan=2>206</td><td rowspan=1 colspan=2>1.587</td><td rowspan=1 colspan=1>246</td><td rowspan=1 colspan=2>1.693</td><td rowspan=1 colspan=2>286</td><td rowspan=1 colspan=2>1.839</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=2>1.974</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>7</td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=2>47</td><td rowspan=1 colspan=2>433</td><td rowspan=1 colspan=2>87</td><td rowspan=1 colspan=2>709</td><td rowspan=1 colspan=2>127</td><td rowspan=1 colspan=3>986</td><td rowspan=1 colspan=2>67</td><td rowspan=1 colspan=3>1.268</td><td rowspan=1 colspan=2>207</td><td rowspan=1 colspan=2>1.543</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=2>1,899</td><td rowspan=1 colspan=2>287</td><td rowspan=1 colspan=2>1.845</td><td rowspan=1 colspan=1>327</td><td rowspan=1 colspan=2>1.976</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>8</td><td rowspan=1 colspan=2>154</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=2>440</td><td rowspan=1 colspan=2>88</td><td rowspan=1 colspan=2>715</td><td rowspan=1 colspan=2>128</td><td rowspan=1 colspan=3>995</td><td rowspan=1 colspan=2>168</td><td rowspan=1 colspan=3>1.274</td><td rowspan=1 colspan=2>208</td><td rowspan=1 colspan=2>1.549</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=2>1701</td><td rowspan=1 colspan=2>288</td><td rowspan=1 colspan=2>1.847</td><td rowspan=1 colspan=1>328</td><td rowspan=1 colspan=2>1.978</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>9</td><td rowspan=1 colspan=2>163</td><td rowspan=1 colspan=2>49</td><td rowspan=1 colspan=2>448</td><td rowspan=1 colspan=2>89</td><td rowspan=1 colspan=2>723</td><td rowspan=1 colspan=2>129</td><td rowspan=1 colspan=3>1.000</td><td rowspan=1 colspan=2>169</td><td rowspan=1 colspan=3>1.282</td><td rowspan=1 colspan=2>209</td><td rowspan=1 colspan=2>1.558</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=2>1.707</td><td rowspan=1 colspan=2>289</td><td rowspan=1 colspan=2>1.849</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=2>1.980</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>10</td><td rowspan=1 colspan=2>169</td><td rowspan=1 colspan=2>50</td><td rowspan=1 colspan=2>454</td><td rowspan=1 colspan=2>90</td><td rowspan=1 colspan=2>729</td><td rowspan=1 colspan=2>10</td><td rowspan=1 colspan=3>1.009</td><td rowspan=1 colspan=2>170</td><td rowspan=1 colspan=3>1.288</td><td rowspan=1 colspan=2>210</td><td rowspan=1 colspan=2>1.563</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=2>1.709</td><td rowspan=1 colspan=2>290</td><td rowspan=1 colspan=2>1.851</td><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=2>1.980</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>11</td><td rowspan=1 colspan=2>175</td><td rowspan=1 colspan=2>51</td><td rowspan=1 colspan=2>463</td><td rowspan=1 colspan=2>9</td><td rowspan=1 colspan=2>736</td><td rowspan=1 colspan=2>131</td><td rowspan=1 colspan=3>1.015</td><td rowspan=1 colspan=2>171</td><td rowspan=1 colspan=3>1.296</td><td rowspan=1 colspan=2>211</td><td rowspan=1 colspan=2>1.569</td><td rowspan=1 colspan=1>251</td><td rowspan=1 colspan=2>1.716</td><td rowspan=1 colspan=2>291</td><td rowspan=1 colspan=2>1.857</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=2>1.989</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>12</td><td rowspan=1 colspan=2>188</td><td rowspan=1 colspan=2>52</td><td rowspan=1 colspan=2>469</td><td rowspan=1 colspan=2>92</td><td rowspan=1 colspan=2>742</td><td rowspan=1 colspan=2>132</td><td rowspan=1 colspan=3>1.023</td><td rowspan=1 colspan=2>172</td><td rowspan=1 colspan=3>1.303</td><td rowspan=1 colspan=2>212</td><td rowspan=1 colspan=2>1.572</td><td rowspan=1 colspan=1>252</td><td rowspan=1 colspan=2>1.718</td><td rowspan=1 colspan=2>292</td><td rowspan=1 colspan=2>1.859</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=2>1.991</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>13</td><td rowspan=1 colspan=2>190</td><td rowspan=1 colspan=2>53</td><td rowspan=1 colspan=2>475</td><td rowspan=1 colspan=2>93</td><td rowspan=1 colspan=2>748</td><td rowspan=1 colspan=2>133</td><td rowspan=1 colspan=3>1.030</td><td rowspan=1 colspan=2>173</td><td rowspan=1 colspan=3>1.309</td><td rowspan=1 colspan=2>213</td><td rowspan=1 colspan=2>1.578</td><td rowspan=1 colspan=1>253</td><td rowspan=1 colspan=2>1724</td><td rowspan=1 colspan=2>293</td><td rowspan=1 colspan=2>1.861</td><td rowspan=1 colspan=1>333</td><td rowspan=1 colspan=2>1.993</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>14</td><td rowspan=1 colspan=2>198</td><td rowspan=1 colspan=2>54</td><td rowspan=1 colspan=2>482</td><td rowspan=1 colspan=2>94</td><td rowspan=1 colspan=2>757</td><td rowspan=1 colspan=2>134</td><td rowspan=1 colspan=3>1.036</td><td rowspan=1 colspan=2>174</td><td rowspan=1 colspan=3>1.315</td><td rowspan=1 colspan=2>214</td><td rowspan=1 colspan=2>1.580</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=2>1.726</td><td rowspan=1 colspan=2>294</td><td rowspan=1 colspan=2>1.863</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=2>1.995</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>15</td><td rowspan=1 colspan=2>204</td><td rowspan=1 colspan=2>55</td><td rowspan=1 colspan=2>488</td><td rowspan=1 colspan=2>95</td><td rowspan=1 colspan=2>763</td><td rowspan=1 colspan=2>135</td><td rowspan=1 colspan=3>1.044</td><td rowspan=1 colspan=2>175</td><td rowspan=1 colspan=3>1.322</td><td rowspan=1 colspan=2>215</td><td rowspan=1 colspan=2>1.586</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=2>1.733</td><td rowspan=1 colspan=2>295</td><td rowspan=1 colspan=2>1.866</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=2>1.997</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>16</td><td rowspan=1 colspan=2>213</td><td rowspan=1 colspan=2>56</td><td rowspan=1 colspan=2>494</td><td rowspan=1 colspan=2>96</td><td rowspan=1 colspan=2>771</td><td rowspan=1 colspan=2>136</td><td rowspan=1 colspan=3>1.051</td><td rowspan=1 colspan=2>176</td><td rowspan=1 colspan=3>1.328</td><td rowspan=1 colspan=2>216</td><td rowspan=1 colspan=2>1.588</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=2>1.785</td><td rowspan=1 colspan=2>296</td><td rowspan=1 colspan=2>1.868</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=2>1.9999</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>17</td><td rowspan=1 colspan=2>219</td><td rowspan=1 colspan=2>57</td><td rowspan=1 colspan=2>501</td><td rowspan=1 colspan=2>97</td><td rowspan=1 colspan=2>778</td><td rowspan=1 colspan=2>137</td><td rowspan=1 colspan=3>1.059</td><td rowspan=1 colspan=2>177</td><td rowspan=1 colspan=3>1.334</td><td rowspan=1 colspan=2>217</td><td rowspan=1 colspan=2>1.595</td><td rowspan=1 colspan=1>257</td><td rowspan=1 colspan=2>1.741</td><td rowspan=1 colspan=2>297</td><td rowspan=1 colspan=2>1.870</td><td rowspan=1 colspan=1>337</td><td rowspan=1 colspan=2>2.001</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>18</td><td rowspan=1 colspan=2>227</td><td rowspan=1 colspan=2>58</td><td rowspan=1 colspan=2>507</td><td rowspan=1 colspan=2>98</td><td rowspan=1 colspan=2>786</td><td rowspan=1 colspan=2>138</td><td></td><td rowspan=1 colspan=3>1.065</td><td rowspan=1 colspan=2>178</td><td rowspan=1 colspan=3>1.341</td><td rowspan=1 colspan=2>218</td><td rowspan=1 colspan=2>1.597</td><td rowspan=1 colspan=1>258</td><td rowspan=1 colspan=2>1.743</td><td rowspan=1 colspan=2>298</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.872</td><td rowspan=1 colspan=1>338</td><td rowspan=1 colspan=2>2.003</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2>19</td><td rowspan=1 colspan=2>233</td><td rowspan=1 colspan=2>59</td><td rowspan=1 colspan=2>513</td><td rowspan=1 colspan=2>99</td><td rowspan=1 colspan=2>792</td><td rowspan=1 colspan=2>139</td><td></td><td rowspan=1 colspan=3>1.074</td><td rowspan=1 colspan=2>179</td><td rowspan=1 colspan=3>1.347</td><td rowspan=1 colspan=2>219</td><td rowspan=1 colspan=2>1.603</td><td rowspan=1 colspan=1>259</td><td></td><td rowspan=1 colspan=2>1.745</td><td rowspan=1 colspan=2>299</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>874</td><td rowspan=1 colspan=1>339</td><td rowspan=1 colspan=2>2.006</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>———</td><td></td></tr><tr><td rowspan=21 colspan=1></td><td rowspan=1 colspan=2>20</td><td rowspan=1 colspan=2>242</td><td rowspan=1 colspan=2>60</td><td rowspan=1 colspan=2>521</td><td rowspan=1 colspan=2>100</td><td rowspan=1 colspan=2>801</td><td rowspan=1 colspan=2>140</td><td rowspan=1 colspan=3>1.080</td><td rowspan=1 colspan=2>180</td><td rowspan=1 colspan=3>1.355</td><td rowspan=1 colspan=2>220</td><td rowspan=1 colspan=1>1.605</td><td rowspan=1 colspan=1>260</td><td></td><td rowspan=1 colspan=2>1.747</td><td rowspan=1 colspan=2>300</td><td rowspan=1 colspan=2>1.876</td><td rowspan=1 colspan=1>340</td><td></td><td rowspan=1 colspan=2>2.008</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td></td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>248</td><td rowspan=1 colspan=2>61</td><td rowspan=1 colspan=2>527</td><td rowspan=1 colspan=2>101</td><td rowspan=1 colspan=2>806</td><td rowspan=1 colspan=2>141</td><td></td><td rowspan=1 colspan=3>1.089</td><td rowspan=1 colspan=2>181</td><td rowspan=1 colspan=3>1.362</td><td rowspan=1 colspan=2>221</td><td rowspan=1 colspan=2>1.611</td><td rowspan=1 colspan=1>261</td><td></td><td rowspan=1 colspan=2>1.753</td><td rowspan=1 colspan=1>301</td><td rowspan=1 colspan=2>1.882</td><td rowspan=1 colspan=1>341</td><td></td><td rowspan=1 colspan=2>2.010</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>22</td><td rowspan=1 colspan=2>254</td><td rowspan=1 colspan=2>62</td><td rowspan=1 colspan=2>533</td><td rowspan=1 colspan=2>102</td><td rowspan=1 colspan=2>815</td><td rowspan=1 colspan=2>142</td><td rowspan=1 colspan=3>1.094</td><td rowspan=1 colspan=2>182</td><td rowspan=1 colspan=3>1.368</td><td rowspan=1 colspan=2>222</td><td rowspan=1 colspan=2>1.614</td><td rowspan=1 colspan=1>262</td><td></td><td rowspan=1 colspan=2>1.755</td><td rowspan=1 colspan=1>302</td><td rowspan=1 colspan=2>1.884</td><td rowspan=1 colspan=1>342</td><td></td><td rowspan=1 colspan=2>2.012</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>23</td><td rowspan=1 colspan=2>263</td><td rowspan=1 colspan=2>63</td><td rowspan=1 colspan=2>540</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>821</td><td rowspan=1 colspan=2>143</td><td rowspan=1 colspan=3>1.100</td><td rowspan=1 colspan=2>183</td><td rowspan=1 colspan=3>1.374</td><td rowspan=1 colspan=2>223</td><td rowspan=1 colspan=1>1.620</td><td rowspan=1 colspan=1>263</td><td></td><td rowspan=1 colspan=2>1.757</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=2>1.891</td><td rowspan=1 colspan=1>843</td><td></td><td rowspan=1 colspan=2>2.014</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>24</td><td rowspan=1 colspan=2>269</td><td rowspan=1 colspan=2>64</td><td rowspan=1 colspan=2>548</td><td rowspan=1 colspan=2>104</td><td rowspan=1 colspan=2>827</td><td rowspan=1 colspan=2>144</td><td rowspan=1 colspan=3>1.107</td><td rowspan=1 colspan=2>184</td><td rowspan=1 colspan=3>1.382</td><td rowspan=1 colspan=2>224</td><td rowspan=1 colspan=1>1.622</td><td rowspan=1 colspan=1>264</td><td></td><td rowspan=1 colspan=2>1.759</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=2>1.893</td><td rowspan=1 colspan=1>344</td><td></td><td rowspan=1 colspan=2>2.016</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>25</td><td rowspan=1 colspan=2>277</td><td rowspan=1 colspan=2>65</td><td rowspan=1 colspan=2>554</td><td rowspan=1 colspan=2>105</td><td rowspan=1 colspan=2>836</td><td rowspan=1 colspan=2>145</td><td rowspan=1 colspan=3>1.113</td><td rowspan=1 colspan=2>185</td><td rowspan=1 colspan=3>1.38</td><td rowspan=1 colspan=2>225</td><td rowspan=1 colspan=1>1.628</td><td rowspan=1 colspan=1>265</td><td></td><td rowspan=1 colspan=2>1.761</td><td rowspan=1 colspan=1>305</td><td rowspan=1 colspan=2>1.899</td><td rowspan=1 colspan=1>845</td><td></td><td rowspan=1 colspan=2>2.018</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>26</td><td rowspan=1 colspan=2>283</td><td rowspan=1 colspan=2>66</td><td rowspan=1 colspan=2>568</td><td rowspan=1 colspan=2>106</td><td rowspan=1 colspan=2>842</td><td rowspan=1 colspan=2>146</td><td rowspan=1 colspan=3>1.119</td><td rowspan=1 colspan=2>186</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.397</td><td></td><td rowspan=1 colspan=2>226</td><td rowspan=1 colspan=1>1.630</td><td rowspan=1 colspan=1>266</td><td></td><td rowspan=1 colspan=2>1.763</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=2>1.901</td><td rowspan=1 colspan=1>346</td><td></td><td rowspan=1 colspan=2>2.024</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>.</td></tr><tr><td rowspan=1 colspan=2>27</td><td rowspan=1 colspan=2>292</td><td rowspan=1 colspan=2>67</td><td rowspan=1 colspan=2>569</td><td rowspan=1 colspan=2>107</td><td rowspan=1 colspan=2>851</td><td rowspan=1 colspan=2>147</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.126</td><td></td><td rowspan=1 colspan=2>187</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.403</td><td></td><td rowspan=1 colspan=2>227</td><td rowspan=1 colspan=1>1.637</td><td rowspan=1 colspan=1>267</td><td></td><td rowspan=1 colspan=2>1.765</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=2>1.908</td><td rowspan=1 colspan=1>347</td><td></td><td rowspan=1 colspan=2>2.027</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>28</td><td rowspan=1 colspan=2>298</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=2>578</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>857</td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>132</td><td></td><td rowspan=1 colspan=2>188</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>411</td><td></td><td rowspan=1 colspan=2>228</td><td rowspan=1 colspan=1>1.639</td><td rowspan=1 colspan=1>268</td><td></td><td rowspan=1 colspan=2>1.768</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=2>1.910</td><td rowspan=1 colspan=1>348</td><td></td><td rowspan=1 colspan=2>2.029</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>29</td><td rowspan=1 colspan=2>306</td><td rowspan=1 colspan=2>69</td><td rowspan=1 colspan=2>584</td><td rowspan=1 colspan=2>109</td><td rowspan=1 colspan=2>865</td><td rowspan=1 colspan=2>149</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.140</td><td></td><td rowspan=1 colspan=2>189</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>.418</td><td></td><td rowspan=1 colspan=2>229</td><td rowspan=1 colspan=1>1.641</td><td rowspan=1 colspan=1>269</td><td></td><td rowspan=1 colspan=2>1.770</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=2>1.916</td><td rowspan=1 colspan=1>349</td><td></td><td rowspan=1 colspan=2>2.035</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>30</td><td rowspan=1 colspan=2>313</td><td rowspan=1 colspan=2>70</td><td rowspan=1 colspan=2>592</td><td rowspan=1 colspan=2>110</td><td rowspan=1 colspan=2>872</td><td rowspan=1 colspan=2>150</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.146</td><td></td><td rowspan=1 colspan=2>180</td><td rowspan=1 colspan=3>1,426</td><td rowspan=1 colspan=2>230</td><td rowspan=1 colspan=1>1.643</td><td rowspan=1 colspan=1>270</td><td></td><td rowspan=1 colspan=2>1.771</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=2>1.918</td><td rowspan=1 colspan=1>850</td><td></td><td rowspan=1 colspan=2>2.087</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>\</td><td rowspan=1 colspan=2>919</td><td rowspan=1 colspan=2>71</td><td rowspan=1 colspan=2>599</td><td rowspan=1 colspan=2>111</td><td rowspan=1 colspan=2>880</td><td rowspan=1 colspan=2>151</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.153</td><td></td><td rowspan=1 colspan=2>191</td><td rowspan=1 colspan=3>1.4</td><td rowspan=1 colspan=2>231</td><td rowspan=1 colspan=1>1.649</td><td rowspan=1 colspan=1>271</td><td></td><td rowspan=1 colspan=2>1.778</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=2>1.924</td><td rowspan=1 colspan=1>351</td><td></td><td rowspan=1 colspan=2>2.043</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>32</td><td rowspan=1 colspan=2>326</td><td rowspan=1 colspan=2>72</td><td rowspan=1 colspan=2>607</td><td rowspan=1 colspan=2>112</td><td rowspan=1 colspan=2>886</td><td rowspan=1 colspan=2>152</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>1.159</td><td></td><td rowspan=1 colspan=2>192</td><td rowspan=1 colspan=3>1.44</td><td rowspan=1 colspan=2>232</td><td rowspan=1 colspan=1>1,651</td><td rowspan=1 colspan=1>272</td><td></td><td rowspan=1 colspan=2>1.780</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=2>1.926</td><td rowspan=1 colspan=1>352</td><td></td><td rowspan=1 colspan=2>2.045</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>33</td><td rowspan=1 colspan=2>332</td><td rowspan=1 colspan=2>7}</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>113</td><td rowspan=1 colspan=2>893</td><td rowspan=1 colspan=2>153</td><td rowspan=1 colspan=3>1.166</td><td rowspan=1 colspan=2>193</td><td rowspan=1 colspan=3>1.447</td><td rowspan=1 colspan=2>233</td><td rowspan=1 colspan=1>1.658</td><td rowspan=1 colspan=1>273</td><td></td><td rowspan=1 colspan=2>1.786</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=2>1.938</td><td rowspan=1 colspan=1>353</td><td></td><td rowspan=1 colspan=2>2.047</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>34</td><td rowspan=1 colspan=2>340</td><td rowspan=1 colspan=2>74</td><td rowspan=1 colspan=2>619</td><td rowspan=1 colspan=2>114</td><td rowspan=1 colspan=2>899</td><td rowspan=1 colspan=2>154</td><td rowspan=1 colspan=3>1,174</td><td rowspan=1 colspan=2>194</td><td rowspan=1 colspan=3>1.458</td><td rowspan=1 colspan=2>234</td><td rowspan=1 colspan=1>1.656</td><td rowspan=1 colspan=1>274</td><td></td><td rowspan=1 colspan=2>1.789</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=2>1.935</td><td rowspan=1 colspan=1>354</td><td></td><td rowspan=1 colspan=2>2.049</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>35</td><td rowspan=1 colspan=2>346</td><td rowspan=1 colspan=2>75</td><td rowspan=1 colspan=2>627</td><td rowspan=1 colspan=2>115</td><td rowspan=1 colspan=2>904</td><td rowspan=1 colspan=2>155</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.180</td><td></td><td rowspan=1 colspan=2>195</td><td rowspan=1 colspan=3>1.462</td><td rowspan=1 colspan=2>235</td><td rowspan=1 colspan=1>1.658</td><td rowspan=1 colspan=1>275</td><td></td><td rowspan=1 colspan=2>1.795</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=2>1.941</td><td rowspan=1 colspan=1>355</td><td></td><td rowspan=1 colspan=2>2,051</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>36</td><td rowspan=1 colspan=2>354</td><td rowspan=1 colspan=2>76</td><td rowspan=1 colspan=2>634</td><td rowspan=1 colspan=2>116</td><td rowspan=1 colspan=2>911</td><td rowspan=1 colspan=2>156</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>.188</td><td></td><td rowspan=1 colspan=2>196</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.468</td><td></td><td rowspan=1 colspan=2>236</td><td rowspan=1 colspan=1>1.659</td><td rowspan=1 colspan=1>276</td><td></td><td rowspan=1 colspan=2>1.797</td><td rowspan=1 colspan=1>316</td><td rowspan=1 colspan=2>1.948</td><td rowspan=1 colspan=1>356</td><td></td><td rowspan=1 colspan=2>2.053</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>37</td><td rowspan=1 colspan=2>361</td><td rowspan=1 colspan=2>77</td><td rowspan=1 colspan=2>642</td><td rowspan=1 colspan=2>117</td><td rowspan=1 colspan=2>917</td><td rowspan=1 colspan=2>157</td><td rowspan=1 colspan=3>1.194</td><td rowspan=1 colspan=2>197</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.476</td><td></td><td rowspan=1 colspan=2>287</td><td rowspan=1 colspan=1>1.661</td><td rowspan=1 colspan=1>277</td><td></td><td rowspan=1 colspan=2>1.803</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=2>1.951</td><td rowspan=1 colspan=1>357</td><td></td><td rowspan=1 colspan=2>2.055</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>38</td><td rowspan=1 colspan=2>369</td><td rowspan=1 colspan=2>78</td><td rowspan=1 colspan=2>648</td><td rowspan=1 colspan=2>118</td><td rowspan=1 colspan=2>923</td><td rowspan=1 colspan=2>158</td><td rowspan=1 colspan=3>1.203</td><td rowspan=1 colspan=2>198</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>82</td><td></td><td rowspan=1 colspan=2>238</td><td rowspan=1 colspan=1>1.663</td><td rowspan=1 colspan=1>278</td><td></td><td rowspan=1 colspan=2>1.805</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=2>1.953</td><td rowspan=1 colspan=1>358</td><td></td><td rowspan=1 colspan=2>2.057</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>39</td><td rowspan=1 colspan=2>375</td><td rowspan=1 colspan=2>79</td><td rowspan=1 colspan=2>657</td><td rowspan=1 colspan=2>119</td><td rowspan=1 colspan=2>930</td><td rowspan=1 colspan=2>159</td><td rowspan=1 colspan=3>1.209</td><td rowspan=1 colspan=2>199</td><td rowspan=1 colspan=3>1.490</td><td rowspan=1 colspan=2>239</td><td rowspan=1 colspan=1>1.665</td><td rowspan=1 colspan=1>279</td><td></td><td rowspan=1 colspan=2>1.812</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=2>1.955</td><td rowspan=1 colspan=1>359</td><td></td><td rowspan=1 colspan=2>2.059</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=2>40</td><td rowspan=1 colspan=2>384</td><td rowspan=1 colspan=2>80</td><td rowspan=1 colspan=2>663</td><td rowspan=1 colspan=2>120</td><td rowspan=1 colspan=2>938</td><td rowspan=1 colspan=2>160</td><td rowspan=1 colspan=3>1.217</td><td rowspan=1 colspan=2>200</td><td rowspan=1 colspan=3>1.497</td><td rowspan=1 colspan=2>240</td><td rowspan=1 colspan=1>1.6671</td><td rowspan=1 colspan=1>280</td><td></td><td rowspan=1 colspan=2>1.814</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=2>1.957</td><td rowspan=1 colspan=1>360</td><td></td><td rowspan=1 colspan=2>2.062</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=20></td><td rowspan=1 colspan=2>[]</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr></table>
+
+<table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天款</td><td rowspan=4 colspan=2>保货</td><td rowspan=4 colspan=2>天教</td><td rowspan=4 colspan=2>保</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=2>保费</td><td rowspan=4 colspan=2>天数</td><td rowspan=4 colspan=2>保费</td></tr><tr><td></td><td rowspan=3 colspan=3>保背</td><td rowspan=3 colspan=2>天数</td><td rowspan=3 colspan=2>保费</td><td rowspan=3 colspan=2>天数</td><td rowspan=3 colspan=2>保费</td><td rowspan=3 colspan=2>天教</td></tr><tr><td></td><td rowspan=23 colspan=1></td></tr><tr><td rowspan=1 colspan=1>天款</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>161</td><td rowspan=2 colspan=2>854</td><td rowspan=2 colspan=2>201</td><td rowspan=2 colspan=2>1.050</td><td rowspan=2 colspan=2>241</td><td rowspan=2 colspan=2>1.168</td><td rowspan=2 colspan=2>281</td><td rowspan=2 colspan=2>,270</td><td rowspan=2 colspan=2>821</td><td rowspan=2 colspan=2>1.370</td><td rowspan=2 colspan=2>361</td><td rowspan=2 colspan=2>1.443</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=3>73</td><td rowspan=1 colspan=2>41</td><td rowspan=1 colspan=2>272</td><td rowspan=1 colspan=2>81</td><td rowspan=1 colspan=2>468</td><td rowspan=1 colspan=2>121</td><td rowspan=1 colspan=2>659</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>860</td><td rowspan=2 colspan=2>202</td><td rowspan=2 colspan=2>1.055</td><td rowspan=2 colspan=2>242</td><td rowspan=2 colspan=2>1.170</td><td rowspan=2 colspan=2>282</td><td rowspan=2 colspan=2>1.271</td><td rowspan=2 colspan=2>322</td><td rowspan=2 colspan=2>1.372</td><td rowspan=2 colspan=2>362</td><td rowspan=2 colspan=2>1.448</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=3>77</td><td rowspan=1 colspan=2>42</td><td rowspan=1 colspan=2>278</td><td rowspan=1 colspan=2>82</td><td rowspan=1 colspan=2>473</td><td rowspan=1 colspan=2>122</td><td rowspan=1 colspan=2>664</td><td rowspan=1 colspan=2>162</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>864</td><td rowspan=2 colspan=2>203</td><td rowspan=2 colspan=2>1.059</td><td rowspan=2 colspan=2>243</td><td rowspan=2 colspan=2>1.174</td><td rowspan=2 colspan=2>283</td><td rowspan=2 colspan=2>1.275</td><td rowspan=2 colspan=2>323</td><td rowspan=2 colspan=2>1.373</td><td rowspan=2 colspan=2>363</td><td rowspan=2 colspan=2>1.449</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=3>83</td><td rowspan=1 colspan=2>43</td><td rowspan=1 colspan=2>282</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=2>477</td><td rowspan=1 colspan=2>123</td><td rowspan=1 colspan=2>668</td><td rowspan=1 colspan=2>163</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>673</td><td rowspan=2 colspan=2>164</td><td rowspan=2 colspan=2>869</td><td rowspan=2 colspan=2>204</td><td rowspan=2 colspan=2>1.063</td><td rowspan=2 colspan=2>244</td><td rowspan=2 colspan=2>1.175</td><td rowspan=2 colspan=2>284</td><td rowspan=2 colspan=2>1.277</td><td rowspan=2 colspan=2>324</td><td rowspan=2 colspan=2>1.375</td><td rowspan=2 colspan=2>364</td><td rowspan=2 colspan=2>1.453</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=3>87</td><td rowspan=1 colspan=2>44</td><td rowspan=1 colspan=2>286</td><td rowspan=1 colspan=2>84</td><td rowspan=1 colspan=2>482</td><td rowspan=1 colspan=2>124</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>165</td><td rowspan=2 colspan=2>874</td><td rowspan=2 colspan=2>205</td><td rowspan=2 colspan=2>1.068</td><td rowspan=2 colspan=2>245</td><td rowspan=2 colspan=2>1.180</td><td rowspan=2 colspan=2>285</td><td rowspan=2 colspan=2>1.282</td><td rowspan=2 colspan=2>325</td><td rowspan=2 colspan=2>1.376</td><td rowspan=2 colspan=2>365</td><td rowspan=2 colspan=2>1,455</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=3>93</td><td rowspan=1 colspan=2>45</td><td rowspan=1 colspan=2>293</td><td rowspan=1 colspan=2>85</td><td rowspan=1 colspan=2>486</td><td rowspan=1 colspan=2>125</td><td rowspan=1 colspan=2>678</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>166</td><td rowspan=2 colspan=2>879</td><td rowspan=2 colspan=2>206</td><td rowspan=2 colspan=2>1.072</td><td rowspan=2 colspan=2>246</td><td rowspan=2 colspan=2>1.181</td><td rowspan=2 colspan=2>286</td><td rowspan=2 colspan=2>1.283</td><td rowspan=2 colspan=2>326</td><td rowspan=2 colspan=2>1.378</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=3>97</td><td rowspan=1 colspan=2>46</td><td rowspan=1 colspan=2>297</td><td rowspan=1 colspan=2>8</td><td rowspan=1 colspan=2>490</td><td rowspan=1 colspan=2>126</td><td rowspan=1 colspan=2>684</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>167</td><td rowspan=2 colspan=2>884</td><td rowspan=2 colspan=2>207</td><td rowspan=2 colspan=2>1.077</td><td rowspan=2 colspan=2>247</td><td rowspan=2 colspan=2>1.186</td><td rowspan=2 colspan=2>287</td><td rowspan=2 colspan=2>1.287</td><td rowspan=2 colspan=2>327</td><td rowspan=2 colspan=2>1.379</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=3>103</td><td rowspan=1 colspan=2>47</td><td rowspan=1 colspan=2>302</td><td rowspan=1 colspan=2>87</td><td rowspan=1 colspan=2>495</td><td rowspan=1 colspan=2>127</td><td rowspan=1 colspan=2>688</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>889</td><td rowspan=2 colspan=2>208</td><td rowspan=2 colspan=2>1.081</td><td rowspan=2 colspan=2>248</td><td rowspan=2 colspan=2>1.187</td><td rowspan=2 colspan=2>288</td><td rowspan=2 colspan=2>1.289</td><td rowspan=2 colspan=2>328</td><td rowspan=2 colspan=2>1.380</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=3>108</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=2>307</td><td rowspan=1 colspan=2>88</td><td rowspan=1 colspan=2>499</td><td rowspan=1 colspan=2>128</td><td rowspan=1 colspan=2>694</td><td rowspan=1 colspan=2>168</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>895</td><td rowspan=2 colspan=2>209</td><td rowspan=2 colspan=2>1.086</td><td rowspan=2 colspan=2>249</td><td rowspan=2 colspan=2>1.191</td><td rowspan=2 colspan=2>289</td><td rowspan=2 colspan=2>1.290</td><td rowspan=2 colspan=2>329</td><td rowspan=2 colspan=2>1.382</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=3>113</td><td rowspan=1 colspan=2>49</td><td rowspan=1 colspan=2>318</td><td rowspan=1 colspan=2>89</td><td rowspan=1 colspan=2>505</td><td rowspan=1 colspan=2>129</td><td rowspan=1 colspan=2>698</td><td rowspan=1 colspan=2>169</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>704</td><td rowspan=2 colspan=2>170</td><td rowspan=2 colspan=2>899</td><td rowspan=2 colspan=2>210</td><td rowspan=2 colspan=2>1.091</td><td rowspan=2 colspan=2>250</td><td rowspan=2 colspan=2>1.193</td><td rowspan=2 colspan=2>290</td><td rowspan=2 colspan=2>1.292</td><td rowspan=2 colspan=2>330</td><td rowspan=2 colspan=2>1.38</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=3>118</td><td rowspan=1 colspan=2>50</td><td rowspan=1 colspan=2>317</td><td rowspan=1 colspan=2>90</td><td rowspan=1 colspan=2>509</td><td rowspan=1 colspan=2>130</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>708</td><td rowspan=2 colspan=2>171</td><td rowspan=2 colspan=2>905</td><td rowspan=2 colspan=2>211</td><td rowspan=2 colspan=2>1.096</td><td rowspan=2 colspan=2>251</td><td rowspan=2 colspan=2>1.197</td><td rowspan=2 colspan=2>291</td><td rowspan=2 colspan=2>1.296</td><td rowspan=2 colspan=2>331</td><td rowspan=2 colspan=2>1.387</td><td rowspan=2 colspan=2>+</td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=3>122</td><td rowspan=1 colspan=2>51</td><td></td><td rowspan=1 colspan=2>323</td><td rowspan=1 colspan=2>$9\</td><td rowspan=1 colspan=2>514</td><td rowspan=1 colspan=2>131</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>714</td><td rowspan=2 colspan=2>172</td><td rowspan=2 colspan=2>909</td><td rowspan=2 colspan=2>212</td><td rowspan=2 colspan=2>1.097</td><td rowspan=2 colspan=2>252</td><td rowspan=2 colspan=2>1.198</td><td rowspan=2 colspan=2>292</td><td rowspan=2 colspan=2>1.298</td><td rowspan=2 colspan=2>332</td><td rowspan=2 colspan=2>1.389</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=3>128</td><td></td><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>328</td><td rowspan=1 colspan=2>92</td><td rowspan=1 colspan=2>518</td><td rowspan=1 colspan=2>132</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>914</td><td rowspan=2 colspan=2>213</td><td rowspan=2 colspan=2>1.101</td><td rowspan=2 colspan=2>253</td><td rowspan=2 colspan=2>1.203</td><td rowspan=2 colspan=2>293</td><td rowspan=2 colspan=2>1.299</td><td rowspan=2 colspan=2>383</td><td rowspan=2 colspan=2>1.391</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=3>182</td><td></td><td rowspan=1 colspan=2>53</td><td rowspan=1 colspan=2>332</td><td rowspan=1 colspan=2>93</td><td rowspan=1 colspan=2>522</td><td rowspan=1 colspan=2>13</td><td rowspan=1 colspan=2>719</td><td rowspan=1 colspan=2>173</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>918</td><td rowspan=2 colspan=2>214</td><td rowspan=2 colspan=2>1.103</td><td rowspan=2 colspan=2>254</td><td rowspan=2 colspan=2>1.205</td><td rowspan=2 colspan=2>294</td><td rowspan=2 colspan=2>1.301</td><td rowspan=2 colspan=2>384</td><td rowspan=2 colspan=2>1.892</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=3>138</td><td></td><td rowspan=1 colspan=2>54</td><td rowspan=1 colspan=2>336</td><td rowspan=1 colspan=2>94</td><td rowspan=1 colspan=2>528</td><td rowspan=1 colspan=2>184</td><td rowspan=1 colspan=2>723</td><td rowspan=1 colspan=2>174</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>175</td><td rowspan=2 colspan=2>922</td><td rowspan=2 colspan=2>215</td><td rowspan=2 colspan=2>1.107</td><td rowspan=2 colspan=2>255</td><td rowspan=2 colspan=2>1.209</td><td rowspan=2 colspan=2>295</td><td rowspan=2 colspan=2>1.302</td><td rowspan=2 colspan=2>335</td><td rowspan=2 colspan=2>1.394</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>15</td><td></td><td rowspan=1 colspan=3>143</td><td rowspan=1 colspan=2>55</td><td rowspan=1 colspan=2>340</td><td rowspan=1 colspan=2>95</td><td rowspan=1 colspan=2>538</td><td rowspan=1 colspan=2>135</td><td rowspan=1 colspan=2>729</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>176</td><td rowspan=2 colspan=2>927</td><td rowspan=2 colspan=2>216</td><td rowspan=2 colspan=2>1.108</td><td rowspan=2 colspan=2>256</td><td rowspan=2 colspan=2>1.210</td><td rowspan=2 colspan=2>296</td><td rowspan=2 colspan=2>1.303</td><td rowspan=2 colspan=2>336</td><td rowspan=2 colspan=2>1.895</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>16</td><td></td><td rowspan=1 colspan=3>148</td><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>344</td><td rowspan=1 colspan=2>96</td><td rowspan=1 colspan=2>538</td><td rowspan=1 colspan=2>136</td><td rowspan=1 colspan=2>733</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>177</td><td rowspan=2 colspan=2>931</td><td rowspan=2 colspan=2>217</td><td rowspan=2 colspan=2>1.118</td><td></td><td rowspan=2 colspan=2>257</td><td rowspan=2 colspan=2>1.215</td><td rowspan=2 colspan=2>297</td><td></td><td rowspan=2 colspan=2>1.305</td><td rowspan=2 colspan=2>337</td><td rowspan=2 colspan=2>1.397</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=2></td></tr><tr><td rowspan=1 colspan=1>17</td><td></td><td rowspan=1 colspan=3>153</td><td rowspan=1 colspan=2>57</td><td rowspan=1 colspan=2>349</td><td rowspan=1 colspan=2>97</td><td rowspan=1 colspan=2>543</td><td></td><td rowspan=1 colspan=2>137</td><td rowspan=1 colspan=2>789</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>935</td><td rowspan=2 colspan=2>218</td><td rowspan=2 colspan=2>1.114</td><td rowspan=2 colspan=2>258</td><td rowspan=2 colspan=2>1.216</td><td rowspan=2 colspan=2>298</td><td rowspan=2 colspan=2>1.306</td><td rowspan=2 colspan=2>338</td><td rowspan=2 colspan=2>1.398</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>18</td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>59</td><td></td><td rowspan=1 colspan=2>58</td><td rowspan=1 colspan=2>354</td><td rowspan=1 colspan=2>98</td><td rowspan=1 colspan=2>548</td><td rowspan=1 colspan=2>138</td><td rowspan=1 colspan=2>743</td><td></td><td rowspan=1 colspan=2>178</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>179</td><td rowspan=2 colspan=2>939</td><td rowspan=2 colspan=2>219</td><td rowspan=2 colspan=2>1.119</td><td rowspan=2 colspan=2>259</td><td rowspan=2 colspan=2>1.217</td><td rowspan=2 colspan=2>299</td><td rowspan=2 colspan=2>1.308</td><td rowspan=2 colspan=2>389</td><td rowspan=2 colspan=2>1.399</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>19</td><td></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>163</td><td></td><td rowspan=1 colspan=2>59</td><td rowspan=1 colspan=2>358</td><td rowspan=1 colspan=2>99</td><td rowspan=1 colspan=2>553</td><td rowspan=1 colspan=2>139</td><td rowspan=1 colspan=2>749</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>180</td><td rowspan=2 colspan=2>946</td><td rowspan=2 colspan=2>220</td><td rowspan=2 colspan=2>1.120</td><td rowspan=2 colspan=2>260</td><td rowspan=2 colspan=2>1.219</td><td rowspan=2 colspan=2>300</td><td rowspan=2 colspan=2>1.310</td><td rowspan=2 colspan=2>340</td><td rowspan=2 colspan=2>1.401</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>20</td><td></td><td rowspan=1 colspan=3>169</td><td rowspan=1 colspan=2>60</td><td rowspan=1 colspan=2>364</td><td rowspan=1 colspan=2>100</td><td rowspan=1 colspan=2>559</td><td rowspan=1 colspan=2>140</td><td rowspan=1 colspan=2>753</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>950</td><td rowspan=2 colspan=2>221</td><td rowspan=2 colspan=2>1.124</td><td rowspan=2 colspan=2>261</td><td rowspan=2 colspan=2>1.224</td><td rowspan=2 colspan=2>301</td><td rowspan=2 colspan=2>1.313</td><td rowspan=2 colspan=2>341</td><td rowspan=2 colspan=2>1.402</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>21</td><td></td><td rowspan=1 colspan=3>173</td><td rowspan=1 colspan=2>6</td><td rowspan=1 colspan=2>368</td><td rowspan=1 colspan=2>101</td><td rowspan=1 colspan=2>563</td><td rowspan=1 colspan=2>141</td><td rowspan=1 colspan=2>760</td><td rowspan=1 colspan=2>181</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>182</td><td rowspan=2 colspan=2>954</td><td rowspan=2 colspan=2>222</td><td rowspan=2 colspan=2>1.126</td><td rowspan=2 colspan=2>262</td><td rowspan=2 colspan=2>1.225</td><td rowspan=2 colspan=2>302</td><td rowspan=2 colspan=2>1.315</td><td rowspan=2 colspan=2>342</td><td rowspan=2 colspan=2>1.404</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>22</td><td></td><td rowspan=1 colspan=3>178</td><td rowspan=1 colspan=2>62</td><td rowspan=1 colspan=2>372</td><td rowspan=1 colspan=2>102</td><td rowspan=1 colspan=2>568</td><td rowspan=1 colspan=2>142</td><td rowspan=1 colspan=2>764</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>188</td><td rowspan=2 colspan=2>958</td><td rowspan=2 colspan=2>223</td><td rowspan=2 colspan=2>1.131</td><td rowspan=2 colspan=2>263</td><td rowspan=2 colspan=2>1.226</td><td rowspan=2 colspan=2>303</td><td rowspan=2 colspan=2>1.320</td><td rowspan=2 colspan=2>843</td><td rowspan=2 colspan=2>1.405</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>23</td><td></td><td rowspan=1 colspan=3>183</td><td rowspan=1 colspan=2>63</td><td rowspan=1 colspan=2>377</td><td rowspan=1 colspan=2>103</td><td rowspan=1 colspan=2>573</td><td rowspan=1 colspan=2>143</td><td rowspan=1 colspan=2>768</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>772</td><td rowspan=2 colspan=2>184</td><td rowspan=2 colspan=2>965</td><td rowspan=2 colspan=2>224</td><td rowspan=2 colspan=2>1.132</td><td rowspan=2 colspan=2>264</td><td rowspan=2 colspan=2>1.228</td><td rowspan=2 colspan=2>304</td><td rowspan=2 colspan=2>1.321</td><td rowspan=2 colspan=2>344</td><td rowspan=2 colspan=2>1.406</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>24</td><td></td><td rowspan=1 colspan=3>188</td><td rowspan=1 colspan=2>64</td><td rowspan=1 colspan=2>383</td><td rowspan=1 colspan=2>104</td><td rowspan=1 colspan=2>578</td><td rowspan=1 colspan=2>144</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>185</td><td rowspan=2 colspan=2>969</td><td rowspan=2 colspan=2>225</td><td rowspan=2 colspan=2>1.136</td><td rowspan=2 colspan=2>265</td><td rowspan=2 colspan=2>1.229</td><td rowspan=2 colspan=2>305</td><td rowspan=2 colspan=2>1.325.</td><td rowspan=2 colspan=2>345</td><td rowspan=2 colspan=2>1.408</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>25</td><td></td><td rowspan=1 colspan=3>19</td><td rowspan=1 colspan=2>65</td><td rowspan=1 colspan=2>387</td><td rowspan=1 colspan=2>105</td><td rowspan=1 colspan=2>583</td><td rowspan=1 colspan=2>145</td><td rowspan=1 colspan=2>.777</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>781</td><td rowspan=2 colspan=2>186</td><td rowspan=2 colspan=2>.974</td><td rowspan=2 colspan=2>226</td><td rowspan=2 colspan=2>1.138</td><td rowspan=2 colspan=2>266</td><td rowspan=2 colspan=2>1.281</td><td rowspan=2 colspan=2>306</td><td rowspan=2 colspan=2>1.327</td><td rowspan=2 colspan=2>346</td><td rowspan=2 colspan=2>1.413</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>26</td><td></td><td rowspan=1 colspan=3>198</td><td rowspan=1 colspan=2>66</td><td rowspan=1 colspan=2>393</td><td rowspan=1 colspan=2>106</td><td rowspan=1 colspan=2>588</td><td rowspan=1 colspan=2>146</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>187</td><td rowspan=2 colspan=2>979</td><td rowspan=2 colspan=2>227</td><td rowspan=2 colspan=2>1.142</td><td rowspan=2 colspan=2>267</td><td rowspan=2 colspan=2>1.282</td><td rowspan=2 colspan=2>307</td><td rowspan=2 colspan=2>1.331</td><td rowspan=2 colspan=2>347</td><td rowspan=2 colspan=2>1.414</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>27</td><td></td><td rowspan=1 colspan=3>204</td><td rowspan=1 colspan=2>67</td><td rowspan=1 colspan=2>397</td><td rowspan=1 colspan=2>107</td><td rowspan=1 colspan=2>594</td><td rowspan=1 colspan=2>147</td><td rowspan=1 colspan=2>785</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>188</td><td rowspan=2 colspan=2>985</td><td rowspan=2 colspan=2>228</td><td rowspan=2 colspan=2>1.148</td><td rowspan=2 colspan=2>268</td><td rowspan=2 colspan=2>1.233</td><td rowspan=2 colspan=2>308</td><td rowspan=2 colspan=2>1.332</td><td rowspan=2 colspan=2>348</td><td rowspan=2 colspan=2>1.415</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td></td><td rowspan=1 colspan=3>208</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=2>403</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>598</td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=2>790</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>796</td><td rowspan=2 colspan=2>189</td><td rowspan=2 colspan=2>989</td><td rowspan=2 colspan=2>229</td><td rowspan=2 colspan=2>1.145</td><td rowspan=2 colspan=2>269</td><td rowspan=2 colspan=2>1.285</td><td rowspan=2 colspan=2>309</td><td rowspan=2 colspan=2>1.387</td><td rowspan=2 colspan=2>349</td><td rowspan=2 colspan=2>1.420</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td></td><td rowspan=1 colspan=3>214</td><td rowspan=1 colspan=2>69</td><td rowspan=1 colspan=2>407</td><td rowspan=1 colspan=2>109</td><td rowspan=1 colspan=2>603.</td><td rowspan=1 colspan=2>1494</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>995</td><td rowspan=2 colspan=2>230</td><td rowspan=2 colspan=2>1.146</td><td rowspan=2 colspan=2>270</td><td rowspan=2 colspan=2>1.237</td><td rowspan=2 colspan=2>310</td><td rowspan=2 colspan=2>1.388</td><td rowspan=2 colspan=2>350</td><td rowspan=2 colspan=2>1.421</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td></td><td rowspan=1 colspan=3>218</td><td rowspan=1 colspan=2>70</td><td rowspan=1 colspan=2>418</td><td rowspan=1 colspan=2>110</td><td rowspan=1 colspan=2>608</td><td rowspan=1 colspan=2>150</td><td rowspan=1 colspan=2>800</td><td rowspan=1 colspan=2>190</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>191</td><td rowspan=2 colspan=2>1.000</td><td rowspan=2 colspan=2>231</td><td rowspan=2 colspan=2>1.151</td><td rowspan=2 colspan=2>271</td><td rowspan=2 colspan=2>1,24</td><td rowspan=2 colspan=2>311</td><td rowspan=2 colspan=2>1.343</td><td rowspan=2 colspan=2>351</td><td rowspan=2 colspan=2>1.45</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>31</td><td></td><td rowspan=1 colspan=3>223</td><td rowspan=1 colspan=2>71</td><td rowspan=1 colspan=2>417</td><td rowspan=1 colspan=2>11</td><td rowspan=1 colspan=2>614</td><td rowspan=1 colspan=2>151</td><td rowspan=1 colspan=2>804</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>192</td><td rowspan=2 colspan=2>1.005</td><td rowspan=2 colspan=2>232</td><td rowspan=2 colspan=2>1.152</td><td rowspan=2 colspan=2>272</td><td rowspan=2 colspan=2>1.243</td><td rowspan=2 colspan=2>312</td><td rowspan=2 colspan=2>1.344</td><td rowspan=2 colspan=2>352</td><td rowspan=2 colspan=2>1.427</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td></td><td rowspan=1 colspan=3>227</td><td rowspan=1 colspan=2>7}</td><td rowspan=1 colspan=2>424</td><td rowspan=1 colspan=2>112</td><td rowspan=1 colspan=2>618</td><td rowspan=1 colspan=2>152</td><td rowspan=1 colspan=2>809</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>193</td><td rowspan=2 colspan=2>1.009</td><td rowspan=2 colspan=2>233</td><td rowspan=2 colspan=2>1.154</td><td rowspan=2 colspan=2>273</td><td rowspan=2 colspan=2>1.247</td><td rowspan=2 colspan=2>313</td><td rowspan=2 colspan=2>1.348</td><td rowspan=2 colspan=2>353</td><td rowspan=2 colspan=2>1.429</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>33</td><td></td><td rowspan=1 colspan=3>281</td><td rowspan=1 colspan=2>73</td><td rowspan=1 colspan=2>428</td><td rowspan=1 colspan=2>113</td><td rowspan=1 colspan=2>622</td><td rowspan=1 colspan=2>153</td><td rowspan=1 colspan=2>813</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>194</td><td rowspan=2 colspan=2>1.014</td><td rowspan=2 colspan=2>234</td><td rowspan=2 colspan=2>1.155</td><td rowspan=2 colspan=2>274</td><td rowspan=2 colspan=2>1.248</td><td rowspan=2 colspan=2>314</td><td rowspan=2 colspan=2>1.350</td><td rowspan=2 colspan=2>354</td><td rowspan=2 colspan=2>1.430</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td></td><td rowspan=1 colspan=3>237</td><td rowspan=1 colspan=2>74</td><td rowspan=1 colspan=2>432</td><td rowspan=1 colspan=2>114</td><td rowspan=1 colspan=2>627</td><td rowspan=1 colspan=2>154</td><td rowspan=1 colspan=2>819</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>1.020</td><td rowspan=2 colspan=2>235</td><td rowspan=2 colspan=2>1.156</td><td rowspan=2 colspan=2>275</td><td rowspan=2 colspan=2>1.252</td><td rowspan=2 colspan=2>315</td><td rowspan=2 colspan=2>1.355</td><td rowspan=2 colspan=2>355</td><td rowspan=2 colspan=2>1.482</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>35</td><td></td><td rowspan=1 colspan=3>242</td><td rowspan=1 colspan=2>75</td><td rowspan=1 colspan=2>438</td><td rowspan=1 colspan=2>115</td><td rowspan=1 colspan=2>631</td><td rowspan=1 colspan=2>155</td><td rowspan=1 colspan=2>823</td><td rowspan=1 colspan=2>195</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>196</td><td rowspan=2 colspan=2>1.024</td><td rowspan=2 colspan=2>236</td><td rowspan=2 colspan=2>1.158</td><td rowspan=2 colspan=2>276</td><td rowspan=2 colspan=2>1.254</td><td rowspan=2 colspan=2>316</td><td rowspan=2 colspan=2>1.356</td><td rowspan=2 colspan=2>356</td><td rowspan=2 colspan=2>1.433</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td></td><td rowspan=1 colspan=3>247</td><td rowspan=1 colspan=2>76</td><td rowspan=1 colspan=2>442</td><td rowspan=1 colspan=2>116</td><td rowspan=1 colspan=2>636</td><td rowspan=1 colspan=2>156</td><td rowspan=1 colspan=2>829</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>834</td><td rowspan=2 colspan=2>197</td><td rowspan=2 colspan=2>1.030</td><td rowspan=2 colspan=2>237</td><td rowspan=2 colspan=2>1.159</td><td rowspan=2 colspan=2>277</td><td rowspan=2 colspan=2>1.258</td><td rowspan=2 colspan=2>317</td><td rowspan=2 colspan=2>1.362</td><td rowspan=2 colspan=2>357</td><td rowspan=2 colspan=2>1.434</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>37</td><td></td><td rowspan=1 colspan=3>251</td><td rowspan=1 colspan=2>7</td><td rowspan=1 colspan=2>448</td><td rowspan=1 colspan=2>117</td><td rowspan=1 colspan=2>640</td><td rowspan=1 colspan=2>157</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>645</td><td rowspan=2 colspan=2>158</td><td rowspan=2 colspan=2>839</td><td rowspan=2 colspan=2>198</td><td rowspan=2 colspan=2>1.034</td><td rowspan=2 colspan=2>288</td><td rowspan=2 colspan=2>1.161</td><td rowspan=2 colspan=2>278</td><td rowspan=2 colspan=2>1.260</td><td rowspan=2 colspan=2>318</td><td rowspan=2 colspan=2>1.363</td><td rowspan=2 colspan=2>358</td><td rowspan=2 colspan=2>1.436</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td></td><td rowspan=1 colspan=3>258</td><td rowspan=1 colspan=2>78</td><td rowspan=1 colspan=2>452</td><td rowspan=1 colspan=2>118</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=2 colspan=2>844</td><td rowspan=2 colspan=2>199</td><td rowspan=2 colspan=2>1.040</td><td rowspan=2 colspan=2>239</td><td rowspan=2 colspan=2>1.162</td><td rowspan=2 colspan=2>279</td><td rowspan=2 colspan=2>1.264</td><td rowspan=2 colspan=2>319</td><td rowspan=2 colspan=2>1.364</td><td rowspan=2 colspan=2>359</td><td rowspan=2 colspan=2>1.437</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td></td><td rowspan=1 colspan=3>262</td><td rowspan=1 colspan=2>79</td><td rowspan=1 colspan=2>459</td><td rowspan=1 colspan=2>119</td><td rowspan=1 colspan=2>649</td><td rowspan=1 colspan=2>159</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=3 colspan=2>160</td><td rowspan=3 colspan=2>850</td><td rowspan=2 colspan=2>1200</td><td rowspan=2 colspan=2>1.044</td><td rowspan=2 colspan=2>240</td><td rowspan=2 colspan=2>1.164</td><td rowspan=2 colspan=2>280</td><td rowspan=2 colspan=2>1.266</td><td rowspan=2 colspan=2>320</td><td rowspan=2 colspan=2>1.366</td><td rowspan=2 colspan=2>360</td><td rowspan=2 colspan=2>1.489</td><td rowspan=2 colspan=2></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=2 colspan=1>40</td><td></td><td rowspan=2 colspan=3>267</td><td rowspan=2 colspan=2>80</td><td rowspan=2 colspan=2>463</td><td rowspan=2 colspan=2>120</td><td rowspan=2 colspan=2>655</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=13></td></tr></table>
+
+<table><tr><td rowspan=1 colspan=2>天款</td><td rowspan=1 colspan=2>保费”</td><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=3>保费</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=3>保费</td><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=1>保贷</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保灭</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保灭</td><td rowspan=1 colspan=1>天数</td><td rowspan=1 colspan=1>保贷</td><td rowspan=1 colspan=1>天致</td><td rowspan=1 colspan=2>保费</td><td rowspan=1 colspan=2>天数</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=2>149</td><td rowspan=1 colspan=2>41</td><td rowspan=1 colspan=2>557</td><td rowspan=1 colspan=2>81</td><td rowspan=1 colspan=3>960</td><td rowspan=1 colspan=1>121</td><td rowspan=1 colspan=3>1.350</td><td rowspan=1 colspan=2>161</td><td rowspan=1 colspan=1>1.749</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=1>2.152</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=1>2.393</td><td rowspan=1 colspan=1>281</td><td rowspan=1 colspan=1>2.602</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=2>2.808</td><td rowspan=1 colspan=2>361</td><td rowspan=1 colspan=1>2.957</td></tr><tr><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=2>158</td><td rowspan=1 colspan=2>42</td><td rowspan=1 colspan=2>569</td><td rowspan=1 colspan=2>82</td><td rowspan=1 colspan=3>969</td><td rowspan=1 colspan=2>122</td><td rowspan=1 colspan=3>1.359</td><td rowspan=1 colspan=1>\62</td><td rowspan=1 colspan=1>1.761</td><td rowspan=1 colspan=1>202</td><td rowspan=1 colspan=1>2.161</td><td rowspan=1 colspan=1>242</td><td rowspan=1 colspan=1>2.396</td><td rowspan=1 colspan=1>282</td><td rowspan=1 colspan=1>2.605</td><td rowspan=1 colspan=1>322</td><td rowspan=1 colspan=2>2.811</td><td rowspan=1 colspan=2>362</td><td rowspan=1 colspan=1>2.966</td></tr><tr><td rowspan=1 colspan=2>3</td><td rowspan=1 colspan=2>170</td><td rowspan=1 colspan=2>43</td><td rowspan=1 colspan=2>578</td><td rowspan=1 colspan=2>83</td><td rowspan=1 colspan=3>978</td><td rowspan=1 colspan=2>123</td><td rowspan=1 colspan=3>1.368</td><td rowspan=1 colspan=1>163</td><td rowspan=1 colspan=1>1.770</td><td rowspan=1 colspan=1>203</td><td rowspan=1 colspan=1>2.170</td><td rowspan=1 colspan=1>243</td><td rowspan=1 colspan=1>2.405</td><td rowspan=1 colspan=1>283</td><td rowspan=1 colspan=1>2.614</td><td rowspan=1 colspan=1>323</td><td rowspan=1 colspan=2>2.814</td><td rowspan=1 colspan=2>363</td><td rowspan=1 colspan=1>2.969</td></tr><tr><td rowspan=1 colspan=2>4</td><td rowspan=1 colspan=2>179</td><td rowspan=1 colspan=2>44</td><td rowspan=1 colspan=2>587</td><td rowspan=1 colspan=2>84</td><td rowspan=1 colspan=3>986</td><td rowspan=1 colspan=2>124</td><td rowspan=1 colspan=3>1.380</td><td rowspan=1 colspan=1>164</td><td rowspan=1 colspan=1>1.779</td><td rowspan=1 colspan=1>204</td><td rowspan=1 colspan=1>2.179</td><td rowspan=1 colspan=1>244</td><td rowspan=1 colspan=1>2.408</td><td rowspan=1 colspan=1>284</td><td rowspan=1 colspan=1>2.617</td><td rowspan=1 colspan=1>324</td><td rowspan=1 colspan=2>2.817</td><td rowspan=1 colspan=2>364</td><td rowspan=1 colspan=1>2.978</td></tr><tr><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>191</td><td rowspan=1 colspan=2>45</td><td rowspan=1 colspan=2>599</td><td rowspan=1 colspan=2>85</td><td rowspan=1 colspan=3>995</td><td rowspan=1 colspan=2>125</td><td rowspan=1 colspan=3>1.389</td><td rowspan=1 colspan=1>165</td><td rowspan=1 colspan=1>1.791</td><td rowspan=1 colspan=1>205</td><td rowspan=1 colspan=1>2.188</td><td rowspan=1 colspan=1>245</td><td rowspan=1 colspan=1>2.417</td><td rowspan=1 colspan=1>285</td><td rowspan=1 colspan=1>2.626</td><td rowspan=1 colspan=1>325</td><td rowspan=1 colspan=2>2.820</td><td rowspan=1 colspan=2>365</td><td rowspan=1 colspan=1>2.978</td></tr><tr><td rowspan=1 colspan=2>6</td><td rowspan=1 colspan=2>200</td><td rowspan=1 colspan=2>46</td><td rowspan=1 colspan=2>608</td><td rowspan=1 colspan=2>86</td><td rowspan=1 colspan=3>1.005</td><td rowspan=1 colspan=2>126</td><td rowspan=1 colspan=3>1.401</td><td rowspan=1 colspan=1>166</td><td rowspan=1 colspan=1>1.800</td><td rowspan=1 colspan=1>206</td><td rowspan=1 colspan=1>8.197</td><td rowspan=1 colspan=1>246</td><td rowspan=1 colspan=1>2.420</td><td rowspan=1 colspan=1>286</td><td rowspan=1 colspan=1>2.629</td><td rowspan=1 colspan=1>326</td><td rowspan=1 colspan=2>2.822</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>7</td><td rowspan=1 colspan=2>211</td><td rowspan=1 colspan=2>47</td><td rowspan=1 colspan=2>620</td><td rowspan=1 colspan=2>87</td><td rowspan=1 colspan=3>1.014</td><td rowspan=1 colspan=2>127</td><td rowspan=1 colspan=3>1.410</td><td rowspan=1 colspan=1>167</td><td rowspan=1 colspan=1>1.812</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=1>2.206</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=1>2.429</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>2.688</td><td rowspan=1 colspan=1>327</td><td rowspan=1 colspan=2>2.826</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>8</td><td rowspan=1 colspan=2>220</td><td rowspan=1 colspan=2>48</td><td rowspan=1 colspan=2>629</td><td rowspan=1 colspan=2>88</td><td rowspan=1 colspan=3>1.022</td><td rowspan=1 colspan=2>128</td><td rowspan=1 colspan=3>1.422</td><td rowspan=1 colspan=1>168</td><td rowspan=1 colspan=1>1.821</td><td rowspan=1 colspan=1>208</td><td rowspan=1 colspan=1>2.215</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=1>2.483</td><td rowspan=1 colspan=1>288</td><td rowspan=1 colspan=1>2.641</td><td rowspan=1 colspan=1>328</td><td rowspan=1 colspan=2>2.829</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>9</td><td rowspan=1 colspan=2>232</td><td rowspan=1 colspan=2>49</td><td rowspan=1 colspan=2>641</td><td rowspan=1 colspan=2>89</td><td rowspan=1 colspan=3>1.035</td><td rowspan=1 colspan=2>129</td><td rowspan=1 colspan=3>1.431</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=1>1.833</td><td rowspan=1 colspan=1>209</td><td rowspan=1 colspan=1>2.27</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=1>2.441</td><td rowspan=1 colspan=1>289</td><td rowspan=1 colspan=1>2.644</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=2>2.829</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>10</td><td rowspan=1 colspan=2>241</td><td rowspan=1 colspan=2>50</td><td rowspan=1 colspan=2>650</td><td rowspan=1 colspan=2>90</td><td rowspan=1 colspan=3>1.042</td><td rowspan=1 colspan=2>130</td><td rowspan=1 colspan=3>1.443</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>1.842</td><td rowspan=1 colspan=1>210</td><td rowspan=1 colspan=1>2.234</td><td rowspan=1 colspan=1>250</td><td rowspan=1 colspan=1>2.444</td><td rowspan=1 colspan=1>290</td><td rowspan=1 colspan=1>2.647</td><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=2>2.829</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>1</td><td rowspan=1 colspan=2>250</td><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>662</td><td rowspan=1 colspan=2>91</td><td rowspan=1 colspan=3>1.052</td><td rowspan=1 colspan=2>131</td><td rowspan=1 colspan=3>1.452</td><td rowspan=1 colspan=1>171</td><td rowspan=1 colspan=1>1.854</td><td rowspan=1 colspan=1>211</td><td rowspan=1 colspan=1>2.244</td><td rowspan=1 colspan=1>251</td><td rowspan=1 colspan=1>8.453</td><td rowspan=1 colspan=1>291</td><td rowspan=1 colspan=1>2.656</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=2>2.843</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>12</td><td rowspan=1 colspan=2>262</td><td rowspan=1 colspan=2>5</td><td rowspan=1 colspan=2>671</td><td rowspan=1 colspan=2>92</td><td rowspan=1 colspan=3>1.061</td><td rowspan=1 colspan=2>192</td><td rowspan=1 colspan=3>1.464</td><td rowspan=1 colspan=1>172</td><td rowspan=1 colspan=1>1.863</td><td rowspan=1 colspan=1>212</td><td rowspan=1 colspan=1>2.248</td><td rowspan=1 colspan=1>252</td><td rowspan=1 colspan=1>2.456</td><td rowspan=1 colspan=1>292</td><td rowspan=1 colspan=1>2.659</td><td rowspan=1 colspan=1>332</td><td rowspan=1 colspan=2>2.846</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>13</td><td rowspan=1 colspan=2>271</td><td rowspan=1 colspan=2>53</td><td rowspan=1 colspan=2>680</td><td rowspan=1 colspan=2>93</td><td rowspan=1 colspan=3>1.070</td><td rowspan=1 colspan=2>138</td><td rowspan=1 colspan=3>1.472</td><td rowspan=1 colspan=1>173</td><td rowspan=1 colspan=1>1.872</td><td rowspan=1 colspan=1>213</td><td rowspan=1 colspan=1>2.256</td><td rowspan=1 colspan=1>253</td><td rowspan=1 colspan=1>2.465</td><td rowspan=1 colspan=1>293</td><td rowspan=1 colspan=1>2.661</td><td rowspan=1 colspan=1>883</td><td rowspan=1 colspan=2>2.850</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>14</td><td rowspan=1 colspan=2>283</td><td rowspan=1 colspan=2>54</td><td rowspan=1 colspan=2>689</td><td rowspan=1 colspan=2>94</td><td rowspan=1 colspan=3>1.082</td><td rowspan=1 colspan=2>134</td><td rowspan=1 colspan=3>1.481</td><td rowspan=1 colspan=1>174</td><td rowspan=1 colspan=1>1.881</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>2.260</td><td rowspan=1 colspan=1>254</td><td rowspan=1 colspan=1>2.468</td><td rowspan=1 colspan=1>294</td><td rowspan=1 colspan=1>2.665</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=2>2.858</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>15</td><td rowspan=1 colspan=2>292</td><td></td><td rowspan=1 colspan=2>55</td><td rowspan=1 colspan=2>697</td><td rowspan=1 colspan=2>95</td><td rowspan=1 colspan=3>1.091</td><td rowspan=1 colspan=2>135</td><td rowspan=1 colspan=3>1.493</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=1>1,890</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=1>2.268</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=1>2.477</td><td rowspan=1 colspan=1>295</td><td rowspan=1 colspan=1>2.668</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=2>2.855</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>16</td><td rowspan=1 colspan=2>304</td><td></td><td rowspan=1 colspan=2>56</td><td rowspan=1 colspan=2>706</td><td rowspan=1 colspan=2>96</td><td rowspan=1 colspan=3>1.103</td><td rowspan=1 colspan=2>136</td><td rowspan=1 colspan=3>1.502</td><td rowspan=1 colspan=1>176</td><td rowspan=1 colspan=1>1.898</td><td rowspan=1 colspan=1>216</td><td rowspan=1 colspan=1>2.272</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=1>2.480</td><td rowspan=1 colspan=1>296</td><td rowspan=1 colspan=1>2.671</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=2>2.858</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>17</td><td rowspan=1 colspan=2>313</td><td rowspan=1 colspan=2>57</td><td rowspan=1 colspan=2>715</td><td rowspan=1 colspan=2>97</td><td rowspan=1 colspan=2>1.112</td><td rowspan=1 colspan=2>137</td><td rowspan=1 colspan=3>1.514</td><td rowspan=1 colspan=1>177</td><td rowspan=1 colspan=1>1.908</td><td rowspan=1 colspan=1>217</td><td rowspan=1 colspan=1>2,280</td><td rowspan=1 colspan=1>257</td><td rowspan=1 colspan=1>2.489</td><td rowspan=1 colspan=1>297</td><td rowspan=1 colspan=1>2.673</td><td rowspan=1 colspan=1>337</td><td rowspan=1 colspan=2>2.862</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>18</td><td rowspan=1 colspan=2>325</td><td rowspan=1 colspan=2>58</td><td rowspan=1 colspan=2>725</td><td rowspan=1 colspan=2>98</td><td rowspan=1 colspan=2>1.124</td><td rowspan=1 colspan=2>138</td><td rowspan=1 colspan=3>1.523</td><td rowspan=1 colspan=1>178</td><td rowspan=1 colspan=1>1.917</td><td rowspan=1 colspan=1>218</td><td rowspan=1 colspan=1>2.283</td><td rowspan=1 colspan=1>258</td><td rowspan=1 colspan=1>2.492</td><td rowspan=1 colspan=1>298</td><td rowspan=1 colspan=1>2.677</td><td rowspan=1 colspan=1>338</td><td rowspan=1 colspan=2>2.864</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>19</td><td rowspan=1 colspan=2>334</td><td rowspan=1 colspan=2>59</td><td rowspan=1 colspan=2>733</td><td rowspan=1 colspan=2>99</td><td rowspan=1 colspan=2>1.183</td><td rowspan=1 colspan=2>139</td><td rowspan=1 colspan=3>1.535</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=1>1.926</td><td rowspan=1 colspan=1>219</td><td rowspan=1 colspan=1>2.292</td><td rowspan=1 colspan=1>259</td><td rowspan=1 colspan=1>2.495</td><td rowspan=1 colspan=1>299</td><td rowspan=1 colspan=1>2.680</td><td rowspan=1 colspan=1>339</td><td rowspan=1 colspan=2>2,867</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>20</td><td rowspan=1 colspan=2>345</td><td rowspan=1 colspan=2>60</td><td rowspan=1 colspan=2>745</td><td rowspan=1 colspan=2>100</td><td rowspan=1 colspan=2>1.145</td><td rowspan=1 colspan=2>140</td><td rowspan=1 colspan=3>1.544</td><td rowspan=1 colspan=1>180</td><td rowspan=1 colspan=1>1.936</td><td rowspan=1 colspan=1>220</td><td rowspan=1 colspan=1>2.295</td><td rowspan=1 colspan=1>260</td><td rowspan=1 colspan=1>2.498</td><td rowspan=1 colspan=1>300</td><td rowspan=1 colspan=1>2.680</td><td rowspan=1 colspan=1>340</td><td rowspan=1 colspan=2>2.870</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>21</td><td rowspan=1 colspan=2>354</td><td rowspan=1 colspan=2>61</td><td rowspan=1 colspan=2>754</td><td rowspan=1 colspan=2>101</td><td rowspan=1 colspan=2>1.154</td><td rowspan=1 colspan=2>141</td><td rowspan=1 colspan=3>1.556</td><td rowspan=1 colspan=1>181</td><td rowspan=1 colspan=1>1.946</td><td rowspan=1 colspan=1>221</td><td rowspan=1 colspan=1>2.304</td><td rowspan=1 colspan=1>261</td><td rowspan=1 colspan=1>2.507</td><td rowspan=1 colspan=1>301</td><td rowspan=1 colspan=1>2.692</td><td rowspan=1 colspan=1>341</td><td rowspan=1 colspan=2>2.874</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>22</td><td rowspan=1 colspan=2>363</td><td rowspan=1 colspan=2>62</td><td rowspan=1 colspan=2>763</td><td rowspan=1 colspan=2>102</td><td rowspan=1 colspan=2>1.166</td><td rowspan=1 colspan=2>142</td><td rowspan=1 colspan=3>1.565</td><td rowspan=1 colspan=1>182</td><td rowspan=1 colspan=1>1.955</td><td rowspan=1 colspan=1>222</td><td rowspan=1 colspan=1>2.307</td><td rowspan=1 colspan=1>262</td><td rowspan=1 colspan=1>2.510</td><td rowspan=1 colspan=1>302</td><td rowspan=1 colspan=1>2.694</td><td rowspan=1 colspan=1>342</td><td rowspan=1 colspan=2>2.876</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>23</td><td rowspan=1 colspan=2>375</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=2>772</td><td rowspan=1 colspan=2>103</td><td rowspan=1 colspan=2>1.175</td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=3>1.574</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>1.964</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>2.316</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>2.512</td><td rowspan=1 colspan=1>803</td><td rowspan=1 colspan=1>2.703</td><td rowspan=1 colspan=1>343</td><td rowspan=1 colspan=2>2.879</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>24</td><td rowspan=1 colspan=2>384</td><td rowspan=1 colspan=2>64</td><td rowspan=1 colspan=2>784</td><td rowspan=1 colspan=2>104</td><td rowspan=1 colspan=2>1.183</td><td rowspan=1 colspan=2>144</td><td rowspan=1 colspan=3>1.583</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=1>1.976</td><td rowspan=1 colspan=1>224</td><td rowspan=1 colspan=1>2.319</td><td rowspan=1 colspan=1>264</td><td rowspan=1 colspan=1>2.516</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=1>2.706</td><td rowspan=1 colspan=1>344</td><td rowspan=1 colspan=2>2.882</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>25</td><td rowspan=1 colspan=2>396</td><td rowspan=1 colspan=2>65</td><td rowspan=1 colspan=2>793</td><td rowspan=1 colspan=2>105</td><td rowspan=1 colspan=2>1.195</td><td rowspan=1 colspan=2>145</td><td rowspan=1 colspan=3>1.592</td><td rowspan=1 colspan=1>185</td><td rowspan=1 colspan=1>1.985</td><td rowspan=1 colspan=1>225</td><td rowspan=1 colspan=1>2.828</td><td rowspan=1 colspan=1>265</td><td rowspan=1 colspan=1>2.519</td><td rowspan=1 colspan=1>305</td><td rowspan=1 colspan=1>2.715</td><td rowspan=1 colspan=1>345</td><td rowspan=1 colspan=2>2.885</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>2</td><td rowspan=1 colspan=2>405</td><td rowspan=1 colspan=2>66</td><td rowspan=1 colspan=2>805</td><td rowspan=1 colspan=2>106</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>146</td><td rowspan=1 colspan=3>1.601</td><td rowspan=1 colspan=1>186</td><td rowspan=1 colspan=1>1.997</td><td rowspan=1 colspan=1>226</td><td rowspan=1 colspan=1>2.331</td><td rowspan=1 colspan=1>266</td><td rowspan=1 colspan=1>2.521</td><td rowspan=1 colspan=1>306</td><td rowspan=1 colspan=1>2.718</td><td rowspan=1 colspan=1>346</td><td rowspan=1 colspan=2>2.895</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>27</td><td rowspan=1 colspan=2>417</td><td rowspan=1 colspan=2>67</td><td rowspan=1 colspan=2>813</td><td rowspan=1 colspan=2>107</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.216</td><td rowspan=1 colspan=2>147</td><td rowspan=1 colspan=3>1.609</td><td rowspan=1 colspan=1>187</td><td rowspan=1 colspan=1>2.006</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=1>2.340</td><td rowspan=1 colspan=1>267</td><td rowspan=1 colspan=1>2.525</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=1>2.727</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=2>2.897</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>28</td><td rowspan=1 colspan=2>426</td><td rowspan=1 colspan=2>68</td><td rowspan=1 colspan=2>825</td><td rowspan=1 colspan=2>108</td><td rowspan=1 colspan=2>1.225</td><td rowspan=1 colspan=2>148</td><td rowspan=1 colspan=3>1.618</td><td rowspan=1 colspan=1>188</td><td rowspan=1 colspan=1>2.018</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=1>2.343</td><td rowspan=1 colspan=1>268</td><td rowspan=1 colspan=1>2.528</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=1>2.730</td><td rowspan=1 colspan=1>348</td><td rowspan=1 colspan=2>2.900</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=2>29</td><td rowspan=1 colspan=2>438</td><td rowspan=1 colspan=2>69</td><td rowspan=1 colspan=2>834</td><td rowspan=1 colspan=2>109</td><td rowspan=1 colspan=2>1.237</td><td rowspan=1 colspan=2>149</td><td rowspan=1 colspan=3>1.630</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=1>2.027</td><td rowspan=1 colspan=1>229</td><td rowspan=1 colspan=1>2.346</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=1>2.531</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>2.739</td><td rowspan=1 colspan=1>349</td><td rowspan=1 colspan=2>2.909</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>30</td><td rowspan=1 colspan=2>447</td><td rowspan=1 colspan=2>70</td><td rowspan=1 colspan=2>846</td><td rowspan=1 colspan=2>110</td><td rowspan=1 colspan=2>1.246</td><td rowspan=1 colspan=2>150</td><td rowspan=1 colspan=3>1.638</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=1>2.038</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>2.349</td><td rowspan=1 colspan=1>270</td><td rowspan=1 colspan=1>2.531</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>2.742</td><td rowspan=1 colspan=1>350</td><td rowspan=1 colspan=2>2.918</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=10 colspan=1></td><td rowspan=1 colspan=2>31</td><td rowspan=1 colspan=2>456</td><td rowspan=1 colspan=2>7</td><td rowspan=1 colspan=2>855</td><td rowspan=1 colspan=2>111</td><td rowspan=1 colspan=2>1.258</td><td rowspan=1 colspan=2>151</td><td rowspan=1 colspan=3>1.649</td><td rowspan=1 colspan=1>191</td><td rowspan=1 colspan=1>2.048</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=1>2.358</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=1>2.542</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=1>2.751</td><td rowspan=1 colspan=1>351</td><td rowspan=1 colspan=2>2.921</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>3</td><td rowspan=1 colspan=2>465</td><td rowspan=1 colspan=2>72</td><td rowspan=1 colspan=2>867</td><td rowspan=1 colspan=2>112</td><td rowspan=1 colspan=2>1.267</td><td rowspan=1 colspan=2>152</td><td rowspan=1 colspan=3>1.657</td><td rowspan=1 colspan=1>192</td><td rowspan=1 colspan=1>2.059</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=1>2.360</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=1>2.545</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>2.754</td><td rowspan=1 colspan=1>352</td><td rowspan=1 colspan=2>2.924</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>—</td></tr><tr><td rowspan=1 colspan=2>33</td><td rowspan=1 colspan=2>474</td><td rowspan=1 colspan=2>73</td><td rowspan=1 colspan=2>876</td><td rowspan=1 colspan=2>113</td><td rowspan=1 colspan=2>1.275</td><td rowspan=1 colspan=2>153</td><td rowspan=1 colspan=3>1.666</td><td rowspan=1 colspan=1>193</td><td rowspan=1 colspan=1>2.069</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=1>2.364</td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=1>2.55</td><td rowspan=1 colspan=1>313</td><td rowspan=1 colspan=1>2.763</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=2>2.927</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=2>34</td><td rowspan=1 colspan=2>486</td><td rowspan=1 colspan=2>74</td><td rowspan=1 colspan=2>886</td><td rowspan=1 colspan=2>114</td><td rowspan=1 colspan=2>1.285</td><td rowspan=1 colspan=2>154</td><td rowspan=1 colspan=3>1.678</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=1>2.078</td><td rowspan=1 colspan=1>234</td><td rowspan=1 colspan=1>2.367</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=1>2.557</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=1>2.766</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=2>2.930</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>35</td><td rowspan=1 colspan=2>495</td><td rowspan=1 colspan=2>75</td><td rowspan=1 colspan=2>897</td><td rowspan=1 colspan=2>115</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>155</td><td rowspan=1 colspan=3>1,687</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>2,090</td><td rowspan=1 colspan=1>235</td><td rowspan=1 colspan=1>2.370</td><td rowspan=1 colspan=1>275</td><td rowspan=1 colspan=1>2.566</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>2.775</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=2>2.933</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>36</td><td rowspan=1 colspan=2>507</td><td rowspan=1 colspan=2>76</td><td rowspan=1 colspan=2>906</td><td rowspan=1 colspan=2>116</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>156</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=1>2.099</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=1>2.372</td><td rowspan=1 colspan=1>276</td><td rowspan=1 colspan=1>2.569</td><td rowspan=1 colspan=1>816</td><td rowspan=1 colspan=1>2.778</td><td rowspan=1 colspan=1>356</td><td rowspan=1 colspan=2>2.936</td><td rowspan=1 colspan=2>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>37</td><td rowspan=1 colspan=2>516</td><td rowspan=1 colspan=2>77</td><td rowspan=1 colspan=2>918</td><td rowspan=1 colspan=2>117</td><td rowspan=1 colspan=2>1.318</td><td rowspan=1 colspan=2>157</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>1.708</td><td rowspan=1 colspan=1>197</td><td rowspan=1 colspan=1>2.111</td><td rowspan=1 colspan=1>237</td><td rowspan=1 colspan=1>2.376</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=1>2.578</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=1>2.790</td><td rowspan=1 colspan=1>357</td><td rowspan=1 colspan=2>2.939</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>38</td><td rowspan=1 colspan=2>528</td><td rowspan=1 colspan=2>78</td><td rowspan=1 colspan=2>927</td><td rowspan=1 colspan=2>118</td><td rowspan=1 colspan=2>1.320</td><td rowspan=1 colspan=2>158</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2>1.720</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=1>2.119</td><td rowspan=1 colspan=1>238</td><td rowspan=1 colspan=1>2,379</td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=1>2.581</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=1>2.798</td><td rowspan=1 colspan=1>358</td><td rowspan=1 colspan=2>2.942</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>20</td><td rowspan=1 colspan=2>[able_of]</td><td rowspan=1 colspan=2>70</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>119</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>159</td><td rowspan=1 colspan=3>1.729</td><td rowspan=1 colspan=1>199</td><td rowspan=1 colspan=1>2.131</td><td rowspan=1 colspan=1>239</td><td rowspan=1 colspan=1>2,381</td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=1>2.590</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=1>2.796</td><td rowspan=1 colspan=1>359</td><td rowspan=1 colspan=2>2.945</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>40</td><td rowspan=1 colspan=2>548</td><td rowspan=1 colspan=2>.80</td><td rowspan=1 colspan=2>948</td><td rowspan=1 colspan=2>120</td><td rowspan=1 colspan=2>1.340</td><td rowspan=1 colspan=2>160</td><td rowspan=1 colspan=3>1.741</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=1>2.140</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>2.382</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=1>2.593</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>2.799</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=2>2.948</td><td rowspan=1 colspan=2>—</td><td rowspan=1 colspan=1></td></tr></table>
+
+保障内容： 【申根方案】未满15足歲
+
+保险金额：200萬元
+
+<table><tr><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=1>保费</td><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=1>保费</td><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=1>保费</td><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=1>保费</td><td rowspan=2 colspan=1>关数</td><td rowspan=2 colspan=2>保费</td><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=2>保费</td><td rowspan=2 colspan=1>天数</td><td rowspan=2 colspan=2>保货</td><td rowspan=2 colspan=1>天致</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>天致</td><td rowspan=2 colspan=1>保费</td><td rowspan=2 colspan=1>天数]</td><td rowspan=2 colspan=1>保货</td></tr><tr></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>41</td><td rowspan=1 colspan=1>440</td><td rowspan=1 colspan=1>81</td><td rowspan=1 colspan=1>757</td><td rowspan=1 colspan=1>121</td><td rowspan=1 colspan=1>1.065</td><td rowspan=1 colspan=1>161</td><td rowspan=1 colspan=2>1.380</td><td rowspan=1 colspan=1>201</td><td rowspan=1 colspan=2>1.697</td><td rowspan=1 colspan=1>241</td><td rowspan=1 colspan=2>1.887</td><td rowspan=1 colspan=1>281</td><td rowspan=1 colspan=1>2.052</td><td rowspan=1 colspan=1>321</td><td rowspan=1 colspan=1>2.214</td><td rowspan=1 colspan=1>361</td><td rowspan=1 colspan=1>2.382</td></tr><tr><td></td><td rowspan=2 colspan=1>125</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>449</td><td rowspan=2 colspan=1>82</td><td rowspan=2 colspan=1>764</td><td rowspan=2 colspan=1>122</td><td rowspan=2 colspan=1>1.072</td><td rowspan=2 colspan=1>\162</td><td rowspan=2 colspan=2>1.390</td><td rowspan=2 colspan=1>202</td><td rowspan=2 colspan=2>1.705</td><td rowspan=2 colspan=1>242</td><td rowspan=2 colspan=2>1.890</td><td rowspan=2 colspan=1>282</td><td rowspan=2 colspan=1>2.055</td><td rowspan=2 colspan=1>322</td><td rowspan=2 colspan=1>2.217</td><td rowspan=2 colspan=1>362</td><td rowspan=2 colspan=1>2.339</td></tr><tr><td rowspan=1 colspan=1>2</td></tr><tr><td></td><td rowspan=2 colspan=1>134</td><td rowspan=2 colspan=1>43</td><td rowspan=2 colspan=1>456</td><td rowspan=2 colspan=1>83</td><td rowspan=2 colspan=1>771</td><td rowspan=2 colspan=1>123</td><td rowspan=2 colspan=1>1.079</td><td rowspan=2 colspan=1>163</td><td rowspan=2 colspan=2>1.397</td><td rowspan=2 colspan=1>203</td><td rowspan=2 colspan=2>1.712</td><td rowspan=2 colspan=1>243</td><td rowspan=2 colspan=2>1.897</td><td rowspan=2 colspan=1>283</td><td rowspan=2 colspan=1>2.062</td><td rowspan=2 colspan=1>323</td><td rowspan=2 colspan=1>2.219</td><td rowspan=2 colspan=1>368</td><td rowspan=2 colspan=1>2.342</td></tr><tr><td rowspan=1 colspan=1>3</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>44</td><td rowspan=2 colspan=1>463</td><td rowspan=2 colspan=1>84</td><td rowspan=2 colspan=1>778</td><td rowspan=2 colspan=1>124</td><td rowspan=2 colspan=1>1.089</td><td rowspan=2 colspan=1>164</td><td rowspan=2 colspan=2>1.404</td><td rowspan=2 colspan=1>204</td><td rowspan=2 colspan=2>1.719</td><td rowspan=2 colspan=1>244</td><td rowspan=2 colspan=2>1.899</td><td rowspan=2 colspan=1>284</td><td rowspan=2 colspan=1>2.064</td><td rowspan=2 colspan=1>324</td><td rowspan=2 colspan=1>2.221</td><td rowspan=2 colspan=1>364</td><td rowspan=2 colspan=1>2.349</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>141</td></tr><tr><td></td><td rowspan=2 colspan=1>151</td><td rowspan=2 colspan=1>45</td><td rowspan=2 colspan=1>473</td><td rowspan=2 colspan=1>85</td><td rowspan=2 colspan=1>785</td><td rowspan=2 colspan=1>f</td><td rowspan=2 colspan=1>1.096</td><td rowspan=2 colspan=1>165</td><td rowspan=2 colspan=2>1.413</td><td rowspan=2 colspan=1>205</td><td rowspan=2 colspan=2>1.726</td><td rowspan=2 colspan=1>245</td><td rowspan=2 colspan=2>1.906</td><td rowspan=2 colspan=1>285</td><td rowspan=2 colspan=1>2.071</td><td rowspan=2 colspan=1>325</td><td rowspan=2 colspan=1>2.224</td><td rowspan=2 colspan=1>365</td><td rowspan=2 colspan=1>2.35</td></tr><tr><td rowspan=1 colspan=1>5</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>46</td><td rowspan=2 colspan=1>480</td><td rowspan=2 colspan=1>86</td><td rowspan=2 colspan=1>792</td><td rowspan=2 colspan=1>126</td><td rowspan=2 colspan=1>1.105</td><td rowspan=2 colspan=1>166</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>1,420</td><td rowspan=2 colspan=1>206</td><td rowspan=2 colspan=2>1.733</td><td rowspan=2 colspan=1>246</td><td rowspan=2 colspan=2>1.909</td><td rowspan=2 colspan=1>286</td><td rowspan=2 colspan=1>2.073</td><td rowspan=2 colspan=1>326</td><td rowspan=2 colspan=1>2.226</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>158</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>167</td><td rowspan=1 colspan=1>47</td><td rowspan=1 colspan=1>489</td><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1>799</td><td rowspan=1 colspan=1>127</td><td rowspan=1 colspan=1>1.112</td><td rowspan=1 colspan=1>167</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1429</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=2>1.740</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=2>1,916</td><td rowspan=1 colspan=1>287</td><td rowspan=1 colspan=1>2.080</td><td rowspan=1 colspan=1>327</td><td rowspan=1 colspan=1>2.228</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>174</td><td rowspan=1 colspan=1>48</td><td rowspan=1 colspan=1>496</td><td rowspan=1 colspan=1>88</td><td rowspan=1 colspan=1>806</td><td rowspan=1 colspan=1>128</td><td rowspan=1 colspan=1>1.121</td><td rowspan=1 colspan=1>168</td><td rowspan=1 colspan=2>1.436</td><td rowspan=1 colspan=1>208</td><td rowspan=1 colspan=2>1.747</td><td rowspan=1 colspan=1>248</td><td rowspan=1 colspan=2>1.918</td><td rowspan=1 colspan=1>288</td><td rowspan=1 colspan=1>2.083</td><td rowspan=1 colspan=1>328</td><td rowspan=1 colspan=1>2.281</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>505</td><td rowspan=1 colspan=1>89</td><td rowspan=1 colspan=1>816</td><td rowspan=1 colspan=1>129</td><td rowspan=1 colspan=1>1.128</td><td rowspan=1 colspan=1>169</td><td rowspan=1 colspan=2>1.446</td><td rowspan=1 colspan=1>209</td><td rowspan=1 colspan=2>1.756</td><td rowspan=1 colspan=1>249</td><td rowspan=1 colspan=2>1.925</td><td rowspan=1 colspan=1>289</td><td rowspan=1 colspan=1>2.085</td><td rowspan=1 colspan=1>329</td><td rowspan=1 colspan=1>2.233</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>191</td><td rowspan=2 colspan=1>50</td><td rowspan=2 colspan=1>512</td><td rowspan=2 colspan=1>90</td><td rowspan=2 colspan=1>823</td><td rowspan=2 colspan=1>130</td><td rowspan=2 colspan=1>1.138</td><td rowspan=2 colspan=1>170</td><td rowspan=2 colspan=2>1.458</td><td rowspan=2 colspan=1>210</td><td rowspan=2 colspan=2>1.764</td><td rowspan=2 colspan=1>250</td><td rowspan=2 colspan=2>1.928</td><td rowspan=2 colspan=1>290</td><td rowspan=2 colspan=1>2.087</td><td rowspan=2 colspan=1>330</td><td rowspan=2 colspan=1>2.234</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>10</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>51</td><td rowspan=2 colspan=1>522</td><td rowspan=2 colspan=1>\</td><td rowspan=2 colspan=1>830</td><td rowspan=2 colspan=1>181</td><td rowspan=2 colspan=1>1.145</td><td rowspan=2 colspan=1>171</td><td rowspan=2 colspan=2>1.462</td><td rowspan=2 colspan=1>211</td><td rowspan=2 colspan=2>1.770</td><td rowspan=2 colspan=1>251</td><td rowspan=2 colspan=2>1.935</td><td rowspan=2 colspan=1>291</td><td rowspan=2 colspan=1>2.094</td><td rowspan=2 colspan=1>331</td><td rowspan=2 colspan=1>2.243</td><td rowspan=2 colspan=1>A</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>198</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=2 colspan=1>92</td><td rowspan=2 colspan=1>887</td><td rowspan=2 colspan=1>132</td><td rowspan=2 colspan=1>1.154</td><td rowspan=2 colspan=1>172</td><td rowspan=2 colspan=2>1.49</td><td rowspan=2 colspan=1>212</td><td rowspan=2 colspan=2>1.772</td><td rowspan=2 colspan=1>252</td><td rowspan=2 colspan=2>1.987</td><td rowspan=2 colspan=1>292</td><td rowspan=2 colspan=1>2.097</td><td rowspan=2 colspan=1>332</td><td rowspan=2 colspan=1>2.245</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>207</td><td rowspan=1 colspan=1>52</td><td rowspan=1 colspan=1>529</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>56</td><td rowspan=2 colspan=1>93</td><td rowspan=2 colspan=1>844</td><td rowspan=2 colspan=1>133</td><td rowspan=2 colspan=1>1.161</td><td rowspan=2 colspan=1>173</td><td rowspan=2 colspan=2>1.476</td><td rowspan=2 colspan=1>213</td><td rowspan=2 colspan=2>1.779</td><td rowspan=2 colspan=1>253</td><td rowspan=2 colspan=2>1.944</td><td rowspan=2 colspan=1>293</td><td rowspan=2 colspan=1>2.099</td><td rowspan=2 colspan=1>333</td><td rowspan=2 colspan=1>2.247</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>53</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>543</td><td rowspan=2 colspan=1>94</td><td rowspan=2 colspan=1>853</td><td rowspan=2 colspan=1>14</td><td rowspan=2 colspan=1>1.168</td><td rowspan=2 colspan=1>174</td><td rowspan=2 colspan=2>1.483</td><td rowspan=2 colspan=1>214</td><td rowspan=2 colspan=2>1.782</td><td rowspan=2 colspan=1>254</td><td rowspan=2 colspan=2>1.946</td><td rowspan=2 colspan=1>294</td><td rowspan=2 colspan=1>2.101</td><td rowspan=2 colspan=1>334</td><td rowspan=2 colspan=1>2.250</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>144</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=1>54</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>55</td><td rowspan=1 colspan=1>550</td><td rowspan=1 colspan=1>95</td><td rowspan=1 colspan=1>860</td><td rowspan=1 colspan=1>135</td><td rowspan=1 colspan=1>1.177</td><td rowspan=1 colspan=1>175</td><td rowspan=1 colspan=2>1.490</td><td rowspan=1 colspan=1>215</td><td rowspan=1 colspan=2>1.789</td><td rowspan=1 colspan=1>255</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1.953</td><td rowspan=1 colspan=1>295</td><td rowspan=1 colspan=1>2.104</td><td rowspan=1 colspan=1>335</td><td rowspan=1 colspan=1>2.252</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>56</td><td rowspan=2 colspan=1>557</td><td rowspan=2 colspan=1>96</td><td rowspan=2 colspan=1>869</td><td rowspan=2 colspan=1>136</td><td rowspan=2 colspan=1>1.184</td><td rowspan=2 colspan=1>176</td><td rowspan=2 colspan=2>1.497</td><td rowspan=2 colspan=1>216</td><td rowspan=2 colspan=2>1.791</td><td rowspan=2 colspan=1>256</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>1,956</td><td rowspan=2 colspan=1>296</td><td rowspan=2 colspan=1>2.106</td><td rowspan=2 colspan=1>336</td><td rowspan=2 colspan=1>2.254</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>240</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>564</td><td rowspan=2 colspan=1>97</td><td rowspan=2 colspan=1>877</td><td rowspan=2 colspan=1>187</td><td rowspan=2 colspan=1>1.194</td><td rowspan=2 colspan=1>177</td><td rowspan=2 colspan=2>1.504</td><td rowspan=2 colspan=1>217</td><td rowspan=2 colspan=2>1.798</td><td rowspan=2 colspan=1>257</td><td rowspan=2 colspan=2>1.968</td><td rowspan=2 colspan=1>297</td><td rowspan=2 colspan=1>2.108</td><td rowspan=2 colspan=1>337</td><td rowspan=2 colspan=1>2.257</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>247</td><td rowspan=1 colspan=1>57</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>571</td><td rowspan=2 colspan=1>98</td><td rowspan=2 colspan=1>886</td><td rowspan=2 colspan=1>138</td><td rowspan=2 colspan=1>1,201</td><td rowspan=2 colspan=1>178</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>511</td><td rowspan=2 colspan=1>218</td><td rowspan=2 colspan=2>1.800</td><td rowspan=2 colspan=1>258</td><td rowspan=2 colspan=2>1.965</td><td rowspan=2 colspan=1>298</td><td rowspan=2 colspan=1>2.111</td><td rowspan=2 colspan=1>338</td><td rowspan=2 colspan=1>2.259</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>256</td><td rowspan=1 colspan=1>58</td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>578</td><td rowspan=2 colspan=1>99</td><td rowspan=2 colspan=1>893</td><td rowspan=2 colspan=1>139</td><td rowspan=2 colspan=1>1.210</td><td rowspan=2 colspan=1>179</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>1.518</td><td rowspan=2 colspan=1>219</td><td rowspan=2 colspan=2>1.807</td><td rowspan=2 colspan=1>259</td><td rowspan=2 colspan=2>1.968</td><td rowspan=2 colspan=1>299</td><td rowspan=2 colspan=1>2.113</td><td rowspan=2 colspan=1>339</td><td rowspan=2 colspan=1>2.261</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=7 colspan=1></td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>59</td></tr><tr><td></td><td rowspan=2 colspan=1>60</td><td rowspan=2 colspan=1>588</td><td rowspan=2 colspan=1>100</td><td rowspan=2 colspan=1>902</td><td rowspan=2 colspan=1>\44</td><td rowspan=2 colspan=1>1.217</td><td rowspan=2 colspan=1>180</td><td rowspan=2 colspan=2>1.529</td><td rowspan=2 colspan=1>220</td><td rowspan=2 colspan=2>1.810</td><td rowspan=2 colspan=1>260</td><td rowspan=2 colspan=2>1.970</td><td rowspan=2 colspan=1>300</td><td rowspan=2 colspan=1>2.117</td><td rowspan=2 colspan=1>340</td><td rowspan=2 colspan=1>2.264</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>273</td></tr><tr><td></td><td rowspan=2 colspan=1>6</td><td rowspan=2 colspan=1>595</td><td rowspan=2 colspan=1>101</td><td rowspan=2 colspan=1>910</td><td rowspan=2 colspan=1>141</td><td rowspan=2 colspan=1>1.227</td><td rowspan=2 colspan=1>181</td><td rowspan=2 colspan=2>1.585</td><td rowspan=2 colspan=1>221</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>1.817</td><td rowspan=2 colspan=1>261</td><td rowspan=2 colspan=2>1.977</td><td rowspan=2 colspan=1>301</td><td rowspan=2 colspan=1>2.122</td><td rowspan=2 colspan=1>341</td><td rowspan=2 colspan=1>2.266</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>280</td></tr><tr><td></td><td rowspan=2 colspan=1>62</td><td rowspan=2 colspan=1>602</td><td rowspan=2 colspan=1>102</td><td rowspan=2 colspan=1>919</td><td rowspan=2 colspan=1>142</td><td rowspan=2 colspan=1>1.234</td><td rowspan=2 colspan=1>182</td><td rowspan=2 colspan=2>1.542</td><td rowspan=2 colspan=1>222</td><td rowspan=2 colspan=1>1.</td><td rowspan=2 colspan=1>819</td><td rowspan=2 colspan=1>262</td><td rowspan=2 colspan=2>1.979</td><td rowspan=2 colspan=1>302</td><td rowspan=2 colspan=1>2.125</td><td rowspan=2 colspan=1>342</td><td rowspan=2 colspan=1>2.268</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>287</td></tr><tr><td rowspan=20 colspan=1></td><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>296</td><td rowspan=1 colspan=1>63</td><td rowspan=1 colspan=1>609</td><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1>926</td><td rowspan=1 colspan=1>143</td><td rowspan=1 colspan=2>1.241</td><td rowspan=1 colspan=1>183</td><td rowspan=1 colspan=2>1.549</td><td rowspan=1 colspan=1>223</td><td rowspan=1 colspan=2>1826</td><td rowspan=1 colspan=1>263</td><td rowspan=1 colspan=1>1.982</td><td rowspan=1 colspan=1>803</td><td rowspan=1 colspan=1>2.132</td><td rowspan=1 colspan=1>343</td><td rowspan=1 colspan=1>2.271</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>303</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>618</td><td rowspan=1 colspan=1>104</td><td rowspan=1 colspan=1>933</td><td rowspan=1 colspan=1>144</td><td rowspan=1 colspan=1>1.248</td><td rowspan=1 colspan=1>184</td><td rowspan=1 colspan=2>1.558</td><td rowspan=1 colspan=1>224</td><td rowspan=1 colspan=2>1.829</td><td rowspan=1 colspan=1>264</td><td rowspan=1 colspan=2>1.984</td><td rowspan=1 colspan=1>304</td><td rowspan=1 colspan=1>2.134</td><td rowspan=1 colspan=1>344</td><td rowspan=1 colspan=1>2.273</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>65</td><td rowspan=2 colspan=1>625</td><td rowspan=2 colspan=1>105</td><td rowspan=2 colspan=1>943</td><td rowspan=2 colspan=1>145</td><td rowspan=2 colspan=1>1.255</td><td rowspan=2 colspan=1>185</td><td rowspan=2 colspan=2>1.565</td><td rowspan=2 colspan=1>225</td><td rowspan=2 colspan=2>1.836</td><td rowspan=2 colspan=1>265</td><td rowspan=2 colspan=2>1.987</td><td rowspan=2 colspan=1>305</td><td rowspan=2 colspan=1>8.141</td><td rowspan=2 colspan=1>345</td><td rowspan=2 colspan=1>2.276</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>25</td><td rowspan=1 colspan=1>313</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>635</td><td rowspan=2 colspan=1>106</td><td rowspan=2 colspan=1>950</td><td rowspan=2 colspan=1>146</td><td rowspan=2 colspan=1>1.262</td><td rowspan=2 colspan=1>186</td><td rowspan=2 colspan=2>1.575</td><td rowspan=2 colspan=1>226</td><td rowspan=2 colspan=2>1.838</td><td rowspan=2 colspan=1>266</td><td rowspan=2 colspan=2>1.989</td><td rowspan=2 colspan=1>306</td><td rowspan=2 colspan=1>2.148</td><td rowspan=2 colspan=1>346</td><td rowspan=2 colspan=1>2.283</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>26</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>66</td></tr><tr><td rowspan=1 colspan=1>27</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>642</td><td rowspan=1 colspan=1>107</td><td rowspan=1 colspan=1>959</td><td rowspan=1 colspan=1>147</td><td rowspan=1 colspan=1>1.269</td><td rowspan=1 colspan=1>187</td><td rowspan=1 colspan=2>1.582</td><td rowspan=1 colspan=1>227</td><td rowspan=1 colspan=2>1.845</td><td rowspan=1 colspan=1>267</td><td rowspan=1 colspan=2>1.991</td><td rowspan=1 colspan=1>307</td><td rowspan=1 colspan=1>2.151</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=1>2.285</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>28</td><td rowspan=1 colspan=1>336</td><td rowspan=1 colspan=1>68</td><td rowspan=1 colspan=1>651</td><td rowspan=1 colspan=1>108</td><td rowspan=1 colspan=1>966</td><td rowspan=1 colspan=1>148</td><td rowspan=1 colspan=1>1.276</td><td rowspan=1 colspan=1>188</td><td rowspan=1 colspan=2>1.591</td><td rowspan=1 colspan=1>228</td><td rowspan=1 colspan=2>1.847</td><td rowspan=1 colspan=1>268</td><td rowspan=1 colspan=2>1.994</td><td rowspan=1 colspan=1>308</td><td rowspan=1 colspan=1>2.158</td><td rowspan=1 colspan=1>348</td><td rowspan=1 colspan=1>2.287</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>846</td><td rowspan=1 colspan=1>69</td><td rowspan=1 colspan=1>658</td><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1>976</td><td rowspan=1 colspan=1>149</td><td rowspan=1 colspan=1>1.286</td><td rowspan=1 colspan=1>189</td><td rowspan=1 colspan=2>1.598</td><td rowspan=1 colspan=1>229</td><td rowspan=1 colspan=2>1.850</td><td rowspan=1 colspan=1>269</td><td rowspan=1 colspan=2>1.996</td><td rowspan=1 colspan=1>309</td><td rowspan=1 colspan=1>2.160</td><td rowspan=1 colspan=1>849</td><td rowspan=1 colspan=1>2.294</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>70</td><td rowspan=1 colspan=1>668</td><td rowspan=1 colspan=1>110</td><td rowspan=1 colspan=1>983</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>1.294</td><td rowspan=1 colspan=1>190</td><td rowspan=1 colspan=2>1.608</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=2>1.852</td><td rowspan=1 colspan=1>270</td><td rowspan=1 colspan=2>1.999</td><td rowspan=1 colspan=1>310</td><td rowspan=1 colspan=1>2.162</td><td rowspan=1 colspan=1>350</td><td rowspan=1 colspan=1>2.297</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>31</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>71</td><td rowspan=1 colspan=1>675</td><td rowspan=1 colspan=1>111</td><td rowspan=1 colspan=1>992</td><td rowspan=1 colspan=1>151</td><td rowspan=1 colspan=1>1.300</td><td rowspan=1 colspan=1>191</td><td rowspan=1 colspan=2>1.615</td><td rowspan=1 colspan=1>231</td><td rowspan=1 colspan=2>1.859</td><td rowspan=1 colspan=1>271</td><td rowspan=1 colspan=2>2.005</td><td rowspan=1 colspan=1>311</td><td rowspan=1 colspan=1>2.169</td><td rowspan=1 colspan=1>351</td><td rowspan=1 colspan=1>2.304</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>32</td><td rowspan=1 colspan=1>367</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>684</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>999</td><td rowspan=1 colspan=1>152</td><td rowspan=1 colspan=1>1.307</td><td rowspan=1 colspan=1>192</td><td rowspan=1 colspan=2>1.624</td><td rowspan=1 colspan=1>232</td><td rowspan=1 colspan=2>1.862</td><td rowspan=1 colspan=1>272</td><td rowspan=1 colspan=2>2.008</td><td rowspan=1 colspan=1>312</td><td rowspan=1 colspan=1>2.172</td><td rowspan=1 colspan=1>352</td><td rowspan=1 colspan=1>2.306</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>33</td><td rowspan=1 colspan=1>374</td><td rowspan=1 colspan=1>73</td><td rowspan=1 colspan=1>691</td><td rowspan=1 colspan=1>113</td><td rowspan=1 colspan=1>1.006</td><td rowspan=1 colspan=1>153</td><td rowspan=1 colspan=1>1.314</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=2>1.631</td><td rowspan=1 colspan=1>233</td><td rowspan=1 colspan=2>1.864</td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=2>2.015</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=1>2.179</td><td rowspan=1 colspan=1>353</td><td rowspan=1 colspan=1>2.309</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>34</td><td rowspan=1 colspan=1>383</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>698</td><td rowspan=1 colspan=1>114</td><td rowspan=1 colspan=1>1.013</td><td rowspan=1 colspan=1>154</td><td rowspan=1 colspan=1>1.324</td><td rowspan=1 colspan=1>194</td><td rowspan=1 colspan=2>1.689</td><td rowspan=1 colspan=1>234</td><td rowspan=1 colspan=2>1.866</td><td rowspan=1 colspan=1>274</td><td rowspan=1 colspan=2>2.017</td><td rowspan=1 colspan=1>314</td><td rowspan=1 colspan=1>2.181</td><td rowspan=1 colspan=1>354</td><td rowspan=1 colspan=1>2.311</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>·</td></tr><tr><td rowspan=1 colspan=1>35</td><td rowspan=1 colspan=1>390</td><td rowspan=1 colspan=1>75</td><td rowspan=1 colspan=1>708</td><td rowspan=1 colspan=1>115</td><td rowspan=1 colspan=1>1.020</td><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>1.331</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=2>1.648</td><td rowspan=1 colspan=1>235</td><td rowspan=1 colspan=2>1.869</td><td rowspan=1 colspan=1>275</td><td rowspan=1 colspan=2>2.024</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>2.188</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=1>2.313</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>400</td><td rowspan=1 colspan=1>76</td><td rowspan=1 colspan=1>715</td><td rowspan=1 colspan=1>116</td><td rowspan=1 colspan=1>1.027</td><td rowspan=1 colspan=1>156</td><td rowspan=1 colspan=1>1.340</td><td rowspan=1 colspan=1>196</td><td rowspan=1 colspan=2>1.655</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=2>1.871</td><td rowspan=1 colspan=1>276</td><td rowspan=1 colspan=2>2.027</td><td rowspan=1 colspan=1>316</td><td rowspan=1 colspan=1>2.191</td><td rowspan=1 colspan=1>356</td><td rowspan=1 colspan=1>2.316</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>87</td><td rowspan=1 colspan=1>407</td><td rowspan=1 colspan=1>77</td><td rowspan=1 colspan=1>724</td><td rowspan=1 colspan=1>117</td><td rowspan=1 colspan=1>1.085</td><td rowspan=1 colspan=1>157</td><td rowspan=1 colspan=1>1.347</td><td rowspan=1 colspan=1>197</td><td rowspan=1 colspan=2>1.664</td><td rowspan=1 colspan=1>237</td><td rowspan=1 colspan=2>1.873</td><td rowspan=1 colspan=1>277</td><td rowspan=1 colspan=2>2.034</td><td rowspan=1 colspan=1>317</td><td rowspan=1 colspan=1>2.200</td><td rowspan=1 colspan=1>357</td><td rowspan=1 colspan=1>2.318</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>38</td><td rowspan=1 colspan=1>416</td><td rowspan=1 colspan=1>78</td><td rowspan=1 colspan=1>731</td><td rowspan=1 colspan=1>118</td><td rowspan=1 colspan=1>1.042</td><td rowspan=1 colspan=1>158</td><td rowspan=1 colspan=1>1.357</td><td rowspan=1 colspan=1>198</td><td rowspan=1 colspan=2>1.672</td><td rowspan=1 colspan=1>238</td><td rowspan=1 colspan=2>1.876</td><td rowspan=1 colspan=1>278</td><td rowspan=1 colspan=2>2.036</td><td rowspan=1 colspan=1>318</td><td rowspan=1 colspan=1>2.202</td><td rowspan=1 colspan=1>358</td><td rowspan=1 colspan=1>2.320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>39</td><td rowspan=1 colspan=1>428</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>74</td><td rowspan=1 colspan=1>119</td><td rowspan=1 colspan=1>1.049</td><td rowspan=1 colspan=1>159</td><td rowspan=1 colspan=1>1.364</td><td rowspan=1 colspan=1>199</td><td rowspan=1 colspan=2>1.681</td><td rowspan=1 colspan=1>239</td><td rowspan=1 colspan=2>1.878</td><td rowspan=1 colspan=1>279</td><td rowspan=1 colspan=2>2.043</td><td rowspan=1 colspan=1>319</td><td rowspan=1 colspan=1>2.205</td><td rowspan=1 colspan=1>359</td><td rowspan=1 colspan=1>2.323</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>40</td><td rowspan=1 colspan=1>433</td><td rowspan=1 colspan=1>80</td><td rowspan=1 colspan=1>748</td><td rowspan=1 colspan=1>120</td><td rowspan=1 colspan=1>1.058</td><td rowspan=1 colspan=1>160</td><td rowspan=1 colspan=1>1.378</td><td rowspan=1 colspan=1>200</td><td rowspan=1 colspan=2>1.688</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=2>1.882</td><td rowspan=1 colspan=1>280</td><td rowspan=1 colspan=2>2.045</td><td rowspan=1 colspan=1>320</td><td rowspan=1 colspan=1>2.207</td><td rowspan=1 colspan=1>360</td><td rowspan=1 colspan=1>2.325</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **23. [超連結（檔案）]**: files/專案計畫-1030519起/國科會相關文件1110927/外交部應公赴國外出差及返國敘職人員綜合保險-1110501-1120430.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=23 assetId=56a261949d56d175 -->
+#### OCR 23: files/專案計畫-1030519起/國科會相關文件1110927/外交部應公赴國外出差及返國敘職人員綜合保險-1110501-1120430.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/國科會相關文件1110927/外交部應公赴國外出差及返國敘職人員綜合保險-1110501-1120430.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/56a261949d56d175_外交部應公赴國外出差及返國敘職人員綜合保險-1110501-1120430.md
+- OCR 狀態: completed_cached
+- OCR 字數: 866
+- 驗證狀態: ok
+
+```markdown
+# 外交部函
+
+地址：臺北市凱達格蘭大道二號  
+承辦人：科員  
+電話：02-23482999
+
+## 受文者：教育部
+
+發文日期：中華民國111年4月12日  
+發文字號：外秘購字第1113501821號  
+速別：普通件  
+密等及解密條件或保密期限：  
+附件：無
+
+主旨：本部代辦政府各機關『「因公赴國外出差及返國述職人員綜合保險：續約1年』（標案案號：MOFA111089CE），業與華南產物保險股份有限公司高雄分公司簽署共同供應契約，可供各機關利用，請查照並轉知所屬。
+
+說明：
+
+一、旨揭共同供應契約案之履約期限自本（111）年5月1日至明（112）年4月30日止，契約相關資料已依照「共同供應契約實施辦法」第7條規定，公開於行政院公共工程委員會「政府電子採購網」（網址：http：//web.pcc.gov.tw），請逕行上網查詢及下載利用，據以辦理投保。
+
+二、如有訂購相關問題，請逕洽詢旨揭廠商聯絡人黃羽燻小姐（電話：07-2380909轉分機251；kbusi@scins.com.tw)0
+
+正本：總統府立法院司法院考試院監察院行政院、公務人員保障暨培訓委員會、公務人員退休撫邱基金監理委員會、公務人員退休撫基金管理委員會、中央各部會、國家安全局、國家安全會議各縣市政府各縣市議會
+
+副本：華南產物保險股份有限公司高雄分公司 文章换 57
+
+X
+
+3 8 33 55 3 3 3
+
+816 385 688 6P8 2
+
+21 3
+
+5 6
+
+8 8 8 8 55
+
+第【】
+
+2 3
+
+8
+
+i 81288 8 8 8 8 8
+
+699 9
+
+9 3 5 5 5 5 5
+
+88
+
+5 8 3126
+
+24 24 282
+
+保
+
+2 222 2 222
+
+品 5 3 5 37 8 4 5 5 5 K
+
+8123 84 5 919298 5969799
+
+42
+
+2562 996
+
+222230 22 2 222222222222222
+
+保
+
+88
+
+2 ￥ 4
+
+8788 6888 2882
+
+中】
+```
+
+<!-- OCR_END -->
+
+- **24. [超連結（檔案）]**: files/大陸地區出差人員生活費日支數額表1050101修訂.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=24 assetId=bb946ec43bfb8e76 -->
+#### OCR 24: files/大陸地區出差人員生活費日支數額表1050101修訂.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/大陸地區出差人員生活費日支數額表1050101修訂.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/bb946ec43bfb8e76_大陸地區出差人員生活費日支數額表1050101修訂.md
+- OCR 狀態: completed_cached
+- OCR 字數: 4610
+- 驗證狀態: ok
+
+```markdown
+中央政府各機關派赴大陸地區、香港及澳門出差人員生活費日支數額表
+
+單位：美元
+
+<table><tr><td colspan="1" rowspan="1">編號</td><td colspan="1" rowspan="1">名稱(城市或其他)</td><td colspan="1" rowspan="1">日支數額</td></tr><tr><td colspan="1" rowspan="1">1</td><td colspan="1" rowspan="1">北京(Beijing)</td><td colspan="1" rowspan="1">251</td></tr><tr><td colspan="1" rowspan="1">２</td><td colspan="1" rowspan="1">南京(Nanjing)</td><td colspan="1" rowspan="1">185</td></tr><tr><td colspan="1" rowspan="1">3</td><td colspan="1" rowspan="1">天津(Tianjin)</td><td colspan="1" rowspan="1">182</td></tr><tr><td colspan="1" rowspan="1">4</td><td colspan="1" rowspan="1">上海(Shanghai)</td><td colspan="1" rowspan="1">267</td></tr><tr><td colspan="1" rowspan="1">5</td><td colspan="1" rowspan="1">瀋陽(Shenyang)</td><td colspan="1" rowspan="1">175</td></tr><tr><td colspan="1" rowspan="1">６</td><td colspan="1" rowspan="1">哈爾濱(Harbin)</td><td colspan="1" rowspan="1">166</td></tr><tr><td colspan="1" rowspan="1">７</td><td colspan="1" rowspan="1">大連(Dalian)</td><td colspan="1" rowspan="1">175</td></tr><tr><td colspan="1" rowspan="1">8</td><td colspan="1" rowspan="1">長春(Changchun)</td><td colspan="1" rowspan="1">155</td></tr><tr><td colspan="1" rowspan="1">９</td><td colspan="1" rowspan="1">濟南(Jinan)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">10</td><td colspan="1" rowspan="1">青岛(Quingdao)</td><td colspan="1" rowspan="1">176</td></tr><tr><td colspan="1" rowspan="1">11</td><td colspan="1" rowspan="1">武漢(Wu Han)</td><td colspan="1" rowspan="1">170</td></tr><tr><td colspan="1" rowspan="1">12</td><td colspan="1" rowspan="1">長沙(Changsha)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">13</td><td colspan="1" rowspan="1">西安(Xian)</td><td colspan="1" rowspan="1">150</td></tr><tr><td colspan="1" rowspan="1">14</td><td colspan="1" rowspan="1">成都(Chengdu)</td><td colspan="1" rowspan="1">179</td></tr><tr><td colspan="1" rowspan="1">15</td><td colspan="1" rowspan="1">重慶(Chongqing)</td><td colspan="1" rowspan="1">182</td></tr><tr><td colspan="1" rowspan="1">16</td><td colspan="1" rowspan="1">貴陽(Guiyang)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">17</td><td colspan="1" rowspan="1">鄭州(Zhengzhou)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">18</td><td colspan="1" rowspan="1">深圳(Shenzhen)</td><td colspan="1" rowspan="1">180</td></tr><tr><td colspan="1" rowspan="1">19</td><td colspan="1" rowspan="1">廣州(Guangzhou)</td><td colspan="1" rowspan="1">190</td></tr><tr><td colspan="1" rowspan="1">20</td><td colspan="1" rowspan="1">東莞(Dongguan）</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">21</td><td colspan="1" rowspan="1">桂林(Guilin)</td><td colspan="1" rowspan="1">170</td></tr><tr><td colspan="1" rowspan="1">22</td><td colspan="1" rowspan="1">福州(Fuzhou)</td><td colspan="1" rowspan="1">170</td></tr><tr><td colspan="1" rowspan="1">23</td><td colspan="1" rowspan="1">海口(Ha ikou)</td><td colspan="1" rowspan="1">170</td></tr><tr><td colspan="1" rowspan="1">24</td><td colspan="1" rowspan="1">蘇州(Suzhou)</td><td colspan="1" rowspan="1">166</td></tr><tr><td colspan="1" rowspan="1">25</td><td colspan="1" rowspan="1">杭州(Hangzhou)</td><td colspan="1" rowspan="1">180</td></tr><tr><td colspan="1" rowspan="1">26</td><td colspan="1" rowspan="1">寧波(Ningbo)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">27</td><td colspan="1" rowspan="1">昆明(kunming)</td><td colspan="1" rowspan="1">170</td></tr><tr><td colspan="1" rowspan="1">28</td><td colspan="1" rowspan="1">拉薩(Lhasa)</td><td colspan="1" rowspan="1">183</td></tr><tr><td colspan="1" rowspan="1">29</td><td colspan="1" rowspan="1">烏魯木齊(Urumuqi)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">30</td><td colspan="1" rowspan="1">三亞(Sanya)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">31</td><td colspan="1" rowspan="1">廈門(Xiamen)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">32</td><td colspan="1" rowspan="1">昆山(Kunshan)</td><td colspan="1" rowspan="1">162</td></tr><tr><td colspan="1" rowspan="1">33</td><td colspan="1" rowspan="1">香港(Hong Kong)</td><td colspan="1" rowspan="1">308</td></tr><tr><td colspan="1" rowspan="1">34</td><td colspan="1" rowspan="1">澳門(Macau)</td><td colspan="1" rowspan="1">255</td></tr><tr><td colspan="1" rowspan="1">35</td><td colspan="1" rowspan="1">其他(0ther)</td><td colspan="1" rowspan="1">140</td></tr><tr><td colspan="3" rowspan="1">附註：1.赴「內蒙古」出差，按「其他」支給。2.出差人員生活費日支數額按百分率計算，其總計後尾數不足一元者，進位為一元。</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **25. [超連結（檔案）]**: files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表1110830.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=25 assetId=cdfa46262a62867b -->
+#### OCR 25: files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表1110830.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/國科會相關文件1110927/國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表1110830.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/cdfa46262a62867b_國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表1110830.md
+- OCR 狀態: completed_cached
+- OCR 字數: 3793
+- 驗證狀態: ok
+
+```markdown
+# 國家科學及技術委員會補助國外學者專家來臺從事科技合作研究活動支付費用最高標準表
+
+111.8.30 生效
+
+壹：酬金/生活費  
+（單位：新臺幣）
+<table><tr><td rowspan=2 colspan=1>類別</td><td rowspan=1 colspan=2>日支報酬（含生活費）</td><td rowspan=2 colspan=1>月支報酬（含生活費）</td></tr><tr><td rowspan=1 colspan=1>第1日至第14日</td><td rowspan=1 colspan=1>第15日起</td></tr><tr><td rowspan=1 colspan=1>諾貝爾獎級</td><td rowspan=1 colspan=1>14,260元</td><td rowspan=1 colspan=1>9,100元</td><td rowspan=1 colspan=1>304.395元</td></tr><tr><td rowspan=1 colspan=1>國家院士</td><td rowspan=1 colspan=1>12,400元</td><td rowspan=1 colspan=1>8.000元</td><td rowspan=1 colspan=1>268.000元</td></tr><tr><td rowspan=1 colspan=1>特聘講座</td><td rowspan=1 colspan=1>10,695元</td><td rowspan=1 colspan=1>6,900元</td><td rowspan=1 colspan=1>231,920元</td></tr><tr><td rowspan=1 colspan=1>教授級/研究員</td><td rowspan=1 colspan=1>8.915元</td><td rowspan=1 colspan=1>5,700元</td><td rowspan=1 colspan=1>188,435元</td></tr><tr><td rowspan=1 colspan=1>副教授級/副研究員等</td><td rowspan=1 colspan=1>7,130元</td><td rowspan=1 colspan=1>4,600元</td><td rowspan=1 colspan=1>144,950元</td></tr><tr><td rowspan=1 colspan=1>助理教授級/助理研究員/講師等</td><td rowspan=1 colspan=1>6,250元</td><td rowspan=1 colspan=1>4,000元</td><td rowspan=1 colspan=1>125,000元</td></tr><tr><td rowspan=1 colspan=1>博士後研究人員</td><td rowspan=1 colspan=1>2.200~6,250元</td><td rowspan=1 colspan=1>1,600~4.000元</td><td rowspan=1 colspan=1>62,500~125.000元</td></tr><tr><td rowspan=1 colspan=1>博/碩士生</td><td rowspan=1 colspan=2>1,900元</td><td rowspan=1 colspan=1>50.000元</td></tr></table>
+
+貳：國際機票  
+（單位：新臺幣元/人）
+<table><tr><td>類別</td><td colspan="2">艙等及其來訪各地區限額</td></tr><tr><td rowspan="3">諾貝爾獎級</td><td colspan="2">頭等艙</td></tr><tr><td>北美東:227,500</td><td>東亞南亞：70,000</td></tr><tr><td>北美西:192,500 南美洲: 280,000</td><td>亞西紐澳:157,500 歐非:245,000</td></tr><tr><td rowspan="4">國家院士/特聘講座</td><td>商務艙</td><td></td></tr><tr><td>北美東:130,000</td><td>東亞南亞:40.000</td></tr><tr><td>北美西：110,000</td><td>亞西紐澳: 90,000</td></tr><tr><td>南美洲:160,000</td><td>歐非:140,000</td></tr><tr><td rowspan="4">其他 (非以上類別者)</td><td>經濟艙</td><td></td></tr><tr><td>北美東: 65,000</td><td>東亞南亞: 20,000</td></tr><tr><td>北美西:55,000</td><td>亞西紐澳: 45,000</td></tr><tr><td>南美洲:80,000</td><td>歐非:70,000</td></tr></table>
+
+## 備註：
+
+一、本表為國家科學及技術委員會（以下簡稱本會）補助國外學者專家來臺與我國學者專家進行合作研究活動，且其在臺灣停留未滿一年者，得支付費用之最高標準，其副教授級以上之支付費用最高標準，係以行政院104 年10 月28 日院授人給字第1040050339 號函「各機關聘請國外顧問、專家及學者來臺工作期間支付費用最高標準表」所定標準為上限。執行機構得視國外學者專家之學術地位、專長、執行機構或該研究計畫經費於範圍內自行核定支給。但本會與國外機構簽有雙邊協議，其給付標準另有議定者，從其約定。
+
+二、 本表所列包括在國外學者專家受邀或受聘在臺灣期間之酬金/生活費，及來臺灣之國際機票兩項，執行機構應依本會補助規定及計畫核給項目在表列額度內辦理。簽有雙邊協議者，本表未列項目，得依協議約定辦理。
+
+三、 「博士後研究人員」、「博/碩士生」二類別有情形特殊者，得視受邀人或受聘人特殊專長，敍明具體理由，報經本會核准後酌予調高在臺期間之酬金（含生活費）。
+
+四、國外學者專家來臺與我國學者專家進行合作研究活動，其在臺停留期間在一年以上者，其按月計酬標準依「各機關聘請國外顧問、專家及學者來臺工作期間支付費用最高標準表」辦理。
+
+五、本表日支或月支報酬標準之計算，應以本會核定國外學者專家在臺灣總日數為原則。給付日數，依國外學者專家抵達臺灣當日至離開臺灣當日核實報支。核定日數未達一個月者，以日支標準計算；核定日數一個月以上未滿一年者，依月支報酬標準計算，其不足一個月日數之日支報酬，以月支報酬標準除以當月總日數作為計算依據。
+
+六、本表機票補助僅為國外學者專家本人之來回機票款，單項計畫以一趟為限；惟核定在臺灣日數達四個月以上者，得依實際需要於所在合作機構專案報請至多二趟來回機票款。
+
+七、本表機票各地區限額之採用，一般係以國外學者專家自其服務機構所在地區出發為依據；倘為順道來訪者，應以最後停留地區到臺灣之單趟/來回機票款或其訪程差額計算。
+
+八、各地區範圍及主要國家如下，未列出者以本會核定區域/額度為準：
+
+1. 北美東區: 包括美國與紐約、休士頓及加拿大與渥太華等城市所處相同之美東與中西部時區等地區，以及瓜地馬拉等中美洲國家。
+
+2. 北美西區: 包括美國與舊金山、丹佛及加拿大與西雅圖等城市所處相同之太平洋與山地時區等地區，以及墨西哥。
+
+3. 南美洲區: 包括一般南拉丁美洲13 國。
+
+4. 東亞、南亞區: 包括日本、韓國、泰國、馬來西亞、越南等。
+
+5. 亞西、紐澳區: 包括蒙古、印度、印尼、澳大利亞、紐西蘭與南太平洋地區，及巴基斯坦、阿富汗、伊朗、依拉克與阿拉伯地區等。
+
+6. 歐、非區: 包括一般歐洲與非洲國家，及以色列、土耳其、俄羅斯、白俄羅斯及中亞五國等。
+
+九、「學者專家」，應為其服務機構編制內專職人員，包括大專院校教授、副教授、助教授、助理教授、資深講師、（博士級）講師，學術研究機構研究員、副研究員、助理研究員，及在特殊技術或科技機構之科技研發或管理工作上，具有獨到才能及經驗之資深專家等；「博士後研究人員」為非屬前述所列，且具博士學歷之研究人員。
+
+十、「博/碩士生」指在修習學位之博士或碩士級研究人員，與其所在單位之「學者專家」研究人員共同參與雙邊科技合作活動者。
+
+十一、 執行機構支付國外學者專家費用，應由邀請或聘請機構依所得稅法規定扣繳率申報納稅。
+
+十二、 國外學者專家來臺期間若需離開邀請或受聘機構所在地，前往國內其他城市進行研究活動時，得另依行政院103 年7 月7 日院授主預字第1030101699 號函之「國內出差旅費報支要點」規定報支相關費用。
+
+十三、 執行機構得依國外學者專家在臺期間長短，參考國內相關規定為其辦理合宜保險，費用依停留期限核實報支；核定或停留期間四個月以下者，為醫療意外險，四個月以上至一年者，為衛生福利部中央健康保險署之「全民健康保險」。
+```
+
+<!-- OCR_END -->
+
+- **26. [超連結（網站）]**: https://law.dgbas.gov.tw/LawContent.aspx?id=FL017586&amp;kw=%e5%90%84%e6%a9%9f%e9%97%9c%e6%b4%be%e5%93%a1%e5%8f%83%e5%8a%a0%e5%9c%8b%e5%85%a7%e5%90%84%e9%a0%85%e8%a8%93%e7%b7%b4%e6%88%96%e8%ac%9b%e7%bf%92%e8%b2%bb%e7%94%a8%e8%a3%9c%e5%8a%a9%e8%a6%81%e9%bb%9e
+- **27. [超連結（網站）]**: http://law.most.gov.tw/NewsContent.aspx?id=732
+- **28. [超連結（網站）]**: https://www.nstc.gov.tw/folksonomy/list/2af9ad9a-1f47-450d-b5a1-2cb43de8290c?l=ch
+- **29. [超連結（網站）]**: https://www.nstc.gov.tw/nstc/attachments/fc6f132c-a8db-44b6-8451-0187381606a5
+- **30. [超連結（網站）]**: https://www.nstc.gov.tw/nstc/attachments/fc6f132c-a8db-44b6-8451-0187381606a5
+- **31. [超連結（檔案）]**: files/法規/國家科學及技術委員會補助科學與技術人員國外短期研究作業要點1111013.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=31 assetId=f3e10060571a0e6b -->
+#### OCR 31: files/法規/國家科學及技術委員會補助科學與技術人員國外短期研究作業要點1111013.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/法規/國家科學及技術委員會補助科學與技術人員國外短期研究作業要點1111013.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/f3e10060571a0e6b_國家科學及技術委員會補助科學與技術人員國外短期研究作業要點1111013.md
+- OCR 狀態: completed_cached
+- OCR 字數: 10592
+- 驗證狀態: ok
+
+```markdown
+## 國家科學及技術委員會補助科學與技術人員國外短期研究作業要點
+
+國家科學及技術委員會 111年10月 13日科會科字第1110063980F 號函修正
+
+一、國家科學及技術委員會（以下簡稱本會）為因應國家科技發展，培育研究人才，提升科技研究發展能力，加強國際雙邊科技合作與人才交流，補助科學與技術人員赴國外機構從事專題研究或研習特定學科、技術等短期研究，特訂定本要點。
+
+二、本要點所稱國外機構，係指大陸地區、香港或澳門以外之國外公私立大專校院、研究機構、專業機構，或本會選定公告之研習機構。
+
+三、申請機構須為依本會受補助單位申請作業要點，核定納為本會受補助單位且核有培育人才補助類別之下列機構：
+
+(一)公私立大專校院。
+
+(二)公立學術研究機構。
+
+(三)教學醫院。
+
+四、為配合本會政策推動或施政重點之需要，申請機構得依本會公告之國外機構名單，推薦第五點之人員，經本會審定後補助其赴該名單之國外機構從事短期研究，不受第六點每年受理一次規定之限制。
+
+五、申請機構編制內之在職專任教學、研究或技術人員（以下簡稱研究人
+
+員）具備下列資格條件者，得向申請機構提出申請：
+
+(一)戶籍設於國內之中華民國國民或於臺灣地區有固定住所之外國人。
+
+(二)曾依本要點受補助者，應於申請當年度十二月三十一日前履行完畢服務義務。但經申請機構書面同意者，不在此限。
+
+六、本會以每年受理一次補助申請為原則，作業時程以公告為準。
+
+七、申請程序：
+
+(一)研究人員應登入本會「學術研發服務網」之「補助科學與技術人員國外短期研究作業系統」（以下簡稱系統），填寫並上傳下列文件後，將申請案送至申請機構；申請機構審核通過後，於本會公告之申請期限內線上彙送本會；逾期、文件不全或不符合規定者，不予受理：
+
+1.申請書。
+
+2.個人資料表。
+
+3.語言能力證明文件。
+
+4.國外研究計畫書。
+
+5.最近五年內已發表之學術性著作、研究論文或研究報告（至多三篇）。
+
+6.其他依本會規定應上傳文件。
+
+(二)前款第三目之證明文件應符合下列條件之一：
+
+1.曾在國外機構同一語系國家從事教學研究工作連續達三個月以上者。
+
+2.曾在國外機構同一語系國家獲得學位者。
+
+3.申請截止日前二年內所取得擬前往研究國家之語言能力鑑定證明文件。
+
+4.未具備第一目至第三目條件者，得將研究人員檢具之國外機構邀請函視為證明文件。
+
+八、審查及核定相關規定：
+
+(一)本會依申請機構線上彙送之前點第一款各目文件及第三款文件進行審查作業，通過後核定補助，並將審查結果函復申請機構及計畫執行人。
+
+(二)本會審查期間，自收件截止日之次日起四個月內完成；必要時，得予延長。
+
+(三)本會因審查所需，得要求申請機構檢具前點第一款各目以外與申請案有關之文件。
+
+## 九、補助期限及研究期間：
+
+(一)本會核定之補助期限以月計之，以三個月至十二個月為限。但符合政策需要經本會專案核准者，得低於三個月。
+
+(二)研究期間指計畫執行人赴國外機構短期研究之實際起訖期間。
+
+(三)經本會核定之補助期限，除依第十三點第三款重行核定者外，不因計畫執行人依該點規定申請縮短、自費延長研究期間，或於研究期間中途自費返國而變動。
+
+(四)計畫執行人非第一款但書情形，其研究期間仍低於三個月者，本會得不予補助費用，並依第二十一點第一款規定追繳全數補助費用。
+
+## 十、補助費用：
+
+計畫執行人之補助費用項目包含月支生活費、往返機票費、學雜費、觀摩實習費、出國手續費及綜合補助費，依下列各款及補助費用標準表（以下簡稱附表）規定核定其經費核定清單：
+
+(一)月支生活費：依計畫執行人到達國外後，於補助期限內實際從事研究工作之期間計算之，不包含往返飛機行程等交通期間；計畫執行人於補助期限內未執行研究工作之期間，應依下列標準扣除：
+
+1.事實發生於第一個月者，依經費核定清單第一個月核定金額，按日扣除。
+
+2.事實發生於第二個月後者，依經費核定清單第二個月後之核定金額，按日扣除。
+
+## (二)往返機票費：
+
+1.補助往返國外研究地點最直接航程之本國籍班機經濟(標準)座(艙)位機票價額；機票費以核定金額為上限，檢據覈實報支，如有結餘者，應如數繳回。
+
+2.因故無法搭乘本國籍班機者，應填具「因公出國人員搭乘外國籍航空公司班機申請書」，經申請機構首長或授權代理人核定後改搭乘外國籍班機。
+
+3.機票改票費、行李超重費或額外加購等非機票本質費用，不予補助。
+
+4.計畫執行人因身心障礙達重度以上，有須人陪同赴國外研究者，得經本會同意後額外補助一名隨行看護人員之往返機票費。
+
+(三)學雜費：
+
+1.含報名費、註冊費、訪問學人費、實驗費、必要之會費及設施使用費。
+
+2.前目之必要之會費以國外機構研究所必須者為限。
+
+## (四)觀摩實習費：
+
+1.計畫執行人因研究所必須，於研究期間參加其他機構辦理之學術性會議、參觀訪問及研習，除應與其計畫具關連性，並
+
+以儘量縮短行程為原則，以下列三項費用分別補助，並個別補助生活費及交通費：
+
+(1)參加會議費。
+
+(2)參觀訪問費。
+
+(3)研習費。
+
+2.計畫執行人參加學術性會議，限發表研究成果論文、專題演講或擔任會議主持人。但敘明理由經本會同意者，不在此限。
+
+3.參觀訪問係指計畫執行人轉赴國外機構以外同一國家或鄰近國家進行參觀、訪問、考察、研究與蒐集資料；研習係指計畫執行人於上開地點參加短期訓練或講習。
+
+4.觀摩實習可利用書信、電話、傳真、視訊或電子郵件等通訊工具處理者，不得報支第一目各項費用；第一目之其他機構採線上方式辦理者，得予補助參加會議費及研習費。
+
+(五)出國手續費：限報支國外出差旅費報支要點第十三點規定所列舉各項費用，及取得簽證、居留證應繳納之國外規費。
+
+(六)綜合補助費：含書籍費、綜合保險費、健康保險費、內陸交通費（含租車費）、論文寫作等費用。
+
+計畫執行人於研究期間之房租、住宿費、代辦費或其他經本會公告之費用項目，不予補助。
+
+計畫執行人報支其經費核定清單之各項補助費用，應依第一項至第二項及附表規定辦理。
+
+補助費用未盡事宜，參酌國外出差旅費報支要點及解釋彙編有關費用部分規定辦理。
+
+## 十一、簽訂合約及後續應辦理事項：
+
+(一)申請機構應自本會核定結果送達後，依本會訂頒之「補助科學與技術人員國外短期研究合約應記載事項」規定草擬合約書，並於補助費用撥付前與計畫執行人簽訂合約。
+
+(二)計畫執行人應於核定日起之次年一月一日至十二月三十一日止，即補助年度內，與申請機構簽訂合約後，前往國外機構開始短期研究，逾期不予補助費用。
+
+(三)申請機構應於合約與計畫執行人約定違約責任，並依第二十一點第一款規定辦理，所追繳之補助費用應返還本會。
+
+(四)計畫執行人應確實遵守合約內容，其返國後之履約服務情況，申請機構應告知本會。
+
+## 十二、補助費用之撥付：
+
+(一)計畫執行人應至系統登錄「預定開始研究日期」及相關資訊，經申請機構審核通過後，將請款案線上彙送本會，並函送下列文件至本會辦理撥款；上開作業應於計畫執行人出國研究前三星期至六星期內辦理為原則，提早、逾期、文件不全或不符合本要點規定者，不予受理：
+
+1.申請機構之補助費用領款收據。
+
+2.研究合約書正本。
+
+3.國外機構邀請函影本。
+
+4.經費核定清單。
+
+5.前經本會核定之研究期間變更同意函（無則免附）。
+
+(二)計畫執行人至系統登錄「預定開始研究日期」後，本會即依補助期限定其擬定研究期間起訖日，並於撥款函載明。但前經本會同意變更研究期間者，僅得依該期間登錄之。
+
+(三)第一款第二目及第三目之文件，已載明期間者，其範圍應相同或大於前款本會所定之計畫執行人擬定研究期間起訖日，如有不符應個別修正、簽訂後再函送本會，前經本會同意變更研究期間者亦同。
+
+(四)經費核定清單之核定金額總額，依本會公告一美元折算之新臺幣金額，於計畫執行人出國研究前，一次撥付至申請機構銀行專戶並轉致計畫執行人。
+
+## 十三、計畫之變更：
+
+(一)計畫執行人非有正當理由，不得申請變更計畫。
+
+(二)計畫執行人應事先登入系統，將下列變更事由送至申請機構，申請機構審核通過後線上彙送本會，經本會同意後始得變更：
+
+1.計畫名稱及內容
+
+2.國外研究地點及國外機構
+
+3.研究期間（含縮短及自費延長）
+
+4.自費返國
+
+5.申請機構
+
+6.其他變更事由
+
+(三)計畫執行人申請前款第一目、第二目變更案者，本會得依變更後之計畫內涵，重行核定計畫執行人之補助期限。
+
+(四)計畫執行人應具備特殊情形或重大原因始得申請縮短研究期間，惟依第九點第一款但書規定補助期限已低於三個月者不得再縮短。經本會同意縮短者，月支生活費部分依第十點第一項第一款第一目及第二目規定扣除，綜合補助費部分依附表發給規定扣除。
+
+(五)計畫執行人申請自費延長研究期間經本會同意者，不另予編列補助費用。
+
+(六)計畫執行人因故申請於補助期限內中途自費返國經本會同意者，其停留期間日數累計不得超過三十日。但經本會同意者不在此限。該期間之月支生活費部分依第十點第一項第一款第一目及第二目規定扣除，綜合補助費部分依附表發給規定扣除。
+
+(七)計畫執行人因任職機構改變，依第二款第五目變更申請機構者，應由原任職機構檢附新任職機構之聘函影本及變更同意書向本會申請，經本會同意後變更，新任職機構不同意計畫執行人變更者，應依第十四點規定辦理註銷計畫；計畫執行人於本會撥款後始變更申請機構者，應依第十一點規定與新任職機構簽訂合約並函送本會同意後變更，結報相關事宜則由新任職機構依本要點規定辦理。
+
+(八)計畫執行人未依第二款規定事先申請變更計畫並經本會同意者，本會得全數或部分不予補助費用，並依第二十一點第一款規定追繳補助費用。
+
+## 十四、計畫之註銷：
+
+(一)計畫執行人於本會核定後資格不符第五點規定或因故未能執行計畫者，應即時登入系統辦理註銷計畫；補助費用已撥付者應
+
+繳回，遲未辦理者，應依第二十一點第一款規定追繳全數補助費用。
+
+(二)前款計畫執行人於本會核定後資格不符第五點規定係情形特殊者，得經本會同意後繼續執行計畫。
+
+(三)第一款因故未能執行計畫之註銷係不可歸責於計畫執行人之事由者，其已支付之費用，經申請機構從嚴認定者，得於計畫執行人經費核定清單之核定金額內檢據覈實報支。
+
+## 十五、補助費用之結報：
+
+(一)計畫執行人應於研究期滿後，至系統辦理結報作業，並檢具下列文件，向申請機構辦理補助費用結報：
+
+1.「國家科學及技術委員會補助第○屆科學與技術人員國外短期研究經費報告表」（以下簡稱經費報告表）。
+
+2.經費核定清單。
+
+3.第十八點第一款之通知單。
+
+4.護照影本（含研究期間之戳記）及入出國日期證明書。
+
+5.前經本會核定之研究期間變更同意函（無則免附）。
+
+6.第二款之水單或證明。
+
+7.第十八點第三款之報告摘要表（無則免附）。
+
+(二)計畫執行人出國前以外幣兌換水單或實際兌換匯率證明辦理結匯者，該兌換日期應介於本會核定日及實際出國研究日之間始得辦理結報；未辦理結匯者，應檢附出國研究前一日（如逢假日往前順推）臺灣銀行賣出即期美元參考匯率證明辦理結報。
+
+(三)計畫執行人依第十三點規定申請變更計畫本會尚未同意者，或應申請變更計畫而未申請者，不得辦理結報。
+
+(四)申請機構應於計畫執行人研究期滿二個月內檢附經費報告表、計畫核定公文與核定清單影本，向本會辦理補助費用結報；文件不全或不符合規定者，不予結報；逾期未辦理者，本會得不予補助費用，並依第二十一點第一款規定追繳全數補助費用。 予補助費用，並依第二十一點第一款規定追繳全數補助費用。
+
+十六、支用單據之處理、保存及查核：
+
+申請機構對補助款項之各項支用單據，應依政府支出憑證處理要點規定辦理，並按補助編號順序，整理審核裝訂成冊，依有關規定妥善存管備查，本會得派員或陪同審計人員前往實地查核，如發現未依規定妥善保存，致有毀損、滅失等情事，依情節輕重酌減嗣後補助款或停止補助一年至五年。
+
+十七、補助費用之繳回：計畫執行人經結算應繳回之補助費用，應於本會同意結報日起一個月內由申請機構如數繳回，並檢附匯款申請書收執聯影本函報本會；遲未辦理者，應依第二十一點第一款規定追繳應繳回之補助費用。
+
+十八、計畫執行人之其他義務：
+
+(一)計畫執行人應分別於抵達國外機構及研究期滿返國二週內，至系統填妥「抵達國外通知單」及「返抵本國通知單」。
+
+(二)計畫執行人應於研究期滿二個月內，以電子檔方式，線上繳交詳細之國外研究報告書，並包含報告摘要及報告全文。
+
+(三)依第十點第一項第四款第二目本文規定參加學術性會議者，應至系統登錄報告摘要表，填寫心得報告，與論文被接受發表之大會證明文件及所發表之論文全文、摘要，於辦理結報時並同繳交；依第十點第一項第四款第二目但書及第三目規定，參加學術性會議、參觀訪問或研習者，應至系統登錄報告摘要表，填寫心得報告，於辦理結報時並同繳交。
+
+(四)計畫執行人違反第一款至第三款之義務者，本會得不予補助費用，並依第二十一點第一款規定追繳全數補助費用。
+
+十九、計畫執行人懷孕，得提出證明文件依下列方式辦理：
+
+(一)出國前懷孕者：倘補助年度無法開始研究者，應即時至系統辦理註銷計畫；補助費用已撥付者應繳回，遲未辦理者，應依第二十一點第一款規定追繳全數補助費用。
+
+(二)研究期間懷孕者：得依第十三點規定申請變更計畫提前返國結束研究，不受該點第四款但書不得縮短研究期間，及第九點第四款研究期間不得低於三個月之限制；其補助費用依實際停留國外日數於經費核定清單範圍內按比例報支，並繳回餘款，遲未辦理者，應依第二十一點第一款規定追繳應繳回之補助費用。
+
+二十、計畫執行人依第十五點及第十八點第二款規定完成經費結報及繳交詳細之國外研究報告書後，始得結案。
+
+## 二十一、違反本要點處理方式：
+
+(一)計畫執行人有第十三點第八款、第十一點第二款、第十四點第一款及第十九點第一款情形，補助費用尚未撥付者，申請機構應即時通知本會停止撥付；計畫執行人於補助費用撥付後發生第九點第四款、第十一點第二款、第十三點第八款、第十四點第一款、第十五點第一款、第十七點、第十八點第四款、第十九點第一款及第二款情形者，申請機構應即時告知本會並負責追繳計畫執行人應繳回之補助費用，該費用應立即繳回本會。
+
+(二)應繳回補助費用之計畫執行人，經本會催告仍未辦理者，申請機構除應持續追繳外，本會不再受理以該研究人員作為計畫執行人之新申請案，並得暫停撥付申請機構其他計畫執行人之補助費用。
+
+(三)本會得依申請機構執行及結案情況，作為日後審查申請案之參考。
+
+二十二、本要點未盡事宜，依相關法令辦理。
+
+## 附表 補助費用標準表
+
+國家科學及技術委員會 111年10月 13日科會科字第1110063980F 號函修正
+
+單位：美元
+
+<table><tr><td colspan="1" rowspan="1">項目</td><td colspan="2" rowspan="1">數額</td><td colspan="1" rowspan="1">報支標準</td></tr><tr><td colspan="1" rowspan="6">月支生活費</td><td colspan="1" rowspan="1">日支數額級距</td><td colspan="1" rowspan="1">月支生活費</td><td colspan="1" rowspan="6">一、出國期間(依曆計算，以下同)在十五日以下部分，每日按「國外出差旅費報支要點」第七點第一項由行政院另定之「中央政府各機關派赴國外各地區出差人員生活費日支數額表」（以下簡稱日支數額表)全額支給。但有供膳宿、供宿不供膳供膳不供宿情形者，分別按原支數之一折、三折八折支給。二、出國期間逾十五日部分，參照日支數額表所列城市之日支數額，按左表分級補助，第十六日至第三十日，每日按左表數額二十分之一支給，第三十一日起，每月按左表數額支給；其未滿整月之畸零日數，每日按左表數額三十分之一支給。但有供膳宿供宿不供膳、供膳不供宿情形者，分別按原支數之三折、四折九折支給。三、前二點所定供宿，包括住宿免費宿舍過境旅館在搭乘之交通工具歇夜及返國當日在內。四、出國進修研究實習人員不得報支「國外出差旅費報支要點」第十五點、第十六點及第十七點所定之行政費(報名費及註冊費除外)禮品交際及雜費。</td></tr><tr><td colspan="1" rowspan="1">290以上</td><td colspan="1" rowspan="1">1,400</td></tr><tr><td colspan="1" rowspan="1">250-289</td><td colspan="1" rowspan="1">1,300</td></tr><tr><td colspan="1" rowspan="1">210-249</td><td colspan="1" rowspan="1">1,200</td></tr><tr><td colspan="1" rowspan="1">170-209</td><td colspan="1" rowspan="1">1,100</td></tr><tr><td colspan="1" rowspan="1">169以下</td><td colspan="1" rowspan="1">1,000</td></tr><tr><td colspan="1" rowspan="1">往返機票費</td><td colspan="2" rowspan="1">以核定金額為補助上限</td><td colspan="1" rowspan="1">一、以核定金額為補助上限，超出部分，應自行負擔；低於核定金額者，以實付金額為補助標準。檢據覈實報支。二、應檢具之單據，依國外出差旅費報支要點第六點第一項規定辦理。</td></tr><tr><td colspan="2" rowspan="1">學雜費</td><td colspan="1" rowspan="4">月支350</td><td colspan="1" rowspan="1">一、含報名費、註冊費、訪問學人費、實驗費必要之會費及設施使用費，均應檢據覈實報支。二、除實驗費外，應檢據國外機構所出具之收據正本辦理結報，惟所送單據未列明繳費性質及細目者，應檢附其他證明文件一併辦理。</td></tr><tr><td colspan="1" rowspan="3">觀摩實習費</td><td colspan="1" rowspan="1">參加會議費</td><td colspan="1" rowspan="3">一、含參加會議費參觀訪問費研習費，及上開費用個別之生活費及交通費。二觀摩實習費之報支依備註二規定辦理。三、計畫執行人返國後應檢附護照影本、國外出差旅費報告表、報告摘要表、經費使用單據等相關資料辦理結報（依要點第十點第一項第四款第四目後段採線上方式辦理者，不須檢附護照影本及國外出差旅費報告表）。違反要點規定或無法提供以上資料者，不予報支觀摩實習費，亦不支給要點第十點第一項第一款之月支生活費。</td></tr><tr><td colspan="1" rowspan="1">參觀訪問費</td></tr><tr><td colspan="1" rowspan="1">研習費</td></tr><tr><td colspan="2" rowspan="1">出國手續費</td><td colspan="1" rowspan="1"></td><td colspan="1" rowspan="1">一、含報支國外出差旅費報支要點第十三點規定所列舉各項費用，及取得簽證應繳納之國外規費。二、檢據覈實報支。</td></tr><tr><td colspan="2" rowspan="1">綜合補助費</td><td colspan="1" rowspan="1">月支180</td><td colspan="1" rowspan="1">一、含書籍費、綜合保險費、健康保險費內陸交通費（含租車費）、論文寫作等費用，由計畫執行人簽名或蓋章具領。二、按月計發，未滿整月之畸零日數，在十五日以內者，按半個月發給，逾十五日者，按一個月發給。</td></tr><tr><td colspan="4" rowspan="1">備註：觀摩實習費報支規定如下：(一)參加會議費：1.限參加會議所應繳付之純粹註冊費（或會議費），憑單據覈實報支。2.會議之餐費、參觀費、資料費、入會費等其他費用不予補助。3.依要點第十點第一項第四款第二目本文規定參加學術性會議者，應檢附如發表研究成果論文、專題演講或擔任會議主持人之佐證資料；依但書規定參加學術性會議者，應檢附如會議議程、註冊須知、國外機構認可文件，或其他相關佐證資料以茲證明。(二)參觀訪問費：1.參訪機構規定必須繳納之費用，憑單據覈實報支。</td></tr></table>
+
+2.應檢附「參訪機構邀請函」、「參訪活動日程表」、申請機構認可文件，或其他相關佐證資料以茲證明。
+
+## (三)研習費：
+
+1.研習機構規定必須繳納之註冊費、訓練費，憑單據覈實報支。
+
+2.應檢附「研習活動日程表」、申請機構認可文件，或其他相關佐證資料以茲證明。(四)第一款至第三款之生活費：
+
+1.依「中央政府各機關派赴國外各地區出差人員生活費日支數額表」及「中央政府各機關派赴大陸地區、香港及澳門出差人員生活費日支數額表」所訂標準支給。但應按實際觀摩實習日數核算扣除原支之月支生活費，不得重複支領。
+
+2.計畫執行人觀摩實習之地點可當日往返者，不予補助。
+
+3.計畫執行人參加學術性會議之實際觀摩實習日數累計以十四日為限、參觀訪問以十四日為限、研習以三十日為限。但經本會特別同意者，不在此限。
+
+4.研究期間使用其他經費來源報支日支數額者，依要點第十點第一項第一款第一目及第二目規定扣除該期間之月支生活費，不得重複支領。
+
+(五)第一款至第三款之交通費：以直接經濟艙飛機、船舶及長途大眾陸運工具票價或自行駕車油料費為限，並應憑單據覈實報支。
+
+# 國家科學及技術委員會補助科學與技術人員國外短期研究合約應記載事項
+
+國家科學及技術委員會 111年10月 13日科會科字第1110063980F 號函修正
+
+一、研究合約之簽約主體為申請機構與計畫執行人，合約前言內敘明計畫執行人之計畫名稱、前往國家、國外機構名稱，及國家科學及技術委員會(以下簡稱本會)核定之補助期限（○個月）等事項。
+
+二、出國研究截止日期：係指計畫執行人應自本會核定日起，與申請機構先行簽訂合約，並於次年一月一日至十二月三十一日止，即補助年度內，與申請機構完成簽約後，前往國外機構開始短期研究，逾期不予補助費用。
+
+三、補助費用：計畫執行人出國研究期間之補助費用，係由本會補助；補助費用之項目、報支、撥付方式及結報程序，悉依本會補助科學與技術人員國外短期研究作業要點（以下簡稱要點）規定辦理。
+
+四、簽約要件：係指計畫執行人於簽約時，應檢附國外機構邀請函影本。惟是否覓具保證人作為履行合約連帶保證，由申請機構依實際需要訂定。
+
+五、變更計畫限制：變更程序依要點第十三點規定，計畫執行人除有正當理由者外，不得申請變更計畫，並應經申請機構及本會同意；計畫執行人未依要點規定事先申請並經同意者，申請機構應即時通知本會停止撥付補助費用，已撥付者應全數或部分追繳之。
+
+六、費用結報：
+
+(一)計畫執行人研究期滿二個月內應經由申請機構向本會辦理補助費用結報，逾期未辦理者，全數追繳之。
+
+(二)經結算應繳回之補助費用，應於本會同意結報日起一個月內由申請機構如數繳回，遲未辦理者，追繳其應繳回之補助費用。
+
+七、填具通知單及報告繳交義務：
+
+(一)計畫執行人應分別於抵達國外機構及研究期滿返國二週內，至系統填妥「抵達國外通知單」及「返抵本國通知單」。
+
+(二)計畫執行人應於研究期滿二個月內，以電子檔方式，線上繳交詳細之國外研究報告書，並包含報告摘要及報告全文。
+
+(三)報支觀摩實習費者，應於結報時依要點第十八點第三款規定繳交報告摘要表。
+
+八、服務義務：由申請機構依相關規定及申請機構實際需要訂定。
+
+九、違約罰則：
+
+(一)依要點第十一點第三款規定，申請機構應以要點第二十一點第一款所列舉第九點第四款、第十三點第八款、第十四點第一款、第十五點第一款、第十七點、第十八點第四款、第十九點第一款及第二款情形與計畫執行人約定違約責任，並載明所追繳之補助費用應返還本會。
+
+(二)計畫執行人凡違反合約任一條款規定時，均屬違約。違反前款規定者依要點相關規定辦理，其他違約罰則視情節輕重，依比例繳回補助費用；違約情節重大者，應繳回已撥付之全部補助費用。因違約而應返還本會之補助費用依以下原則處理：
+
+1.計畫執行人應在申請機構通知期限內一次繳回。
+
+2.計畫執行人如未能一次繳回時，即自補助費用核發日起依年息百分之五計算，加計至還清日止之利息。
+
+十、違約扣款：係指計畫執行人應繳回本會之費用，如未依規定辦理，計畫執行人同意申請機構於其薪津中代為扣繳，歸還本會。
+
+十一、保證責任：（由申請機構依實際需要斟酌是否納為合約條款，倘經納入，請於第四點簽約要件中包括覓具保證人）係指計畫執行人應有保證人具保，保證人資格由申請機構自訂，於計畫執行人未能履約時，由保證人負責繳回計畫執行人所領費用。
+
+十二、未盡事宜：合約未盡事宜應依申請機構相關規定辦理。
+
+十三、合約分執：係指應載明合約持有對象，申請機構與計畫執行人簽訂完妥之合約應於向本會申請撥款時一同檢具。
+```
+
+<!-- OCR_END -->
+
+- **32. [超連結（檔案）]**: files/專案計畫-1030519起/20科技部補助專題研究計畫之業務費項下匡列彈性支用額度相關規範限制及說明.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=32 assetId=0884252243f52d9d -->
+#### OCR 32: files/專案計畫-1030519起/20科技部補助專題研究計畫之業務費項下匡列彈性支用額度相關規範限制及說明.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/20科技部補助專題研究計畫之業務費項下匡列彈性支用額度相關規範限制及說明.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/0884252243f52d9d_20科技部補助專題研究計畫之業務費項下匡列彈性支用額度相關規範限制及說明.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1711
+- 驗證狀態: ok
+
+```markdown
+檔號：
+
+保存年限：
+
+# 行政院國家科學委員會 函
+
+地址：台北市和平東路2段106號
+
+聯絡人：許嘉文
+
+電話：(02)2737-7980
+
+傳真：(02)2737-7924
+
+電子信箱：cwhsu@nsc.gov.tw
+
+受文者：元智大學
+
+發文日期：中華民國101年10月26日
+
+發文字號：台會綜二字第1010071206號
+
+速別：最速件
+
+密等及解密條件或保密期限：
+
+附件：如文
+
+(101D2023911.PDF,101D2023912.DOC,101D2023913.PDF）（10ID2023911.
+
+PDF、101D2023912.DOC、101D2023913.PDF，共3個電子檔案)
+
+主旨：為提升我國科研競爭力及發揮科研經費運用效能，本會補助專題研究計畫自即日起於業務費項下匡列彈性支用額度，詳如說明，請 查照。
+
+## 說明：
+
+一、鑒於各界反映研究計畫經費使用規定缺乏彈性，不符研究所需，影響我國研究環境健全發展及研究人員士氣，經本會與教育部檢討，並積極回應社會期待，研擬賦予計畫中部分款項彈性支用之規範，期以提升我國國際競爭力及創新效率，案經行政院101年10月8日院台科字第1010058107號函同意在案。
+
+二、有關本會補助專題研究計畫經費彈性支用額度執行內容，說明如下：
+
+(一適用計畫
+
+1、具研究性質之計畫原則適用，並由本會考量各類計畫之屬性後衡酌納入，對適用計畫將主動於經費核定清單匡列彈性支用額度，核定清單未匡列者即不適用。
+
+2、追溯自101年10月1日以後仍在執行之計畫開始適用（不含新制多年期計畫以前年度已執行部分）。
+
+## (二額度計算
+
+1、每件計畫每年總額2%並以2萬5千元為上限（若為執行中計畫，以所剩計畫期程核算）；但
+
+(1)計畫執行期限未滿半年者，彈性額度折半計算。
+
+(2)多年期計畫(同一計畫編號)分年核計，但得於全程期間內使用。
+
+2、新核定計畫於核定時匡列，執行期間若有追加（減）者不再調整；現正執行中之計畫以最近核定（追加減後）之補助經費總額核算後匡列。
+
+3、上開額度於經費核定清單補助項目「業務費」說明欄增列乙點呈現（詳附件一）。
+
+4、考量部分計畫未核有業務費，為簡化程序，實際支用時授權執行機構得逕依內部行政程序簽報核准後自其他補助項目（研究設備費、國外差旅費）調整支應，如因額度調整，致該支用項目流用比例超過50%時免送本會同意。
+
+## (三支出用途
+
+1、放寬額度之支出用途範圍為與計畫相關之交通、接待國外訪賓之餐敘及饋贈、或國際交流等支出事項，其中如涉及現行法規訂有行政院一致規定者，除附件二所列事項外，仍應從其規定。
+
+2、涉及接待國外訪賓之餐敘及饋贈費用，不受本會補助專題研究計畫經費處理原則第4點第4款及第5款之限制
+
+3、所列不受行政院規範部分項目，除延攬國外專家學者部分，依實際支出數與院訂標準間之差額列計外，以各項目支出總額，列入支用彈性額度計算。
+
+## (四帳務處理
+
+1、經費支用仍應依支出憑證處理要點規定，檢附原始憑
+
+證核實報支，其真實性由計畫主持人負責。
+
+2、補助經費收支明細報告表另列一彈性支用額度之欄位，由執行機構填列實支數，以瞭解支用情形（詳附件三）。
+
+## (五)使用限制
+
+1、彈性支用額度僅限於計畫執行期限內支用，未支用額度於計畫執行結束後，不得保留使用。
+
+2、彈性支用額度不得轉撥至他機構執行。
+
+(六)控管機制
+
+經研究計畫主持人同意，得將所定額度之全部或部分，交由執行機構考量內部控制環境自行訂定統一控管方式，以增加整體使用彈性。
+
+三、有關行政院同意「各機關聘請國外顧問、專家及學者來台工作期間支付費用最高標準表」規定之報酬由教育部與本會審酌另訂標準部分，茲教育部刻正研擬中，本會將視該部研擬結果再配合辦理。
+
+四、相關規定如有疑義，請洽本會綜合處：電話：02-2737-7435、7440、7567、7568、7980、8010
+
+正本：國立臺灣大學等289個機構
+
+副本：本會各處室(均含附件)
+
+T01710726   
+12:09:07
+
+行政院國家科學委員會
+```
+
+<!-- OCR_END -->
+
+- **33. [超連結（檔案）]**: files/專案計畫-1030519起/21-1公務員執行公務應注意之法律問題與案例-201204.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=33 assetId=e4752a7922935c95 -->
+#### OCR 33: files/專案計畫-1030519起/21-1公務員執行公務應注意之法律問題與案例-201204.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/21-1公務員執行公務應注意之法律問題與案例-201204.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/e4752a7922935c95_21-1公務員執行公務應注意之法律問題與案例-201204.md
+- OCR 狀態: completed_cached
+- OCR 字數: 13199
+- 驗證狀態: ok
+
+```markdown
+# 公務員執行公務應注意之法律問題與案例
+
+法務部檢察司
+
+## 壹、何謂公務員？
+
+稱公務員者，謂下列人員：
+
+（一）依法令服務於國家、地方自治團體所屬機關而具有法定職務權限，以及其他依法令從事於公共事務，而具有法定職務權限者。（如工友但派收市場清潔費）
+
+（二）受國家、地方自治團體所屬機關依法委託，從事與委託機關權限有關之公共事務者。（如拖吊業者執行拖吊業務）
+
+## 貳、公務員身分衍生之責任
+
+## （一）國家賠償法
+
+公務員因故意或過失不法侵害人民自由或權利者，國家應負損害賠償責任。公務員怠於執行職務，致人民自由或權利遭受損害者亦同。如：
+
+修馬路的人孔蓋高於路面三公分以上。
+
+2. 馬路有凹洞不修補。
+
+3. 道路工程夜間未點燈警示。
+
+（二）因公務員身分犯罪而適用不同之法律
+
+1. 工友但派收市場清潔費侵占清潔費。
+
+2.老師打學生之傷害罪屬公訴罪。
+
+3. 加重其刑之規定
+
+（1）上訴人奉派服勤，竟假借職務上之權力，逼令周光輝在空白通知單上先行簽名，使行無義務之事，犯刑法第三百零四條第一項之罪，並有刑法第一百三十四條前段之適用。
+
+（2）按因賭博而生之債權，法律上並無訴權存在，警察人員自不得假藉公權力為賭徒追討賭債，乃竟以法辦相要脅，迫使黃政渠就範，出出立切結書分期償還并簽發本票，其非脅迫而何？
+
+## 參、早知道就不會做的事
+
+## 一、使用會員卡購置公物
+
+甲公務員負責總務業務，在大賣場採購公務上需要用品，於結帳之際，心裡想所採購物品之定價金額相當昂貴，自己本身又是該大賣場的會員，用自己的會員卡（信用卡）刷卡之後再回去公家機關請款，甚至公家機關因為甲使用其會員卡消費之便，而享有九折之優惠。這個行為在大家眼裡看來，究竟有沒有問題？值得推敲。
+
+這個例子乍看之下似乎沒有什麼問題，但是各位思考之時必須了解到一點：會員卡之使用可能涉及紅利積點問題！紅利積點的得利人是甲個人，甲本身有沒有圖利自己的犯罪問題？假使認為沒有，各位可能就要從另一個角度考慮另一個層面，「肅貪」大別為二：一為「司法肅貪」，另一則為「行政肅貪」，這個例子就算沒有司法犯罪的肅貪問題，是否還有行政肅貪問題存在？所以，這裡牽涉到一種很微妙的關係，行為人甲自認好心好意以其會員卡替公家機關省下一成的價錢，卻換來是否有積點圖利的評價問題！因之，各位日常處理公務時，不曉得原來有些情況如此嚴重。
+
+## 二、刷卡付費累積紅利點數
+
+某公營事業的負責人甲，每於公務上需要舉行餐會時，都自己處理餐費，用自己刷信用卡付賬買單，餐會費用每次動輒上萬元。經人檢舉此事，該公營事業負責人甲利用刷卡機會，累積紅利點數，該單位一年公務餐會消費金額大約三十萬，所累積的紅利積點所換得之兌換商品被其平白獲得………。我們依經驗法則來理解，這個公營事業負責人甲應該只是單純想貪小便宜，卻沒想到會有如此嚴肅的法律問題，因之，甲如果知道事態這麼嚴重，應當不會故意如此處理，換來不必要的麻煩，此即「知即不為」之適例。
+
+## 三、收兩斤茶葉也有事
+
+甲乙兩人是鄰居，平素不睦，某日乙向警察局派出所報案，稱其被人暗中打傷，懷疑是樓上住戶甲所為，後來警察偵破此案，行為人甲果然被移送，並由檢察官提起公訴在案，甲被起訴後，極度心有不甘，於是寫了一封檢舉信給檢察官，聲稱要檢舉派出所，因為當時他在派出所作筆錄時，被害人乙的父親提了兩斤茶葉來感謝。這在一般民眾認為係是一番好意，是人情世故，事實上並不足為奇，但是，派出所員警可能不了解其嚴重性，嚴格地解析，可分幾點來說，第一點，如果員警是違背其職務來幫忙被害人乙並且收下茶葉，可能構成違背職務的收受賄賂罪；第二點，如果員警係職務上依法作為而收下茶葉，有可能構成不違背職務的收受賄賂罪；第三點如不構成收賄罪，仍有可能有行政責任。
+
+## 四、不收答謝禮也有事
+
+公務員甲在一政府農林單位服務，某日因地目變更案由地政科專員帶隊至現場會勘，會勘後一同餐敘，席間參與會勘公務員因工作職務不同而分別受領廠商不等之答謝禮（現金），甲聲稱不收答謝禮，但仍會配合照辦。經檢察官起訴後，一審法院判處甲十年徒刑，大家一定奇怪，甲已拒絕收受紅包，何以仍被判罪，理由在於：因該次餐敘費用共兩千三百元係由廠商支付，而會勘同意地目變更，於法不合，所以係屬違背職務收受不正利益。就在法言法之層面言，確實有犯罪問題，但本例情形實在令人印象深刻。
+
+## 五、接受飲宴和汽車代步都不行
+
+有一工程單位，幾乎有一半的公務員因某賄賂案被起訴，因該案之工程施工進行期間，每逢星期例假日，不同系統的同事相偕輪流至該營造廠處接受招待，視交情不同而分為數種等級程度的招待（如吃飯、喝咖啡、唱歌、地下酒家跳舞、看鋼管秀、性招待等），被起訴的數被告當中，其被訴事實還必須專題演講 92依據接受招待的等級不同來分表製作。表面上，被訴的公務員僅接受飲宴歡樂招待，並未另外收受紅包，但如同前例，我國賄賂罪，包括賄賂與不正利益二種，上述飲宴招待即為不正利益，同時，該案中，某公務員向營造廠聲稱，到工地看施工情形沒有交通工具很不方便，要求廠商提供新車當交通工具。在事情爆開之後，發現該新車平日皆由甲使用，甲僅至工地二次，汽車實際上由甲及家人使用，前後二年半之久。甲辯稱該車僅作為其至工地「代步」之用，然調查局人員卻於營造廠公司帳冊內查出，該車歷來的開銷（如汽油費、保養費等）皆由公司負責。客觀評斷，甲收受「汽油費用」之現金即屬收受賄賂。
+
+## 六、廠商代付筵席費也是收受賄賂
+
+某公家機關主管大擺筵席熱鬧娶媳婦，喜宴的紅包錢由甲自己入袋，酒菜錢則由負責監督承包工程之營造廠全額支付，後來事情被掀開，甲的行為也是涉嫌構成收受賄賂行為。
+
+## 七、要廠商接受子女上班也是不正利益
+
+公務員甲專責執行取締工廠違法排放污水業務，某化工廠負責人乙向甲訴苦景氣不佳生意難為，並請甲高抬貴手，甲乃謂可以幫忙，希乙同意其子到工廠上班，過些時日，甲被檢舉其兒子丙（化工科系畢業）在乙之工廠上班工作，經再查，乙化工廠果然先前時日罰單確係經常被開立告發，而經乙介紹給丙新工作之後，乙化工廠後來都未再被取締，公務員甲乃被追究收受不正利益。
+
+## 八、接受性招待也是不正利益
+
+某法警甲奉職務之命押解女被告乙女從台中至台東，時值深夜，被告乙女以路途尚遠，天色已暗為由，要求夜宿屏東旅館，並且於投宿登記時主張只開一間房間，以防自己脫逃，甲乙於是共處一室並發生性關係，第二天員警甲醒來發現乙女早已經逃逸無蹤，甲心想這有過失縱放人犯問題，可能會被處分，所以甲緊急連絡長官告知此事，經被移送法辦，案由即係未違背職務收受不正利益。
+
+## 肆、錯誤的法律認知
+
+## 一、竟然不知道自己洩漏機密
+
+行政主管為其公事要務常外洩苦惱，而且三令五申要求，同仁似乎也照辦，但外洩仍有所聞，經暗中觀察，不得其解，某日，突想到其中可能性，乃把辦公室工友找來，向渠等聲稱往後下班時間所收紙類垃圾皆不必勞駕處理，全部送到伊辦公室來，經其找來親信加以檢視所有紙類垃圾，終而發現同仁將未完稿的文件或應保密之公文隨意撕毀丟棄，以致消息易為人得悉。這個例子很平常，原因是很多公務員常常主觀上自以為是而未深入思考乃隨意棄置文件。
+
+## 二、竟然不知道自己犯了妨害公務罪
+
+某公務員乙在其公文擬稿之後，經股長丙蓋章之後，因專員丁有不同意見而退件至乙處清稿，乙依命重行擬稿，經層批之後也順利交繕。問題在於，原來第一次所擬之稿（僅經股長丙蓋章而被專員丁退件者）應該如何處理？一般來說，大家可能習慣性地往垃圾桶丟擲。這裡請大家思考一個問題，你作此一丟擲公文的行為？你有沒有權力擅自將公文撕毀掉？如果沒權如此處置，這裡可能涉及妨害公務的問題。
+
+刑法第一百三十八條就妨害公務規定，行為人毀棄或損壞公務員職務上掌管之文書或物品等等行為，可處五年以下有期徒刑，這些文書或物品事實上並非行為人所得以擅自銷毀的，就本例來分析，倘若公文書上僅有乙自身蓋印，則重行擬稿應無大礙，僅係不當之問題，然倘若公文書上尚有股長丙之蓋印，此即非乙自己所得掌控的文書，乙當然不能擅自丟棄，否則會涉及法律責任。
+
+## 三、不批「可」就沒事嗎？
+
+公務處理普遍存在一個現象，為省麻煩，多數公務員多批「依規定辦理」、「如符合規定，照辦」等等字眼，某公務主管甲公文僅蓋其印章，留一個空白處而不批任何裁示字眼例如「准」、「可」等等，以為我未寫，就不會有責任，但大家思考一下，這樣的情形能不能發文？當然能！所以縱然未批任何裁示「准」、「可」等字眼，仍然一樣有法律效果。因此，公文處理的問題，需要運用各位的智慧，很多公務員常因自以為是之心態，對法律認知之精準度不夠而動輒容易造成涉嫌刑責之結果，不可不慎。
+
+## 四、歸檔後的來文可以撕掉嗎？
+
+公務員甲處理某案件，在該案件告一個了斷之後，所有的資料也已經歸檔完畢，突然又來一件公文供參，但是前卷已經不在了，這種情形甲該如何處理？很多公務員可能認為該案件早已結案，認為嗣後的來文與原案全卷之間並不具備關聯性，遂將其來文撕毀。這又與前述刑法第一百三十八條妨害職務上掌管之文書物品罪有關，因之本條之處罰，相信可提供另一個法律適用的視野。
+
+## 伍、便宜行事出問題
+
+## 一、補送照片變成湮滅證據罪
+
+某高等法院審理一宗刑事案件，某刑事單位小隊長甲接到法院來電稱，本件車禍案件在移送書上載明附件相片九張，為何實際上卷宗所附相片卻只有六張？小隊長甲遂緊急拼湊補上三張相片，法官卻一眼看出甲所補三張相片，並非同一台相機所拍攝，經查，係承辦人甲疏忽把部分相片遺失，嗣後跟記者求援所遞補而來。本例情形，該拼湊行為在法律上會不會有問題？值得推敲。
+
+在刑法第一百六十五條規定，湮滅他人刑事被告案件之證據者構成犯罪行為，大家必須有一個觀念，應該教導我們員警同仁抱持「欲蓋彌彰反於事無補」「事情處理錯誤，不要再弄巧成拙反而被科處刑罰（刑事責任）」的認知。
+
+就以本例來說，該小隊長甲倘若一發現相片張數短少，就應該自請行政處分，往往可能僅係口頭訓誡等，何必再另外拼湊三張出來，被懷疑涉嫌凐滅證據罪，縱然罪名不至成立，但何苦白白浪費程序經濟（刑事偵查程序上所付出之時間、金錢及精神體力）？
+
+## 二、挪用會犯侵占罪
+
+現在電腦犯罪問題氾濫，員警同仁所查獲供犯罪行為人實行犯罪行為所使用之物（電腦零件），通常設備都比公家的器材先進，某員警甲某日查扣某批犯罪所用電子器材，就向同仁乙聲稱，其單位本欲採購相同器材零件的費用可以省下來，就把該批查扣器材零件直接拿來裝上去使用即可，被告的設備比較好，自家單位申請採購手續太耗時冗長云云。本例乍看之下，似乎僅是以被告之物拿來應急的便宜行事行為，並且員警甲主觀上係一心為公，但是實際上，員警甲之挪用行為所牽涉之法律問題還是存在。
+
+## 三、借用扣押物品也不行
+
+某河川管理局人員甲，專責取締河川砂石盜採業務，覺得使用推土機將相當方便，某日，某包商乙在某河川上游相隔一段距離不遠整治河川，因為整治進度太為遲緩，而上級長官於近日將蒞臨視察，眼看時日將近而完工實屬不能，甲遂告知乙，稱其人員在下游兩公里處查扣非法盜採砂石業者丙之先進新型機械，指使包商乙將該查扣機械先行挪用應急，這也是便宜行事行為。本例經被檢舉，甲把他人（丙）的物品同意給第三人乙使用，甲主觀上也是好意為公事著想，但是實際上，甲之挪用行為所牽涉之法律問題還是存在。
+
+由上可知，便宜行事若是對法律之不知或誤解，應予導正；若出於僥倖，則需改正自己錯誤觀念，以免事發後才知道「代誌大條」不好收尾。
+
+## 陸、情輕法重－情與法的掙扎
+
+## 一、擅查資料觸法
+
+某老員警甲即將屆齡退休，某日甲值班而其好友乙適來訪，向甲聲稱，近日其小女兒丙新認識一位男友丁，其見丁言行不滿意，乃向甲求援是否能私下調查丁男是否有前科等不良紀錄，員警甲聽好友乙如此一提，二話不說立即進入電腦查詢系統查閱並列印丁男相關資料。各位思考一下，老員警甲此一非出於公務目的之查詢行為，除了係情理之常屬日行一善之外，有沒有涉嫌刑法第一百三十二條洩漏國防以外之秘密罪之相關問題存在？
+
+## 二、大案化小案，吃不完兜著走
+
+派出所員警某甲受理被害人乙聲稱被綁票之案件，甲心想登載綁票案件太過嚴重，於是受理案件登記之時僅予載明「財務糾紛」字眼，認為其僅民事財務糾紛案件，不涉刑事問題，這就是一般俗稱「大案化小案之情形。雖乙不斷爭執係「刑事擄人勒贖」而非「民事財務糾紛」案件，員警甲只將該案函送地檢署（有犯罪嫌疑則以移送方式為之、無犯罪嫌疑則以函送方式為之），大家思考一下，員警甲的處理方式有問題嗎？事實上是有問題的，民眾乙來報案是要請員警甲記明「綁架」，究竟會不會構成綁架犯罪行為應予調查，員警甲如此更改，有無成立偽造文書？值得深思。
+
+## 三、報出差因小失大
+
+是有關詐欺行為之說明，在公務員執行職務行為之時，是否容易牽涉到詐欺行為呢？簡單一句話來說就是「名實不符」的情形，最常見的公務員所請領之出差費與實際支出費用不相同，這就有涉嫌詐欺行為之可能。某公務員科長甲、科員乙、丙等三人接獲上級公文通知須北上至中央機關開會，依據人事規定可以報出差三天，兩個科員心想，開會時間係當日上午十點，當天清晨啟程北上即可，並獲科長應允。嗣後並因該會之議事項目不具爭議性，故提早於十二點三十分結束，甲乙丙中午即搭車南下各自返家。就該個案來分析，甲乙丙三人第一天並未北上出差，第二天晚上也回家住，第三天也未出差，但實際上卻都請領了膳雜費及住宿費，這種行為可能有涉嫌貪污治罪條例第五條第一項第二款「利用職務上之機會，詐取財物者」的問題存在。  
+此外，在本案例中，科長甲的罪責部分尚須加上包庇貪污行為之罪責而更為加重，其身為主管竟進而包庇所屬人員，參照貪污治罪條例第十三條「直屬主管長官對於所屬人員，明知貪污有據， 而予以庇護或不為舉發者，………」規定，即能明白。
+
+## 四、同情換來重罪
+
+某交通警察甲剛從學校畢業，承辦取締交通違規業務，某日甲在路邊執行臨檢，恰巧機車騎士乙女被攔下來，乙女係未考取駕照之人，甲於開單（無照騎車）之際，乙女以貧困為由苦苦哀求，甲心軟之下遂告知乙女，倘若乙女在一個星期之內能找出與其同名同姓之騎士第三人，讓其以「未帶駕照」為由銷案，就放其一馬。乙女果真如期找出同名同姓之人，並至交通隊銷案。隔一段時日後，員警甲收到地檢署檢察官的傳票，案由係瀆職，甲本來認知是日行一善的好事，竟然被起訴了！不論是圖利或登載不實罪來說，刑責都非常重。
+
+## 五、放人家一馬，自己也犯罪
+
+高速公路某限速的路段，員警甲將超速行駛之駕駛乙攔車下來開單，乙以與甲同鄉為推詞猛套交情，員警甲礙於情面遂以「穿拖鞋開車」為由開單而將乙放行，乙故態復萌依然一路超速，在離不遠的三公里之後路段又被員警丙攔車，乙如法炮製向員警丙聲稱「我剛剛也是超速， 但是員警甲放我一馬………幫忙一下！」，員警甲之公務登載不實行為於是被揭發。
+
+從後面兩個例子來看，員警在公務文書登載等行為上，是否屬於違法行為，抑或僅僅係基於「情」跟「理」的考量所為的表現，值得各位思考。從法律嚴肅性來看，此公務行為，在情理上或許可以理解，但是在法律上卻難以容許。換句話說，員警同仁日常執行公務行為或有潛藏某種程度觸法的危險性而其自身卻不知其法律後果。
+
+以案例五來說，超速行駛是不被允許的，員警不能推諉不知有此交通安全法令之規定，客觀上很容易被解釋是存心幫忙違規者，而「存心」幫忙實際上是法律所講的故意，所為顯然合於犯罪要件。
+
+## 柒、貪污案例解析
+
+## 一、侵占公物罪
+
+刑法第三百三十六條規定，對於公務上所持有之物，而予侵占，處一年以上，七年以下有期徒刑，得併科五千元以下罰金。本罪之成立，指公務員意圖為自己或第三人不法之所有，將持有之物據為己有，是行為之客體，須為公務上所持有之物，即基於公務上之原因而持有之物，如出納人員所經管之款項、總務人員保管之電腦。侵占行為，指易持有為所有之行為，即將他人之物變易為其所有，如新聞室人員將保管之相機帶回家據為己有。本罪為即成犯，只要易持有為所有時，即構成犯罪，縱然事後將侵占之物品返還，仍成立侵占罪。
+
+又貪污治罪條例第四條第一項第一款，明定侵占公用或公有器材、財物罪為重大貪污行為。凡公務員將保管（持有）之物，變成己有，是侵占，其刑責甚重。所謂「公用」，只要供公務使用即屬之，並不以公有為限，例如政府徵收私人車輛、向私人借用之電腦；又「公有」指公家所有之財物，包括購入、他人贈送或互換之物。「器材」，指器具材料，如：文具、桌椅；「財物」，指財產物品，包括動產與不動產。
+
+另本條例第六條第一項第三款，另處罰：「竊取或侵占職務上持有之非公用私有器材、財物者」。例如學校老師代收之家長費、代辦費，又如公務員執行職務所查扣之證物。
+
+二、建築或經辦公用工程或購辦公用器材、物品，浮報價額、數量、收取回扣或有其他舞幣情事。
+
+## （一）浮報價額數量
+
+某鎮公所委託工程顧問公司規劃設計監造公墓納骨堂暨週邊設備公園化工程，由尚德公司得標承攬施作。施工期間由於受理民眾登記預購之數量過多，致該工程原設計施作之納骨堂不敷使用，鎮長遂要求尚德公司在該工程合約範圍以外區堿，先行超額施作四百十二萬九千七百零九元之納骨櫃，以因應民眾需求。尚德公司依某甲要求施作完成後，該鎮公所因無法支付該等超額施作納骨櫃之款項，鎮長勸說尚德公司將該等多所施作之納骨櫃全數贈與鎮公所，尚德公司遂簽立切結書同意贈與。
+
+該鎮公所後後另辦理再增設納骨櫃工程，該工程仍委託原來的工程顧問公司規劃設計監造。詎鎮長於該項工程設計期間，指示不知情之工程顧問公司，將前揭尚德公司已施作完成並贈與該鎮公所之納骨櫃，全數重複設計納入於再增設納骨櫃工程之施作項目中，浮報公用工程之價額及數量，再於就此項工程辦理招標，由中華公司承攬施作。
+
+中華公司負責人於得標後即赴施工地現場勘查，即發現上情，並向該鎮公所反映，惟鎮長仍要求中華公司依圖施作，已做好部分屆時再扣除，惟未告知承辦及驗收相關人員；該鎮公所驗收時，發現尚德公司超額施作之納骨櫃竟納入該工程驗收範圍，遂將該等納骨櫃扣除而未予納入結算。又鎮長為遂行其犯意，於召開會議欲討論如何將遭扣除款項仍行支付一事，惟遭政風及主驗等人員反對，致某甲犯行未能得逞。
+
+本案公務員某甲對於公用工程納骨櫃之增設，明知第二期興建工程已搶先施作，並經B公司贈與完成，仍納入增設案重複設計，浮報價額數量犯意甚明，案經檢察官於九十二年三月依貪污治罪條例第四條第一項第三款之罪提起公訴。
+
+## （二）浮報價額收取回扣
+
+某機關主管，因主管特支費不敷其年節送禮及交際應酬等開銷，乃與負責機關採購及修繕業務之總務及會計勾結，指示總務利用購置辦公物品及經辦修繕機會，以浮報價額或向廠商收取回扣等手法，從中牟利，並由會計將該不實之浮報數額，登載於職務上製作之該機關帳冊，共計牟取新台幣九十二萬六千七百八十二元。經台南高分院以貪污治罪條例第四條第一項第三款「經辦公用工程浮報價額，收取回扣」，判決甲處有期徒刑十一年褫奪公權六年，乙依同罪處有期徒刑四年褫奪二年，丙、丁二人處有期徒刑五年三月，褫奪公權二年，甲、乙、丙、丁犯罪所得財物，應予追繳，發還該機關，如全部或一部無法追繳時，應以其財產抵償之。
+
+公務員乙、丙二人於審判中辯稱，伊等完全依照甲之指示做事，所得款項均支付甲交際之用，伊等並未從中獲利，且依公務員服務法規定，對於長官就監督範圍內所發命令，屬官有服從之義務，故渠等二人實無貪污意圖。乙、丙二人對上述法律有所誤解，按刑法第廿一條第二項訂有明文「依所屬上級公務員命令之職務上行為，不罰。但明知命令違法者，不在此限。」乙、丙二人身為公務員，對於購辦公用器材、物品浮報價額係屬舞弊，焉能諉為不知，故接獲長官甲違法之命令，自當依法據理陳述，拒絕為之，詎捨此不為，仍聽令行之，浮報費用供甲龐大交際費用之支出，自難以「奉命行事」圖卸刑責。
+
+另丁於審判時辯稱，渠到任後經甲指示說送禮請客的錢可報銷，因主管特支費費有限，所以從不同科目中支出，伊認為只是違反行政規定，有過失，但沒有貪污。然法官認為依中央政府各機關單位預算執行要點「科目間之流用規定」中，固有他項預算科目可流出百分之三十流入行政事務費，供單位主管公務需求利用規定，然非謂可以浮報或虛報價額，使國庫增加無謂支出之方式，互為流用。丁身為會計人員理應瞭解上述規定，故其辯解不為法院採信，仍獲判重刑。
+
+辦理採購及經辦工程之總務人員，通常均係單位主管之親信，但亦因此二者關係密切，故主管常將其個人無法報銷之交際應酬費用，由總務設法墊付，總務因薪資有限，即常因此而以非法方式代為付款，以致觸犯貪瀆罪，各機關經辦總務人員應加注意，以免因對法律認識不清而不慎誤蹈法網。
+
+## （三）購辦公用物品舞弊
+
+某機關主管，知悉該機關會計年度預算「車輛管理」項目下尚有餘額十萬餘元，乃指示總務購置汽車材料為名消化預算，總務即請汽車修配所負責人提供估價單三紙；主管和總務均明知汽車修配廠得標後，並未將該機關採購之材料如雨刷片、輪胎、機油等交貨，仍與驗收通過．並將貨款九萬五千八百元之公庫支票交予總務。總務並丙表示支票兌現後，可先扣除甲、乙二人所欠之修車費，餘款四萬七千七百元退給總務，並經主管指示將該款項用於該機關舉辦之自強活動。
+
+甲、乙於驗收時明知汽車零件並未實際購入，且未與廠商丙約定交貨之時間，即迅速驗收該付與丙貨款，可見渠等自始即無採購之意，因與上述最高法院認定之構成要件不符，而不構成購辦公用物品舞弊罪。惟法官認為甲、乙二人以採購汽車零件之公款，任由丙扣抵渠二人所欠之私人轎車維護費用後繳回餘款，其二人共同圖利於己之犯意已甚明確，加以辦理採購業務係渠二人主管之事務，故與貪污治罪條例第六條第一項第四款對於主管之事務圖利罪之構成要件相符，法官以圖利罪各處有期徒刑參年，另對甲、乙二人連帶追繳扣抵之修車費用肆萬捌仟壹佰元。而在廠商丙之部分，法官認為丙對甲、乙二人未交貨、驗收，即行付款之事實係屬知情，竟於收受該筆採購公款後受乙指示，抵扣甲、乙二人之修車費，顯然與之有共同圖利犯意之聯絡，故法官亦以圖利罪共犯判處丙有期徒刑壹年六月，其扣抵之修車款亦予追繳發還該機關
+
+## （四）經辦公用工程收取回扣
+
+台南縣麻豆鎮辦理「市五」零售市場新建工程，當時的鎮長沈國民利用契約綁標方式，讓力嘉營造標作工程，沈再從中索取回扣二千三百餘萬元。高等法院台南分院更四審昨天依貪污罪將他判刑十二年六月，刑度比一審還少兩年半，法官同時宣告追繳犯罪所得。
+
+沈國民（五十八歲）於八十四年間擔任麻豆鎮長，當時鎮公所辦理市五零售市場新建工程之土木建築工程部分招標，預算金額高達二億三千八百餘萬元，他為了讓力嘉營造公司負責人張輝盛（行賄部分判決無罪確定）承包這項工程，刻意在招標工程補充說明書訂定：「本工程如因甲方（指麻豆鎮公所）無法支付工程部分款時，乙方（指得標廠商）不得要求停工…倘逾期完工…每過期一天扣除工程總價千分之一」等不合理的工程付款方式，及未付款時廠商應自籌巨額款項完成工程之約定，讓其他廠商望之怯步，而不敢參與該工程投標。
+
+除了綁標外，沈國民還故意洩漏底價給張輝盛，「市五」工程於八十四年三月二十日開標，麻豆鎮公所雖於招標期間共售出十四支標函，但開標當日卻僅力嘉營造、通億營造、信嘉營造及鉅榮營造等四家由張安排的廠商參與投標，最後，由力嘉營造以二億三千八百萬元得標。
+
+力嘉營造順利取得工程施作後，張輝盛依約給沈國民一成回扣，並從八十五年三月底至七月底，分八次簽發支票合計交給沈二千三百六十萬元。此案，一審用違背職務收受賄賂罪論罪判十五年，二審則改用經辦公用工程收取回扣罪論處。
+
+## 三、對於違背職務之行為，要求、期約或收受賄賂或其他不正利益
+
+## （一）經辦採購收回扣
+
+胡鐙云擔任台南縣政府教育局體健課課員，負責監管經辦該局及縣內各中小學學校體育、健康預算執行，胡女利用其辦理補助轄內各中小學改善飲用水設施工程經費機會，未秉公處理招標事宜，竟違背職務與承包飲用水工程廠商普健實業負責人劉文彥勾結，由胡女利用職權，出面向學校關說，讓劉文彥得以其所有或投資的普健、佳健、正同及由協力廠商精濾企業、世億、上盟及吉工業相互陪標、圍標方式，承攬台南縣內多數學校飲用水工程。劉文彥標得工程給予胡鐙云每件工程費一成回扣。
+
+吉喆公司負責人顏水上（經依證人保護法為不起訴處分）經由劉文彥仲介獲得胡女幫助，順利以吉喆公司名義承攬麻豆、港尾及竹埔等三所國小改善飲用水設施工程，其後由劉文彥出面向顏水上要求交付所承包工程經費一成回扣給胡女。
+
+## （二）違背職務收受回扣
+
+某鄉衛生所主任明知某甲之死因並非病死，而係上吊自殺，竟違背職務制作不實之死亡證明，在其公務上制作之公文書上，違法填寫死因為突發性心肌梗塞並將死亡證明書交付給某乙，而某乙即以紅包內裝數千元之賄賂交付給衛生所主任制作不實死亡證明書，食髓知味的結果最後終遭到法律之制裁。
+
+四、行賄罪
+
+又公務員之收受賄賂行為，源於相對人之致送賄賂而成立，但公務員職務上本來即應辦理之事項，民眾因某種原因而行賄，若予處罰，實欠公允，法律上對此並不處罰，茲以簡表分析如下：
+
+<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>公務員收紅包</td><td rowspan=1 colspan=1>民眾送紅包</td></tr><tr><td rowspan=1 colspan=1>對於公務員違背職務的行為</td><td rowspan=1 colspan=1>有罪</td><td rowspan=1 colspan=1>有罪</td></tr><tr><td rowspan=1 colspan=1>對於公務員職務上的行為</td><td rowspan=1 colspan=1>有罪</td><td rowspan=1 colspan=1>有罪</td></tr></table>
+
+不違背職務行為行賄罪，立法院於100年6月7日三讀通過。
+
+## 捌、圖利與便民
+
+便民服務已成公僕工作之重要信條，而圖利罪被訴又常有所聞，以致許多公務員對便民與圖利難以分辨，又因不深入了解其內涵，往往有錯誤之觀念，以為執行公務不容易拿捏，只要稍有不慎就即可能觸法，造成處事不積極、遇事不果斷。其實，公務員圖利罪必須犯罪行為人及其圖利行為與所執行之職務發生關連，始能成立。
+
+政府為使公務員勇於任事，積極為民服務，提昇行政效率，於民國九十一年十一月七日對圖利罪作如下重大修正：
+
+1.增加「明知」為主觀要件。
+
+2.限制法令之內容：違背法令。
+
+3.加列「圖自己或其他私人不法利益」。
+
+4.修正為「結果犯」，因而獲得利益。
+
+5.刪除「未遂犯」之處罰。
+
+修正結果，使圖利罪之構成要件更為嚴謹明確，公務員執行職務時易有遵循之依據，因之修法後，已將圖利國庫、圖利未遂除罪，不予處罰，但仍應注意：
+
+一、公務員之行為，使國庫或公眾獲得利益時，並不構成圖利罪。若圖利國庫行為致人民權利受損，有可能觸犯偽造文書等或有國家賠償責任。
+
+二、修正後之圖利罪係採結果犯，無處罰未遂犯之規定。但該圖利行為如已涉及偽造文書等罪或有其他行政責任，仍應依相關規定究辦處罰，並非毫無法律責任。
+
+三、公務員之違法失職行為，如不構成圖利罪，而符合收受賄賂、竊取或侵占公用財物、詐欺等罪時，仍應依各該罪處罰。
+
+法文中所稱「明知違背法令」，其「法令」包括法律、法律授權之法規命令、職權命令、自治條例、自治規則、委辦規則等，對多數不特定人民就一般事項所作對外發生法律效果之規定。至於違反僅具內部效力之行政規則或契約條款，不包括在內。又所謂「明知」係公務員有圖私人不法利益而違背法令之直接故意而言，亦即所謂「明知故犯」之意，公務員如僅辦事過失或有所疏失違反法令或者誤解法令，因非明知並有意使其發生，自與「明知」之要件不符，不構成圖利罪。
+
+目前各機關訂頒許多有關內部執行參考之裁罰基準，在圖利罪修正前，公務員如果違反該裁罰基準，而使人民獲利，會被認為是圖利行為。但修正後，因該裁量基準係供裁罰機關內部人員之參考，僅有內部效力，對外不發生法律效果，與一般人民無關，如裁量時僅係違反該基準，而未違背法令，原則上不會構成圖利罪，只有行政責任。
+
+有關公務員圖利罪，以其犯罪行為區分，可分為「對於主管或監督之事務，直接或間接圖自己或其他私人不法之利益者」及「對非主管或監督之事務而利用職權、機會或身分圖自己或其他私人不法利益者」二種類型。
+
+所謂「主管事務」，係指公務員依法令之規定而在其職務範圍內有主持或執行職限之事務，不論時間久暫、全部或一部、主辦或兼辦，且不以有決定權為必要，亦不須考慮係法令直接授與或係長官事務之分配。又監督事務係指公務員依據法令規定，對於該事務雖無主管之權責，但本其職權，對之應負監管與督導職責之事務，一般而言，凡行政系統上級長官對下級成員之職權均有督促監督之權。
+
+從司法實務之案例觀之，圖利犯罪最常見之方式如下：
+
+（一）對於不合規定之申請案，違法准許。
+
+（二）未依規定而違法補助。
+
+（三）未依規定減免相關費用、稅捐。
+
+（四）高估或虛估補償費用。
+
+（五）未依規定作業，違法減少裁罰數額。
+
+（六）以不實之鑑價報告為鑑價標準，俾便超額貸款。
+
+（七）以分割產權或人頭戶方式，規避放款額度。
+
+（八）未依招標規定程序，違法決標。
+
+（九）洩漏底價、便利廠商得標。
+
+（十）明知不合規定或偷工減料，違法仍予驗收或准予報銷。
+
+（十一）曲解法令，予以迴護週全，給予不法利益。
+
+## （十二）違法行使行政裁量權。
+
+在此特別說明者，公務員依法令之授權，固有裁量之權限，然其權限之行使並非完全自由，無所限制，除需遵照法令規定，必須就事務本身依公平、客觀原則並考慮裁量目的予以決定，如公務員對具有裁量性質之職務上行為，在其權宜裁量作成決定之過程中，濫用或超越其裁量權，甚而顧及相對人或自己之利益，將事務本身以外因素作為裁量之依據，以致影響裁量決定之公平性與正確性，此種明顯違背執行職務之際所應遵守之義務，可能構成圖利罪責。
+
+又從採購營繕之內涵以觀，其可能涉及之圖利弊端，列述如下：
+
+（一）採購事務可能發生之弊端：
+
+1.虛構項目。
+
+2.浮列單價、數量。
+
+3.指定廠牌。
+
+4.虛偽比價。
+
+5.分批（次）採購。
+
+6.迴避登報公告。
+
+7.檢驗（驗收）與不實。
+
+8.閒置呆料。
+
+## （二）營繕工程可能發生之圖利等弊端：
+
+1.規劃設計：不實設計、高估單價、虛列數量、蓄意綁標。
+
+2.訂定底價：訪價不實、未曾訪價、高列底價、洩漏底價。
+
+3.招標事務：刁難廠商、形式合法、虛偽比價、協助圍標、輕易廢標。
+
+4.工程施工：隱蔽部分偷工、未按圖施工、施用不良材料、監工不確實、自行變更設計、擅自同意展期。
+
+5.驗收請款：高估施工、虛估進度、驗收草率、掩護驗收、刁難索賄、使用假單據。
+
+6.違約處理：未依約沒收、未依實際扣款、未予罰款、擅自發還保證金等。
+
+公務員對於「圖利」與「便民」很容易混淆，其實分辨並不困難。公務員依據法律執行公務，所做的行為是根據法律命令，在法律範圍內給予民眾 方便，這就是便民。如果違背法律的規定，給民眾方便，那就是圖利，只是一線之隔。「圖利罪」和「便民措施」最大區別在於合法性及內心有無犯罪之故意。所以圖利罪應處罰，便民措施則應予以鼓勵。
+
+## 玖、餽贈或賄賂之分界
+
+餽贈或賄賂均是財物。但餽贈通常是可吃可用的禮物，賄賂是金錢或可以金錢計算之財物不正利益是指賄賂以外足以供人需要或滿足人之慾望一切有形無形之利益而言。就致送餽贈或賄賂的人的主觀意思而言，餽贈是人之常情，於沒有特殊的利害關係時，仍然會有此種送禮，所以，沒有一定之目的，如去看朋友帶點禮物賄賂或不正利益，則有一定之目的，就是希望致送賄賂或不正利益的結果，使公務員違背職務之行為（警員開罰單給紅包、警員圖利電玩案、某議員圖利長億案、某處長圖利案）或職務上之行為給予方便（如公立醫院婦產科醫師或外科醫師手術前收取紅包）。
+
+## 拾、結語
+
+知法守法自由自在。
+```
+
+<!-- OCR_END -->
+
+- **34. [超連結（檔案）]**: files/專案計畫-1030519起/21-2法律講座-實務案例_-201204.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=34 assetId=357d76dbac342ddf -->
+#### OCR 34: files/專案計畫-1030519起/21-2法律講座-實務案例_-201204.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/21-2法律講座-實務案例_-201204.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/357d76dbac342ddf_21-2法律講座-實務案例_-201204.md
+- OCR 狀態: completed_cached
+- OCR 字數: 3989
+- 驗證狀態: ok
+
+```markdown
+## 實務案例
+
+報告人
+
+法務部檢察司
+
+吳義聰
+
+![](images/4161e49c6671af65b8f3aa029c625714d7ae2df4ccd5dc9134be23698b110ea1.jpg)
+
+## 人頭詐領研究薪資
+
+高院 93年度上訴字501號
+
+A 共同連續行使偽造私文書，足以生損害於公眾及他人，處有期徒刑伍月，如易科罰金均以玖佰元折算壹日，緩刑貳年。
+
+## 人頭詐領研究薪資
+
+![](images/0ea376aaa6d37de2508facabd90527a95f32405e2bc5a265bb10e94a780c0c1e.jpg)
+
+A係國立○大學專任副教授， 並為該校技職中心組長。 C
+
+朱○、黃○則均係A指導之碩士班研究生。
+
+![](images/1939fa387dd8bf223e8805eca6ae100a97869885de60c5fde17ead03a74b29cb.jpg)
+
+## 人頭詐領研究薪資
+
+於民國86\~88年間，環保署、臺電公司、教育部分別委託○大學辦理之「○系統製作」、「○網站系統建置」等計畫，均由技職中心執行，計畫負責人均為A並總攬計畫之人事及經費運作。
+
+## 人頭詐領研究薪資
+
+![](images/570752a9ea019d424224885dfc153d9f9df0eda2b7f6278ffb0f67e3fe808555.jpg)
+
+A與朱、黃間各基於意圖為自己不法所有之概括犯意聯絡，由A支付所得稅款，而由朱、黃取得「人頭」虛報溢領上開計畫助理薪資。
+
+提供不知情之人虛列為研究助理
+
+## 人頭詐領研究薪資
+
+![](images/487425859035591ca946f28994fc70a1d043f5d18ca6eb5aae04f88bdac9a015.jpg)
+
+將人頭之年籍資料登載在各計畫所製作之薪資印領清冊、領款收據，並偽刻彼等印章蓋於收據上，進而偽造領取薪資證明之私文書（偽造私文書罪）。
+
+## 人頭詐領研究薪資
+
+![](images/53109430007aa0b66f105faef123ba3fd4e67a80f0725b4d5e38bc9074a83f9c.jpg)
+
+ 因計畫經費先由各該委辦機關核撥予○大學，由該校先行審核發放，再依契約約定於計畫特定階段或終結後再向委辦機關報銷。
+
+A、朱、黃三人乃將薪資印領清冊、領款收據交大學會計室憑以 填製不實內容之「各類所得扣繳暨免扣繳憑單」，並申請詐領計畫經費。
+
+## 人頭詐領研究薪資
+
+![](images/be5881b2dcb790639db826c2e0d8fd62974fb0cbe3c43e54ec2c7a08c13dbeee.jpg)
+
+分別詐得新台幣39萬8千元（A與朱共犯虛報2助理薪資部分）、44萬9970元（A與黃共犯虛報1助理薪資部分），均足生損害於計畫執行監督及管理之正確性。
+
+## 人頭詐領研究薪資
+
+![](images/593c41fd3823c04d4ad1f10d83258497b07cd01ab7e6821434259f84a1e7f5e0.jpg)
+
+A辯以某等非人頭，均有參與計畫工作，經費報銷及帳務管理等會計工作均由行政助理所負責，其不知悉，經費 請領撥款存入之帳戶，印章及金融卡均放在研究室…未經手亦無從中得利云云
+
+![](images/c55201e802470332d7bda3376ca10d0b1b0bc3bf01b101aa730df535f00d891e.jpg)
+
+## 人頭詐領研究薪資
+
+A與朱、黃共同犯刑法第二百十六條、第二百十條之行使偽造私文書罪，同法第二百十四條使公務員登載不實文書罪及同法第三百三十九條第一項詐欺取財罪。
+
+## 詐領經費
+
+![](images/8d67d7c3f9a1dc3b62468f64dfe379544c100edde949c5a6af5fb6e657b45697.jpg)
+
+B依據法令從事公務之人員，共同連續利用職務上之機會詐取財物，處有期徒刑參年陸月，褫奪公權肆年。犯罪所得財物新台幣參拾肆萬元，應與劉○連帶追繳，並發還被害人國立○大學；如全部或一部無法追繳時，應以其財產抵償之。
+
+## 詐領經費
+
+![](images/1740b239fed58e76033361400d6ae7607592b3499680fac86d19089599288d5e.jpg)
+
+B所屬○大學規定，接受私人公司委託研究計畫之經費，均應依規定納入校務基金，並設立計畫專帳管控，由計畫主持人「專款專用」。
+
+## 詐領經費
+
+![](images/b092234ed1d6fb576e3d8a556ae8074b72638976c17701989cab33878271596e.jpg)
+
+ 又，○大學請領採購款項程序，須由廠商開具統一發票，並填寫「財物購置修繕申請單」及「粘貼憑證用紙」（兼驗收證明、請款），由驗收人核章證明逐一層轉相關主管核章方得請領，且經費採購之儀器設備等物品均屬大學所有，而須納入校產管理。
+
+## 詐領經費
+
+![](images/86bd74cbe6d71686e2d6b2a20181629db16e3c0f308b2e9344e0d7ed5e03a305.jpg)
+
+ B係○大學食品科學系教授，對食品科學有專精研究，曾多次受民間公司委託研究計畫，擔任計畫主持人，而辦理採購物品及報銷。
+
+爰與係其好友商議，以B之技術及在○大學之設備進行研發量產好友公司之商品。 C
+
+## 詐領經費
+
+![](images/a59a5115006eb0bf995323bd970a865947ff35eaa81aae4485cbaad04aca8b2e.jpg)
+
+B好友公司乃擬好研究案委託研發合約，並簽發金額各為60萬元及120萬元支票，，即提供經費180萬元由○大學以業務收入之建教合作收入繳入「校務基金」，歸該校會計室統籌辦理，而成為○大學之公款，並設立計畫專帳管控。
+
+## 詐領經費
+
+![](images/8bd5a2a14482e08eba8dfd8483353b112cd34b681573ad48001ac98154783e28.jpg)
+
+B想買二台酒精泵浦，為避免公開採購程序，同時不列入校產管制以利私用，竟就專案經費意圖為自己不法之所有、使公務員登載不實、業務上登載不實及填製不實會計憑證之犯意，利用主持人負責採購及報銷之機會，要求廠商將購買價款34萬元以採購「零件」為名，分載於四張內容不實之統一發票，且每張發票金額均不逾10萬元。
+
+## 詐領經費
+
+![](images/a9a5d53d4ec18729f22629560a26d0abe84f779d2295a616c56d7230838e987c.jpg)
+
+B想買二台酒精泵浦，為避免公開採購程序，同時不列入校產管制以利私用，竟就專案經費意圖為自己不法之所有、使公務員登載不實、業務上登載不實及填製不實會計憑證之犯意，利用主持人負責採購及報銷之機會，要求廠商將購買價款34萬元以採購「零件」為名，分載於四張內容不實之統一發票，且每張發票金額均不逾10萬元。
+
+![](images/060ea38861fdf34308f9e8a802dcdf5d2794593a40f56e375c371ec6221b17b9.jpg)
+
+## 詐領經費
+
+被告擔任委託研究計畫主持人，受○大學依法委託採購研究計劃物品，於辦理採購物品業務時，為授權公務員，其利用職務上之機會，詐取○大學所有之研究計畫經費34萬元行為，係犯貪污治罪條例第5條第1項第2款公務員利用職務上之機會詐取財物罪。
+
+## 詐領經費
+
+![](images/aeaea71b5db057e0018a04d1464be67d537563df32595342f37c0d56caf589be.jpg)
+
+被告與同案廠商製作不實統一發票部分。按商業會計法第四條所指之「商業負責人」，應依公司法第8條之規定；依公司法第8條第2項規定「公司之經理人或清算人，股份有限公司之發起人、監察人、檢查人、重整人或重整監督人，在執行職務範圍內，亦為公司負責人」。廠商劉○為公司業務經理，填製不實事項之可作為會計憑證之統一發票，自應成立修正前」商業會計法第71條第1款商業負責人以明知為不實之事項，而填製會計憑證罪。
+
+## 詐領經費
+
+![](images/5df8c05d122924b284e912ad109b37d980aa477a047fb04becf05b5733bb45ba.jpg)
+
+ 被告雖非商業負責人，惟依刑法第31條第1項規定「因身分或其他特定關係成立之罪，其共同實施或教唆幫助者，雖無特定關係，仍以共犯論」，被告與廠商有犯意聯絡及行為分擔，仍成立共同正犯。彼等利用不知情的會計人員開立內容不實的會計憑證，係間接正犯。
+
+## 詐領經費
+
+![](images/792001927fbfdf1442bc24330c5fd4ce00b0e081b8faedad535219056630b6b9.jpg)
+
+被告與廠商共同謀議，明知為不實之零件買賣事項，卻透過被告登載在被告職務上所掌之公文書（即財物購置修繕申請單、粘貼憑證用紙）上，並加以行使，足以生損害於○大學，係觸犯第216條、第213條行使公務員明知為不實之事項，而登載於職務上所掌之公文書，足以生損害於公眾罪。
+
+報告完畢
+
+敬請指教
+
+敬祝 身體健康 閤家平安
+```
+
+<!-- OCR_END -->
+
+- **35. [超連結（檔案）]**: files/專案計畫-1030519起/22學術倫理常見態樣說明.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=35 assetId=ac1feeda4808515f -->
+#### OCR 35: files/專案計畫-1030519起/22學術倫理常見態樣說明.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/專案計畫-1030519起/22學術倫理常見態樣說明.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ac1feeda4808515f_22學術倫理常見態樣說明.md
+- OCR 狀態: completed_cached
+- OCR 字數: 4371
+- 驗證狀態: ok
+
+```markdown
+## 大綱
+
+學術倫理及常見問題
+
+國外違反學術倫理之案例
+
+國科會學術倫理案件處理及個案探討
+
+結論與展望
+
+![](images/5e65f6da29e7d8a336dcd67eebe413a52b6b520f814bd5fde648f310c2dba083.jpg)
+
+## 比較法上所謂科學研究或學術上不當或不正行為
+
+捏造（fabrication）：自己製作資料或實驗結果，並加以紀錄或報告。
+
+竄改（falsification）：將研究素料或過程等加以些微修改、就資料或研究結果加以改變或省略，因此行為而導致研究遭到不正當地實施。
+
+抄襲或盜用（plagiarism）：就他人之構想、內容、結果或文章在未經同意或授權而加以使用。
+
+一稿多投
+
+## 國外違反學術倫理之案例
+
+![](images/41d63cf1b4fa1f5e2bccec0fe4e9af722e2effce5721e5637bc6838c12ced067.jpg)
+
+<table><tr><td rowspan=1 colspan=1>年份</td><td rowspan=1 colspan=1>人物</td><td rowspan=1 colspan=1>案由</td><td rowspan=1 colspan=1>結果</td></tr><tr><td rowspan=1 colspan=1>2007</td><td rowspan=1 colspan=1>西安交通大學教授</td><td rowspan=1 colspan=1>申請“往復式壓縮機及其系統的理論研究、關鍵技術及系列產品開發”獲獎項目中存在造假侵佔他人學術成果進行拼湊和包裝等嚴重學術不端問題。</td><td rowspan=1 colspan=1>1.科技部撤銷該教授國家科學技術進步獎二等獎收回獎勵證書及追回獎金。2.西安交通大學取消教授職務並解除其教師聘用合約。</td></tr></table>
+
+## 國外違反學術倫理之案例
+
+![](images/7c37d7cea12ec0b5e58f4e5864f12d38cc909099214cffddb53e4ba8c10d710d.jpg)
+
+<table><tr><td rowspan=1 colspan=1>年份</td><td rowspan=1 colspan=1>人物</td><td rowspan=1 colspan=1>案由</td><td rowspan=1 colspan=1>結果</td></tr><tr><td rowspan=1 colspan=1>2005</td><td rowspan=1 colspan=1>南韓生物學家</td><td rowspan=1 colspan=1>1.被指控在乾細胞研究中使用科研組女研究員的卵細胞，並有細胞買賣的行為。2.科研成果造假。3.將互額研究費用佔為己用。</td><td rowspan=1 colspan=1>1.首爾大學將之開除2.取消「最高科學家」稱號，並免去其一切公職3.2010年12月16日首爾高等法院二審判決有期徒刑18個月，緩刑2年。</td></tr></table>
+
+## 著作權法所謂抄襲
+
+![](images/84d0e3256c34e48694fd0a38d5c7e0479ef1f8316205a373da255ea1efe942cf.jpg)
+
+著作係指屬於文學、科學、藝術或其他學術範圍之創作，凡本於自己獨立之思維、智巧、技匠而具有原創性之創作，即享有著作權，惟原創性並非專利法所要求之新穎性，因之苟非抄襲或剽竊他人之著作，縱兩者各自完成之著作雷同或極為相似，因二者均屬自己獨立之創作，同受著作權法之保障，故認定有無抄襲之標準，除須有實質之相似外，尚須有接觸被抄襲之著作，從而著作之完成日期及其對外公開與否，自為判斷有無抄襲之重要參考資料。（最高法院83年度台上字第 2501 號刑事判決 ）
+
+![](images/cebd76eb6bdb03b01cb06ab9d13866a732aa048c9d199c74d5c8afc8ef9966a4.jpg)
+
+## 申請專題研究計畫個案探討-計畫書雷同
+
+A君所提專題研究計畫申請案，以相同計畫書同時向本會兩個不同處別提出申請，違反其所簽署之專題研究計畫主持人聲明書內容，對學術倫理規範認識嚴重不足。
+
+國科會對於A君予以停權1年，停權期間不得執行本會各項補助計畫；正在執行中之專題計畫，予以終止執行。
+
+## 文獻探討部分個案探討-未適當引註
+
+![](images/f31fb501a336a086b697eb9041ef5f40d21bd2b30725c8af63772a5daa13b013.jpg)
+
+A君申請研究獎勵費之代表作係研討會論文，其中文獻探討部分有一半以上內容與B君及C君在國科會研究彙刊所發表之文章相近，惟未註明出處，且未將該文章列為參考文獻，未完全遵守學術倫理規範。
+
+國科會對於A君爾後有關各項補助及獎勵申請案予以停權1年。
+
+## 國科會處理學術倫理案件統計
+
+![](images/ff2abaf28c10683217dc1e38f9114e8cb9e702419651587433f136e6063f75bf.jpg)
+
+<table><tr><td rowspan=3 colspan=1>年度</td><td rowspan=1 colspan=5>審查結果</td><td rowspan=3 colspan=1>小計</td></tr><tr><td rowspan=1 colspan=5>違反學術倫理案件</td></tr><tr><td rowspan=1 colspan=1>未適當引註</td><td rowspan=1 colspan=1>抄襲</td><td rowspan=1 colspan=1>計畫書內容雷同</td><td rowspan=1 colspan=1>研究資料造假</td><td rowspan=1 colspan=1>其他</td></tr><tr><td rowspan=1 colspan=1>2008</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>7</td></tr><tr><td rowspan=1 colspan=1>2009</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>6</td></tr><tr><td rowspan=1 colspan=1>2010</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>2011</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>17</td></tr><tr><td rowspan=1 colspan=1>合計</td><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>44</td></tr></table>
+
+## 國科會對研究計畫經費虛報浮報之處理規定
+
+![](images/a02e7b81435958786cd44b9f9e9b2b65bc67ac3058ba44dc535fa5673f8d31b2.jpg)
+
+支出款之追繳:申請機構執行研究計畫之各項支出憑證，經本會查核，如發現有未依補助用途支用者，應追繳該項支出款。
+
+虛報浮報之處置:申請機構執行研究計畫之各項支出憑證，經本會查核，如發現疑有虛報、浮報者，應通知申請機構為適當之處置，並由申請機構及計畫主持人提出書面說明，由本會召開專案小組會議審議之。 o
+
+## 國科會對研究計畫經費虛報浮報之處置規定
+
+![](images/8e0df7e64a2d813ba03956a498126d22e657dbda35d4c43fd13bb298673bca02.jpg)
+
+專案小組會議審議結果，如認定證據確切時，得按情節輕重作成下列處分，並通知申請機構及計畫主持人：停權、 降低管理費補助比例、 追回全部或部分研究經費、 要求申請機構及計畫主持人檢討改進。
+
+如虛報、浮報情節重大，認有移送檢調單位偵辦之必要者，即另案辦理移送事宜。
+
+## 國科會專題計畫補助經費浮報虛報-採購物品載明不實
+
+ A君執行本會專題研究計畫，經本會審核發現業務費項下核有部分發票實際採購項目與發票上載明物品不符、報支執行期限外支出、購置與計畫執行無關之品項、統一編號及發票章缺漏等，有虛報浮報之情形。
+
+ 1.停止受理A君申請101年度本會各項補助案。
+
+ 2.請A君任職機構繳回不實報支款。
+
+問題與回應
+
+# 謝謝大家參加與聆聽
+```
+
+<!-- OCR_END -->
+
+- **36. [超連結（網站）]**: https://rate.bot.com.tw/xrt/history
+- **37. [超連結（檔案）]**: files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=37 assetId=a95225b8c8f0ae6b -->
+#### OCR 37: files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/a95225b8c8f0ae6b_補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1418
+- 驗證狀態: ok
+
+```markdown
+國家科學及技術委員會補助專題研究計畫  
+耗材、物品、圖書及雜項費用及研究設備費支出用途範例
+<table><tr><td></td><td colspan="3">點》規定。 2.為利各受補助單位審認各補助項目下之支出用途，爰彙整可能支 出之用途。 3.有鑒於科研計畫研究標的多元且研究過程需求物品不一，無法一 一臚列，本表所列各用途係屬舉例，僅供參考，不限所列事項， 各執行機構仍應視計畫個案認定。 補助項目</td></tr><tr><td>業務費</td><td>耗材物 品圖書 及雜項費 用</td><td>分項 支 出 1．消耗性器材 2. 化學藥品 3．電腦使用費（使用電腦所需費用，如以執</td><td>用 途 凡執行研究計畫直接有關之支出屬之，如：</td><td>備註 左欄用途 均屬舉 例，各執 行機構應</td></tr><tr><td></td><td></td><td>行機構出具之收據報銷，應檢附計算標 準、實際使用時數及耗材支用情形等支出 數據資料） 4. 資料檢索費(使用傳輸網路所供應新穎數 據或索取各交換系統資料庫中之資料所 需費用) 5. 網路使用費 6. 資料庫使用費 儀器安裝保險與運雜費 8. 儀器維護費 9．儀器或電腦軟體租用費 10.人工氣候室使用費 11.委託試驗費 12.貴儀中心儀器使用費 13.租車費（因研究需要至野外執行計畫，但 一般大眾交通工具無法到達，或載運研究 設備所需之費用） 14.因研究工作性質具危險性之意外險保險 費（保險額度可參考行政院87年3月23 日台 87 人政給字第 001923 號函規定) 15.設備保險費 16.問卷調查費（實地調查訪問及搜集各種資 料所需費用） 17.受試者禮品、營養品及交通費</td><td>視計畫個</td><td>案認定； 如確實有 重大疑 義，經執 行機構行 政程序仍 無法認定 者，得敘 明理由提 請本會協 助。</td></tr></table>
+
+<table><tr><td>研究設備</td><td>18.在國內舉辦之研討會報名費或註冊費 19.國內或國際性學會之年費或入會費 20.論文發表費（本會補助研究計畫之研究成 果發表於國內外著名之學術期刊所需之 相關費用） 21.研究計畫相關實驗進行之審查費(如人體 試驗委員會等審查費) 22.因研究需要邀請執行機構外人員之專家 諮詢費或出席費 23.翻譯及潤稿費 24.會議餐費(因研究計畫需要召開會議而逾 用餐時間所提供之餐點） 25.田野調查之茶點費 26.計畫相關之教育訓練費 27.研究計畫所需的圖書(購置之圖書是否列 入財產，由執行機構依「圖書館法」及「財 物標準分類」有關財產與非財產之規定辦 理） 28.有關網站建置、程式設計和拍攝影片、實 作等相關費用 29.物品（非屬研究設備者） 30.印刷與影印費 31.文具 32.紙張 33.郵電費 34.國內差旅費 35.購買或租賃特殊義肢輔具 36.聘請手語翻譯員費用 執行研究計畫所需單價在新臺幣一萬元以</td></tr><tr><td>費</td><td>左欄用途 上，且使用年限在二年以上與研究計畫直接 均屬舉 有關之各項設備。如： 例，各執 1．機械設備 行機構應 2. 儀器設備 視計畫個 3. 資訊軟硬體設備 案認定。 4. 衛星影像及電子地圖</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **38. [超連結（檔案）]**: files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=38 assetId=a95225b8c8f0ae6b -->
+#### OCR 38: files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/bo/files/法規/補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/a95225b8c8f0ae6b_補助專題研究計畫耗材物品圖書及雜項費用及研究設備費支出用途範例new.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1418
+- 驗證狀態: ok
+
+```markdown
+國家科學及技術委員會補助專題研究計畫  
+耗材、物品、圖書及雜項費用及研究設備費支出用途範例
+<table><tr><td></td><td colspan="3">點》規定。 2.為利各受補助單位審認各補助項目下之支出用途，爰彙整可能支 出之用途。 3.有鑒於科研計畫研究標的多元且研究過程需求物品不一，無法一 一臚列，本表所列各用途係屬舉例，僅供參考，不限所列事項， 各執行機構仍應視計畫個案認定。 補助項目</td></tr><tr><td>業務費</td><td>耗材物 品圖書 及雜項費 用</td><td>分項 支 出 1．消耗性器材 2. 化學藥品 3．電腦使用費（使用電腦所需費用，如以執</td><td>用 途 凡執行研究計畫直接有關之支出屬之，如：</td><td>備註 左欄用途 均屬舉 例，各執 行機構應</td></tr><tr><td></td><td></td><td>行機構出具之收據報銷，應檢附計算標 準、實際使用時數及耗材支用情形等支出 數據資料） 4. 資料檢索費(使用傳輸網路所供應新穎數 據或索取各交換系統資料庫中之資料所 需費用) 5. 網路使用費 6. 資料庫使用費 儀器安裝保險與運雜費 8. 儀器維護費 9．儀器或電腦軟體租用費 10.人工氣候室使用費 11.委託試驗費 12.貴儀中心儀器使用費 13.租車費（因研究需要至野外執行計畫，但 一般大眾交通工具無法到達，或載運研究 設備所需之費用） 14.因研究工作性質具危險性之意外險保險 費（保險額度可參考行政院87年3月23 日台 87 人政給字第 001923 號函規定) 15.設備保險費 16.問卷調查費（實地調查訪問及搜集各種資 料所需費用） 17.受試者禮品、營養品及交通費</td><td>視計畫個</td><td>案認定； 如確實有 重大疑 義，經執 行機構行 政程序仍 無法認定 者，得敘 明理由提 請本會協 助。</td></tr></table>
+
+<table><tr><td>研究設備</td><td>18.在國內舉辦之研討會報名費或註冊費 19.國內或國際性學會之年費或入會費 20.論文發表費（本會補助研究計畫之研究成 果發表於國內外著名之學術期刊所需之 相關費用） 21.研究計畫相關實驗進行之審查費(如人體 試驗委員會等審查費) 22.因研究需要邀請執行機構外人員之專家 諮詢費或出席費 23.翻譯及潤稿費 24.會議餐費(因研究計畫需要召開會議而逾 用餐時間所提供之餐點） 25.田野調查之茶點費 26.計畫相關之教育訓練費 27.研究計畫所需的圖書(購置之圖書是否列 入財產，由執行機構依「圖書館法」及「財 物標準分類」有關財產與非財產之規定辦 理） 28.有關網站建置、程式設計和拍攝影片、實 作等相關費用 29.物品（非屬研究設備者） 30.印刷與影印費 31.文具 32.紙張 33.郵電費 34.國內差旅費 35.購買或租賃特殊義肢輔具 36.聘請手語翻譯員費用 執行研究計畫所需單價在新臺幣一萬元以</td></tr><tr><td>費</td><td>左欄用途 上，且使用年限在二年以上與研究計畫直接 均屬舉 有關之各項設備。如： 例，各執 1．機械設備 行機構應 2. 儀器設備 視計畫個 3. 資訊軟硬體設備 案認定。 4. 衛星影像及電子地圖</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+
+---

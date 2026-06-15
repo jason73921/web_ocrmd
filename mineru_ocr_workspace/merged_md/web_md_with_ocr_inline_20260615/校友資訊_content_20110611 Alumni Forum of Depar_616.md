@@ -1,0 +1,50 @@
+﻿# 網站文章資料_20110611 Alumni Forum of Department of Social and Policy Sciences_616
+
+## 一、文章基本資料
+
+- **文章ID**: 616
+- **文章標題**: 20110611 Alumni Forum of Department of Social and Policy Sciences
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20110611-2
+- **文章簡介**: Alumni Forum of Department of Social and Policy Sciences
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2011/6/11 上午 02:31:10
+- **文章點擊數**: 763
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: http://www.yzu.edu.tw/alumni/images/main/271000611-4.JPG
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=506c478bff9023ea -->
+#### OCR 1: http://www.yzu.edu.tw/alumni/images/main/271000611-4.JPG
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/images/main/271000611-4.JPG
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/506c478bff9023ea_271000611-4.md
+- OCR 狀態: completed_cached
+- OCR 字數: 438
+- 驗證狀態: ok
+
+```markdown
+## 社政系友回娘家 溫馨茶會傳承改選
+
+社會暨政策科學學系於2005年6月8日成立系友會以來，迄今已第七屆·在每年的畢業典禮，皆舉行社政校友回娘家茶會活動·今（2011）年6月11日畢業典禮當天特安排與系學會的送舊活動一起舉辦，並進行系友會改選事宜。
+
+本次茶會活動安排學弟妹分享升學、就業、參加公職考試經驗及工作機會介
+
+紹，學弟妹更準備了豐富的歌舞表演與游
+
+戲，歡迎學長姊回娘家，大會結束前的摸彩活動，更掀起另一波高潮。活動最後順利推舉彭康哲系友擔任系友會會長，他將持續發揚「瞭解群眾，服務社會」的宗旨，永續經營，為系友會與系上做緊密結合。
+
+![](images/c75d37724ce1057ebb0cff77ffc879312f30bcc6ba4aa501765f02c76e9fde7c.jpg)
+
+![](images/87109100168c267230697aef648ff6941663eb153452304fc45df6acaa9add62.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

@@ -1,0 +1,3912 @@
+﻿# 網站文章資料_114-2 Stage II computer random-selection schedule and notification._2071
+
+## 一、文章基本資料
+
+- **文章ID**: 2071
+- **文章標題**: 114-2 Stage II computer random-selection schedule and notification.
+- **文章網址**: https://www.yzu.edu.tw/admin/aa/index.php/tw/114-2-stage-ii-computer-random-selection-schedule-and-notification
+- **文章簡介**: Announcement
+
+Office of Academic Affairs
+
+ 
+
+Subject: 114-2 Stage Ⅱ computer random-selection schedule and notification.
+
+Statement:                                 
+
+
+Period：2025/12/08( Mon.) 12:00 p.m~2025/12/11 ( Thu.)12:00 p.m
+
+Target audience：General students and those who have not been drawn at Stage I computer random-selection.
+
+Associate announcement：Press here to download the list of the courses that exceed the maximum limit.
+
+Path to the computer random-selection referred: “YZU homepage/Portal/ Office of Academic Affairs /Course Selection /Drawing of Lots for Course Pre-selection (Students without Priority for Course Selection)”.
+
+
+* If individuals do not attend the computer random-selection, it will be regarded as disclaim the course selection.
+
+ 
+
+Office of Academic Affairs, Curriculum Section
+- **文章全文**: 
+- **文章更新日期**: 2025/12/4 上午 06:18:55
+- **文章發表日期**: 2025/12/4 上午 12:57:21
+- **文章點擊數**: 0
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/Curriculum/公告1142第二階段抽籤課程.xlsx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=118cab6fdfdfcd93 -->
+#### OCR 1: files/Curriculum/公告1142第二階段抽籤課程.xlsx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/aa/files/Curriculum/公告1142第二階段抽籤課程.xlsx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/118cab6fdfdfcd93_公告1142第二階段抽籤課程.md
+- OCR 狀態: completed_cached
+- OCR 字數: 100507
+- 驗證狀態: ok
+
+```markdown
+<table>
+  <tr>
+    <th colspan="13"><p><strong>教務處公告<br></strong><strong>Announcement Office of Academic Affairs</strong></p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+    <th><p></p></th>
+  </tr>
+  <tr>
+    <td colspan="13"><p><br> 日期：114年12月04日<br>Date: 2025/12/04</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="13"><p>一、主旨：1142學期第二階段電腦抽籤課程公告<br>        Subject: 114-2 Stage II computer random-selection schedule and notification.</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="15"><p>二、說明／Statement：</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="15"><p>（一）時間：114/12/08（一）中午12：00～114/12/11（四）中午12：00<br>            Period：2025/12/08 (Mon.) 12:00 p.m~2025/12/11 (Thu.) 12:00 p.m</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="13"><p>（二）<strong>對象：一般生及具優選資格同學其第一階段抽籤未抽中者亦可參加。</strong><br><strong>            Target audience</strong><strong>：</strong><strong>General students and those who have not been drawn at Stage I computer random-selection.</strong></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="14"><p>（三）抽籤課程公告： 超過人數上限課程明細如下。<strong><br>           </strong><strong> </strong>Associate announcement：The list of the courses that exceed the maximum limit can be found as below<strong>.</strong></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="13"><p>（四）抽籤路徑：「元智首頁／個人Portal／教學務／選課系統／預選電腦抽籤（一般生）」進行電腦抽籤。<br>            **<strong>若未參與電腦抽籤，則視同放棄選修該科目。</strong><strong>**</strong><strong><br>           </strong> Path to the computer random-selection referred: “YZU homepage/Portal/Office of Academic Affairs /Course Selection /Drawing of Lots for Course Pre-selection (Students without Priority for Course Selection)”.<strong><br>       </strong><strong>     **If individuals do not attend the computer random-selection, it will be regarded as disclaim the course selection.**</strong></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td colspan="17"><p>1142 <strong>學期／</strong><strong>2026 Spring Semester</strong></p></td>
+  </tr>
+  <tr>
+    <td><p>開課單位(中)/
+Dept.</p></td>
+    <td><p>開課單位(英)/
+Dept.</p></td>
+    <td><p>系所
+代號/
+Dept. Code</p></td>
+    <td><p>選別(中)/
+Course Type</p></td>
+    <td><p>選別(英)/
+Course Type in English</p></td>
+    <td><p>課號/
+Course Code</p></td>
+    <td><p>班級/
+ Class</p></td>
+    <td><p>課名(中)/
+Course Name</p></td>
+    <td><p>課名(英)/
+Course Name in English</p></td>
+    <td><p>老師/
+Teacher Name</p></td>
+    <td><p>上限/
+max_std</p></td>
+    <td><p>選課
+人數/
+number of std</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH222</p></td>
+    <td><p>A</p></td>
+    <td><p>電子材料概論</p></td>
+    <td><p>Introduction to Electronic Material</p></td>
+    <td><p>謝建德</p></td>
+    <td><p>40</p></td>
+    <td><p>95</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH233</p></td>
+    <td><p>A</p></td>
+    <td><p>工程數學（二）</p></td>
+    <td><p>Engineering Mathematics(II)</p></td>
+    <td><p>廖朝光</p></td>
+    <td><p>70</p></td>
+    <td><p>115</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH336</p></td>
+    <td><p>A</p></td>
+    <td><p>高分子物性</p></td>
+    <td><p>Polymer Physics</p></td>
+    <td><p>廖建勛</p></td>
+    <td><p>40</p></td>
+    <td><p>57</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH339</p></td>
+    <td><p>A</p></td>
+    <td><p>高分子聚合</p></td>
+    <td><p>Polymerization</p></td>
+    <td><p>楊博智</p></td>
+    <td><p>40</p></td>
+    <td><p>59</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH346</p></td>
+    <td><p>A</p></td>
+    <td><p>光電概論</p></td>
+    <td><p>Introduction to Opto-Elecronics</p></td>
+    <td><p>傅薈如</p></td>
+    <td><p>40</p></td>
+    <td><p>56</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH435</p></td>
+    <td><p>A</p></td>
+    <td><p>化學工業特論</p></td>
+    <td><p>Special Topics on Chemical Industry</p></td>
+    <td><p>藍祺偉</p></td>
+    <td><p>40</p></td>
+    <td><p>56</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系學士班</p></td>
+    <td><p>Department  of Chemical Engineering and Materials Science</p></td>
+    <td><p>303</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH448</p></td>
+    <td><p>A</p></td>
+    <td><p>無機材料</p></td>
+    <td><p>Inorganic Materials</p></td>
+    <td><p>傅薈如</p></td>
+    <td><p>40</p></td>
+    <td><p>72</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系碩士班</p></td>
+    <td><p>Department of Chemical Engineering and Materials Science</p></td>
+    <td><p>323</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH599</p></td>
+    <td><p>A</p></td>
+    <td><p>生物醫學工程</p></td>
+    <td><p>Biomedical Engineering</p></td>
+    <td><p>楊明道</p></td>
+    <td><p>15</p></td>
+    <td><p>31</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系碩士班</p></td>
+    <td><p>Department of Chemical Engineering and Materials Science</p></td>
+    <td><p>323</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CH610</p></td>
+    <td><p>A</p></td>
+    <td><p>細胞訊息路徑</p></td>
+    <td><p>Cellular Signal Transduction</p></td>
+    <td><p>潘怡如</p></td>
+    <td><p>15</p></td>
+    <td><p>22</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>化學工程與材料科學學系碩士班</p></td>
+    <td><p>Department of Chemical Engineering and Materials Science</p></td>
+    <td><p>323</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CH617</p></td>
+    <td><p>A</p></td>
+    <td><p>物理冶金</p></td>
+    <td><p>Physical Metallurgy</p></td>
+    <td><p>孫安正</p></td>
+    <td><p>20</p></td>
+    <td><p>29</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊學院</p></td>
+    <td><p>College of Informatics</p></td>
+    <td><p>700</p></td>
+    <td><p>院必修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CI002</p></td>
+    <td><p>A1</p></td>
+    <td><p>基礎程式設計-C++實習（二）</p></td>
+    <td><p>Fundamental Computer Programming- C++ Lab(II)</p></td>
+    <td><p>張經略</p></td>
+    <td><p>60</p></td>
+    <td><p>121</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊學院</p></td>
+    <td><p>College of Informatics</p></td>
+    <td><p>700</p></td>
+    <td><p>院必修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CI004</p></td>
+    <td><p>C2</p></td>
+    <td><p>基礎程式設計-Web Programming（二）</p></td>
+    <td><p>Fundamental Computer Programming- Web Programming (II)</p></td>
+    <td><p>張家榮</p></td>
+    <td><p>80</p></td>
+    <td><p>88</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>管院共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CM002</p></td>
+    <td><p>A</p></td>
+    <td><p>基礎程式設計-統計程式與資料分析</p></td>
+    <td><p>Fundamental Computer Programming–Statistical and Quantitative Analysis</p></td>
+    <td><p>王明照</p></td>
+    <td><p>66</p></td>
+    <td><p>103</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>管院共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CM002</p></td>
+    <td><p>B</p></td>
+    <td><p>基礎程式設計-統計程式與資料分析</p></td>
+    <td><p>Fundamental Computer Programming–Statistical and Quantitative Analysis</p></td>
+    <td><p>陳正和</p></td>
+    <td><p>66</p></td>
+    <td><p>131</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>管院共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CM002</p></td>
+    <td><p>F</p></td>
+    <td><p>基礎程式設計-統計程式與資料分析</p></td>
+    <td><p>Fundamental Computer Programming–Statistical and Quantitative Analysis</p></td>
+    <td><p>鄭佳綺</p></td>
+    <td><p>66</p></td>
+    <td><p>80</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CM215</p></td>
+    <td><p>A</p></td>
+    <td><p>零售管理</p></td>
+    <td><p>Retailing Management</p></td>
+    <td><p>廖淑伶</p></td>
+    <td><p>65</p></td>
+    <td><p>66</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM222</p></td>
+    <td><p>C</p></td>
+    <td><p>投資學</p></td>
+    <td><p>Investments</p></td>
+    <td><p>郭人誌</p></td>
+    <td><p>125</p></td>
+    <td><p>126</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM222</p></td>
+    <td><p>C1</p></td>
+    <td><p>投資學</p></td>
+    <td><p>Investments</p></td>
+    <td><p>辛敬文</p></td>
+    <td><p>65</p></td>
+    <td><p>79</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM223</p></td>
+    <td><p>C</p></td>
+    <td><p>公司理財</p></td>
+    <td><p>Corporate Finance</p></td>
+    <td><p>沈仰斌</p></td>
+    <td><p>70</p></td>
+    <td><p>130</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM223</p></td>
+    <td><p>D</p></td>
+    <td><p>公司理財</p></td>
+    <td><p>Corporate Finance</p></td>
+    <td><p>黎國俊</p></td>
+    <td><p>70</p></td>
+    <td><p>93</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM238</p></td>
+    <td><p>C</p></td>
+    <td><p>企業財務分析</p></td>
+    <td><p>Business Analysis Using Financial Statements</p></td>
+    <td><p>胡銘哲</p></td>
+    <td><p>70</p></td>
+    <td><p>85</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CM239</p></td>
+    <td><p>D</p></td>
+    <td><p>解讀財經新聞</p></td>
+    <td><p>Financial News Guide</p></td>
+    <td><p>賴宥縈</p></td>
+    <td><p>70</p></td>
+    <td><p>103</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM243</p></td>
+    <td><p>A</p></td>
+    <td><p>消費者心理洞察與行為</p></td>
+    <td><p>Consumer Psychology, Insights and Behavior</p></td>
+    <td><p>陳嬿伊</p></td>
+    <td><p>60</p></td>
+    <td><p>71</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM250</p></td>
+    <td><p>G</p></td>
+    <td><p>Python程式設計</p></td>
+    <td><p>Python Programming</p></td>
+    <td><p>黎國俊</p></td>
+    <td><p>54</p></td>
+    <td><p>65</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CM254</p></td>
+    <td><p>C</p></td>
+    <td><p>機器學習應用</p></td>
+    <td><p>Machine Learning Applications</p></td>
+    <td><p>沈金清</p></td>
+    <td><p>72</p></td>
+    <td><p>107</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CM329</p></td>
+    <td><p>C</p></td>
+    <td><p>個人理財</p></td>
+    <td><p>Personal Finance</p></td>
+    <td><p>錢俊男</p></td>
+    <td><p>80</p></td>
+    <td><p>146</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM331</p></td>
+    <td><p>C</p></td>
+    <td><p>投資組合與證券分析</p></td>
+    <td><p>Portfolio and Security Analysis</p></td>
+    <td><p>吳志強</p></td>
+    <td><p>60</p></td>
+    <td><p>108</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM331</p></td>
+    <td><p>G</p></td>
+    <td><p>投資組合與證券分析</p></td>
+    <td><p>Portfolio and Security Analysis</p></td>
+    <td><p>林友嵐</p></td>
+    <td><p>40</p></td>
+    <td><p>44</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM406</p></td>
+    <td><p>H</p></td>
+    <td><p>國際人力資源管理</p></td>
+    <td><p>International Human Resource Management</p></td>
+    <td><p>劉悅新</p></td>
+    <td><p>40</p></td>
+    <td><p>44</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CM414</p></td>
+    <td><p>C</p></td>
+    <td><p>風險管理</p></td>
+    <td><p>Risk Management</p></td>
+    <td><p>待聘</p></td>
+    <td><p>70</p></td>
+    <td><p>86</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院學士班</p></td>
+    <td><p>Bachelor of Business Administration Program, College of Management</p></td>
+    <td><p>505</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CM449</p></td>
+    <td><p>C</p></td>
+    <td><p>財務軟體應用</p></td>
+    <td><p>Financial Packages and Applications</p></td>
+    <td><p>吳志強</p></td>
+    <td><p>40</p></td>
+    <td><p>81</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS107</p></td>
+    <td><p>B</p></td>
+    <td><p>離散數學</p></td>
+    <td><p>Discrete Mathematics</p></td>
+    <td><p>張經略</p></td>
+    <td><p>80</p></td>
+    <td><p>132</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS114</p></td>
+    <td><p>A</p></td>
+    <td><p>程式設計（二）</p></td>
+    <td><p>Computer Programming(II)</p></td>
+    <td><p>陳尚寬</p></td>
+    <td><p>80</p></td>
+    <td><p>100</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS148</p></td>
+    <td><p>B</p></td>
+    <td><p>微積分（二）</p></td>
+    <td><p>Calculus(II)</p></td>
+    <td><p>黃依賢</p></td>
+    <td><p>80</p></td>
+    <td><p>111</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CS151</p></td>
+    <td><p>A</p></td>
+    <td><p>網站程式設計實務</p></td>
+    <td><p>Website Programming Practice</p></td>
+    <td><p>鐘祥仁</p></td>
+    <td><p>72</p></td>
+    <td><p>96</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS153</p></td>
+    <td><p>A</p></td>
+    <td><p>電子電路學</p></td>
+    <td><p>Circuit Theory</p></td>
+    <td><p>曾王道</p></td>
+    <td><p>80</p></td>
+    <td><p>149</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CS155</p></td>
+    <td><p>A</p></td>
+    <td><p>醫學工程概論（二）</p></td>
+    <td><p>Introduction to Medical Engineering(II)</p></td>
+    <td><p>侯沛羽</p></td>
+    <td><p>80</p></td>
+    <td><p>139</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CS156</p></td>
+    <td><p>A</p></td>
+    <td><p>醫療資訊學概論</p></td>
+    <td><p>Introduction to Medical Informatics</p></td>
+    <td><p>徐晨雄</p></td>
+    <td><p>80</p></td>
+    <td><p>166</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS226</p></td>
+    <td><p>A</p></td>
+    <td><p>機率與統計</p></td>
+    <td><p>Probability and Statistics</p></td>
+    <td><p>黃毅然</p></td>
+    <td><p>80</p></td>
+    <td><p>111</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS250</p></td>
+    <td><p>B</p></td>
+    <td><p>組合語言與計算機組織</p></td>
+    <td><p>Assembly Language and Computer Organization</p></td>
+    <td><p>林佑政</p></td>
+    <td><p>80</p></td>
+    <td><p>144</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>CS309</p></td>
+    <td><p>A</p></td>
+    <td><p>演算法概論</p></td>
+    <td><p>Introduction to Algorithms</p></td>
+    <td><p>張經略</p></td>
+    <td><p>80</p></td>
+    <td><p>146</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CS310</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧概論</p></td>
+    <td><p>Introduction to Artificial Intelligence</p></td>
+    <td><p>陳彥安</p></td>
+    <td><p>80</p></td>
+    <td><p>105</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CS332</p></td>
+    <td><p>A</p></td>
+    <td><p>大數據科學導論</p></td>
+    <td><p>Big Data Science</p></td>
+    <td><p>許博凱</p></td>
+    <td><p>80</p></td>
+    <td><p>90</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>CS335</p></td>
+    <td><p>A</p></td>
+    <td><p>無線網路概論</p></td>
+    <td><p>Introduction to Wireless Internet</p></td>
+    <td><p>陳彥安</p></td>
+    <td><p>80</p></td>
+    <td><p>129</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊工程學系學士班</p></td>
+    <td><p>Department of Computer Science and Engineering</p></td>
+    <td><p>304</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>CS410</p></td>
+    <td><p>A</p></td>
+    <td><p>智慧型科技應用</p></td>
+    <td><p>Information and Communication Technology for Intelligent Applications</p></td>
+    <td><p>卓綵倫</p></td>
+    <td><p>80</p></td>
+    <td><p>127</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEA124</p></td>
+    <td><p>A</p></td>
+    <td><p>普通物理實驗（二）</p></td>
+    <td><p>General Physics Lab.(II)</p></td>
+    <td><p>林書彥</p></td>
+    <td><p>76</p></td>
+    <td><p>82</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEA124</p></td>
+    <td><p>B</p></td>
+    <td><p>普通物理實驗（二）</p></td>
+    <td><p>General Physics Lab.(II)</p></td>
+    <td><p>林書彥</p></td>
+    <td><p>76</p></td>
+    <td><p>80</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEA130</p></td>
+    <td><p>A</p></td>
+    <td><p>程式語言實驗（二）</p></td>
+    <td><p>Programming Language Lab.(II)</p></td>
+    <td><p>趙一芬</p></td>
+    <td><p>82</p></td>
+    <td><p>104</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEA130</p></td>
+    <td><p>B</p></td>
+    <td><p>程式語言實驗（二）</p></td>
+    <td><p>Programming Language Lab.(II)</p></td>
+    <td><p>趙一芬</p></td>
+    <td><p>82</p></td>
+    <td><p>89</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEA378</p></td>
+    <td><p>A</p></td>
+    <td><p>控制實驗</p></td>
+    <td><p>Control Laboratory</p></td>
+    <td><p>鄭穎仁</p></td>
+    <td><p>78</p></td>
+    <td><p>100</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEA486</p></td>
+    <td><p>A</p></td>
+    <td><p>節能技術與實務</p></td>
+    <td><p>Implementation of Energy Saving Technology</p></td>
+    <td><p>黃有智</p></td>
+    <td><p>60</p></td>
+    <td><p>83</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEA488</p></td>
+    <td><p>A</p></td>
+    <td><p>智慧系統設計與開發</p></td>
+    <td><p>Design and Development of Smart Systems</p></td>
+    <td><p>吳上玄</p></td>
+    <td><p>40</p></td>
+    <td><p>59</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>311</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEA490</p></td>
+    <td><p>A</p></td>
+    <td><p>醫學輔助系統</p></td>
+    <td><p>Medical Devices</p></td>
+    <td><p>彭渝森</p></td>
+    <td><p>80</p></td>
+    <td><p>103</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系碩士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>331</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEA651</p></td>
+    <td><p>A</p></td>
+    <td><p>寬頻介面電路設計</p></td>
+    <td><p>Wide Bandwidth Interface Circuit Design</p></td>
+    <td><p>郭岳芳</p></td>
+    <td><p>30</p></td>
+    <td><p>41</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB113</p></td>
+    <td><p>A</p></td>
+    <td><p>資料結構</p></td>
+    <td><p>Data Structures</p></td>
+    <td><p>曾俊雄</p></td>
+    <td><p>79</p></td>
+    <td><p>100</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEB127</p></td>
+    <td><p>A</p></td>
+    <td><p>程式語言實驗（二）</p></td>
+    <td><p>Programming Language Labs (II)</p></td>
+    <td><p>李建誠</p></td>
+    <td><p>78</p></td>
+    <td><p>84</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EEB127</p></td>
+    <td><p>B</p></td>
+    <td><p>程式語言實驗（二）</p></td>
+    <td><p>Programming Language Labs (II)</p></td>
+    <td><p>李建誠</p></td>
+    <td><p>78</p></td>
+    <td><p>93</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB202</p></td>
+    <td><p>B</p></td>
+    <td><p>電子學（二）</p></td>
+    <td><p>Electronics(II)</p></td>
+    <td><p>黃建彰</p></td>
+    <td><p>85</p></td>
+    <td><p>100</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB206</p></td>
+    <td><p>B</p></td>
+    <td><p>電子電路實驗（二）</p></td>
+    <td><p>Electronic Circuits Experiments(II)</p></td>
+    <td><p>黃建彰</p></td>
+    <td><p>75</p></td>
+    <td><p>81</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB216</p></td>
+    <td><p>A</p></td>
+    <td><p>遊戲程式設計</p></td>
+    <td><p>Game Programming</p></td>
+    <td><p>曾俊雄</p></td>
+    <td><p>30</p></td>
+    <td><p>66</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB305</p></td>
+    <td><p>A</p></td>
+    <td><p>數位通訊</p></td>
+    <td><p>Digital Communications</p></td>
+    <td><p>鄧俊宏</p></td>
+    <td><p>83</p></td>
+    <td><p>98</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB320</p></td>
+    <td><p>A</p></td>
+    <td><p>通訊實驗</p></td>
+    <td><p>Communications Lab.</p></td>
+    <td><p>陳建旻</p></td>
+    <td><p>40</p></td>
+    <td><p>48</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB321</p></td>
+    <td><p>A</p></td>
+    <td><p>嵌入式系統原理及實驗</p></td>
+    <td><p>Embedded Systems: Principles and Experiments</p></td>
+    <td><p>賴文彬</p></td>
+    <td><p>23</p></td>
+    <td><p>32</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB321</p></td>
+    <td><p>B</p></td>
+    <td><p>嵌入式系統原理及實驗</p></td>
+    <td><p>Embedded Systems: Principles and Experiments</p></td>
+    <td><p>賴文彬</p></td>
+    <td><p>23</p></td>
+    <td><p>26</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB330</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧與深度學習</p></td>
+    <td><p>Introduction to Artificial Intelligence and Deep Learning</p></td>
+    <td><p>李建誠</p></td>
+    <td><p>30</p></td>
+    <td><p>32</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>312</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEB436</p></td>
+    <td><p>A</p></td>
+    <td><p>進階PCB電路板設計與FPGA韌體開發專題實作</p></td>
+    <td><p>Advanced Projects of PCB Circuit Board Design and FPGA Firmware Development</p></td>
+    <td><p>張至斌</p></td>
+    <td><p>30</p></td>
+    <td><p>43</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機工程學系學士班</p></td>
+    <td><p>Department of Electrical Engineering</p></td>
+    <td><p>313</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EEC323</p></td>
+    <td><p>A</p></td>
+    <td><p>嵌入式系統之光電應用</p></td>
+    <td><p>Photonics Applications of Embedded Systems</p></td>
+    <td><p>陳念波</p></td>
+    <td><p>30</p></td>
+    <td><p>50</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工程學院</p></td>
+    <td><p>College of Engineering</p></td>
+    <td><p>300</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EG201</p></td>
+    <td><p>A</p></td>
+    <td><p>智慧生產概論</p></td>
+    <td><p>Introduction to Intelligent Production</p></td>
+    <td><p>孫天龍</p></td>
+    <td><p>60</p></td>
+    <td><p>92</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>電機通訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Electrical and Communication Engineering</p></td>
+    <td><p>310</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EI304</p></td>
+    <td><p>A</p></td>
+    <td><p>數位通訊</p></td>
+    <td><p>Digital Communications</p></td>
+    <td><p>鄧俊宏</p></td>
+    <td><p>2</p></td>
+    <td><p>4</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EL137</p></td>
+    <td><p>B</p></td>
+    <td><p>日語（二）</p></td>
+    <td><p>Japanese(II)</p></td>
+    <td><p>張恆如</p></td>
+    <td><p>50</p></td>
+    <td><p>79</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EL137</p></td>
+    <td><p>F</p></td>
+    <td><p>日語（二）</p></td>
+    <td><p>Japanese(II)</p></td>
+    <td><p>吳淑圓</p></td>
+    <td><p>50</p></td>
+    <td><p>51</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL171</p></td>
+    <td><p>A</p></td>
+    <td><p>華語（二）</p></td>
+    <td><p>Mandarin Chinese(II)</p></td>
+    <td><p>游文琦</p></td>
+    <td><p>40</p></td>
+    <td><p>44</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL220</p></td>
+    <td><p>A</p></td>
+    <td><p>影片中學英語</p></td>
+    <td><p>Learning English Through Films</p></td>
+    <td><p>師德霖(Sterling Thomas Swallow)</p></td>
+    <td><p>40</p></td>
+    <td><p>44</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL220</p></td>
+    <td><p>D</p></td>
+    <td><p>影片中學英語</p></td>
+    <td><p>Learning English Through Films</p></td>
+    <td><p>臧翎</p></td>
+    <td><p>40</p></td>
+    <td><p>89</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL220</p></td>
+    <td><p>H</p></td>
+    <td><p>影片中學英語</p></td>
+    <td><p>Learning English Through Films</p></td>
+    <td><p>臧翎</p></td>
+    <td><p>40</p></td>
+    <td><p>64</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL224</p></td>
+    <td><p>E</p></td>
+    <td><p>環球英語</p></td>
+    <td><p>English Around the World</p></td>
+    <td><p>黃玉心</p></td>
+    <td><p>40</p></td>
+    <td><p>47</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL225</p></td>
+    <td><p>A</p></td>
+    <td><p>商業英語</p></td>
+    <td><p>Business English</p></td>
+    <td><p>黃玉心</p></td>
+    <td><p>40</p></td>
+    <td><p>50</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL226</p></td>
+    <td><p>A</p></td>
+    <td><p>網路學英語</p></td>
+    <td><p>Learning English Through the Internet</p></td>
+    <td><p>龐美華</p></td>
+    <td><p>40</p></td>
+    <td><p>47</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL226</p></td>
+    <td><p>C</p></td>
+    <td><p>網路學英語</p></td>
+    <td><p>Learning English Through the Internet</p></td>
+    <td><p>謝欣芳</p></td>
+    <td><p>40</p></td>
+    <td><p>75</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL226</p></td>
+    <td><p>D</p></td>
+    <td><p>網路學英語</p></td>
+    <td><p>Learning English Through the Internet</p></td>
+    <td><p>簡洛汾</p></td>
+    <td><p>40</p></td>
+    <td><p>69</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL228</p></td>
+    <td><p>B</p></td>
+    <td><p>口語英文溝通</p></td>
+    <td><p>Oral English Communication</p></td>
+    <td><p>彭怡婷</p></td>
+    <td><p>40</p></td>
+    <td><p>45</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL228</p></td>
+    <td><p>C</p></td>
+    <td><p>口語英文溝通</p></td>
+    <td><p>Oral English Communication</p></td>
+    <td><p>葉凱湞</p></td>
+    <td><p>40</p></td>
+    <td><p>69</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL228</p></td>
+    <td><p>F</p></td>
+    <td><p>口語英文溝通</p></td>
+    <td><p>Oral English Communication</p></td>
+    <td><p>湯瑪斯(Thomas Richard Thorne)</p></td>
+    <td><p>40</p></td>
+    <td><p>78</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL235</p></td>
+    <td><p>C</p></td>
+    <td><p>英中基礎翻譯</p></td>
+    <td><p>Introductory English-Chinese Translation</p></td>
+    <td><p>高千文</p></td>
+    <td><p>40</p></td>
+    <td><p>74</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL235</p></td>
+    <td><p>D</p></td>
+    <td><p>英中基礎翻譯</p></td>
+    <td><p>Introductory English-Chinese Translation</p></td>
+    <td><p>溫璧錞</p></td>
+    <td><p>40</p></td>
+    <td><p>94</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL235</p></td>
+    <td><p>F</p></td>
+    <td><p>英中基礎翻譯</p></td>
+    <td><p>Introductory English-Chinese Translation</p></td>
+    <td><p>彭怡婷</p></td>
+    <td><p>40</p></td>
+    <td><p>70</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EL343</p></td>
+    <td><p>B</p></td>
+    <td><p>韓語（一）</p></td>
+    <td><p>Korean(I)</p></td>
+    <td><p>崔美羅(Mira Choi)</p></td>
+    <td><p>50</p></td>
+    <td><p>85</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>EL344</p></td>
+    <td><p>A</p></td>
+    <td><p>韓語（二）</p></td>
+    <td><p>Korean(II)</p></td>
+    <td><p>許詩韻</p></td>
+    <td><p>50</p></td>
+    <td><p>54</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>A1</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>朱宇聲</p></td>
+    <td><p>50</p></td>
+    <td><p>59</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>A2</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>朱宇聲</p></td>
+    <td><p>50</p></td>
+    <td><p>63</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>C</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>高千文</p></td>
+    <td><p>50</p></td>
+    <td><p>99</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>F2</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>倪樹金</p></td>
+    <td><p>50</p></td>
+    <td><p>57</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>H1</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>溫璧錞</p></td>
+    <td><p>50</p></td>
+    <td><p>90</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>國際語言文化中心</p></td>
+    <td><p>International Language and Culture Center</p></td>
+    <td><p>906</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>EL360</p></td>
+    <td><p>H2</p></td>
+    <td><p>英語檢定</p></td>
+    <td><p>English Testing</p></td>
+    <td><p>溫璧錞</p></td>
+    <td><p>50</p></td>
+    <td><p>75</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>601</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>FL116</p></td>
+    <td><p>A</p></td>
+    <td><p>日語聽講實習（二）</p></td>
+    <td><p>Japanese Language Lab.(II)</p></td>
+    <td><p>陳岐理</p></td>
+    <td><p>40</p></td>
+    <td><p>43</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>601</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>FL162</p></td>
+    <td><p>A</p></td>
+    <td><p>浪漫日劇賞析</p></td>
+    <td><p>Analysis of Romantic Japanese Dramas</p></td>
+    <td><p>廖秀娟</p></td>
+    <td><p>40</p></td>
+    <td><p>51</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>601</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>FL163</p></td>
+    <td><p>A</p></td>
+    <td><p>AI輔助日本語會話與溝通</p></td>
+    <td><p>AI-Enhanced Japanese Speaking and Communication</p></td>
+    <td><p>中澤一亮(KAZUAKI NAKAZAWA)</p></td>
+    <td><p>40</p></td>
+    <td><p>70</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>601</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>FL345</p></td>
+    <td><p>A</p></td>
+    <td><p>進階英語會話（一）</p></td>
+    <td><p>Advanced English Conversation(I)</p></td>
+    <td><p>陳清洋</p></td>
+    <td><p>40</p></td>
+    <td><p>42</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>應用外語學系學士班</p></td>
+    <td><p>Department of Foreign Languages and Applied Linguistics</p></td>
+    <td><p>601</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>FL410</p></td>
+    <td><p>A</p></td>
+    <td><p>新聞日文</p></td>
+    <td><p>Journalistic Japanese</p></td>
+    <td><p>陳岐理</p></td>
+    <td><p>40</p></td>
+    <td><p>50</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院管理碩士在職專班</p></td>
+    <td><p>Executive Master of Business Administration Program, College of Management</p></td>
+    <td><p>532</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>GM575</p></td>
+    <td><p>A</p></td>
+    <td><p>全球產業分析</p></td>
+    <td><p>Global Industrial Analysis</p></td>
+    <td><p>高仁山</p></td>
+    <td><p>30</p></td>
+    <td><p>50</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>管理學院管理碩士在職專班</p></td>
+    <td><p>Executive Master of Business Administration Program, College of Management</p></td>
+    <td><p>532</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>GM770</p></td>
+    <td><p>A</p></td>
+    <td><p>創新與創業管理</p></td>
+    <td><p>Innovation and Entrepreneurship Management</p></td>
+    <td><p>何建德</p></td>
+    <td><p>30</p></td>
+    <td><p>43</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN225</p></td>
+    <td><p>A</p></td>
+    <td><p>地景欣賞</p></td>
+    <td><p>Appreciation of Landscape</p></td>
+    <td><p>許民陽</p></td>
+    <td><p>62</p></td>
+    <td><p>71</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN237</p></td>
+    <td><p>A</p></td>
+    <td><p>照相機的世界</p></td>
+    <td><p>Camera World</p></td>
+    <td><p>胡黃德</p></td>
+    <td><p>62</p></td>
+    <td><p>340</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN237</p></td>
+    <td><p>B</p></td>
+    <td><p>照相機的世界</p></td>
+    <td><p>Camera World</p></td>
+    <td><p>胡黃德</p></td>
+    <td><p>62</p></td>
+    <td><p>254</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN409</p></td>
+    <td><p>A</p></td>
+    <td><p>自然啟發設計</p></td>
+    <td><p>Nature Inspired Design</p></td>
+    <td><p>陳以明</p></td>
+    <td><p>50</p></td>
+    <td><p>52</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN410</p></td>
+    <td><p>A</p></td>
+    <td><p>化妝品概論與應用</p></td>
+    <td><p>Introduction to Cosmetics and Its Application</p></td>
+    <td><p>王月花</p></td>
+    <td><p>62</p></td>
+    <td><p>303</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN410</p></td>
+    <td><p>B</p></td>
+    <td><p>化妝品概論與應用</p></td>
+    <td><p>Introduction to Cosmetics and Its Application</p></td>
+    <td><p>王月花</p></td>
+    <td><p>62</p></td>
+    <td><p>199</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN418</p></td>
+    <td><p>A</p></td>
+    <td><p>老人福祉科技概論</p></td>
+    <td><p>Introduction to Gerontechnology</p></td>
+    <td><p>馬貝庫</p></td>
+    <td><p>50</p></td>
+    <td><p>54</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN421</p></td>
+    <td><p>A</p></td>
+    <td><p>料理的科學</p></td>
+    <td><p>Culinary Science</p></td>
+    <td><p>廖建勛</p></td>
+    <td><p>62</p></td>
+    <td><p>229</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN425</p></td>
+    <td><p>A</p></td>
+    <td><p>探索大氣</p></td>
+    <td><p>Discovering the Earth&#x27;s Atmosphere</p></td>
+    <td><p>陳孟遠</p></td>
+    <td><p>62</p></td>
+    <td><p>143</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN430</p></td>
+    <td><p>A</p></td>
+    <td><p>基礎雲端運算與實務</p></td>
+    <td><p>Fundamental Cloud Computing and Practic</p></td>
+    <td><p>黃晧</p></td>
+    <td><p>62</p></td>
+    <td><p>192</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GN432</p></td>
+    <td><p>A</p></td>
+    <td><p>AI創意設計思考</p></td>
+    <td><p>Design Thinking with AI</p></td>
+    <td><p>林楚卿</p></td>
+    <td><p>62</p></td>
+    <td><p>113</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS211</p></td>
+    <td><p>A</p></td>
+    <td><p>社會心理學</p></td>
+    <td><p>Social Psychology</p></td>
+    <td><p>鍾秋玉</p></td>
+    <td><p>62</p></td>
+    <td><p>175</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS415</p></td>
+    <td><p>A</p></td>
+    <td><p>消費者保護政策與法規</p></td>
+    <td><p>The Policies and Regulations of Consumer Protection</p></td>
+    <td><p>簡秀蓮</p></td>
+    <td><p>62</p></td>
+    <td><p>67</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS418</p></td>
+    <td><p>A</p></td>
+    <td><p>自我經營與生涯發展</p></td>
+    <td><p>Self Management and Career Development</p></td>
+    <td><p>陳新霖</p></td>
+    <td><p>62</p></td>
+    <td><p>89</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS426</p></td>
+    <td><p>A</p></td>
+    <td><p>性別教育</p></td>
+    <td><p>Gender Education</p></td>
+    <td><p>鍾秋玉</p></td>
+    <td><p>62</p></td>
+    <td><p>120</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS449</p></td>
+    <td><p>A</p></td>
+    <td><p>童年文化</p></td>
+    <td><p>Childhood And Culture</p></td>
+    <td><p>王怡云</p></td>
+    <td><p>62</p></td>
+    <td><p>80</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>GS454</p></td>
+    <td><p>A</p></td>
+    <td><p>愛情心理學</p></td>
+    <td><p>The Psychology of Love</p></td>
+    <td><p>劉庭妤</p></td>
+    <td><p>62</p></td>
+    <td><p>223</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC189</p></td>
+    <td><p>A</p></td>
+    <td><p>複合媒材設計</p></td>
+    <td><p>Mixed Media Design</p></td>
+    <td><p>劉開平</p></td>
+    <td><p>50</p></td>
+    <td><p>64</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>IC192</p></td>
+    <td><p>A</p></td>
+    <td><p>程式設計（二）</p></td>
+    <td><p>Computer Programming(II)</p></td>
+    <td><p>方文聘</p></td>
+    <td><p>100</p></td>
+    <td><p>104</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>IC200</p></td>
+    <td><p>A</p></td>
+    <td><p>程式設計實習（二）</p></td>
+    <td><p>Computer Programming Lab.(II)</p></td>
+    <td><p>方文聘</p></td>
+    <td><p>50</p></td>
+    <td><p>83</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC204</p></td>
+    <td><p>A</p></td>
+    <td><p>平面設計</p></td>
+    <td><p>Graphic Design</p></td>
+    <td><p>陳麗秋</p></td>
+    <td><p>60</p></td>
+    <td><p>69</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC250</p></td>
+    <td><p>A</p></td>
+    <td><p>電玩製作</p></td>
+    <td><p>Game Production</p></td>
+    <td><p>張韶宸</p></td>
+    <td><p>50</p></td>
+    <td><p>65</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC326</p></td>
+    <td><p>A</p></td>
+    <td><p>作品集設計與展現</p></td>
+    <td><p>Portfolio Design and Presentation</p></td>
+    <td><p>黃絜如</p></td>
+    <td><p>55</p></td>
+    <td><p>68</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC347</p></td>
+    <td><p>A</p></td>
+    <td><p>影視視覺特效</p></td>
+    <td><p>Visual Effects for Film and Video</p></td>
+    <td><p>邱仁一</p></td>
+    <td><p>40</p></td>
+    <td><p>141</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC387</p></td>
+    <td><p>A</p></td>
+    <td><p>人工智慧概論</p></td>
+    <td><p>Introduction to Artificial Intelligence</p></td>
+    <td><p>陳昱錡</p></td>
+    <td><p>40</p></td>
+    <td><p>76</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC400</p></td>
+    <td><p>A</p></td>
+    <td><p>Python程式設計</p></td>
+    <td><p>Python Programming</p></td>
+    <td><p>趙伯堯</p></td>
+    <td><p>45</p></td>
+    <td><p>66</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC411</p></td>
+    <td><p>A</p></td>
+    <td><p>公開演講和演示技巧</p></td>
+    <td><p>Public Speaking and Presentation Techniques</p></td>
+    <td><p>邱仁一</p></td>
+    <td><p>40</p></td>
+    <td><p>46</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC413</p></td>
+    <td><p>A</p></td>
+    <td><p>文案與創意</p></td>
+    <td><p>Copywriting and Creativity</p></td>
+    <td><p>陳彥彰</p></td>
+    <td><p>105</p></td>
+    <td><p>117</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊傳播學系學士班</p></td>
+    <td><p>Department of Information Communication</p></td>
+    <td><p>702</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IC418</p></td>
+    <td><p>A</p></td>
+    <td><p>遊戲設計策略與理論</p></td>
+    <td><p>Game Design Strategy and Theory</p></td>
+    <td><p>陳昱錡</p></td>
+    <td><p>40</p></td>
+    <td><p>128</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE125</p></td>
+    <td><p>A</p></td>
+    <td><p>物聯網與人工智慧應用</p></td>
+    <td><p>Internet of Things and Artificial Intelligence Applications</p></td>
+    <td><p>陳胤安</p></td>
+    <td><p>45</p></td>
+    <td><p>151</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE237</p></td>
+    <td><p>A</p></td>
+    <td><p>統計建模與電腦化實作</p></td>
+    <td><p>Statistical Modeling and Computerized Implementations</p></td>
+    <td><p>陳雲岫</p></td>
+    <td><p>30</p></td>
+    <td><p>43</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE247</p></td>
+    <td><p>A</p></td>
+    <td><p>系統模擬與應用</p></td>
+    <td><p>System Simulation and Applications</p></td>
+    <td><p>任恒毅</p></td>
+    <td><p>30</p></td>
+    <td><p>100</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE356</p></td>
+    <td><p>A</p></td>
+    <td><p>行動應用程式設計與開發</p></td>
+    <td><p>Design and Development of Mobile Application</p></td>
+    <td><p>待聘</p></td>
+    <td><p>30</p></td>
+    <td><p>72</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE376</p></td>
+    <td><p>A</p></td>
+    <td><p>醫療品質管理</p></td>
+    <td><p>Quality Management in Healthcare</p></td>
+    <td><p>張厚台</p></td>
+    <td><p>30</p></td>
+    <td><p>41</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系學士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>305</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE435</p></td>
+    <td><p>A</p></td>
+    <td><p>行銷學</p></td>
+    <td><p>Marketing</p></td>
+    <td><p>楊懿淑</p></td>
+    <td><p>45</p></td>
+    <td><p>64</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系碩士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>325</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE517</p></td>
+    <td><p>A</p></td>
+    <td><p>存貨系統與管制</p></td>
+    <td><p>Inventory Systems and Control</p></td>
+    <td><p>蔡啟揚</p></td>
+    <td><p>25</p></td>
+    <td><p>31</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>工業工程與管理學系碩士班</p></td>
+    <td><p>Department of Industrial Engineering and Management</p></td>
+    <td><p>325</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IE599</p></td>
+    <td><p>A</p></td>
+    <td><p>資料探勘</p></td>
+    <td><p>Data Mining</p></td>
+    <td><p>羅志豪(LOH CHEE HOE)</p></td>
+    <td><p>25</p></td>
+    <td><p>34</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>608</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IH112</p></td>
+    <td><p>A</p></td>
+    <td><p>大數據與政策分析應用基礎</p></td>
+    <td><p>Big Data and Policy Analysis Application Basic</p></td>
+    <td><p>陳怡蒨</p></td>
+    <td><p>15</p></td>
+    <td><p>23</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>608</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IH305</p></td>
+    <td><p>A</p></td>
+    <td><p>非營利組織管理</p></td>
+    <td><p>Management of Non-Profit Organizations</p></td>
+    <td><p>吳正中</p></td>
+    <td><p>15</p></td>
+    <td><p>16</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>608</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IH314</p></td>
+    <td><p>A</p></td>
+    <td><p>企業概論</p></td>
+    <td><p>Introduction to Business</p></td>
+    <td><p>阮碧玉(Bich Ngoc Nguyen)</p></td>
+    <td><p>10</p></td>
+    <td><p>19</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>人文社會學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Strategic Communication, College of Humanities  and Social Sciences</p></td>
+    <td><p>608</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IH335</p></td>
+    <td><p>A</p></td>
+    <td><p>流行文化英文</p></td>
+    <td><p>English for Popular Culture</p></td>
+    <td><p>高健毓</p></td>
+    <td><p>10</p></td>
+    <td><p>11</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>IM132</p></td>
+    <td><p>A</p></td>
+    <td><p>管理資訊系統</p></td>
+    <td><p>Management Information Systems</p></td>
+    <td><p>吳思佩</p></td>
+    <td><p>79</p></td>
+    <td><p>98</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>IM132</p></td>
+    <td><p>B</p></td>
+    <td><p>管理資訊系統</p></td>
+    <td><p>Management Information Systems</p></td>
+    <td><p>張國忠</p></td>
+    <td><p>81</p></td>
+    <td><p>84</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IM226</p></td>
+    <td><p>C</p></td>
+    <td><p>網際網路程式設計</p></td>
+    <td><p>Internet Programming</p></td>
+    <td><p>郭文嘉</p></td>
+    <td><p>74</p></td>
+    <td><p>80</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IM230</p></td>
+    <td><p>C</p></td>
+    <td><p>多媒體概論</p></td>
+    <td><p>Introduction to Multimedia</p></td>
+    <td><p>劉信傑</p></td>
+    <td><p>30</p></td>
+    <td><p>139</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IM240</p></td>
+    <td><p>C</p></td>
+    <td><p>行動裝置程式設計</p></td>
+    <td><p>Mobile Device Programming</p></td>
+    <td><p>郭文嘉</p></td>
+    <td><p>75</p></td>
+    <td><p>83</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IM348</p></td>
+    <td><p>C</p></td>
+    <td><p>網路安全</p></td>
+    <td><p>Network Security</p></td>
+    <td><p>黃正達</p></td>
+    <td><p>30</p></td>
+    <td><p>32</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊管理學系學士班</p></td>
+    <td><p>Department of Information Management</p></td>
+    <td><p>701</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>IM356</p></td>
+    <td><p>C</p></td>
+    <td><p>區塊鏈及其應用</p></td>
+    <td><p>Blockchain and its Application</p></td>
+    <td><p>黃于珍</p></td>
+    <td><p>80</p></td>
+    <td><p>95</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>資訊學院英語學士班</p></td>
+    <td><p>International Bachelor Program in Informatics</p></td>
+    <td><p>705</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>IN207</p></td>
+    <td><p>A</p></td>
+    <td><p>機率與統計</p></td>
+    <td><p>Probability and Statistics</p></td>
+    <td><p>蔡侑庭</p></td>
+    <td><p>80</p></td>
+    <td><p>93</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE113</p></td>
+    <td><p>A</p></td>
+    <td><p>戲劇欣賞</p></td>
+    <td><p>Drama Appreciation</p></td>
+    <td><p>李啟睿</p></td>
+    <td><p>62</p></td>
+    <td><p>132</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE113</p></td>
+    <td><p>B</p></td>
+    <td><p>戲劇欣賞</p></td>
+    <td><p>Drama Appreciation</p></td>
+    <td><p>李啟睿</p></td>
+    <td><p>62</p></td>
+    <td><p>120</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE357</p></td>
+    <td><p>A</p></td>
+    <td><p>古典音樂欣賞</p></td>
+    <td><p>Classical Music Appreciation</p></td>
+    <td><p>周幸諄</p></td>
+    <td><p>62</p></td>
+    <td><p>102</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE357</p></td>
+    <td><p>B</p></td>
+    <td><p>古典音樂欣賞</p></td>
+    <td><p>Classical Music Appreciation</p></td>
+    <td><p>周幸諄</p></td>
+    <td><p>62</p></td>
+    <td><p>110</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE406</p></td>
+    <td><p>A</p></td>
+    <td><p>繪本賞析</p></td>
+    <td><p>A Guide to Picture Storybooks</p></td>
+    <td><p>王怡云</p></td>
+    <td><p>40</p></td>
+    <td><p>60</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE425</p></td>
+    <td><p>A</p></td>
+    <td><p>俄羅斯思想與文化</p></td>
+    <td><p>Russian Idea and Culture</p></td>
+    <td><p>胡逢瑛</p></td>
+    <td><p>62</p></td>
+    <td><p>70</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LE451</p></td>
+    <td><p>A</p></td>
+    <td><p>原住民族文化概論</p></td>
+    <td><p>Introduction to Indigenous Peoples&#x27; Culture</p></td>
+    <td><p>李瑞和</p></td>
+    <td><p>62</p></td>
+    <td><p>149</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS206</p></td>
+    <td><p>A</p></td>
+    <td><p>中醫概論與中醫保健</p></td>
+    <td><p>Introduction to Chinese Medicine and Healthcare</p></td>
+    <td><p>郭炳宏</p></td>
+    <td><p>62</p></td>
+    <td><p>111</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS217</p></td>
+    <td><p>A</p></td>
+    <td><p>認識藥物</p></td>
+    <td><p>Introduction to Drugs</p></td>
+    <td><p>陸瑞玲</p></td>
+    <td><p>62</p></td>
+    <td><p>116</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS230</p></td>
+    <td><p>A</p></td>
+    <td><p>疾病概論</p></td>
+    <td><p>Introduction to Common Diseases</p></td>
+    <td><p>朱芳業</p></td>
+    <td><p>62</p></td>
+    <td><p>73</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS236</p></td>
+    <td><p>A</p></td>
+    <td><p>生死學概論</p></td>
+    <td><p>Introduction to Life and Death</p></td>
+    <td><p>楊濟鶴</p></td>
+    <td><p>62</p></td>
+    <td><p>128</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS237</p></td>
+    <td><p>A</p></td>
+    <td><p>生命與身體活動</p></td>
+    <td><p>Life and Physical Activity</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>62</p></td>
+    <td><p>126</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS240</p></td>
+    <td><p>A</p></td>
+    <td><p>健康、醫療與休閒</p></td>
+    <td><p>Health, Medical Treatment and Leisure</p></td>
+    <td><p>徐淑瑤</p></td>
+    <td><p>62</p></td>
+    <td><p>130</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS240</p></td>
+    <td><p>B</p></td>
+    <td><p>健康、醫療與休閒</p></td>
+    <td><p>Health, Medical Treatment and Leisure</p></td>
+    <td><p>徐淑瑤</p></td>
+    <td><p>62</p></td>
+    <td><p>197</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS243</p></td>
+    <td><p>A</p></td>
+    <td><p>生命教育概論</p></td>
+    <td><p>Introduction to Life Education</p></td>
+    <td><p>蘇英華</p></td>
+    <td><p>62</p></td>
+    <td><p>126</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>通識教學部</p></td>
+    <td><p>General Education Center</p></td>
+    <td><p>901</p></td>
+    <td><p>通識教育課程</p></td>
+    <td><p>General course</p></td>
+    <td><p>LS244</p></td>
+    <td><p>A</p></td>
+    <td><p>健康與生活</p></td>
+    <td><p>Health and Life</p></td>
+    <td><p>陸瑞玲</p></td>
+    <td><p>62</p></td>
+    <td><p>119</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>302</p></td>
+    <td><p>系必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>ME126</p></td>
+    <td><p>A</p></td>
+    <td><p>工場實習（二）</p></td>
+    <td><p>Workshop Practice (II)</p></td>
+    <td><p>李其源</p></td>
+    <td><p>65</p></td>
+    <td><p>77</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>302</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>ME210</p></td>
+    <td><p>A</p></td>
+    <td><p>熱力學（二）</p></td>
+    <td><p>Thermodynamics (II)</p></td>
+    <td><p>鐘國濱</p></td>
+    <td><p>80</p></td>
+    <td><p>95</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>302</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>ME420</p></td>
+    <td><p>A</p></td>
+    <td><p>臨床醫學中的機械運用</p></td>
+    <td><p>Machinery in Clinical Medicine</p></td>
+    <td><p>辛和宗</p></td>
+    <td><p>25</p></td>
+    <td><p>35</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>302</p></td>
+    <td><p>不必及格必選修</p></td>
+    <td><p>Compulsory/Elective Course which allow students&#x27; fail</p></td>
+    <td><p>ME475</p></td>
+    <td><p>A</p></td>
+    <td><p>機械畫</p></td>
+    <td><p>Mechanical Drawing</p></td>
+    <td><p>陳聯超</p></td>
+    <td><p>65</p></td>
+    <td><p>98</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系學士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>302</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>ME476</p></td>
+    <td><p>A</p></td>
+    <td><p>應力分析實務</p></td>
+    <td><p>Practice of Stress Analysis</p></td>
+    <td><p>沈炳臣</p></td>
+    <td><p>50</p></td>
+    <td><p>59</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>機械工程學系碩士班</p></td>
+    <td><p>Department of Mechanical Engineering</p></td>
+    <td><p>322</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>ME510</p></td>
+    <td><p>A</p></td>
+    <td><p>微致動器原理</p></td>
+    <td><p>Theory of Micro Actuator</p></td>
+    <td><p>李其源</p></td>
+    <td><p>20</p></td>
+    <td><p>23</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>軍訓室</p></td>
+    <td><p>Military Education Office</p></td>
+    <td><p>903</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>MT110</p></td>
+    <td><p>A</p></td>
+    <td><p>全民國防教育軍事訓練課程-國防政策</p></td>
+    <td><p>All-Out Defense Education and Researching of Military - National Defense Policy</p></td>
+    <td><p>陳錫逸</p></td>
+    <td><p>60</p></td>
+    <td><p>433</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>軍訓室</p></td>
+    <td><p>Military Education Office</p></td>
+    <td><p>903</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>MT111</p></td>
+    <td><p>A</p></td>
+    <td><p>全民國防教育軍事訓練課程-防衛動員</p></td>
+    <td><p>All-Out Defense Education and Researching of Military - Defense Mobilization</p></td>
+    <td><p>宋慶禾</p></td>
+    <td><p>60</p></td>
+    <td><p>411</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>軍訓室</p></td>
+    <td><p>Military Education Office</p></td>
+    <td><p>903</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>MT112</p></td>
+    <td><p>A</p></td>
+    <td><p>全民國防教育軍事訓練課程-國防科技</p></td>
+    <td><p>All-Out Defense Education and Researching of Military – Defense Technology</p></td>
+    <td><p>黃茂盛</p></td>
+    <td><p>60</p></td>
+    <td><p>252</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>軍訓室</p></td>
+    <td><p>Military Education Office</p></td>
+    <td><p>903</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>MT114</p></td>
+    <td><p>A</p></td>
+    <td><p>全民國防教育軍事訓練課程-國際情勢</p></td>
+    <td><p>All-Out Defense Education and Researching of Military- International Situations</p></td>
+    <td><p>顏宏學</p></td>
+    <td><p>60</p></td>
+    <td><p>234</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>軍訓室</p></td>
+    <td><p>Military Education Office</p></td>
+    <td><p>903</p></td>
+    <td><p>選修</p></td>
+    <td><p>Elective Course</p></td>
+    <td><p>MT115</p></td>
+    <td><p>A</p></td>
+    <td><p>全民國防教育軍事訓練課程-全民國防</p></td>
+    <td><p>All-Out Defense Education and Researching of Military - All-Out Defense</p></td>
+    <td><p>蕭永福</p></td>
+    <td><p>60</p></td>
+    <td><p>338</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL219</p></td>
+    <td><p>A</p></td>
+    <td><p>桌球</p></td>
+    <td><p>Table Tennis</p></td>
+    <td><p>鄭三權</p></td>
+    <td><p>30</p></td>
+    <td><p>68</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL219</p></td>
+    <td><p>D</p></td>
+    <td><p>桌球</p></td>
+    <td><p>Table Tennis</p></td>
+    <td><p>陳律盛</p></td>
+    <td><p>30</p></td>
+    <td><p>38</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL219</p></td>
+    <td><p>E</p></td>
+    <td><p>桌球</p></td>
+    <td><p>Table Tennis</p></td>
+    <td><p>黃鉢登</p></td>
+    <td><p>30</p></td>
+    <td><p>43</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>A</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>30</p></td>
+    <td><p>70</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>B</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>30</p></td>
+    <td><p>60</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>C</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>30</p></td>
+    <td><p>38</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>D</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>30</p></td>
+    <td><p>62</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>E</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>陳宇倫</p></td>
+    <td><p>30</p></td>
+    <td><p>63</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>F</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>林勁宏</p></td>
+    <td><p>30</p></td>
+    <td><p>72</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>H</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>邱憲祥</p></td>
+    <td><p>30</p></td>
+    <td><p>47</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>I</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>石翔至</p></td>
+    <td><p>30</p></td>
+    <td><p>54</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL225</p></td>
+    <td><p>J</p></td>
+    <td><p>羽球入門</p></td>
+    <td><p>Badminton</p></td>
+    <td><p>石翔至</p></td>
+    <td><p>30</p></td>
+    <td><p>55</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL334</p></td>
+    <td><p>A</p></td>
+    <td><p>重量訓練</p></td>
+    <td><p>Free Weight Exercise</p></td>
+    <td><p>林青輝</p></td>
+    <td><p>42</p></td>
+    <td><p>93</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL334</p></td>
+    <td><p>B</p></td>
+    <td><p>重量訓練</p></td>
+    <td><p>Free Weight Exercise</p></td>
+    <td><p>曾玉如</p></td>
+    <td><p>40</p></td>
+    <td><p>71</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL334</p></td>
+    <td><p>C</p></td>
+    <td><p>重量訓練</p></td>
+    <td><p>Free Weight Exercise</p></td>
+    <td><p>陳律盛</p></td>
+    <td><p>40</p></td>
+    <td><p>58</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL334</p></td>
+    <td><p>D</p></td>
+    <td><p>重量訓練</p></td>
+    <td><p>Free Weight Exercise</p></td>
+    <td><p>陳律盛</p></td>
+    <td><p>40</p></td>
+    <td><p>81</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL334</p></td>
+    <td><p>G</p></td>
+    <td><p>重量訓練</p></td>
+    <td><p>Free Weight Exercise</p></td>
+    <td><p>陳律盛</p></td>
+    <td><p>40</p></td>
+    <td><p>58</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL335</p></td>
+    <td><p>A</p></td>
+    <td><p>體適能瑜珈</p></td>
+    <td><p>Yoya Fitness</p></td>
+    <td><p>陳乃瑀</p></td>
+    <td><p>35</p></td>
+    <td><p>48</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL335</p></td>
+    <td><p>B</p></td>
+    <td><p>體適能瑜珈</p></td>
+    <td><p>Yoya Fitness</p></td>
+    <td><p>陳乃瑀</p></td>
+    <td><p>35</p></td>
+    <td><p>53</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>體育室</p></td>
+    <td><p>Physical Education Office</p></td>
+    <td><p>904</p></td>
+    <td><p>共同必修</p></td>
+    <td><p>Required course</p></td>
+    <td><p>PL335</p></td>
+    <td><p>D</p></td>
+    <td><p>體適能瑜珈</p></td>
+    <td><p>Yoya Fitness</p></td>
+    <td><p>宋亭萱</p></td>
+    <td><p>35</p></td>
+    <td><p>36</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+  <tr>
+    <td><p>護理學系學士班</p></td>
+    <td><p>School of Nursing</p></td>
+    <td><p>A11</p></td>
+    <td><p>必選修</p></td>
+    <td><p>Compulsory &amp; Elective Course</p></td>
+    <td><p>SN001</p></td>
+    <td><p>A</p></td>
+    <td><p>社會心理學</p></td>
+    <td><p>Social Psychology</p></td>
+    <td><p>陳亮宇</p></td>
+    <td><p>60</p></td>
+    <td><p>69</p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+    <td><p></p></td>
+  </tr>
+</table>
+```
+
+<!-- OCR_END -->
+
+
+---

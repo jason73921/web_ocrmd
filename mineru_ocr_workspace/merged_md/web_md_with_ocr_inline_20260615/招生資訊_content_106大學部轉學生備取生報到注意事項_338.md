@@ -1,0 +1,32 @@
+﻿# 網站文章資料_106大學部轉學生備取生報到注意事項_338
+
+## 一、文章基本資料
+
+- **文章ID**: 338
+- **文章標題**: 106大學部轉學生備取生報到注意事項
+- **文章網址**: https://www.yzu.edu.tw/admissions/index.php/tw/105-18
+- **文章簡介**: 說明：
+
+  一、 各學系備取生遞補名單首次將於106年8月11日上午10:00公告，並自8月21日起於每週一上午10時在本校招生網站公告（/http://www.yzu.edu.tw/admissions最新消息），開學前兩週，改為每週公告兩次，請備取生務必主動上網查詢，另亦會以e-mail通知遞補上之備取生。
+
+  二、 下載：備取生報到注意事項及委託書。
+
+下載網址：https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer2.doc
+
+ 三、報到專區網址：https://exam.yzu.edu.tw/NewNetapply（點選「106轉學考」→查詢報名結果與成績→輸入身分證字號及密碼→查詢成績→報到專區）查詢。
+- **文章全文**: 
+- **文章更新日期**: 2017/8/1 上午 05:17:36
+- **文章發表日期**: 2017/7/30 上午 07:00:00
+- **文章點擊數**: 3664
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: http://www.yzu.edu.tw/admissions/
+- **2. [超連結（網站）]**: http://www.yzu.edu.tw/admissions/
+- **3. [超連結（檔案）]**: files/TransferExamination/106/106transfer2.doc
+- **4. [超連結（網站）]**: https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer2.doc
+- **5. [超連結（網站）]**: https://exam.yzu.edu.tw/NewNetapply
+
+---

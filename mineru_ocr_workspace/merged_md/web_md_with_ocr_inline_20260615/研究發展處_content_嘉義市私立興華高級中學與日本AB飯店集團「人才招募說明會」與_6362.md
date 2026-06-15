@@ -1,0 +1,423 @@
+﻿# 網站文章資料_嘉義市私立興華高級中學與日本AB飯店集團「人才招募說明會」與「實習夥伴募集說明會」_6362
+
+## 一、文章基本資料
+
+- **文章ID**: 6362
+- **文章標題**: 嘉義市私立興華高級中學與日本AB飯店集團「人才招募說明會」與「實習夥伴募集說明會」
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=6362
+- **文章簡介**: 主旨：本校與日本AB飯店集團合作規劃辦理「人才招募說明會」與「實習夥伴募集說明會」，惠請各校（日文系、餐旅休閒系所、對本案有興趣系所)參加，請　查照。
+
+說明：
+ 一、活動日期：113年5月11日（星期六）。
+
+
+ 二、活動時間：9:00-17:00。
+
+
+ 三、活動地點：本校多功能教室。
+
+
+ 四、活動對象：(一)大四應屆畢業生或貴校畢業校友。(二)海外實習機構合作有意願之系所主任、師長、學生。
+
+
+ 五、活動內容：詳如附件資料及海報(人才招募、實習夥伴募集)。
+
+ 
+
+六、活動報名：掃描QRCode或利用Ｇoogle表單報名。(一)招募面試https://forms.gle/goUgn6vrzBpN8ohB6(二)實習產學 https://forms.gle/XhMCBoFfY4PE2Fie6　
+
+七、若有相關問題，請電洽本校實習處林絜涵主任。電話：05- 2764317-157；專線:05-2718999
+
+八、如有意願參加之院校及師生，請於113年5月03日前利用Google表單完成報名。
+- **文章全文**: 
+- **文章更新日期**: 2024/3/26 上午 08:54:46
+- **文章發表日期**: 2024/3/26 上午 08:54:46
+- **文章點擊數**: 992
+- **文章語系**: *
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/實習/實習資訊/活動內容.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=4a8ae3a23409d4c8 -->
+#### OCR 1: files/實習/實習資訊/活動內容.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/實習/實習資訊/活動內容.pdf
+- OCR Markdown: /mnt/project/output/ocr_run/ocr_md_assets/4a8ae3a23409d4c8_活動內容.md
+- OCR 狀態: completed
+- OCR 字數: 7333
+- 驗證狀態: ok
+
+```markdown
+![](images/5822e8951940b26ce46b0eecfdf8401f1e1db6f5a5be358a969382494732df03.jpg)
+
+## ABアコモ株式会社簡介
+
+嘉義市興 華高級中學
+
+![](images/53ebbd16bdce6829685181eac90beff440efb23e6c7e6b696c7f6fc0917a6a9f.jpg)
+
+![](images/80a64482f099dbd6db4b4b7bd982cbb8c3cd218d818fe0423bd5534eb767be7f.jpg)  
+ABアコモ株式会社代表取締役社長 阿部　裕二
+
+![](images/64c85f08b9c3013c6505be0d0e743aa4aef015c6de5ca2cc56cc5c6acca12160.jpg)
+
+![](images/57ec9f8ce0f49b076c46fd89931c72ffa018e21cf712f414bd9e9a9c415acfc4.jpg)
+
+![](images/81325bc90e47e25ae2443758bd631afccff3b0d19990d9d6c348b5712c6e5d95.jpg)  
+ABモ(株常務取締役阿部吉文氏
+
+![](images/fadad51c0502c225742b4a0fb7d4dcaf0eff53f5b345b155fa5f8ce867232436.jpg)  
+クス ホテズ&リゾーツ (by FCTG)代表取締役社長八一·夕ワ一氏
+
+## 双方のポテンシャルを最大限に生かす 日本での存在を強固なものにするFC展開 (crosshotelsandresorts.com)
+
+Flight Centre Travel Group
+
+## Who we are
+
+Flight Centre Travel Group (FCTG) is one of the world's largest travel groups with a vast leisure   
+and corporate travel sales network that extends throughout four major regions: Australia and   
+New Zealand, The Americas (specifically the United States, Canada and Mexico), EMEA (the United Kingdom, South Africa, Ireland, Europe and the United Arab Emirates), and Asia (including India, China, Hong Kong, Singapore, Malaysia and Japan).
+
+Flight Centre Travel Group
+
+## Our Global Locations
+
+FCTG has a network that extends throughout Australia, New Zealand, USA, Canada, Mexico,   
+Argentina, India, Mainland China, Hong Kong, Malaysia, Singapore, UK, Germany, Netherlands,   
+Ireland, Sweden, Denmark, Norway, Finland, France, Switzerland, United Arab Emirates (UAE)   
+and South Africa.The company's global corporate travel management network extends even further, with FCM Travel Solutions present in more than 90 countries, through strategic licensing agreements with independent local operators.
+
+![](images/8542f86aad538972f4d632d6d50d6cf2c984b6594a9313a9d15b127632593151.jpg)
+
+![](images/e00b1a69252f0bd8248c2367b2383c74d8228a48453f47a6c9c4b182c99c213b.jpg)  
+Cross Pattaya Oceanphere Pattaya  
+Cross Pattaya Pratamnak Pattaya
+
+![](images/4ac0b5e18a92c9d21b3289b3e994da2997d4cf51308e92fbdc726eb7a45d6f5c.jpg)
+
+![](images/7dc44c33cc66ef76806a7c24289bf6a8ab3861a7eb492a99dc825d7e01636dff.jpg)
+
+![](images/cd080ab18f15f652d82bbc9c03fe461efadcc83a6c383979bf49fa728c65a8dc.jpg)  
+マネジメントコントラクト（MC方式）とは？メリット、ホテル運営方式（FC・リース等）との違い、導入事例 ｜コンストラクションマネジメントのアクア (aqa-pm.co.jp)  
+Tanadewa Resort & Spa Ubud by Cross Co… Ubud, Gianyar
+
+![](images/79e32c90d30c9925f16b353cca97d7c70ca700c17362dbec9b6876b8d5558143.jpg)  
+Cross Hotels and Resorts (travelclic k.com)
+
+![](images/877b408535664ea34d49f7120079c57664a8d1e74eca862439bb188ee7166466.jpg)
+
+## 『願望実現』
+
+思いは、必ず口にして、周りに伝えていきましょう。思いを伝え続け、行動し続けるようにしていきましょう。そのための原動力は「夢」。
+
+日々、こうなりたい、ああなりたいと思い続け、周りに思わせ続けること。思いを積み、行動を積むこと、そうしないと成功も幸せもありません。
+
+## 『辛抱我慢』
+
+人間が成長していくためには、辛抱と我慢が必要です。一見、自分には越えられそうもないような困難な命題であっても、
+
+「はい」「イ工ス」「喜んで」とまず引き受けてみましょう。
+
+困難な命題でも逃げずに真正面から向き合ってみること。するとその先には、今までに無かった世界が待っているはずです。
+
+![](images/e835f2974cde88af89c11c4b9b682ac5fd89c5819b1fc04cb55bc235918d2537.jpg)
+
+![](images/72018318262c0573dbd926ef0edd15ae97e82aac4cbf38deb9bfd996a452c6f6.jpg)
+
+## 『施設に関わるすベてのステークホルダーを尊重する』
+
+スタッフの遣り甲斐や幸福感を高めることは、自然な笑顔や真心のおもてなしを導き出します。委託業者やテナントとの関係を良好に保つことは、施設環境を高めます。
+
+これらは、ゲストの満足度の向上をもたらす、重要な要素です。
+
+スタッフの意識が高まれば、ゲスト目線のおもてなしや、新しいサービスのアイデアが湧いてくるはずです。
+
+こうして施設の評判が高まれば、業績も競争力もついていくでしょう。それは、運営物件のオ一ナ一様や、地域社会の皆様の評価を高めていく王道です。
+
+すべてのステ一クホルダ一の満足度を高めることで、私たち自身が成長し、発展し続けるのです。
+
+## マネジメントコンセプト
+
+![](images/5ebe7e43c74e5d55e9eaf99921db937919ee587a8614fca08898180669f4f301.jpg)
+
+生産性の高い人材育成と効率的な人員配置を実現することにより、ゲストに対するサ－ビスが最大化できるよう努める。
+
+施設に携わるスタッフ・委託先・テナント等の全員による、一体感のある組織体制を実現する。
+
+ゲストの安らぎを最大化させるナビゲーターを果たせる従業員教育を徹底する。
+
+ゲストが気軽にスタッフに声をかけたくなるような環境づくりに努める。
+
+施設の所在する地域社会との融和を図り、それがゲストの「心地よさ」へとつながる関係づくりに努める。
+
+施設のリピーターを増やしていけるような、サービス提供と商品開発を実現する。
+
+ゲストの利便性が高まり、運営の効率化をもたらすシステムの導入と開発に努める。
+
+![](images/70c035258f56bfd1bad6d57fce9fcc10b652f90034697217c7655a3593d58c64.jpg)
+
+私たちは、地域社会への貢献に努め、地域ナンバ一ワンの施設を目指します。  
+私たちは、この施設にしかない感動にトライし、サービスの向上と創出に努めます。  
+私たちは、サービスのプロとしての自信と誇りが高まるように、研鑽に励みます。  
+私たちは、ストが何回も来たくなるような、安らぎのある空間づくりに努めます。  
+私たちは、常に収益最大化を意識し、オ一ナ一様の評価が高まる運営に努めます。  
+私たちは、ゲストやオ一ナー、施設を支えるすべての皆様への感謝を忘れません。  
+私たちは、スタッフ互いに尊重し、チャレンジも困難もチームワークで突破します。
+
+![](images/cdeb92f2a631e9083e07f9a7aedcaea0b760e850c130ab78dcac88401ffcdd5d.jpg)
+
+## ABアコモ株式会社-ホテル一覧ABアコモ株式会社 (ab-accommo.com)
+
+2013年5月 会社設立（東京都洪谷区）  
+2013年8月 東京都千代田区三崎町へ本店移転  
+2013年10月 アコモイン気仙沼(宮城県気仙沼市） 営業開始  
+2015年8月 ・ジン卜・イン気仙沼(宮城県気仙沼市） 営業開始  
+2015年11月 IMANOTOKYOHOSTEL（东京都新宿区） 営業開始  
+2016年7月 ·卜·テ札幌大通（札幌市中央区） 営業開始  
+2016年9月 東京都千代田区神田神保町（現住所）へ本店移転  
+2016年11月 ·ジ卜·ホテ大阪ベ（大阪市此花区） 営業開始  
+2016年12月 ラ・ジェント・ホテル東京ベイ（千葉県浦安市） 営業開始  
+2017年3月 ラ・ジェント・プラザ函館北斗（北海道北斗市） 営業開始  
+2017年9月 IMANOTOKYOGINZAHOSTEL（东京都中央区） 営業開始  
+2017年11月 グリッズ東京浅草橋（東京都台東区） 営業開始  
+2017年11月 IMANOKYOTOKIYOMIZUHOSTEL（京都市東山区） 営業開始  
+2018年4月 グリッズ京都四条河原町（京都市中京区） 営業開始  
+2018年4月 ホテル·トリフィート小樽運河（北海道小樽市） 営業開始  
+2018年5月 グリッズ秋葉原(東京都千代田区) 運営開始  
+2018年5月 グリッズ日本橋一スト（東京都中央区） 運営開始  
+2018年6月 ・ジェン卜・ホテル沖縄北谷（沖縄県中頭郡） 営業開始  
+2018年7月 ロイジェントパークスハノ(ベトナム）営業開始  
+2018年8月 MusBee東京浜松町（東京都港区）運営開始  
+2019年3月 IMANOOSAKASHINSAIBASHIHOSTEL（大阪市西区） 営業開始  
+2019年8月 ・ジェン卜·ホテ新宿歌舞伎町（東京都新宿区） 営業開始  
+2019年10月 ホテル·卜リフィー卜那覇旭橋（沖縄県那覇市） 営業開始  
+2019年10月 グリッズ東京上野駅前(東京都台東区） 営業開始  
+2019年12月 ラ・ジェント・ステイ函館駅前（北海道函館市） 営業開始
+
+## ABアコモホテル一覧
+
+2020年4月 IMANOKYOTOKIYOMIZUHOSTEL（京都市東山区）営業终了  
+2020年7月 MusBee東京浜松町（東京都港区）運営終了  
+2020年8月 ザノッ卜札幌（札幌市中央区） 営業開始  
+2020年8月 ザノッ卜広島(広島市中区） 営業開始  
+2020年8月 ホテル・トリフィート柏の葉（千葉県柏市）営業開始  
+2020年8月 グリッズ秋葉原（東京都千代田区） 営業終了  
+2020年8月 グリッズ日本橋一スト（東京都中央区） 営業終了  
+2020年9月 ホテ·卜フィ一博多祇園（福岡市博多区） 営業開始  
+2020年11月 トリフィートホテ&ポッドニセコ（北海道虻田郡） 営業開始  
+2021年3月 ホテル・トリフィート宮古島リゾート（沖縄県宮古島市） 営業開始  
+2021年3月 グリッズプレミアホテル大阪なんば（大阪市浪速区） 営業開始  
+2021年3月 トリフィー卜ホテル&ポド金沢百万石通（石川県金沢市） 営業開始  
+2021年3月 グリッズ京都四条河原町（京都市中京区） 営業終了  
+2021年5月 ホテル·卜リフィ一卜金沢（石川県金沢市）営業開始  
+2021年7月 アウ沖縄古宇利島リゾ一卜（沖縄県国頭郡） 営業開始  
+2022年2月 ザノッ卜札幌（札幌市中央区） 運営終了  
+2022年9月 グリッズプレミアムホテル小樽（北海道小樽市） 新規開業  
+2022年9月 ホテルザノッ卜広島(広島市中区） 運営終了  
+2022年11月 裏草津荡-TOU-（群馬県吾妻郡） 新規開業  
+2023年2月 ラ・ジェント・ホテル京都二条（京都市上京区） 新規開業  
+2023年3月 グリッズ東京浅草橋（東京都台東区） 営業終了  
+2023年6月 ア気仙沼（宮城県気仙沼市） 営業終了  
+2023年6月 ロイジェントパークスハノイ(ベトナム） 運営終了  
+2023年7月 ラ・ジェント・ステ新さっぼろ（札幌市厚別区） 営業開始
+
+![](images/f63e1cd766bce124f97a68d6cc2b02f47f9a26ee25bc21401483586b7a6efb42.jpg)
+
+![](images/f73b26903f661406bfde7a3b22b0682ca00d8b38a43478994a83c097de95e12a.jpg)
+
+## インターンシッ研修・業務内容
+
+## 宿泊部門
+
+## ハウスキーピング
+
+·使用済みネ類回収/ゴミ回収
+
+・ベツドメイキソグ
+
+·スー清掃
+
+·テ類補
+
+・ダステソグ/掃除機かけ
+
+## パブリックエリア清掃
+
+・ホテビ/スレ清掃
+
+·ゲス卜卜レ清掃/消耗品補充
+
+·大浴場脱衣室清掃/ス卜卜レ清掃/大浴場清掃
+
+·大浴場の消耗品補充/整理整頓
+
+·使用済み夕才類回収/ゴミ回収
+
+## ベル・フロソトサービス
+
+・ゲスト荷物運び
+
+·ゲスト荷物チエツク/ゲスト荷物の客室入れ
+
+·宅配便チ/宅配便集荷
+
+·駐車案内
+
+フロ卜業務サポート
+
+## 料飲部門
+
+## スチワード
+
+・食洗器のセツテ
+
+·皿洗い/拭き上げ
+
+·皿の補充/収納
+
+·業後の下げ場の片付け
+
+·ミ回収/ミ捨
+
+## 調理補助
+
+・営業前の調理のセツテイグ
+
+・簡単な仕込み(サダをカツ卜するなど)
+
+·簡单な料理の盛付け
+
+・當業後のキツ内の清掃
+
+·納品れ食材の片付
+
+## レストホールービス
+
+・ホーのテグ/清掃
+
+·入口お客様のお出迎え
+
+·お客様への料理の説明
+
+・お客様の食事のバツシソグ
+
+·料理/ドリソク/消耗品の補充
+
+## ABアコモ実習情報
+
+![](images/0408dfe04f3a10691e1d155978cd74786f13ccd42e5df9076f57d2360cc082cf.jpg)
+
+![](images/a9dccabb4bb922fb8df40b0130fd06d854af8389442eb99f650a8e99e78a8cbc.jpg)
+
+## ABアコモ株式会社-採用情報
+
+1 . フ ロ ン ト N 3 以 上
+
+2 . フ ロ ン ト N 2 以 上
+
+3 . ほ か
+
+![](images/8dba36938bae0ebbfae7444d2fa598907347831876c371a148298dd83ccb594d.jpg)
+
+![](images/f8429dd54c4a00ec8be8235ed01cce60e035e6fab2949abe4d24f199ff03456e.jpg)
+
+![](images/1e80dd00d045ba8f14c96e63beb4313980c489fc1d8e073a17e7369430a254ed.jpg)
+
+![](images/893cf75f03325afe455fa7197ebf646529b100986658ac017924724ee960476c.jpg)
+
+## ありがとうございます
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/實習/實習資訊/人才招募海報.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=92956add9ac63325 -->
+#### OCR 2: files/實習/實習資訊/人才招募海報.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/實習/實習資訊/人才招募海報.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/92956add9ac63325_人才招募海報.md
+- OCR 狀態: completed_cached
+- OCR 字數: 313
+- 驗證狀態: ok
+
+```markdown
+# ABアコモ招募面試會
+
+![](images/f338161ae525cf5a60e1d69c687bf5fc31fa16dffd576c86bf874c3f9b32fa5e.jpg)
+
+## 日本就職說明會：
+
+招募日本全國飯店正職人員
+
+月薪優於日本一般國內大學生平均薪資
+
+日本全國皆有據點
+
+日文N3以上歡迎應徵
+
+無經驗、新鮮人皆歡迎
+
+![](images/af56f2a8b15216287472dfe2d1dc992807489e080375df7c4ea9aad22429a941.jpg)
+
+活動地點：嘉義市興華中學（嘉義市東區林森東路239號)
+
+活動報名請掃描連結
+
+連絡專線：05-2718999
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（檔案）]**: files/實習/實習資訊/實習夥伴募集海報.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=337fbffcb6e3dc23 -->
+#### OCR 3: files/實習/實習資訊/實習夥伴募集海報.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/實習/實習資訊/實習夥伴募集海報.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/337fbffcb6e3dc23_實習夥伴募集海報.md
+- OCR 狀態: completed_cached
+- OCR 字數: 319
+- 驗證狀態: ok
+
+```markdown
+# ABアコモ實習夥伴募集
+
+![](images/075860d1db437468689946c948d13aced8a1b3e0e4cf82c8ffee14e601ab6138.jpg)
+
+## 日本實習說明會
+
+募集大專院校/科技大學實習夥伴
+
+學生帶薪實習薪資約日幣18萬/月
+
+提供實習生住宿
+
+日文能力N4以上
+
+![](images/c4cd5b0cb30cd454119f2da648d072871cc809cb935e213f0442864d66fda9c7.jpg)
+
+歡迎拓展海外實習夥伴共簽產學MOU
+
+活動地點：嘉義市興華中學（嘉義市東區林森東路239號)
+
+活動報名請掃描連結
+
+連絡專線：05-2718999
+```
+
+<!-- OCR_END -->
+
+- **4. [超連結（網站）]**: https://forms.gle/goUgn6vrzBpN8ohB6
+- **5. [超連結（網站）]**: https://forms.gle/XhMCBoFfY4PE2Fie6
+
+---

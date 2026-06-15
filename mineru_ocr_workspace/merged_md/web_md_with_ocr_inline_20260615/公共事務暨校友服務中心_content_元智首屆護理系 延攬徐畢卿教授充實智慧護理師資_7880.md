@@ -1,0 +1,51 @@
+﻿# 網站文章資料_元智首屆護理系 延攬徐畢卿教授充實智慧護理師資_7880
+
+## 一、文章基本資料
+
+- **文章ID**: 7880
+- **文章標題**: 元智首屆護理系 延攬徐畢卿教授充實智慧護理師資
+- **文章網址**: 
+- **文章簡介**: 【台灣時報 記者張添福】
+
+元智大學成立護理學系今年第一屆招生9月入學，為能規劃「以人為本」的智慧護理教育，特別延攬前成大徐畢卿特聘教授任本校榮譽教授。徐教授具有約翰霍普金斯大學的精神衛生博士學位，學經歷豐富，發表學術文章逾百篇，在國際護理學界享有盛譽。2021年榮獲史丹福大學全球調查「全球前2%頂尖科學家榜單」「終身科學影響力(1960-2020)」和「2020年度科學影響力」等殊榮。徐教授將協助護理學系規劃課程與實習，推動護理學系發展工作。
+
+元智大學護理學系主任蘇英華表示，徐畢卿教授為精神護理及婦女健康專家，其專業背景將提升護理專業照護教育品質，學術量能豐沛，能挹注護理學系研究量能與國際推廣，更有助於元智護理學系在護理師職能發展、護理高階人才培育及護理教育者養成，提供更全面的規劃，確保學生獲得最新、最全面的護理教育，落實大學社會責任與永續發展目標。
+
+蘇英華指出，元智大學護理學系除了強化智慧護理師資陣容外，以數位、跨域、全人為根基，引進最高階且新穎的教學設備，如數位醫學影像解剖桌及內建情境模擬訓練教案綜合型照顧模擬人等，使學習過程更加生動有趣，並有效提升學生的學習成效，增進學生實力。（待續）
+
+
+
+詳全文：https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-a562e081-e6d7-49f6-836e-e8ac1c79f510&currentCategory=101#google_vignette
+
+【2024/08/05】
+- **文章全文**: 
+- **文章更新日期**: 2024/8/5 上午 02:49:08
+- **文章發表日期**: 2024/8/5 上午 02:49:08
+- **文章點擊數**: 501
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-a562e081-e6d7-49f6-836e-e8ac1c79f510&amp;currentCategory=101#google_vignette
+- **2. [圖片]**: images/20240804.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=ae4c027060a7bab3 -->
+#### OCR 2: images/20240804.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20240804.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ae4c027060a7bab3_20240804.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/afd762a042c4e86054008e10523466e53c912631ef2af8bafd097b8a48c2ba3d.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---

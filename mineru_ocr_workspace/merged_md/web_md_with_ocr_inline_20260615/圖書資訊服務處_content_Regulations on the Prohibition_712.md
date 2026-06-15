@@ -1,0 +1,282 @@
+﻿# 網站文章資料_Regulations on the Prohibition of Use and Procurement of “Mainland Brand ICT Products”_712
+
+## 一、文章基本資料
+
+- **文章ID**: 712
+- **文章標題**: Regulations on the Prohibition of Use and Procurement of “Mainland Brand ICT Products”
+- **文章網址**: https://www.yzu.edu.tw/admin/is/index.php/tw/1121018-2
+- **文章簡介**: Principles for Restricting the Use of Products That Endanger National Cybersecurity
+
+1. According to the Executive Yuan Official Letter No. 1121000202 dated June 20, 2023, the principles for the use of information and communication technology (ICT) products by all government agencies are reiterated as follows:
+
+(1) In accordance with the Executive Yuan Secretary-General Official Letter No. 1090201804A dated December 18, 2020, the use and procurement of ICT products (including software, hardware, and services) manufactured by companies from mainland China are strictly prohibited.
+(2) If, due to business requirements and in the absence of alternative solutions, it is still necessary to use products that may endanger national cybersecurity, the justification must be clearly stated. Approval must then be obtained sequentially from the agency’s Chief Information Security Officer (CISO) and the superior agency’s CISO, and finally submitted to the competent authority under the Cyber Security Management Act (the Ministry of Digital Affairs) for approval. Before such products are replaced, the following enhanced cybersecurity measures must be implemented:
+
+
+Common Mainland Chinese Brands
+
+Based on a preliminary review conducted by the university, the following brands are provided for reference only and are not exhaustive:
+
+
+Lenovo Group
+
+OPPO
+
+Xiaomi (MI)
+
+Hisense
+
+vivo
+
+Huawei
+
+Nubia
+
+Dahua Technology
+
+TP-Link
+
+DJI
+
+REALME
+
+TotoLink
+
+Tenda
+
+Meizu
+
+Foscam
+
+Insta360 (Arashi Vision Inc.)
+
+ZTE Corporation
+
+Online Learning Platform: Panopto (Singapore Pan Learning Technology)
+
+
+
+References
+
+
+Principles for Restricting the Use of Products That Endanger National Cybersecurity
+
+Guidelines for Inventorying Mainland Chinese ICT Products and Outsourced Public Venue Operations
+
+Ministry of Digital Affairs, Administration for Cyber Security – FAQs
+- **文章全文**: 
+- **文章更新日期**: 2025/10/29 上午 07:16:57
+- **文章發表日期**: 2023/10/18 上午 01:41:33
+- **文章點擊數**: 660
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/Information_security/315384746.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=81a7ba070cb337d3 -->
+#### OCR 1: files/Information_security/315384746.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/is/files/Information_security/315384746.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/81a7ba070cb337d3_315384746.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1709
+- 驗證狀態: ok
+
+```markdown
+## 行政院函
+
+地址：100009臺北市中正區忠孝東路1段1號
+
+聯絡人：陳又嘉
+
+電話：02-23808977\~23808981
+
+電子郵件：yoga@acs.gov.tw
+
+## 受文者：教育部
+
+發文日期：中華民國112年6月20日
+
+發文字號：院授數資安字第1121000202號
+
+速別：普通件
+
+密等及解密條件或保密期限：
+
+附件：管考系統操作說明(1000202\_步驟說明(1).pdf)
+
+主旨：有關111年盤點大陸廠牌資通訊產品及委外營運公眾場域契約之評估結果，請依說明事項辦理，請查照並轉知所屬公務機關。
+
+說明：
+
+一、為避免公務及機敏資料遭不當竊取，導致機關機敏公務資訊外洩或造成國家資通安全危害風險，數位發展部資通安全署111年11月23日資安綜合字第1111000054號函請各機關配合盤點及填報大陸廠牌資通訊產品(含軟體硬體及服務)及委外營運提供公眾活動或使用場地契約(具傳播影像或聲音之產品)相關資料，現評估意見已置於資通安全作業管考系統(簡稱管考系統)(https://spm.nat.gov.tw/)，請依評估意見落實辦理後續事宜。
+
+![](images/8a1c462ee20183f1578e0d35d125ae9b2bc32a38f236c3a621b2863155352e34.jpg)
+
+二、重申各公務機關使用資通訊產品原則：
+
+(一)公務用資通訊產品(含軟體硬體及服務)不得使用大陸廠牌，機關若因業務需求且無其他替代方案，仍需使用危害國家資通安全產品時，應具體敘明理由，並經機關資通安全長及其上級機關資通安全長逐級核可，函報資通安全管理法主管機關(數位發展部)核定，產品未汰換前，應加強下列資安強化措施：
+
+![](images/77ca9c2a7c3102aeeade7bd54e630588c1720a2a145f345470ad937b3bd46c18.jpg)
+
+1、強化資安管理措施，例如：設定高強度密碼、禁止遠端維護等。
+
+2、產品遇資安攻擊導致顯示畫面遭置換，應立即置換靜態畫面，或立即關機。
+
+3、產品若為硬體，應確認其不具WiFi等持續連網功能(非僅以軟體關閉）。若需以外接裝置方式進行更新，須有專人在旁全程監督，於傳輸完成後立即移除外接裝置。
+
+4、產品使用屆期後不得再購買危害國家資通安全產品。
+
+(二)各機關辦理採購案時，應註意以下事項：
+
+1、參考行政院公共工程委員會採購範本投標須知範本第16點，廠商所供應標的(含工程、財物及勞務)之原產地不允許大陸地區，以及資訊服務採購契約範本第8條第24款，如採購案內涉資通訊軟體硬體或服務等相關事務，機關可要求廠商執行本案之團隊成員不得為陸籍人士，並不得提供及使用大陸廠牌資通訊產品。
+
+![](images/d38d4b27412e780183a16a84c1193ebc850135233350dfe42450eed5fcc6b0b8.jpg)
+
+2、各機關自行或委外營運，提供公眾活動或使用之場地，不得使用危害國家資通安全產品，且應將相關限制事項納入委外契約或場地使用規定中。
+
+![](images/0ad738d0441ab5550c83d592d6a88d5146c41cf273b9a8756bf9a721a694f2f0.jpg)
+
+三、檢送管考系統操作說明1份供參，如有任何疑問請洽數位發展部資通安全署服務中心，電話：(02)2380-8977\~（02)2380-8981。
+
+![](images/e442552e58b9540373ada1b32f33c77662db0ef2327fb064819cd9495199fa36.jpg)
+
+正本：立法院考試院司法院監察院總統府第二局國家安全會議各部會行總處署各直轄市政府各直轄市議會各縣市政府各縣市議會
+
+副本：國家資通安全研究院 2023 /20 文章40
+
+![](images/a8f4b91ec9c712b400f6e5cffcb53d7efe96f2bee66402709576b5d79d2b4081.jpg)
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/Information_security/218611848.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=e5d6354345020468 -->
+#### OCR 2: files/Information_security/218611848.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/is/files/Information_security/218611848.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/e5d6354345020468_218611848.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1359
+- 驗證狀態: ok
+
+```markdown
+## 行政院秘書長 函
+
+地址：10058台北市忠孝東路1段1號
+
+傳真：02-23973457
+
+聯絡人：餘柏賢02-33566500#8060
+
+電子信箱：bsyu@ey.gov.tw
+
+![](images/0e197c0bcaa73eef46ae159f37f7067d37338c01b652618e6eefc25c0b02d96f.jpg)
+
+## 受文者：教育部
+
+發文日期：中華民國109年12月18日
+
+發文字號：院台護長字第1090201804A號
+
+速別：最速件
+
+密等及解密條件或保密期限：
+
+附件：
+
+主旨：為避免公務及機敏資料遭不當竊取，導致機關機敏公務資 訊外洩或造成國家資通安全危害風險，請依說明事項辦理，請查照並轉知所屬公務機關。
+
+![](images/4acbdff63c1e787c28b69f99f38783b1a792d6f387e6e74737f8f90fb4b2ff95.jpg)
+
+說明：
+
+一、依據本(109)年8月7日中央及地方政府資通安全長及資訊主管會議(下午場次)主席裁示事項第3項辦理。
+
+二、為利旨揭事宜，爰重申各公務機關使用資通訊產品(含軟體硬體及服務)相關原則：
+
+（一)公務用之資通訊產品不得使用大陸廠牌，且不得安裝非公務用軟體。
+
+(二)個人資通訊設備不得處理公務事務，亦不得與公務環境介接。
+
+(三)各機關應就已使用或採購之大陸廠牌資通訊產品列冊管理，且不得與公務環境介接。
+
+三、請各公務機關於110年底前完成汰換所使用或採購大陸廠牌資通訊產品(含硬體軟體及服務)作業，並配合擴大盤點，其辦理方式如下：
+
+（一)請各機關擴大盤點，並於110年1月4日至15日至本院國家資通安全會報資通安全作業管考系統(https://spm.nat.gov.tw/）「大陸廠牌資通訊產品」填報相關資料，並請直轄市及縣(市)政府協助轉知山地原住民區民代表會及鄉鎮市民代表會配合辦理。
+
+(二)本次盤點範圍為全機關(非機關內部之資訊單位或特定單位），其中「大陸廠牌認定方式」及「資通訊產品定義」，說明如下：
+
+1、大陸廠牌認定方式：由填報機關「從嚴認定」，所有屬大陸廠牌者，無論其原產地於我國大陸地區或第三地區等，渠等產品均須納入填報範圍。
+
+2、資通訊產品定義：參考資通安全管理法第3條用詞定義，包含軟體、硬體及服務等項，另具連網能力、資料處理或控制功能者皆屬廣義之資通訊產品，如無人機、網路攝影機印表機等。
+
+3、如各機關無法於期限內完成汰換作業或有窒礙難行之處，須填報正當理由，後續由本院協助評估其妥適性或其他可行作法。
+
+四、本案相關諮詢窗口：
+
+(一)填報內容問題：余柏賢先生、02-3356-8060、bsyu@ey.gov.tw
+
+（二)系統操作問題：柯旻圻先生、02-3356-8170、minchiko@ey.gov.tw。
+
+(三)帳號申請問題：劉桂琳小姐、02-6631-1890、smile@nccst.nat.gov.tw
+
+正本：總統府秘書長、國家安全會議秘書長立法院秘書長、司法院秘書長、考試院秘書長監察院秘書長行政院資訊處各部會行總處署直轄市政府各縣市政府各直轄市議會各縣市議會
+
+副本：行政院國家資通安全會報技術服務中心 電2 章
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（網站）]**: https://law.moda.gov.tw/LawContent.aspx?id=FL091047
+- **4. [超連結（檔案）]**: files/Information_security/349143079.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=db80b725052b48b3 -->
+#### OCR 4: files/Information_security/349143079.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/is/files/Information_security/349143079.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/db80b725052b48b3_349143079.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1402
+- 驗證狀態: ok
+
+```markdown
+# 大陸廠牌資通訊產品及委外經營公眾場域盤點原則
+
+111年11月21日
+
+一、盤點範圍為全機關，非機關內部資訊單位或特定單位。
+
+二、「大陸廠牌認定方式」及「資通訊產品定義」如下：
+
+(一)大陸廠牌認定方式：由填報機關「從嚴認定」，所有屬大陸廠牌者，無論其原產地於我國、大陸地區或第三地區等，渠等產品均須納入。
+
+(二)資通訊產品定義：參考資通安全管理法第3條用詞定義，包含軟體、硬體及服務等，另具連網能力、資料處理或控制功能者皆屬廣義之資通訊產品，如無人機、網路攝影機、印表機等。
+
+(三)各機關若無法於期限內完成汰換或有窒礙難行之處，須填報正當理由，後續由本署協助評估其妥適性或其他可行作法。
+
+三、請各機關至行政院國家資通安全會報資通安全作業管考系統(https://spm.nat.gov.tw/)參考110年盤點結果本署回復意見， 110 年核定非屬盤點範圍者， 111 年度無需納入盤點範圍。
+
+四、若機關未採購或使用「大陸廠牌資通訊產品」，須在系統中點選「完成送出(無產品)」按鈕，無須填寫或上傳調查表；無「委外經營公眾場域」，須在系統中點選「完成送出(無委外經營公眾場域)」按鈕，亦無須填寫或上傳調查表。
+
+## 五、盤點標的參考原則：
+
+<table><tr><td>盤點對象</td><td>盤點範圍</td><td>盤點標的</td><td>判斷是否納入盤點及汰換作業</td></tr><tr><td>公務機關 委外廠 商(含分包 廠商)註</td><td>硬體</td><td>1.無論是否具有連網 能力、資料處理或 控制功能之資通訊 設備皆屬盤點及汰 換範圍。 2.如個人電腦、伺服 器無人機印表 機網路通訊設備</td><td>3.如硬體設備係透過共同供應 契約採購者，原則不列入盤 點及汰換範圍。 4.辦理採購： (1)請原廠/代理商提供廠牌 證明文件。 (2)透過網路或相關可行管道 查證其是否為大陸廠牌 。</td></tr></table>
+
+<table><tr><td>盤點對象</td><td>盤點範圍 盤點標的</td><td>判斷是否納入盤點及汰換作業</td></tr><tr><td></td><td>5.非客製化軟體/系 統：如原廠(官方) 提供之套裝軟體 開發工具或作業系 統等。 6.客製化軟體/系統 ：如自行或委外開 發之應用軟體、系 統軟體或APP等。 7.人力資源 8.網站及APP所提供 的服務 9.雲端服務 10.電話諮詢 軟體及服 11.其他類型服務 務</td><td>12.自行下載：應確保軟體或 元件確實由原廠(官方)網站 下載，如原廠(官方)為大陸 廠牌者，應納入盤點及汰換 。 13.自行開發：應確保開發環 境、工具及套件等係由原廠( 官方)網站下載，或是透過採 購取得，並分別依第一項及 第三項辦理盤點及汰換作業 。 14.辦理採購： (1)透過共同供應契約採購者 ，原則無須盤點及汰換 。 (2)機關自行辦理採購非客製 化軟體/系統者，請原廠/ 代理商提供廠牌證明文 件。 15.委外開發： (1)如使用原廠(官方)網站下 載之軟體或元件，請委 外廠商辦理前揭第一項 作業，並提供說明及切 結文件。 (2)如使用非客製化軟體/系 統者，委外廠商應提供 原廠/代理商之廠牌證明 文件。</td></tr></table>
+```
+
+<!-- OCR_END -->
+
+- **5. [超連結（網站）]**: https://moda.gov.tw/ACS/laws/faq/28/646
+
+---

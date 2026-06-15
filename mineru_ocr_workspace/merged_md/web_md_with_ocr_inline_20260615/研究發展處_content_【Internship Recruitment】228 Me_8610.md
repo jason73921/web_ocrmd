@@ -1,0 +1,253 @@
+﻿# 網站文章資料_【Internship Recruitment】228 Memorial Foundation: "228 Memorial Museum Internship Application Guidelines"_8610
+
+## 一、文章基本資料
+
+- **文章ID**: 8610
+- **文章標題**: 【Internship Recruitment】228 Memorial Foundation: "228 Memorial Museum Internship Application Guidelines"
+- **文章網址**: https://www.yzu.edu.tw/admin/rd/index.php/tw/?option=com_content&view=article&id=8610
+- **文章簡介**: To cultivate talent in museum curation, research, and educational outreach, the 228 Memorial Foundation offers internship opportunities at the 228 Memorial Museum for domestic and international university students to gain practical experience in museum operations.
+
+ 
+
+Program Details:
+
+
+
+Internship Period: July – October 2026.
+
+
+
+
+Target Applicants: Currently enrolled students in domestic or international universities/colleges, particularly those in departments related to the museum’s core functions.
+
+
+
+
+Openings: 3–5 positions available for 2026.
+
+
+
+
+Compensation: This is an unpaid internship. No remuneration, meals, insurance, or allowances will be provided.
+
+
+
+
+ 
+
+Application Procedure:
+
+
+
+Required Documents:
+
+
+
+228 Memorial Museum Internship Application Form.
+
+
+
+
+Personal Resume/CV.
+
+
+
+
+Internship Proposal (including motivation, goals, relevant coursework, and expected outcomes).
+
+
+
+
+
+
+
+Format: Please convert all documents into PDF format.
+
+
+
+
+Email Subject Line: Follow the format: "[School Abbreviation] + [Department] + [Name] + 2026 Internship Application".
+
+
+
+
+Submission: Email your application to yinyen1130@228.org.tw no later than June 3, 2026 (Wednesday). Late applications will not be processed.
+
+
+
+
+ 
+
+Selection & Results:
+
+
+
+Notification: Admission results will be announced on the official website (https://www.228.org.tw) by June 10, 2026 (Wednesday).
+
+
+
+
+Reporting Date: Admitted interns must report to the museum and begin their internship on July 1, 2026.
+
+
+
+
+ 
+
+
+Related Information:
+
+
+
+[2026 228 Memorial Museum Internship Application Guidelines] 
+
+
+
+
+[Internship Application Form for University Students]
+- **文章全文**: 
+- **文章更新日期**: 2026/5/7 上午 03:28:41
+- **文章發表日期**: 2026/5/7 上午 03:26:09
+- **文章點擊數**: 19
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: mailto:yinyen1130@228.org.tw
+- **2. [超連結（網站）]**: https://www.228.org.tw
+- **3. [超連結（網站）]**: https://www.228.org.tw
+- **4. [超連結（檔案）]**: files/202605061022470150129A00_ATTCH1.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=ff00333d4b74c7ed -->
+#### OCR 4: files/202605061022470150129A00_ATTCH1.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/202605061022470150129A00_ATTCH1.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ff00333d4b74c7ed_202605061022470150129A00_ATTCH1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1659
+- 驗證狀態: ok
+
+```markdown
+## 2026 年二二八國家紀念館實習生申請說明
+
+1.二二八國家紀念館簡介：原臺灣教育會館，現為二二八國家紀念館，是一座位於臺北市中正區南海路、泉州街交會路口的建築物。建物建立於1931 年，現為臺北市直轄市定古蹟。2007 年 2 月 28 日正式掛牌為「二二八國家紀念館」，掛牌後立即由教育部進行紀念館古蹟修復工程，2009年 9 月完成修復工程並移交給二二八事件紀念基金會，進行古蹟再利用工程，於 2011 年 1 月 16 日竣工，於 2011 年 2 月 28 日開館營運。目前提供常設展、特展及學術講座等議題性及藝文性活動。
+
+2.實習期間：2026 年 7-10 月
+
+3.實習對象：國內外大專校院與本館業務相關科系之學生
+
+4.實習申請及流程：
+
+(1)填具「二二八國家紀念館大專校院學生實習申請表」(如附件一)，並檢附「個人簡歷」、「實習計畫書」(含實習動機與目的、曾修習相關課程、預期成果等)。文件格式請轉為PDF檔。信件主旨請依「學校簡稱+科系+姓名+2026實習申請」格式填寫，於2026年6月3日(星期三)前寄送至電子郵址 yinyen1130@228.org.tw ，逾期恕不受理。
+
+(2)實習審核結果將於2026年6月10日(星期三)前公告於本館官網(https://www.228.org.tw)。
+
+(3)如經本館錄取之實習生，本館將通知學生於規定時間（2026年7月1日）來館報到並開始實習。
+
+5.實習內容：
+
+(1)紀念館展覽及活動規劃：協助收集相關文獻、圖片、影音等資料，並將其整理為可供展覽之素材，並協助館方執行教育推廣活動，例如工作坊、講座與營隊等，藉以提高參與者對於相關主題的認識與瞭解。
+
+(2) 二二八與白色恐怖政治檔案解讀：預計安排相關課程，以博物館的研究與歷史普及的角度，說明二二八事件及白色恐怖時期相關政治檔案的背景脈絡、判讀方式與史料價值，使實習生具備基本的檔案解讀能力，並了解如何將一手史料轉化為展覽敘事或教育推廣素材，深化其對這段歷史的認識。
+
+(3)線上博物館規劃：預計透過國家文化記憶庫 2.0 之「時空旅行社」線上策展平台，以本館過往展覽內容試做線上展覽/走讀地圖，藉以有效利用過往展覽資源，並練習展覽文本撰寫、文件史料蒐集，以及圖檔授權等策展實務運作。
+
+(4)展覽/實境遊戲/走讀導覽：練習撰寫展覽/走讀導覽腳本，並以此為基礎協助常設展、特展或走讀導覽的引導工作，藉以強化參觀者對展品或展示內容的理解。另需協助實境遊戲（https://www.wfps.tp.edu.tw/iweb/228/）參與者進行闖關等。
+
+(5)二二八事件相關檔案資料繕打、核對及掃描：負責二二八事件相關檔案資料進行繕打、核對及掃描的工作，以便儲存和歸檔，同時確保相關檔案的完整性和可靠性。
+
+(6)二二八基金會收藏圖書資料整理：協助基金會進行歷年收存圖書資料，按圖書索書號進行圖書分類及歸檔存放，完成圖書區建檔搬遷作業。
+
+(7)其他相關業務的學習：由館員介紹紀念館（建物）的歷史沿革，並分享特展、紀念活動規劃流程，以及典藏文物的整飭和運用等。
+
+6.實習時數與相關規範：
+
+(1)實習生實習總時數不得少於 120 小時，期限以當年度 7月至 10月實習完畢為原則。
+
+(2)實習生於實習期間，應撰寫實習工作雙週誌。
+
+(3)實習時數依實際簽到退時數核計，如總時數未達 120 小時者，本館
+
+不另開具實習證明。
+
+(4)實習生來館義務學習紀念館實務經驗，本館不付給報酬（含薪資、誤餐、保險及津貼）
+
+7.2026 年預計招收實習生名額：3-5 名
+
+## 8.實習生需求條件：
+
+(1)對歷史、藝術、文化與人權議題有興趣者。若具有相關學科背景知識、團隊合作、創意思維及溝通協調能力者佳。
+
+(2)具備相關導覽或解說經驗者佳，具母語/外國語言能力者優先。
+
+(3)具備高度耐心及細心的特質、電腦打字及文件編輯技能，以及基本的資料處理能力（如搜尋、整理、分類等）。
+```
+
+<!-- OCR_END -->
+
+- **5. [超連結（檔案）]**: files/202605061022470150129A00_ATTCH2.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=c91f0ad0f499f57a -->
+#### OCR 5: files/202605061022470150129A00_ATTCH2.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/rd/files/202605061022470150129A00_ATTCH2.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/c91f0ad0f499f57a_202605061022470150129A00_ATTCH2.md
+- OCR 狀態: completed_cached
+- OCR 字數: 1309
+- 驗證狀態: ok
+
+```markdown
+## 二二八國家紀念館 大專校院學生實習申請表
+
+填表日期： 年 月 日
+
+<table><tr><td rowspan=1 colspan=1>姓名</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>聯絡方式</td><td rowspan=1 colspan=1>電話：手機：E-mail :</td></tr><tr><td rowspan=1 colspan=1>學校名稱</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>系所/年級</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>通訊地址</td><td rowspan=1 colspan=3></td></tr><tr><td rowspan=1 colspan=1>緊急聯絡人</td><td rowspan=1 colspan=3>姓名：電話：                                           關係：</td></tr><tr><td rowspan=1 colspan=1>期望實習之工作範疇(可複選)</td><td rowspan=1 colspan=3>導覽解說 □文獻整理□影音資料建檔 □資訊資料處理文書處理 □編輯校對□網頁設計編輯 □研究資料蒐集美術設計 □活動設計 □外文翻譯                       語言圖書資料整理            □其他                       （請說明）</td></tr><tr><td rowspan=1 colspan=1>語文能力</td><td rowspan=1 colspan=3>華語 □台語 □英語 □日語 □韓語□其他                       （請說明）</td></tr><tr><td rowspan=1 colspan=1>實習期間</td><td rowspan=1 colspan=3>預定實習起訖日期：_年__月___日起至__年__月__日止</td></tr><tr><td rowspan=1 colspan=1>附件</td><td rowspan=1 colspan=3>請檢附：1.個人簡歷2.實習計畫書（含實習動機與目的、曾修習相關課程、預期成果等)</td></tr><tr><td rowspan=1 colspan=4>以下由館方受理單位填寫</td></tr><tr><td rowspan=1 colspan=1>承辦處室審查意見</td><td rowspan=1 colspan=3>□同意           □不同意意見加註：</td></tr></table>
+
+備註：實習申請表請逕寄：yinyen1130@228.org.tw，寄出後請來電確認。  
+如有相關問題歡迎來電 (02)23326228 分機 123 張先生。
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: images/Internship_Rights_Notice_EN.png
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=36d5f514092dd6c6 -->
+#### OCR 6: images/Internship_Rights_Notice_EN.png
+
+- 關聯類型: 圖片
+- 本機檔案: admin/rd/images/Internship_Rights_Notice_EN.png
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/36d5f514092dd6c6_Internship_Rights_Notice_EN.md
+- OCR 狀態: completed_cached
+- OCR 字數: 906
+- 驗證狀態: ok
+
+```markdown
+![](images/389b18e48b1adb3ce996de60c93e0403506c884d56e212300cb0dc27079cc905.jpg)
+
+## Important Notice: Credits & Rights
+
+ThisanoinrmihilItiTafiliio contracted by the University.
+
+·Credit Recognition: To transfer credits,you MUST confirm with your department before participation and complete the agreement signing and course selection. Retroactive credit recognition is NOT possible.
+
+·Rights Protection:Without completing the official procedure (agreement & course selection)tis is considered a personal "workplace experience." While the University provides consultation and emergency aid, we cannot legally intervene in labor disputes without a tripartite agreement. All rights are subject to the employment contract.
+
+【Regulatory Basis】 Handled in accordance with:
+
+1. MOE Letter No.1142302853 (Jan 9,2026).
+
+2. MOE Letter No. 1142302416 (Dec 18, 2025).
+
+3. Internship Operation Manual (Version 115.01).
+```
+
+<!-- OCR_END -->
+
+
+---

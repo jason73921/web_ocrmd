@@ -1,0 +1,56 @@
+﻿# 網站文章資料_106大學部轉學生招生考試榜單開放查詢_336
+
+## 一、文章基本資料
+
+- **文章ID**: 336
+- **文章標題**: 106大學部轉學生招生考試榜單開放查詢
+- **文章網址**: https://www.yzu.edu.tw/admissions/index.php/tw/105-16
+- **文章簡介**: 說明：
+
+一、 依據本校106年7月31日 106學年度第8次招生委員會議決議。榜單公布之名單名次如有爭議，以本校招生委員會之決議為準。
+
+二、 查詢網址：
+
+（一）榜單：https://exam.yzu.edu.tw/NewNetapply （點選「106轉學考」→榜單查詢）查詢。
+
+（二）個人成績：https://exam.yzu.edu.tw/NewNetapply （點選「106轉學考」→查詢報名結果與成績→輸入身分證字號及密碼→查詢成績）查詢。
+
+三、 正、備取生報到注意事項：
+
+（一）報到時間、地點等相關資訊下載：
+
+
+106轉學考正取生報到通知
+
+
+          https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer1.doc
+
+
+106轉學考備取生報到注意事項
+
+
+         https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer2.doc
+
+（二）各系所錄取生新生注意事項，請自行參考各系網頁公告。
+
+四、 成績複查時間：106年8月2日～106年8月3日，以通訊方式辦理（郵戳為憑，逾期概不受理）。複查成績辦法請參閱簡章。
+
+        簡章查詢網址：https://exam.yzu.edu.tw/NewNetapply （點選「106轉學考」→閱讀招生簡章）。
+- **文章全文**: 
+- **文章更新日期**: 2017/8/1 上午 05:16:53
+- **文章發表日期**: 2017/7/30 上午 07:00:00
+- **文章點擊數**: 6507
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://exam.yzu.edu.tw/NewNetapply
+- **2. [超連結（網站）]**: https://exam.yzu.edu.tw/NewNetapply
+- **3. [超連結（網站）]**: https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer1.doc
+- **4. [超連結（網站）]**: https://www.yzu.edu.tw/admissions/files/TransferExamination/106/0013.doc
+- **5. [超連結（網站）]**: https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer2.doc
+- **6. [超連結（網站）]**: https://www.yzu.edu.tw/admissions/files/TransferExamination/106/106transfer2.doc
+- **7. [超連結（網站）]**: https://exam.yzu.edu.tw/NewNetapply
+
+---

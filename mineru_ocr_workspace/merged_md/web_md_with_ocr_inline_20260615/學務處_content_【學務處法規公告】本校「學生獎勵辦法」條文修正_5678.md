@@ -1,0 +1,595 @@
+﻿# 網站文章資料_【學務處法規公告】本校「學生獎勵辦法」條文修正_5678
+
+## 一、文章基本資料
+
+- **文章ID**: 5678
+- **文章標題**: 【學務處法規公告】本校「學生獎勵辦法」條文修正
+- **文章網址**: https://www.yzu.edu.tw/admin/st/index.php/tw/?option=com_content&view=article&id=5678
+- **文章簡介**: 本校「學生獎勵辦法」業經113年10月30日113學年度第1次校務會議修正通過，復經113年12月5日教育部臺教學（二）字第1130123915號函備查，條文修正對照表、修正後條文及原條文詳如附件，謹此公告，請查照。
+
+附件
+
+
+「元智大學學生獎勵辦法」修正後全文
+
+「元智大學學生獎勵辦法」條文修正對照表、修正後條文及原條文
+
+
+
+
+學生事務處敬啟
+
+業務承辦人：學務處生活輔導組簡麗芬小姐(03-4638800分機2240)
+- **文章全文**: 
+- **文章更新日期**: 2025/1/6 上午 01:57:41
+- **文章發表日期**: 2024/12/10 上午 02:37:17
+- **文章點擊數**: 426
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/113%E5%B9%B412%E6%9C%885%E6%97%A5%E6%95%99%E8%82%B2%E9%83%A8%E8%87%BA%E6%95%99%E5%AD%B8%E4%BA%8C%E5%AD%97%E7%AC%AC1130123915%E8%99%9F%E5%87%BD.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=a6a4095578742e04 -->
+#### OCR 1: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/113%E5%B9%B412%E6%9C%885%E6%97%A5%E6%95%99%E8%82%B2%E9%83%A8%E8%87%BA%E6%95%99%E5%AD%B8%E4%BA%8C%E5%AD%97%E7%AC%AC1130123915%E8%99%9F%E5%87%BD.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/st/files/OfficeStudentAffairs/訊息公告/Rules/113年12月5日教育部臺教學二字第1130123915號函.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/a6a4095578742e04_113年12月5日教育部臺教學二字第1130123915號函.md
+- OCR 狀態: completed_cached
+- OCR 字數: 303
+- 驗證狀態: ok
+
+```markdown
+檔號：保存年限：
+
+## 教育部函
+
+地址：100217臺北市中正區中山南路5號
+
+承辦人：張家豪
+
+電話：(02)7736-7914
+
+電子信箱：pachrist0608@mail.moe.gov.tw
+
+## 受文者：元智大學
+
+發文日期：中華民國113年12月5日
+
+發文字號：台教學(二)字第1130123915號
+
+速別：普通件
+
+密等及解密條件或保密期限：
+
+附件：無附件
+
+主旨：貴校函報「元智大學學生獎勵辦法」第9條、第11條修正案，同意備查，請查照。
+
+說明：復貴校113年11月29日元智學字第1130001385號函。
+
+正本：元智大學
+
+副本： 電交 2024 /1 2/05 文章
+```
+
+<!-- OCR_END -->
+
+- **2. [超連結（檔案）]**: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E7%8D%8E%E5%8B%B5%E8%BE%A6%E6%B3%95113.12.05.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=6704521590171756 -->
+#### OCR 2: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E7%8D%8E%E5%8B%B5%E8%BE%A6%E6%B3%95113.12.05.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/st/files/OfficeStudentAffairs/訊息公告/Rules/元智大學學生獎勵辦法113.12.05.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/6704521590171756_元智大學學生獎勵辦法113.12.05.md
+- OCR 狀態: completed_cached
+- OCR 字數: 8081
+- 驗證狀態: ok
+
+```markdown
+## 元智大學學生獎勵辦法
+
+87.06.05 86 學年第 2 次學生事務指導委員會議通過  
+88.12.27 88 學年第 1 次學生事務指導委員會議修正通過  
+90.03.14 89 學年第 1 次學生事務指導委員會議修正通過  
+90.12.31 90 學年度第 1 次學生事務指導委員會修正通過  
+92.05.21 91 學年度第 4 次學生事務會議修正通過  
+92.06.25 91 學年度第 2 次校務會議核備  
+92.08.08 台訓(二)字第 0920116359 號函備查  
+92.10.29 92 學年度第 1 次學生事務會議修正通過  
+92.12.31 92 學年度第 1 次校務會議核備  
+93.03.11 台訓(二)字第 0930031870 號函備查  
+93.03.10 92 學年度第 4 次學生事務會議修正通過  
+93.07.02 92 學年度第 2 次校務會議核備  
+93.08.09 台訓(二)字第 0930105032 號函備查  
+94.06.27 93 學年度第 2 次校務會議核備  
+94.09.15 台訓(二)字第 0940124010 號函備查  
+95.06.05 94 學年度第 2 次校務會議核備  
+95.08.04 台訓(二)字第 0950114218 號函備查  
+98.06.08 97 學年度第 2 次校務會議核備  
+98.08.13 台訓（二）字第 0980137289 號函備查  
+99.12.20 99 學年度第 1 次校務會議核備  
+100.11.02 台訓（一）字第 1000193959 號函備查  
+103.06.04 102 學年度第 2 次校務會議核備  
+103.08.27 臺教學（二）字第 1030124614 號函備查  
+106.05.03 105 學年度第 2 次校務會議核定  
+106.05.31 臺教學(二)字第 1060072606 號函備查  
+106.11.08 106 學年度第 1 次校務會議核定  
+106.12.21 臺教學(二)字第 1060001538 號函備查  
+107.05.09 106 學年度第 2 次校務會議修正通過  
+107.06.15 教育部臺教學(二)字第 1070087640 號函備查  
+110.05.05 109學年度第2次校務會議修正通過  
+110.05.21 教育部臺教學(二)字第 1100068988 號函備查  
+113.10.30 113學年度第1次校務會議修正通過  
+113.12.05 教育部臺教學(二)字第1130123915號函備查
+
+四、舉辦社團活動全學年達十次以上。
+
+五、擔任社團幹部滿一學年。
+
+六、擔任校內義工滿一學年。
+
+七、擔任學校各種委員會委員滿一學年。
+
+八、經校內單位核可之特殊活動紀錄。
+
+九、代表學校參加校際知能或技藝競賽得獎記錄。
+
+十、參與校內外各項工作特別努力著有績效者。
+
+十一、參加校內外各種服務，成績特優屬實者。
+
+十二、其他優良事蹟堪為典範者。
+
+## 第五條 學生成果合於下列情形者得推薦申請元智銀質獎：
+
+一、學業銀質獎：學年成績優異經系所推薦者，各學系(或同級單位)各年級各班一名。
+
+二、學術銀質獎：榮獲校內外學術競賽前三等第者。大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之B級期刊，同篇論文僅能申請一次。
+
+三、活動銀質獎：學年社團評鑑成績甲等以上之學術性、音樂性、康樂性、體育性及聯誼性社團幹部，或參與校外活動表現傑出者。
+
+四、服務銀質獎：學年社團評鑑成績合格或乙等以上之自治性、義工性與服務性社團幹部或參與校內外義工活動表現傑出者。
+
+五、才藝銀質獎：參與本校藝能比賽獲得第一等第或地區性藝能比賽獲得前三等第者。
+
+六、體育銀質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與全國性體育競賽榮獲四\~八名者。
+
+（二）代表本校參與地區性體育競賽榮獲冠軍或殊榮者。
+
+（三）創新本校運動紀錄者。
+
+七、多元技能銀質獎：通過國家考試普通考試（含同等級考試）、各學院認定乙級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+第六條 學生成果合於下列情形者得推薦申請元智金質獎：
+
+一、學業金質獎：畢業總成績優異經系所推薦者，各學系（或同級單位）各一名。
+
+二、學術金質獎：符合下列條件之一者：
+
+（一）榮獲國際性學術競賽前三等第者。
+
+（二）榮獲全國性學術競賽第一等第或殊榮者。
+
+（三）大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之A級期刊，同篇論文僅能申請一次。
+
+三、活動金質獎：獲頒活動銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）因活動表現優異，獲頒全國性前三等第獎項，彰顯校譽者。
+
+四、服務金質獎：獲頒服務銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）任職一年以上之義工且擔任全校性重大活動負責人，表現優異，並經義工輔導評選會議通過得推薦申請。
+
+（三）因服務表現優異，獲頒全國性前三等第獎項，彰顯校譽者。
+
+五、才藝金質獎：參與國際或全國性著名藝能比賽獲得冠軍者。
+
+六、體育金質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與國際性體育競賽榮獲前三等第或殊榮者。
+
+（二）代表本校參與全國性著名體育競賽榮獲前三等第或殊榮者。
+
+（三）創新全國性體育競賽紀錄者。
+
+七、多元技能金質獎：通過國家考試高等（含同等級考試）、各學院認定甲級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+第七條 學生成果合於下列情形並再度符合金質獎申請資格者，得推薦申請成就獎，惟金質獎僅核予獎狀不核予獎金：
+
+一、學術成就獎：曾獲二次學術銀質獎或一次學術金質獎。
+
+二、活動成就獎：曾獲二次活動銀質獎或一次活動金質獎。
+
+三、服務成就獎：曾獲二次服務銀質獎或一次服務金質獎。
+
+四、才藝成就獎：曾獲二次才藝銀質獎或一次才藝金質獎。
+
+五、體育成就獎：曾獲二次體育銀質獎或一次體育金質獎。
+
+六、多元技能成就獎：曾獲二次多元技能銀質獎或一次多元技能金質獎。
+
+第八條 各類獎項分別由教務處（學業）、各學院（學術、多元技能）、體育室（體育）、及學務處（活動、服務、才藝）負責制定相關細則與評選工作，相關細則提經學生事務會議核備。申請者可由本人或相關單位檢據相關資料如：學習或研究成果、活動紀錄、體育或才藝競賽成績等資料，向各評審單位申請推薦，經相關評選程序，報請學生事務會議通過後公布。
+
+第九條 同一成果僅能就金、銀質獎擇一申請一次，且不得重複，多項成果申請同一類獎項，僅核予一獎狀或獎金；成就獎限應屆畢業生申請。申請時程：
+
+一、金、銀質獎：學生於每學年度上學期，以前一學年度之成果提出申請，提前畢業學生得提具申請截止日前之成果；應屆畢業生當學年度上學期之成果可於下學期提出申請。
+
+二、成就獎：畢業生於畢業當學年度提出申請，並佐以歷年之成果。
+
+三、應屆畢業生申請之成果非於採計時程內，僅核予獎狀，不核予獎金。
+
+第十條 符合一般獎勵者，可主動檢具相關資料，向校內行政或教學單位申請，經單位一級主管核可後登錄於學務資訊系統列入獎勵及五育紀錄。
+
+第十一條 各類獎項由學務處彙整得獎名單並製作獎狀，登錄其成果，公布於元智學生榮譽榜，於畢業典禮時公開頒發予應屆畢業生。成就獎與金質獎得獎人另發給獎金，獎金分配依年度預算總額採固定比例分配；金質獎獎金佔 60%，成就獎獎金佔 40%；獎金由各獎項得獎人均分，惟成就獎每人最高發給 1萬元，金質獎每人最高發給 5千元，各獎項獎金分配餘額得流用之。
+
+第十二條 得獎人應配合學校承辦單位作業，於各項公開活動展現得獎項目及成果。
+
+第十三條 得獎人如經他人檢舉有違得獎事實或受重大懲戒者，經由相關審查程序審理核實後取消資格。
+
+第十四條 本辦法經校務會議通過後公告施行，並報請教育部備查，修正時亦同。
+
+元智大學獎項申請各類英檢與CEF對照表
+<table><tr><td rowspan=2 colspan=1>劍橋大學英語能力認證分級測驗(CambridgeM Main Suite)</td><td rowspan=2 colspan=1>劍橋大學商務英語能測驗(BULATS)</td><td rowspan=1 colspan=2>外語能力測驗(FLPT)</td><td rowspan=2 colspan=1>全民英檢GEPT))</td><td rowspan=1 colspan=1>全球</td><td rowspan=2 colspan=1>CEFR 語言能力參考指標</td><td rowspan=2 colspan=1>日本語能力试驗JLPT</td><td rowspan=1 colspan=3>托福TOEFL</td><td rowspan=2 colspan=1>傳統多益測驗TOEIC</td><td rowspan=1 colspan=2>新版多益測驗TOEIC</td><td rowspan=1 colspan=2>大學校院英a能力測驗(CSEPT)</td><td rowspan=2 colspan=1>雅思IELTS</td><td rowspan=2 colspan=1>元智大學學生獎勵辨法獎項標准</td></tr><tr><td rowspan=1 colspan=1>三項筆试總</td><td rowspan=1 colspan=1>口試级分</td><td rowspan=1 colspan=1>英(</td><td rowspan=1 colspan=1>紙筆測驗ITP</td><td rowspan=1 colspan=1>腦測驗CBi</td><td rowspan=1 colspan=1>網路測驗F</td><td rowspan=1 colspan=1>聽力測驗</td><td rowspan=1 colspan=1>閱讀測驗</td><td rowspan=1 colspan=1>第一級</td><td rowspan=1 colspan=1>第二級</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A1</td><td rowspan=1 colspan=1>A1Breakthrough</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Key EnglishTest (ET))</td><td rowspan=1 colspan=1>ALTELevel 1</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>S-1+</td><td rowspan=1 colspan=1>初級</td><td rowspan=1 colspan=1>A2</td><td rowspan=1 colspan=1>A2Waystage</td><td rowspan=1 colspan=1>N5</td><td rowspan=1 colspan=1>390以上</td><td rowspan=1 colspan=1>90以上</td><td rowspan=1 colspan=1>29以上</td><td rowspan=1 colspan=1>350以上</td><td rowspan=1 colspan=1>110以上</td><td rowspan=1 colspan=1>115以上</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>3以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>PreliminaryEnglish Test(PET)</td><td rowspan=1 colspan=1>ALTELevel 2</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>S-2</td><td rowspan=1 colspan=1>中級</td><td rowspan=1 colspan=1>B1</td><td rowspan=1 colspan=1>B1Threshold</td><td rowspan=1 colspan=1>N4</td><td rowspan=1 colspan=1>457以上</td><td rowspan=1 colspan=1>137以上</td><td rowspan=1 colspan=1>47以上</td><td rowspan=1 colspan=1>550以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>4 以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>FirstCertificate inEnglish (FCE)</td><td rowspan=1 colspan=1>ALTELevel 3</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>S-2+</td><td rowspan=1 colspan=1>中高級</td><td rowspan=1 colspan=1>B2</td><td rowspan=1 colspan=1>B2Vantage</td><td rowspan=1 colspan=1>N3</td><td rowspan=1 colspan=1>527以上</td><td rowspan=1 colspan=1>197以上</td><td rowspan=1 colspan=1>71以上</td><td rowspan=1 colspan=1>750以上</td><td rowspan=1 colspan=1>400以上</td><td rowspan=1 colspan=1>385以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>3305.5</td><td rowspan=1 colspan=1>以上</td><td rowspan=1 colspan=1>銀質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate inAdvancedEnglish (CAE)</td><td rowspan=1 colspan=1>ALTELevel 4</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>S-3以上</td><td rowspan=1 colspan=1>高級</td><td rowspan=1 colspan=1>C1</td><td rowspan=1 colspan=1>C1EffectiveOperationalProficiency</td><td rowspan=1 colspan=1>N2</td><td rowspan=1 colspan=1>560以上</td><td rowspan=1 colspan=1>220以上</td><td rowspan=1 colspan=1>83以上</td><td rowspan=1 colspan=1>880以上</td><td rowspan=1 colspan=1>490以上</td><td rowspan=1 colspan=1>455以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>6.5---</td><td rowspan=1 colspan=1>以上</td><td rowspan=1 colspan=1>金質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate ofProficiency inEnglish (CPE)</td><td rowspan=1 colspan=1>ALTELevel 5</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>優級</td><td rowspan=1 colspan=1>C2</td><td rowspan=1 colspan=1>C2Mastery</td><td rowspan=1 colspan=1>N1</td><td rowspan=1 colspan=1>630以上</td><td rowspan=1 colspan=1>267以上</td><td rowspan=1 colspan=1>109以上</td><td rowspan=1 colspan=1>950以上</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>7.5以上</td><td rowspan=1 colspan=1>金質獎</td></tr></table>
+
+資料來源：1.中華綜合發展研究院。各類英檢與 CEF 對照表。 http://www.ndi.org.tw/GET/index\_mn.htm2.國立中央大學英語檢測分數標準對照表。http://in.ncu.edu.tw/\~ncu7060/english/eng2.pdf  
+註1：外籍學生不得以其母語之測驗成績申請。
+
+註2：各系所（班）若所訂畢業標準即同敍獎門檻者，以高於畢業標準一級申請銀質獎，高於標準二級申請金質獎原則。若畢業標準已達語文檢測第二高等級，高於該標準一級者即可申請金質獎。
+```
+
+<!-- OCR_END -->
+
+- **3. [超連結（檔案）]**: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E7%8D%8E%E5%8B%B5%E8%BE%A6%E6%B3%95%E6%A2%9D%E6%96%87%E4%BF%AE%E6%AD%A3%E5%B0%8D%E7%85%A7%E8%A1%A8%E4%BF%AE%E6%AD%A3%E5%BE%8C%E6%A2%9D%E6%96%87%E5%8F%8A%E5%8E%9F%E6%A2%9D%E6%96%87113.12.05.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=cc438387041c8b97 -->
+#### OCR 3: files/OfficeStudentAffairs/%E8%A8%8A%E6%81%AF%E5%85%AC%E5%91%8A/Rules/%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E7%8D%8E%E5%8B%B5%E8%BE%A6%E6%B3%95%E6%A2%9D%E6%96%87%E4%BF%AE%E6%AD%A3%E5%B0%8D%E7%85%A7%E8%A1%A8%E4%BF%AE%E6%AD%A3%E5%BE%8C%E6%A2%9D%E6%96%87%E5%8F%8A%E5%8E%9F%E6%A2%9D%E6%96%87113.12.05.pdf
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/st/files/OfficeStudentAffairs/訊息公告/Rules/元智大學學生獎勵辦法條文修正對照表修正後條文及原條文113.12.05.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/cc438387041c8b97_元智大學學生獎勵辦法條文修正對照表修正後條文及原條文113.12.05.md
+- OCR 狀態: completed_cached
+- OCR 字數: 17383
+- 驗證狀態: ok
+
+```markdown
+## 元智大學學生獎勵辦法（條文修正對照表）
+
+113.05.01 112學年度第4次學生事務會議修正通過
+
+113.09.25 113 學年度第 3 次行政會議修正通過
+
+113.10.30 113 學年度第 1 次校務會議修正通過
+
+113.12.05 教育部臺教學(二)字第1130123915號函備查
+
+<table><tr><td rowspan=1 colspan=1>修正條文</td><td rowspan=1 colspan=1>原條文</td><td rowspan=1 colspan=1>說明</td></tr><tr><td rowspan=1 colspan=1>第九條同一成果僅能就金銀質獎擇一申請一次，且不得重複，多項成果申請同一類獎項，僅核予一獎狀或獎金；成就獎限應屆畢業生申請。申請時程：一、金銀質獎：學生於每學年度上學期，以前一學年度之成果提出申請，提前畢業學生得提具申請截止日前之成果；應屆畢業生當學年度上學期之成果可於下學期提出申請。二成就獎：畢業生於畢業當學年度下學期提出申請，並佐以歷年之成果。</td><td rowspan=1 colspan=1>第九條同一成果僅能就金銀質獎擇一申請一次，且不得重複，多項成果申請同一類獎項，僅核予一獎狀或獎金；成就獎限應屆畢業生申請。申請時程：一金銀質獎：學生於每學年度上學期，以前一學年度之成果提出申請，應屆畢業生當學年度上學期之成果可於下學期提出申請。二、成就獎：畢業生於畢業當學年度下學期提出申請，並佐以歷年之成果。</td><td rowspan=1 colspan=1>1.新增申請身份別：提前畢業學生得提具申請截止日前之成果申請。成就獎不限下學期提出申請，畢業當學年度即可申請。</td></tr><tr><td rowspan=1 colspan=1>第十一條各類獎項得獎人由各評審單位製作獎狀·並由學務處彙整得獎名單並製作獎狀，登錄其成果，公布於元智學生榮譽榜，於畢業典禮時公開頒發予應屆畢業生。成就獎與金質獎得獎人另發給獎金，獎金分配依年度預算總額採固定比例分配；金質獎獎金佔60%，成就獎獎金佔40%；獎金由各獎項得獎人均分，惟成就獎每人最高發給1萬元，金質獎每人最高發給5千元，各獎項獎金分配餘額得流用之。</td><td rowspan=1 colspan=1>第十一條各類獎項得獎人由各評審單位製作獎狀，並由學務處彙整得獎名單，登錄其成果，公布於元智學生榮譽榜，於畢業典禮時公開頒發予應屆畢業生。成就獎與金質獎得獎人另發給獎金，獎金分配依年度預算總額採固定比例分配;金質獎獎金佔60%，成就獎獎金佔40%；獎金由各獎項得獎人均分，惟成就獎每人最高發給1萬元，金質獎每人最高發給5千元，各獎項獎金分配餘額得流用之。</td><td rowspan=1 colspan=1>配合現行作法修訂條文：獎狀由學務處製作。</td></tr></table>
+
+## 元智大學學生獎勵辦法
+
+87.06.05 86 學年第 2 次學生事務指導委員會議通過  
+88.12.27 88 學年第 1 次學生事務指導委員會議修正通過  
+90.03.14 89 學年第 1 次學生事務指導委員會議修正通過  
+90.12.31 90 學年度第 1 次學生事務指導委員會修正通過  
+92.05.21 91 學年度第 4 次學生事務會議修正通過  
+92.06.25 91 學年度第 2 次校務會議核備  
+92.08.08 台訓(二)字第 0920116359 號函備查  
+92.10.29 92 學年度第 1 次學生事務會議修正通過  
+92.12.31 92 學年度第 1 次校務會議核備  
+93.03.11 台訓(二)字第 0930031870 號函備查  
+93.03.10 92 學年度第 4 次學生事務會議修正通過  
+93.07.02 92 學年度第 2 次校務會議核備  
+93.08.09 台訓(二)字第 0930105032 號函備查  
+94.06.27 93 學年度第 2 次校務會議核備  
+94.09.15 台訓(二)字第 0940124010 號函備查  
+95.06.05 94 學年度第 2 次校務會議核備  
+95.08.04 台訓(二)字第 0950114218 號函備查  
+98.06.08 97 學年度第 2 次校務會議核備  
+98.08.13 台訓（二）字第 0980137289 號函備查  
+99.12.20 99 學年度第 1 次校務會議核備  
+100.11.02 台訓（一）字第 1000193959 號函備查  
+103.06.04 102 學年度第 2 次校務會議核備  
+103.08.27 臺教學（二）字第 1030124614 號函備查  
+106.05.03 105 學年度第 2 次校務會議核定  
+106.05.31 臺教學(二)字第 1060072606 號函備查  
+106.11.08 106 學年度第 1 次校務會議核定  
+106.12.21 臺教學(二)字第 1060001538 號函備查  
+107.05.09 106 學年度第 2 次校務會議修正通過  
+107.06.15 教育部臺教學(二)字第 1070087640 號函備查  
+110.05.05 109學年度第2次校務會議修正通過  
+110.05.21 教育部臺教學(二)字第 1100068988 號函備查  
+113.10.30 113學年度第1次校務會議修正通過  
+113.12.05 教育部臺教學(二)字第1130123915號函備查
+
+## 第二條 獎勵項目分為：
+
+四、舉辦社團活動全學年達十次以上。
+
+五、擔任社團幹部滿一學年。
+
+六、擔任校內義工滿一學年。
+
+七、擔任學校各種委員會委員滿一學年。
+
+八、經校內單位核可之特殊活動紀錄。
+
+九、代表學校參加校際知能或技藝競賽得獎記錄。
+
+十、參與校內外各項工作特別努力著有績效者。
+
+十一、參加校內外各種服務，成績特優屬實者。
+
+十二、其他優良事蹟堪為典範者。
+
+## 第五條 學生成果合於下列情形者得推薦申請元智銀質獎：
+
+一、學業銀質獎：學年成績優異經系所推薦者，各學系(或同級單位)各年級各班一名。
+
+二、學術銀質獎：榮獲校內外學術競賽前三等第者。大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之B級期刊，同篇論文僅能申請一次。
+
+三、活動銀質獎：學年社團評鑑成績甲等以上之學術性、音樂性、康樂性、體育性及聯誼性社團幹部，或參與校外活動表現傑出者。
+
+四、服務銀質獎：學年社團評鑑成績合格或乙等以上之自治性、義工性與服務性社團幹部或參與校內外義工活動表現傑出者。
+
+五、才藝銀質獎：參與本校藝能比賽獲得第一等第或地區性藝能比賽獲得前三等第者。
+
+六、體育銀質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與全國性體育競賽榮獲四\~八名者。
+
+（二）代表本校參與地區性體育競賽榮獲冠軍或殊榮者。
+
+（三）創新本校運動紀錄者。
+
+七、多元技能銀質獎：通過國家考試普通考試（含同等級考試）、各學院認定乙級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+第六條 學生成果合於下列情形者得推薦申請元智金質獎：
+
+一、學業金質獎：畢業總成績優異經系所推薦者，各學系（或同級單位）各一名。
+
+二、學術金質獎：符合下列條件之一者：
+
+（一）榮獲國際性學術競賽前三等第者。
+
+（二）榮獲全國性學術競賽第一等第或殊榮者。
+
+（三）大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之A級期刊，同篇論文僅能申請一次。
+
+三、活動金質獎：獲頒活動銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）因活動表現優異，獲頒全國性前三等第獎項，彰顯校譽者。
+
+四、服務金質獎：獲頒服務銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）任職一年以上之義工且擔任全校性重大活動負責人，表現優異，並經義工輔導評選會議通過得推薦申請。
+
+（三）因服務表現優異，獲頒全國性前三等第獎項，彰顯校譽者。
+
+五、才藝金質獎：參與國際或全國性著名藝能比賽獲得冠軍者。
+
+六、體育金質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與國際性體育競賽榮獲前三等第或殊榮者。
+
+（二）代表本校參與全國性著名體育競賽榮獲前三等第或殊榮者。
+
+（三）創新全國性體育競賽紀錄者。
+
+七、多元技能金質獎：通過國家考試高等（含同等級考試）、各學院認定甲級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+第七條 學生成果合於下列情形並再度符合金質獎申請資格者，得推薦申請成就獎，惟金質獎僅核予獎狀不核予獎金：
+
+一、學術成就獎：曾獲二次學術銀質獎或一次學術金質獎。
+
+二、活動成就獎：曾獲二次活動銀質獎或一次活動金質獎。
+
+三、服務成就獎：曾獲二次服務銀質獎或一次服務金質獎。
+
+四、才藝成就獎：曾獲二次才藝銀質獎或一次才藝金質獎。
+
+五、體育成就獎：曾獲二次體育銀質獎或一次體育金質獎。
+
+六、多元技能成就獎：曾獲二次多元技能銀質獎或一次多元技能金質獎。
+
+第八條 各類獎項分別由教務處（學業）、各學院（學術、多元技能）、體育室（體育）、及學務處（活動、服務、才藝）負責制定相關細則與評選工作，相關細則提經學生事務會議核備。申請者可由本人或相關單位檢據相關資料如：學習或研究成果、活動紀錄、體育或才藝競賽成績等資料，向各評審單位申請推薦，經相關評選程序，報請學生事務會議通過後公布。
+
+第九條 同一成果僅能就金、銀質獎擇一申請一次，且不得重複，多項成果申請同一類獎項，僅核予一獎狀或獎金；成就獎限應屆畢業生申請。申請時程：
+
+一、金、銀質獎：學生於每學年度上學期，以前一學年度之成果提出申請，提前畢業學生得提具申請截止日前之成果；應屆畢業生當學年度上學期之成果可於下學期提出申請。
+
+二、成就獎：畢業生於畢業當學年度提出申請，並佐以歷年之成果。
+
+三、應屆畢業生申請之成果非於採計時程內，僅核予獎狀，不核予獎金。
+
+第十條 符合一般獎勵者，可主動檢具相關資料，向校內行政或教學單位申請，經單位一級主管核可後登錄於學務資訊系統列入獎勵及五育紀錄。
+
+第十一條 各類獎項由學務處彙整得獎名單並製作獎狀，登錄其成果，公布於元智學生榮譽榜，於畢業典禮時公開頒發予應屆畢業生。成就獎與金質獎得獎人另發給獎金，獎金分配依年度預算總額採固定比例分配；金質獎獎金佔 60%，成就獎獎金佔 40%；獎金由各獎項得獎人均分，惟成就獎每人最高發給 1萬元，金質獎每人最高發給 5千元，各獎項獎金分配餘額得流用之。
+
+第十二條 得獎人應配合學校承辦單位作業，於各項公開活動展現得獎項目及成果。
+
+第十三條 得獎人如經他人檢舉有違得獎事實或受重大懲戒者，經由相關審查程序審理核實後取消資格。
+
+第十四條 本辦法經校務會議通過後公告施行，並報請教育部備查，修正時亦同。
+
+元智大學獎項申請各類英檢與CEF對照表
+<table><tr><td rowspan=2 colspan=1>劍橋大學英語能力認證分級測驗(CambridgeM Main Suite)</td><td rowspan=2 colspan=1>劍橋大學商務英語能測驗(BULATS)</td><td rowspan=1 colspan=2>外語能力測驗(FLPT)</td><td rowspan=2 colspan=1>全民英檢GEPT))</td><td rowspan=1 colspan=1>全球</td><td rowspan=2 colspan=1>CEFR 語言能力參考指標</td><td rowspan=2 colspan=1>日本語能力试驗JLPT</td><td rowspan=1 colspan=3>托福TOEFL</td><td rowspan=2 colspan=1>傳統多益測驗TOEIC</td><td rowspan=1 colspan=2>新版多益測驗TOEIC</td><td rowspan=1 colspan=2>大學校院英a能力測驗(CSEPT)</td><td rowspan=2 colspan=1>雅思IELTS</td><td rowspan=2 colspan=1>元智大學學生獎勵辨法獎項標准</td></tr><tr><td rowspan=1 colspan=1>三項筆试總</td><td rowspan=1 colspan=1>口試级分</td><td rowspan=1 colspan=1>英(</td><td rowspan=1 colspan=1>紙筆測驗ITP</td><td rowspan=1 colspan=1>腦測驗CBi</td><td rowspan=1 colspan=1>網路測驗F</td><td rowspan=1 colspan=1>聽力測驗</td><td rowspan=1 colspan=1>閱讀測驗</td><td rowspan=1 colspan=1>第一級</td><td rowspan=1 colspan=1>第二級</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A1</td><td rowspan=1 colspan=1>A1Breakthrough</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Key EnglishTest (ET))</td><td rowspan=1 colspan=1>ALTELevel 1</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>S-1+</td><td rowspan=1 colspan=1>初級</td><td rowspan=1 colspan=1>A2</td><td rowspan=1 colspan=1>A2Waystage</td><td rowspan=1 colspan=1>N5</td><td rowspan=1 colspan=1>390以上</td><td rowspan=1 colspan=1>90以上</td><td rowspan=1 colspan=1>29以上</td><td rowspan=1 colspan=1>350以上</td><td rowspan=1 colspan=1>110以上</td><td rowspan=1 colspan=1>115以上</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>3以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>PreliminaryEnglish Test(PET)</td><td rowspan=1 colspan=1>ALTELevel 2</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>S-2</td><td rowspan=1 colspan=1>中級</td><td rowspan=1 colspan=1>B1</td><td rowspan=1 colspan=1>B1Threshold</td><td rowspan=1 colspan=1>N4</td><td rowspan=1 colspan=1>457以上</td><td rowspan=1 colspan=1>137以上</td><td rowspan=1 colspan=1>47以上</td><td rowspan=1 colspan=1>550以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>4 以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>FirstCertificate inEnglish (FCE)</td><td rowspan=1 colspan=1>ALTELevel 3</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>S-2+</td><td rowspan=1 colspan=1>中高級</td><td rowspan=1 colspan=1>B2</td><td rowspan=1 colspan=1>B2Vantage</td><td rowspan=1 colspan=1>N3</td><td rowspan=1 colspan=1>527以上</td><td rowspan=1 colspan=1>197以上</td><td rowspan=1 colspan=1>71以上</td><td rowspan=1 colspan=1>750以上</td><td rowspan=1 colspan=1>400以上</td><td rowspan=1 colspan=1>385以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>3305.5</td><td rowspan=1 colspan=1>以上</td><td rowspan=1 colspan=1>銀質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate inAdvancedEnglish (CAE)</td><td rowspan=1 colspan=1>ALTELevel 4</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>S-3以上</td><td rowspan=1 colspan=1>高級</td><td rowspan=1 colspan=1>C1</td><td rowspan=1 colspan=1>C1EffectiveOperationalProficiency</td><td rowspan=1 colspan=1>N2</td><td rowspan=1 colspan=1>560以上</td><td rowspan=1 colspan=1>220以上</td><td rowspan=1 colspan=1>83以上</td><td rowspan=1 colspan=1>880以上</td><td rowspan=1 colspan=1>490以上</td><td rowspan=1 colspan=1>455以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>6.5---</td><td rowspan=1 colspan=1>以上</td><td rowspan=1 colspan=1>金質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate ofProficiency inEnglish (CPE)</td><td rowspan=1 colspan=1>ALTELevel 5</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>優級</td><td rowspan=1 colspan=1>C2</td><td rowspan=1 colspan=1>C2Mastery</td><td rowspan=1 colspan=1>N1</td><td rowspan=1 colspan=1>630以上</td><td rowspan=1 colspan=1>267以上</td><td rowspan=1 colspan=1>109以上</td><td rowspan=1 colspan=1>950以上</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>7.5以上</td><td rowspan=1 colspan=1>金質獎</td></tr></table>
+
+資料來源：1.中華綜合發展研究院。各類英檢與 CEF 對照表。 http://www.ndi.org.tw/GET/index\_mn.htm2.國立中央大學英語檢測分數標準對照表。http://in.ncu.edu.tw/\~ncu7060/english/eng2.pdf  
+註1：外籍學生不得以其母語之測驗成績申請。
+
+註2：各系所（班）若所訂畢業標準即同敍獎門檻者，以高於畢業標準一級申請銀質獎，高於標準二級申請金質獎原則。若畢業標準已達語文檢測第二高等級，高於該標準一級者即可申請金質獎。
+
+## 元智大學學生獎勵辦法（原條文）
+
+87.06.05 86 學年第 2 次學生事務指導委員會議通過  
+88.12.27 88 學年第 1 次學生事務指導委員會議修正通過  
+90.03.14 89 學年第 1 次學生事務指導委員會議修正通過  
+90.12.31 90 學年度第 1 次學生事務指導委員會修正通過  
+92.05.21 91 學年度第 4 次學生事務會議修正通過  
+92.06.25 91 學年度第 2 次校務會議核備  
+92.08.08 台訓(二)字第 0920116359 號函備查  
+92.10.29 92 學年度第 1 次學生事務會議修正通過  
+92.12.31 92 學年度第 1 次校務會議核備  
+93.03.11 台訓(二)字第 0930031870 號函備查  
+93.03.10 92 學年度第 4 次學生事務會議修正通過  
+93.07.02 92 學年度第 2 次校務會議核備  
+93.08.09 台訓(二)字第 0930105032 號函備查  
+94.06.27 93 學年度第 2 次校務會議核備  
+94.09.15 台訓(二)字第 0940124010 號函備查  
+95.06.05 94 學年度第 2 次校務會議核備  
+95.08.04 台訓(二)字第 0950114218 號函備查  
+98.06.08 97 學年度第 2 次校務會議核備  
+98.08.13 台訓（二）字第 0980137289 號函備查  
+99.12.20 99 學年度第 1次校務會議核備  
+100.11.02 台訓（一）字第 1000193959 號函備查  
+103.06.04 102 學年度第 2 次校務會議核備  
+103.08.27 臺教學（二）字第 1030124614 號函備查  
+106.05.03 105 2  
+106.05.31 臺教學(二)字第 1060072606 號函備查  
+106.11.08 106 學年度第 1 次校務會議核定  
+106.12.21 臺教學(二)字第 1060001538 號函備查  
+107.05.09 106 學年度第 2 次校務會議修正通過  
+107.06.15 教育部臺教學(二)字第 1070087640 號函備查  
+110.05.05 109學年度第2次校務會議修正通過  
+110.05.21 教育部臺教學(二)字第 1100068988 號函備查
+
+## 第一條 為表揚本校學生在校期間各方面優異與傑出之成就，並鼓勵發揮自我潛能，建立元智人的風格與精神，樹立優良校風，特依據教育部訂頒「大學法」第三十二條訂定本辦法。
+
+## 第二條 獎勵項目分為：
+
+## 二、元智金質獎、銀質獎及成就獎。
+
+六、擔任校內義工滿一學年。
+
+七、擔任學校各種委員會委員滿一學年。
+
+八、經校內單位核可之特殊活動紀錄。
+
+九、代表學校參加校際知能或技藝競賽得獎記錄。
+
+十、參與校內外各項工作特別努力著有績效者。
+
+十一、參加校內外各種服務，成績特優屬實者。
+
+十二、其他優良事蹟堪為典範者。
+
+## 第五條 學生成果合於下列情形者得推薦申請元智銀質獎：
+
+一、學業銀質獎：學年成績優異經系所推薦者，各學系(或同級單位)各年級各班一名。
+
+二、學術銀質獎：榮獲校內外學術競賽前三等第者。大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之B級期刊，同篇論文僅能申請一次。
+
+三、活動銀質獎：學年社團評鑑成績甲等以上之學術性、音樂性、康樂性、體育性及聯誼性社團幹部，或參與校外活動表現傑出者。
+
+四、服務銀質獎：學年社團評鑑成績合格或乙等以上之自治性、義工性與服務性社團幹部或參與校內外義工活動表現傑出者。
+
+五、才藝銀質獎：參與本校藝能比賽獲得第一等第或地區性藝能比賽獲得前三等第者。
+
+六、體育銀質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與全國性體育競賽榮獲四\~八名者。
+
+（二）代表本校參與地區性體育競賽榮獲冠軍或殊榮者。
+
+（三）創新本校運動紀錄者。
+
+七、多元技能銀質獎：通過國家考試普通考試（含同等級考試）、各學院認定乙級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+## 第六條 學生成果合於下列情形者得推薦申請元智金質獎：
+
+一、學業金質獎：畢業總成績優異經系所推薦者，各學系（或同級單位）各一名。
+
+二、學術金質獎：符合下列條件之一者：
+
+（一）榮獲國際性學術競賽前三等第者。
+
+（二）榮獲全國性學術競賽第一等第或殊榮者。
+
+（三）大學部及碩士班學生學習或研究成果曾發表或被接受於國內外著名期刊且為院所屬之A級期刊，同篇論文僅能申請一次。
+
+三、活動金質獎：獲頒活動銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）因活動表現優異，獲頒全國性前三等第獎項，彰顯校譽者。四、服務金質獎：獲頒服務銀質獎後，符合下列條件之一者：
+
+（一）擔任社團負責人且該社團於其任內被評選為優等社團者。
+
+（二）任職一年以上之義工且擔任全校性重大活動負責人，表現優異，並經義工輔導評選會議通過得推薦申請。
+
+（三）因服務表現優異，獲頒全國性前三等第獎項，彰顯校譽者。
+
+五、才藝金質獎：參與國際或全國性著名藝能比賽獲得冠軍者。
+
+六、體育金質獎：符合下列條件之一，並經體育室核備者：
+
+（一）代表本校參與國際性體育競賽榮獲前三等第或殊榮者。
+
+（二）代表本校參與全國性著名體育競賽榮獲前三等第或殊榮者。
+
+（三）創新全國性體育競賽紀錄者。
+
+七、多元技能金質獎：通過國家考試高等（含同等級考試）、各學院認定甲級全國技術士技能檢定或語文檢測成績優異者（參照元智大學獎項申請各類英檢與CEF對照表）。
+
+第七條 學生成果合於下列情形並再度符合金質獎申請資格者，得推薦申請成就獎，惟金質獎僅核予獎狀不核予獎金：
+
+一、學術成就獎：曾獲二次學術銀質獎或一次學術金質獎。
+
+二、活動成就獎：曾獲二次活動銀質獎或一次活動金質獎。
+
+三、服務成就獎：曾獲二次服務銀質獎或一次服務金質獎。
+
+四、才藝成就獎：曾獲二次才藝銀質獎或一次才藝金質獎。
+
+五、體育成就獎：曾獲二次體育銀質獎或一次體育金質獎。
+
+第八條 各類獎項分別由教務處（學業）、各學院（學術、多元技能）、體育室（體育）、及學務處（活動、服務、才藝）負責制定相關細則與評選工作，相關細則提經學生事務會議核備。申請者可由本人或相關單位檢據相關資料如：學習或研究成果、活動紀錄、體育或才藝競賽成績等資料，向各評審單位申請推薦，經相關評選程序，報請學生事務會議通過後公布。
+
+第九條 同一成果僅能就金、銀質獎擇一申請一次，且不得重複，多項成果申請同一類獎項，僅核予一獎狀或獎金；成就獎限應屆畢業生申請。申請時程：
+
+一、金、銀質獎：學生於每學年度上學期，以前一學年度之成果提出申請，應屆畢業生當學年度上學期之成果可於下學期提出申請。
+
+二、成就獎：畢業生於畢業當學年度下學期提出申請，並佐以歷年之成果。
+
+三、應屆畢業生申請之成果非於採計時程內，僅核予獎狀，不核予獎金。
+
+第十條 符合一般獎勵者，可主動檢具相關資料，向校內行政或教學單位申請，經單位一級主管核可後登錄於學務資訊系統列入獎勵及五育紀錄。
+
+第十一條 各類獎項得獎人由各評審單位製作獎狀，並由學務處彙整得獎名單，登錄其成果，公布於元智學生榮譽榜，於畢業典禮時公開頒發予應屆畢業生。
+
+成就獎與金質獎得獎人另發給獎金，獎金分配依年度預算總額採固定比例分配；金質獎獎金佔 60%，成就獎獎金佔 40%；獎金由各獎項得獎人均分，惟成就獎每人最高發給1萬元，金質獎每人最高發給 5 千元，各獎項獎金分配餘額得流用之。
+
+第十二條 得獎人應配合學校承辦單位作業，於各項公開活動展現得獎項目及成果。
+
+第十三條 得獎人如經他人檢舉有違得獎事實或受重大懲戒者，經由相關審查程序審理核實後取消資格。
+
+第十四條 本辦法經校務會議通過後公告施行，並報請教育部備查，修正時亦同。
+
+元智大學獎項申請各類英檢與CEF對照表
+<table><tr><td rowspan=2 colspan=1>劍橋大學英語能力認證分級測驗(CambridgeMain Suite</td><td rowspan=2 colspan=1>劍橋大學國際商務英語能力測驗(BULATS)</td><td rowspan=1 colspan=2>外語能力測驗 PT)</td><td rowspan=2 colspan=1>全民英檢(GEPT)</td><td rowspan=1 colspan=1>全球</td><td rowspan=2 colspan=1>CEFR語言能力參考指標</td><td rowspan=2 colspan=1>日本能分度()JLPT</td><td rowspan=1 colspan=3>托福TOEFL</td><td rowspan=2 colspan=1>傳統多益測驗TOEIC</td><td rowspan=1 colspan=2>新版多益測驗TOEIC</td><td rowspan=1 colspan=2>大學校院英能力測驗(CSEPT)</td><td rowspan=2 colspan=1>雅思IELTS</td><td rowspan=2 colspan=1>元智大學學生獎勵辦法獎項標準</td></tr><tr><td rowspan=1 colspan=1>三項筆試分</td><td rowspan=1 colspan=1>口試級分</td><td rowspan=1 colspan=1>英检试(</td><td rowspan=1 colspan=1>紙筆測驗ITP</td><td rowspan=1 colspan=1>電腦測驗 CBT</td><td rowspan=1 colspan=1>網路測驗iBT</td><td rowspan=1 colspan=1>聽測驗</td><td rowspan=1 colspan=1>閱讀測驗</td><td rowspan=1 colspan=1>第一級</td><td rowspan=1 colspan=1>第二级</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>A1</td><td rowspan=1 colspan=1>A1Breakthrough</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Key EnglishTest (KET)</td><td rowspan=1 colspan=1>ALTELevel 1</td><td rowspan=1 colspan=1>150</td><td rowspan=1 colspan=1>S-1+</td><td rowspan=1 colspan=1>初級</td><td rowspan=1 colspan=1>A2</td><td rowspan=1 colspan=1>A2Waystage</td><td rowspan=1 colspan=1>N5</td><td rowspan=1 colspan=1>390以上</td><td rowspan=1 colspan=1>90以上</td><td rowspan=1 colspan=1>29以上</td><td rowspan=1 colspan=1>350以上</td><td rowspan=1 colspan=1>110以上</td><td rowspan=1 colspan=1>115以上</td><td rowspan=1 colspan=1>170</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>3以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>PreliminaryEnglish Test(PET)</td><td rowspan=1 colspan=1>ALTELevel 2</td><td rowspan=1 colspan=1>195</td><td rowspan=1 colspan=1>S-2</td><td rowspan=1 colspan=1>中級</td><td rowspan=1 colspan=1>B1</td><td rowspan=1 colspan=1>B1Threshold</td><td rowspan=1 colspan=1>N4</td><td rowspan=1 colspan=1>457以上</td><td rowspan=1 colspan=1>137以上</td><td rowspan=1 colspan=1>47以上</td><td rowspan=1 colspan=1>550以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>275以上</td><td rowspan=1 colspan=1>230</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>4以上</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>FirstCertificate inEnglish(CE))</td><td rowspan=1 colspan=1>ALTELevel 3</td><td rowspan=1 colspan=1>240</td><td rowspan=1 colspan=1>S-2+</td><td rowspan=1 colspan=1>中高級</td><td rowspan=1 colspan=1>B2</td><td rowspan=1 colspan=1>B2Vantage</td><td rowspan=1 colspan=1>N3</td><td rowspan=1 colspan=1>527以上</td><td rowspan=1 colspan=1>197以上</td><td rowspan=1 colspan=1>71以上</td><td rowspan=1 colspan=1>750以上</td><td rowspan=1 colspan=1>400以上</td><td rowspan=1 colspan=1>385以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>330</td><td rowspan=1 colspan=1>5.5 以上</td><td rowspan=1 colspan=1>銀質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate inAdvancedEnglish(CAE)</td><td rowspan=1 colspan=1>ALTELevel 4</td><td rowspan=1 colspan=1>315</td><td rowspan=1 colspan=1>S-3以上</td><td rowspan=1 colspan=1>高級</td><td rowspan=1 colspan=1>C1</td><td rowspan=1 colspan=1>C1$EffectiveOperationalProficiency</td><td rowspan=1 colspan=1>N2</td><td rowspan=1 colspan=1>560以上</td><td rowspan=1 colspan=1>220以上</td><td rowspan=1 colspan=1>83以上</td><td rowspan=1 colspan=1>880以上</td><td rowspan=1 colspan=1>490以上</td><td rowspan=1 colspan=1>455以上</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>---</td><td rowspan=1 colspan=1>6.5以上</td><td rowspan=1 colspan=1>金質獎</td></tr><tr><td rowspan=1 colspan=1>Certificate ofProficiency inEnglish(CPE)</td><td rowspan=1 colspan=1>ALTELevel 5</td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>優級</td><td rowspan=1 colspan=1>C2</td><td rowspan=1 colspan=1>C2Mastery</td><td rowspan=1 colspan=1>N1</td><td rowspan=1 colspan=1>630以上</td><td rowspan=1 colspan=1>267以上</td><td rowspan=1 colspan=1>109以上</td><td rowspan=1 colspan=1>950以上</td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2>---</td><td rowspan=1 colspan=1>7.5 以上</td><td rowspan=1 colspan=1>金質獎</td></tr></table>
+
+資料來源：1.中華綜合發展研究院。各類英檢與 CEF 對照表。 http://www.ndi.org.tw/GET/index\_mn.htm2.國立中央大學英語檢測分數標準對照表。http://in.ncu.edu.tw/\~ncu7060/english/eng2.pdf  
+註1：外籍學生不得以其母語之測驗成績申請。  
+註2：各系所（班）若所訂畢業標準即同敍獎門檻者，以高於畢業標準一級申請銀質獎，高於標準二級申請金質獎原則。若畢業標準已達語文檢測第二高等級，高於該標準一級者即可申請金質獎。
+```
+
+<!-- OCR_END -->
+
+
+---

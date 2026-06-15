@@ -1,0 +1,93 @@
+﻿# 網站文章資料_元智大學資訊管理學系 誠徵專任教師 1名(刊登日期：115.3.12)_1025
+
+## 一、文章基本資料
+
+- **文章ID**: 1025
+- **文章標題**: 元智大學資訊管理學系 誠徵專任教師 1名(刊登日期：115.3.12)
+- **文章網址**: https://www.yzu.edu.tw/admin/ho/index.php/tw/yuan-zhi-da-xue-zi-xun-guan-li-xue-xi-cheng-zheng-zhuan-ren-jiao-shi-1ming-kan-deng-ri-qi-115-3-12
+- **文章簡介**: 一、需求類別：誠徵助理教授(含)以上之專任師資
+
+二、名額：1 名
+
+三、起聘日期：自 115 年 8 月 1 日起聘
+
+四、資格：已（或即將）取得教育部認可之國內外博士學位者，並具備下列任一專長（但非屬下述領域之優秀研究學者亦十分歡迎），且具英語授課能力者。
+
+五、專長：主修資訊管理或相關領域，具備 MIS、人工智慧或智慧製造等背景者尤佳。
+
+六、收件截止日期：115 年 4 月 15 日（星期三）。
+
+七、檢附資料：
+
+
+填寫「  應徵資料表 (另開新視窗) 」Word 檔，回傳至 e-mail：  ifchyi@saturn.yzu.edu.tw (開啟郵件程式) （郵件主旨請註明：專任教職應徵資料表-○○○）。
+
+ 教師資格審查履歷表 (另開新視窗) 
+
+個人履歷及自傳（含大學以上學經歷、專長及研究方向）。
+
+未來研究方向簡述與可授課程之教學計畫書。
+
+博士畢業證書影本（國外學歷需駐外單位驗證；應屆畢業者請附指導教授證明並註明預計畢業日期）。
+
+碩、博士成績單影本（國外學歷需駐外單位驗證）。
+
+歷年學術研究著作目錄（一式三份，需註明出處）。
+
+博士論文或五年內出版之代表著作及參考學術著作（一式三份）。
+
+推薦函 2 封（需註明推薦人之聯絡電話）。
+
+教師資格證書影本（無教師證書者免繳）。
+
+
+※ 持國外學歷進入複審者，請另外檢附以下文件：
+1. 國外學歷送審教師資格修業情形一覽表
+2. 出入境記錄（請洽移民署辦理）
+
+八、系所簡介：
+ http://www.mis.yzu.edu.tw (另開新視窗) 
+
+九、申請方式：
+請將申請資料於截止日前郵寄至元智大學資管系收。信封上請註明「應徵專任教師」。本系將安排通過初審的申請人蒞系演講，時間另行通知。相關著作及證明文件恕不退還，資料請以書面郵寄，恕不接受傳真或電子郵件方式傳遞。
+
+十、聯絡方式：
+聯絡人：邱小姐
+電話：（03）463-8800 分機 2601
+傳真：（03）435-2077
+E-mail：  ifchyi@saturn.yzu.edu.tw (開啟郵件程式) 
+地址：32003 桃園市中壢區遠東路 135 號
+- **文章全文**: 
+- **文章更新日期**: 2026/4/21 上午 01:42:50
+- **文章發表日期**: 2026/3/12 上午 08:21:04
+- **文章點擊數**: 444
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/工作刊登/元智大學資訊管理學系徵聘教師_基本資料表.doc
+- **2. [超連結（檔案）]**: mailto:ifchyi@saturn.yzu.edu.tw
+- **3. [超連結（檔案）]**: files/%E8%A1%A8%E5%96%AE%E4%B8%8B%E8%BC%89/22_%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E6%95%99%E5%B8%AB%E8%B3%87%E6%A0%BC%E5%AF%A9%E6%9F%A5%E5%B1%A5%E6%AD%B7%E8%A1%A8_%E7%A9%BA%E7%99%BD_1130530%E4%BF%AE%E6%AD%A3.docx
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=dc2213ffe52e46b6 -->
+#### OCR 3: files/%E8%A1%A8%E5%96%AE%E4%B8%8B%E8%BC%89/22_%E5%85%83%E6%99%BA%E5%A4%A7%E5%AD%B8%E6%95%99%E5%B8%AB%E8%B3%87%E6%A0%BC%E5%AF%A9%E6%9F%A5%E5%B1%A5%E6%AD%B7%E8%A1%A8_%E7%A9%BA%E7%99%BD_1130530%E4%BF%AE%E6%AD%A3.docx
+
+- 關聯類型: 超連結（檔案）
+- 本機檔案: admin/ho/files/表單下載/22_元智大學教師資格審查履歷表_空白_1130530修正.docx
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/dc2213ffe52e46b6_22_元智大學教師資格審查履歷表_空白_1130530修正.md
+- OCR 狀態: completed_cached
+- OCR 字數: 5422
+- 驗證狀態: ok
+
+```markdown
+<table><thead><tr><th colspan="24"><p>元智大學教師資格審查履歷表</p></th><th></th></tr><tr><th colspan="24"><p>填表日期：　　年　　月　　日</p></th><th></th></tr></thead><tbody><tr><td colspan="6"><p>身分證統一編號(居留證號)</p></td><td colspan="7"></td><td colspan="3"><p>送審職級</p></td><td colspan="8"><p> ○教授   ○副教授   ○助理教授   ○講師</p></td><td rowspan="33"><p>本表由送審者自行填寫 (註：本校專任教師退休再任新聘兼任教師者，免填寫「學歷、代表著作、參考著作」等欄位資料。)</p><p>(</p></td></tr><tr><td colspan="6"><p>申請外籍教師工作許可</p></td><td colspan="7"><ul><li>是   ○ 否</li></ul></td><td colspan="3"><p>國籍</p></td><td colspan="8"><p>○本國籍　 ○外國籍：　　　　　　　　　</p></td></tr><tr><td colspan="2"><p>  姓      名</p></td><td colspan="2"><p>性別</p></td><td colspan="8"><p>西元出生年月日</p></td><td rowspan="2"><p>聯絡資訊</p></td><td colspan="6"><p><strong>e-mail：</strong> </p></td><td colspan="3" rowspan="2"><p>電 話</p></td><td colspan="2"><p><strong>公：</strong> </p></td></tr><tr><td colspan="2"></td><td colspan="2"></td><td colspan="8"><p> <strong>年</strong> <strong>月</strong> <strong>日</strong></p></td><td colspan="6"><p><strong>地 址：</strong> </p></td><td colspan="2"><p><strong>宅： </strong></p><p><strong>手機：</strong></p></td></tr><tr><td rowspan="2"><p>送 審<br/>類 別</p></td><td colspan="4"><p><strong>新 聘 或 升 等</strong></p></td><td colspan="5"><p><strong>聘任類別</strong></p></td><td colspan="3"><p><strong>聘任資格</strong></p></td><td colspan="11"><p><strong>審查類別</strong></p></td></tr><tr><td colspan="4"><p>○ 新  聘</p><p>○ 升  等</p></td><td colspan="5"><p>○ 專任</p><p>○ 合聘</p><p>○ 兼任</p></td><td colspan="3"><p>○編制內</p><p>○編制外</p></td><td colspan="11"><p>○ 文憑送審      ○ 學術領域          ○ 教學實踐研究領域</p><p>○ 技術研發領域  ○ 文藝創作展演領域  ○ 體育競賽領域</p><p>○ 資歷送審(限專業技術人員教師)</p></td></tr><tr><td rowspan="4"><p>學  歷</p></td><td colspan="7"><p><strong>學校名稱</strong></p></td><td colspan="6"><p><strong>系     所</strong></p></td><td><p><strong>學位名稱</strong></p></td><td colspan="6"><p><strong>修業起訖年月</strong></p></td><td colspan="2"><p><strong>授予學位年月</strong></p></td><td><p><strong>國家或地區</strong></p></td></tr><tr><td colspan="7"></td><td colspan="6"></td><td></td><td colspan="6"><p>至</p></td><td colspan="2"></td><td></td></tr><tr><td colspan="7"></td><td colspan="6"></td><td></td><td colspan="6"><p>至</p></td><td colspan="2"></td><td></td></tr><tr><td colspan="7"></td><td colspan="6"></td><td></td><td colspan="6"><p>至</p></td><td colspan="2"></td><td></td></tr><tr><td rowspan="4"><p>經  歷</p></td><td colspan="13"><p><strong>服務機關名稱</strong></p></td><td><p><strong>職別</strong></p></td><td colspan="3"><p><strong>專( 兼) 任</strong></p></td><td colspan="5"><p><strong>任 職 起 訖 年 月</strong></p></td><td><p><strong>合計年資</strong></p></td></tr><tr><td colspan="13"></td><td></td><td colspan="3"></td><td colspan="5"><p>至</p></td><td><p>  年  月</p></td></tr><tr><td colspan="13"></td><td></td><td colspan="3"></td><td colspan="5"><p>至</p></td><td><p>  年  月</p></td></tr><tr><td colspan="13"></td><td></td><td colspan="3"></td><td colspan="5"><p>至</p></td><td><p>  年  月</p></td></tr><tr><td colspan="9"><p><strong>已審定之最高等級教師資格</strong></p></td><td colspan="5"><p><strong>學術專長</strong></p></td><td><p><strong>外語專長</strong></p></td><td colspan="3"><p><strong>任教科系</strong></p></td><td colspan="5"><p><strong>任教科目</strong></p></td><td><p><strong>時   數</strong></p></td></tr><tr><td colspan="4"><p>證  書  字  號</p></td><td colspan="5"><p> 起資年月</p></td><td colspan="5" rowspan="2"><p> </p></td><td rowspan="2"><p> </p></td><td colspan="3" rowspan="2"><p> </p></td><td colspan="5"><p>1.</p></td><td><p>  小時/週</p></td></tr><tr><td colspan="4"><p>字第      號</p></td><td colspan="5"><p>   年  月</p></td><td colspan="5"><p>2.</p></td><td><p>  小時/週</p></td></tr><tr><td rowspan="4"><p>代表<br/>著作</p></td><td colspan="2"><p><strong>著作類型</strong></p></td><td colspan="21"></td></tr><tr><td colspan="2"><p><strong>著作名稱</strong></p></td><td colspan="21"></td></tr><tr><td colspan="6"><p><strong>所屬學術領域</strong></p></td><td colspan="9"><p><strong>出版處或期刊名稱</strong></p></td><td colspan="4"><p><strong>期刊卷期</strong></p></td><td colspan="4"><p><strong>出版時間</strong></p></td></tr><tr><td colspan="6"></td><td colspan="9"></td><td colspan="4"></td><td colspan="4"><p>         年   月</p></td></tr><tr><td rowspan="13"><p>參考<br/>著作</p></td><td colspan="2" rowspan="3"><p><strong>序號</strong></p></td><td colspan="21"><p><strong>著作名稱</strong></p></td></tr><tr><td colspan="14"><p><strong>出處/件數/產學合作契約編號/公開型式</strong></p></td><td colspan="7"><p><strong>期刊卷期/ISBN/指導教授/類別</strong></p></td></tr><tr><td colspan="8"><p><strong>接受/出版時間</strong></p></td><td colspan="2"><p><strong>字數</strong></p></td><td colspan="3"><p><strong>所屬學術領域</strong></p></td><td><p><strong>所用語文</strong></p></td><td colspan="7"><p><strong>合著者姓名</strong></p></td></tr><tr><td colspan="2" rowspan="3"><p>1</p></td><td colspan="21"></td></tr><tr><td colspan="14"></td><td colspan="7"></td></tr><tr><td colspan="8"><p>     年   月</p></td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="7"></td></tr><tr><td colspan="2" rowspan="3"><p>2</p></td><td colspan="21"></td></tr><tr><td colspan="14"></td><td colspan="7"></td></tr><tr><td colspan="8"><p>     年   月</p></td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="7"></td></tr><tr><td colspan="2" rowspan="3"><p>3</p></td><td colspan="21"></td></tr><tr><td colspan="21"></td></tr><tr><td colspan="8"><p>    年   月</p></td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="7"></td></tr><tr><td colspan="23"></td><td></td></tr></tbody></table>
+```
+
+<!-- OCR_END -->
+
+- **4. [超連結（網站）]**: http://www.mis.yzu.edu.tw
+- **5. [超連結（檔案）]**: mailto:ifchyi@saturn.yzu.edu.tw
+
+---

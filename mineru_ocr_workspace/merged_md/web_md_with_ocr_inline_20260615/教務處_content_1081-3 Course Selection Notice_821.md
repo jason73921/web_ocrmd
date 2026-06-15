@@ -1,0 +1,167 @@
+﻿# 網站文章資料_1081-3 Course Selection Notice and Updated Course Schedule_821
+
+## 一、文章基本資料
+
+- **文章ID**: 821
+- **文章標題**: 1081-3 Course Selection Notice and Updated Course Schedule
+- **文章網址**: https://www.yzu.edu.tw/admin/aa/index.php/tw/1081-3-course-selection-notice-and-updated-course-schedule-4
+- **文章簡介**: Announcement
+
+Office of Academic Affairs
+
+Subject:1081-3 Course Selection Notice and Updated Course Schedule.
+
+Statement:
+
+1、The list of the courses Schedule.
+
+2、Notice:
+
+(1) For the courses with time adjustment (including required course), course selection system will delete the old time selection and add in the new time selection automatically.
+
+(2)If the add-in course with new time causes course schedule conflict, Curriculum Section will inform the student by e-mail. Student will have to delete the overlapping course before enrolling deadline.
+
+(3)During Stage II and  Stage III course selection period, if students drop of the course that has reached the maximum capacity, the quota won’t be released immediately but after a period (e.g., 10 minutes or 1 hour) randomly.
+
+ (4)Period：2019/09/02(Mon.)12:00 p.m.~ 2019/09/16(Mon.)12:00 p.m.
+
+●The first day 09/02(Mon.)12:00 p.m. is open only to fourth-year students and the prolonged study students of the two-year undergraduate program , and graduate students. 
+
+●The second day 09/03(Tue.)12:00 p.m. is open for all students.
+
+(5)On-line course selection system:
+
+●YZU homepage/Course Selection System/On-line Course Selection. https://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+
+●YZU homepage/Portal/Academics/Elective System/Course Selection System/On-line Course Selection. 
+
+(6) Students should always be aware of the individual Confirmation of 1081 online course sign-up sheets at Portal / Academics/ Elective System / Course Selection List / Confirmation. The sheet mentioned above must be confirmed on line by 09/30/2019 when credit fees refund calculation will be made for prolonged students.
+
+3、Other Links:
+
+(1) Course Selection System Manual
+
+(2) Courses Sign-Up Schedule
+
+(3) Course Selection Notification
+
+(4) University Curriculum
+
+
+
+Office of Academic Affairs, Curriculum Section
+- **文章全文**: 
+- **文章更新日期**: 2019/9/3 上午 07:55:52
+- **文章發表日期**: 2019/8/26 上午 01:45:00
+- **文章點擊數**: 131
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（檔案）]**: files/1081-3change1080820.doc
+- **2. [超連結（網站）]**: https://isdna1.yzu.edu.tw/Cnstdsel/default.aspx
+- **3. [超連結（網站）]**: https://www.yzu.edu.tw/admin/aa/files/Curriculum/course/Course_Selection_System_Manual.pdf
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=842b9d18a4ef1f0f -->
+#### OCR 3: https://www.yzu.edu.tw/admin/aa/files/Curriculum/course/Course_Selection_System_Manual.pdf
+
+- 關聯類型: 超連結（網站）
+- 本機檔案: admin/aa/files/Curriculum/course/Course_Selection_System_Manual.pdf
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/842b9d18a4ef1f0f_Course_Selection_System_Manual.md
+- OCR 狀態: completed_cached
+- OCR 字數: 15180
+- 驗證狀態: ok
+
+```markdown
+電 腦選 課 系統
+
+使 用 說 明
+
+# Course Selection System Manual
+
+## Step 1- Visit the YZU front page at http://www.yzu.edu.tw , and click【English】vision
+
+![](images/d802ecd9c0a17d866f5d750ca22701f9a1418fc68d61796f2ad61e16be27f5d9.jpg)
+
+Academics
+
+Administration
+
+Plz select “Course Selection System”
+
+## Step 3- Please Select 【On-line CourseSelection 】
+
+<table><tr><td>Plz select</td></tr><tr><td>電腦選課(On-line Course Selection) &quot;On-line Course</td></tr><tr><td>元智學程uiclu Selection&quot;</td></tr><tr><td>選課系統個資聲明</td></tr><tr><td>親愛的同學，感謝您蒞臨元智大學選課系統網站(以下簡稱本網站)，關於您的個人隱私權，本網站絕對尊重並予以保護。為了讓您能夠更安心的使用本網站所提供之各項服務，特於此向您說明本網站的隱 私權保護政策。 一、本聲明適用範圍</td></tr><tr><td>本聲明適用於元智大學選課系統網站下之網頁，但不適用於本網站功能連結之各政府機關網站或其他對外連結，您必須參考該連結網站中的隱私權保護政策，本網站不負任何連帶責任。 二、關於個人資料之蒐集 當您在瀏覽本網站或下載檔案時，並不會蒐集任何有關您的個人身份資料。而本網站提供之各項線上服務，將視服務需求請您提供姓名、身分證字號、聯絡電話、e-mail、通訊住址等個人最新最真實之</td></tr><tr><td>資料。本網站所蒐集之個人資料，將在元智大學所提供的業務範圍内或依法得為交互運用之規範下進行，除法律另有規定外，不會將其做為超出蒐集之特定目的以外之用途。 此外，本網站在您使用服務信箱或其他互動性功能時，會保留您所提供的姓名身分證字號、電子郵件地址、連絡方式及使用時間等。當您在瀏覽或查詢網頁資料時，本網站亦會保留伺服器自行產生的相</td></tr><tr><td>關紀錄，包括您使用連線設備的IP位址、使用時間、瀏覽及點擊資料等紀錄，這些資料將提供本網站內部進行網路流量和行為的調查分析，以利於提升本網站的服務品質，並不會針對個別使用者進行資料 對應或分析。</td></tr><tr><td>本網站有義務保護您的隱私，在未取得您的同意下，不會任意修改或刪除任何您的個人資料及檔案。除非經過您同意或符合以下情況始得為之： 1.經由合法的途徑。</td></tr><tr><td>2.保護或防衛相關網路民眾的權利或所有權。 3.為保護本網站各相關單位之權益。</td></tr><tr><td>本網站絕不會任意出售交換、或出租任何您的個人資料給其他團體個人或私人企業。而下列情形者除外： 1.配合司法單位合法的調查。</td></tr><tr><td>2.依法配合相關權責機關依職務需要之調查或使用。 3.符合相關法令與規範之安全保護要求下，進行網站服務維護管理及系統調整等作業。</td></tr></table>
+
+## Step 4- Enter yours account (student ID: s\*\*\*\*\*\*\*) and PIN number (Change your PIN number for the first-time users)
+
+![](images/730f35fd90dd1e45a4e980bff3884dae1c076918fd0276fb0c6150e0a682bc98.jpg)
+
+桃周题中甫320请惠路135号 (034638800
+
+# Step 5-Enter your account（s + student ID）& Password（Plz change your password during your first access to the system）
+
+![](images/1fa20c576b8de823e34b9ecb864ea60342405719dd0a851b7ef1a182265532e0.jpg)
+
+## Step 6- Access to the course selection system（Left-hand side：Course search; Right-handside：Course list; Lower side: Courseinformation）
+
+選課系統
+
+Current credits taken , won’t be able to drop if it’s lower that the minimum credits load
+
+![](images/2f9b1812fcac465bc25497fe65ebef5a2cf9058310515027cc5a588ff8512c05.jpg)
+
+## Step 7- How to add & drop courses
+
+<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Content</td></tr><tr><td rowspan=1 colspan=1>Add:</td><td rowspan=1 colspan=1>Chooseacourse listed at left-hand side,it willbeshownattheright-hand sidecourse listonce you add it:: ;ifa message window appears, it means you are not allowed to addit due to schedule conflict or department rules.</td></tr><tr><td rowspan=1 colspan=1>Drop 国</td><td rowspan=1 colspan=1>Chooseacourselistattheright-hand sidecourse list，it willnotappearonthecourselist once youdropit; ifamessage windowappearsitmeansyouarenotallowedtodrop it due to minimum quota, i.e. 15 people for the undergraduate program, or5 peoplefor graduate program atthe stage IIIonline course selection(Ask the dept.offers thecourse if they can assist with your course drop )</td></tr><tr><td rowspan=1 colspan=1>Registration End</td><td rowspan=1 colspan=1>Do not close the windowdirectly after using!Press&quot;Registration End&quot; andthecoursesselected will be shown again, double check and then close it if it is of your wish.</td></tr></table>
+
+园選課系統  
+![](images/548798989df87013abc7126017cdf1221fb22eacef7c4b61c2f2b0bf19f8046b.jpg)
+
+<table><tr><td rowspan=1 colspan=1>Item</td><td rowspan=1 colspan=1>Content</td></tr><tr><td rowspan=1 colspan=1>Find out courseinformation</td><td rowspan=1 colspan=1>Chooseacour lidat-handideandnouhcourinormaolow.</td></tr><tr><td rowspan=1 colspan=1>Date/lesson coursedata</td><td rowspan=1 colspan=1>Selectaspecifidate&amp;lessonofyourwishatright-handside,andreevatcourses will be shown at the eft-hand side.</td></tr><tr><td rowspan=1 colspan=1>Dept./grade coursedata</td><td rowspan=1 colspan=1>ClickgreenuolowcourcandswittoDpt./Gradeoursedata.</td></tr></table>
+
+![](images/5faf45b34be8af708943a62f61498b8252479577921c76f683d3196ab79042fb.jpg)
+
+## Step 8- Registration end
+
+The courses selected will be shown again, double check and then close it if it is of your wish.
+
+<table><tr><td rowspan=1 colspan=1>SerialNumber</td><td rowspan=1 colspan=1>CourseID</td><td rowspan=1 colspan=1>Class</td><td rowspan=1 colspan=1>Course Name</td><td rowspan=1 colspan=1>Credit</td><td rowspan=1 colspan=1>CourseTpe</td><td rowspan=1 colspan=1>Teacher</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>CL165</td><td rowspan=1 colspan=1>P2</td><td rowspan=1 colspan=1>Chinese</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>林妙芬</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>CN102</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>Calculus(II)</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>李世凱</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>CN104</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>General Physics(II)</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>賴文彬</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>CN109</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>Programming Language</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>李建誠</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>CN111</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>Digital Logic Design</td><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>賴薇如</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>CN118</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>Logic Circuit Lab.</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>賴薇如</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>CN122</td><td rowspan=1 colspan=1>B</td><td rowspan=1 colspan=1>General Physics Lab.ID)</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>李建育</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>LC203</td><td rowspan=1 colspan=1>D2</td><td rowspan=1 colspan=1>English(I): Freshmen English; Entry-level</td><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>郭怡潔</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>MT109</td><td rowspan=1 colspan=1>B2</td><td rowspan=1 colspan=1>All-Out Defense Education and Researching ofMilitary - Al-Out Defense</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>王巧慧</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>PL101</td><td rowspan=1 colspan=1>L2</td><td rowspan=1 colspan=1>Physical Education</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>Requiredcourse</td><td rowspan=1 colspan=1>余泳樟</td></tr></table>
+
+Please go to Portal to verify your course registration information!
+
+## Step 9- Print out the class timetable： click  press and it’s done.
+
+Your registration courses table is as following :
+<table><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Mon</td><td rowspan=1 colspan=1>Tue</td><td rowspan=1 colspan=1>Wed</td><td rowspan=1 colspan=1>Thu</td><td rowspan=1 colspan=1>Fri</td><td rowspan=1 colspan=2>SatSun</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>PhysicalEducation(Requiredcourse)兔排</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>English():Freshmen English;Entrylevel(Requiredcourse)3209</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>ProgrammingLanguage(Requiredcourse)70204</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>PhysicalEducation(Requiredcourse)兔排</td><td rowspan=1 colspan=1>General PhysicsLab.1)(Requcourse)70309</td><td rowspan=1 colspan=1>English():Freshmen English;Entrylevel(Requiredcourse)3209</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>ProgrammingLanguage(Requiredcourse)70204</td><td rowspan=1 colspan=1>All-Out DefenseEducation and esearching ofMilitary -All-OutDefense(Requiredcourse)2008</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>General Phy sicsLab.(I)(Requiredcourse)70309</td><td rowspan=1 colspan=1>Chinese(Requiredcourse)60203</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>ProgrammingLanguage(Requiredcourse)70204</td><td rowspan=1 colspan=1>All-Out DefenseEducation andResearching ofMilitary All-OutDefense(Requiredcourse)2008</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>General PhysicsLab.(I)(RequiredCourse)70309</td><td rowspan=1 colspan=1>Chinese(Requiredcourse)60203</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Logic Circuit Lab.(Requiredcourse)70308</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>General Physics(11)(Requiredcourse)70205</td><td rowspan=1 colspan=1>Calculus (11)(RequiredCourse)70112</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Logic Circuit Lab.(Requiredcourse)70308</td><td rowspan=1 colspan=1>Digital LogicDesign(Requiredcourse)70204</td><td rowspan=1 colspan=1>General Physics(1)Requiedcourse)70205</td><td rowspan=1 colspan=1>General Physics()(Requiredcourse)70205</td><td rowspan=1 colspan=1>Calculus (11)(Requiredcourse)70112</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Logic Circuit Lab.(Requiredcourse)70308</td><td rowspan=1 colspan=1>Digital LogicDesign(Requiredcourse)70204</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>General Phy sis(11)(Requiredcourse)70205</td><td rowspan=1 colspan=1>Calculus ()(Requiredcourse)70112</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Digital LogicDesign(Requiredcourse)70204</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+
+## Step 10- Confirm the course list of the semester
+
+Visit YZU front page, click【English】 and press 【Portal】 enter your account & password
+
+![](images/f765d9433c488cab7d60e00d6fdfbc9f2425b25386a7da72a40674fc7f8686d0.jpg)
+
+## Step 11- Select【Elective System】and click 【Course Selection List】, you’ll be able to search the course list of any semester.
+
+Choose the semester course list of your wish
+
+<table><tr><td rowspan=1 colspan=1>Year</td><td rowspan=1 colspan=1>Semester</td><td rowspan=1 colspan=1>Course Code</td><td rowspan=1 colspan=1>Class</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Course status</td><td rowspan=1 colspan=1>Credit</td><td rowspan=1 colspan=1>Status</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Room</td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CL165</td><td rowspan=1 colspan=1>P2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>506507 508</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CN104</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>307 406 407 408</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>102 103 104</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CN111</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1><img src="images/0ff45366e1fc6fd2733774e3f323946dca51abaaae433f150df80b3fec9bc711.jpg"/></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>207 208 209</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>106 107 108</td><td rowspan=1 colspan=1>70308</td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>CN122</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>402 403 404</td><td rowspan=1 colspan=1>70309</td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>MT109</td><td rowspan=1 colspan=1>B2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>103</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Required course</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>
+
+If you have any inquiries,   
+please do not hesitate to contact   
+Curriculum Section, Office of Academic Affairs.
+
+Made by Curriculum Section, Office of Academic Affairs
+```
+
+<!-- OCR_END -->
+
+- **4. [超連結（網站）]**: https://www.yzu.edu.tw/admin/aa/index.php/tw/2016-01-14-06-58-46/2016-03-08-03-41-34/2016-03-08-03-50-32
+- **5. [超連結（網站）]**: https://www.yzu.edu.tw/admin/aa/index.php/tw/2016-01-14-06-58-46/2016-03-08-03-41-34/2016-03-08-06-37-07
+- **6. [超連結（網站）]**: https://www.yzu.edu.tw/admin/aa/index.php/tw/2016-01-14-06-58-46/2016-03-08-03-41-34/2016-03-08-06-37-07
+- **7. [超連結（網站）]**: https://portal.yzu.edu.tw/cosSelect/Login.aspx?Version=EN
+- **8. [超連結（網站）]**: https://portal.yzu.edu.tw/cosSelect/Index.aspx?Lang=EN
+
+---

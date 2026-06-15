@@ -1,0 +1,179 @@
+﻿# 網站文章資料_20211208 YZU Elite Association_740
+
+## 一、文章基本資料
+
+- **文章ID**: 740
+- **文章標題**: 20211208 YZU Elite Association
+- **文章網址**: https://www.yzu.edu.tw/alumni/index.php/tw/20211208
+- **文章簡介**: YZU Elite Association 
+
+Date：2021/12/08
+
+Location：Taipei Three Coins
+- **文章全文**: 
+- **文章更新日期**: 2025/7/22 上午 08:07:33
+- **文章發表日期**: 2021/12/9 上午 03:34:37
+- **文章點擊數**: 898
+- **文章語系**: en-US
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_19.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=1 assetId=6eec1f668057d5a9 -->
+#### OCR 1: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_19.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_19.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/6eec1f668057d5a9_LINE_ALBUM_20211208台北大三元酒樓_211209_19.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/db1ec2262d93cf803eb5233d95538e98dac9b8eb716dfe81124a50171dea9cff.jpg)
+```
+
+<!-- OCR_END -->
+
+- **2. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_17.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=ba14fd1a05b909b2 -->
+#### OCR 2: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_17.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_17.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ba14fd1a05b909b2_LINE_ALBUM_20211208台北大三元酒樓_211209_17.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/a514eb18a79b9ea1b1361e4aeae15909d6e7cf2bd8b03ef0fa412643ed3202d8.jpg)
+```
+
+<!-- OCR_END -->
+
+- **3. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_18.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=3 assetId=614fe0a220f29c73 -->
+#### OCR 3: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_18.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_18.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/614fe0a220f29c73_LINE_ALBUM_20211208台北大三元酒樓_211209_18.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/ce650585d3684bb5b58312db13472eb17b3b79366848f5c043676a045eea4e49.jpg)
+```
+
+<!-- OCR_END -->
+
+- **4. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_31.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=4 assetId=ef0a8875aa42c3d5 -->
+#### OCR 4: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_31.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_31.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/ef0a8875aa42c3d5_LINE_ALBUM_20211208台北大三元酒樓_211209_31.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/7f284219ffc3fe68a6bb129f4719838448ffe8f9fae116e42442e96b96b08190.jpg)
+```
+
+<!-- OCR_END -->
+
+- **5. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_38.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=5 assetId=2dddbe9927ad3893 -->
+#### OCR 5: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_38.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_38.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/2dddbe9927ad3893_LINE_ALBUM_20211208台北大三元酒樓_211209_38.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/451848c6bfb584701c70431ce25b34311d4057a1e95b2ed8ae5c42e1d754b9d5.jpg)
+```
+
+<!-- OCR_END -->
+
+- **6. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_32.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=6 assetId=6fbec584f3cf6ffd -->
+#### OCR 6: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_32.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_32.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/6fbec584f3cf6ffd_LINE_ALBUM_20211208台北大三元酒樓_211209_32.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/07e520dabd1863a123b4d4c9769d07da137cf70b1cce8fc934ec7d2bbb9de383.jpg)
+```
+
+<!-- OCR_END -->
+
+- **7. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_36.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=7 assetId=dd5b0208dd650c80 -->
+#### OCR 7: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_36.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_36.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/dd5b0208dd650c80_LINE_ALBUM_20211208台北大三元酒樓_211209_36.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/09b3dd131d0624b74e56f23cbdb7a99b452beff6f49a903d4528567f80829a11.jpg)
+```
+
+<!-- OCR_END -->
+
+- **8. [圖片]**: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_33.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=8 assetId=da90501e0c6ed560 -->
+#### OCR 8: files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_33.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: alumni/files/活動剪影/20211208_群英會校友活動暨專題演講/LINE_ALBUM_20211208台北大三元酒樓_211209_33.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/da90501e0c6ed560_LINE_ALBUM_20211208台北大三元酒樓_211209_33.md
+- OCR 狀態: completed_cached
+- OCR 字數: 52
+- 驗證狀態: ok
+
+```markdown
+## 元智大學群英會聯誼聚會
+
+工 元智大學群英會
+
+元智大学公共事務室整校友服務中心eUniveniy
+```
+
+<!-- OCR_END -->
+
+
+---

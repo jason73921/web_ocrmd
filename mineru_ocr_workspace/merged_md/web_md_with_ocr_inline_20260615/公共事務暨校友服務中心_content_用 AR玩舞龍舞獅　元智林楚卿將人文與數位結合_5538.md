@@ -1,0 +1,53 @@
+﻿# 網站文章資料_用 AR玩舞龍舞獅　元智林楚卿將人文與數位結合_5538
+
+## 一、文章基本資料
+
+- **文章ID**: 5538
+- **文章標題**: 用 AR玩舞龍舞獅　元智林楚卿將人文與數位結合
+- **文章網址**: 
+- **文章簡介**: 【台灣時報/記者張添福台北市報導】
+ 
+元智大學藝設系副教授林楚卿將人文與數位、運算思維與設計思考，以無縫交織的融合，在創新教學與研究成果，林楚卿副教授獲得「109年度教育部教學實踐研究計畫」績優計畫的殊榮。
+
+建築系博士的林楚卿，不只專注於建築空間設計相關的學術研究，同時傾心於程式語言的研究與教學。近年來除了開設多門創客設計課程外，更透過教育部高教深耕計畫補助，於課後開設「機械充氣結構工作坊」、「藍芽互動遊戲工作坊」及「AI之創意應用實作工作坊」等，並積極以自學方式，學習跨域領域並推廣數位設計應用。
+
+幾年來，由林楚卿所帶領的CKfablab 團隊，表現優異，以【Pillow Fight! (枕頭戰-我要我們憶起玩)】，除了榮獲2018年史丹福銀髮設計競賽（Stanford Design Challenge）亞洲區大賽優勝外，並獲得2019 年美國史丹福銀髮設計全球大賽第三名。
+
+2021年底林楚卿帶領團隊參加「元智VRAR教育應用創作競賽」跨校決賽，以「舞龍舞獅 AR教學系統」獲得優等獎項。林楚卿表示，「舞龍舞獅 AR教學系統」主要希望將身體的肢體動作，結合行動載具之 AR系統虛擬模型及影音說明，以趣味互動的方式給予孩童學習傳統民俗技藝-舞龍舞獅的肢體動作步驟教學。透過AR即時動作偵測系統，嘗試將舞龍舞獅中的步伐、舞步以虛擬模型引導使用者做出相同動作，搭配影音解說其中造型與意涵，讓大家除了觀看外，能有機會親自體驗與學習。（待續）
+
+
+
+詳本文: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-83c7a1b6-7441-4ede-88b1-33eeacdc9b85&currentCategory=10
+
+【2022/02/18】
+- **文章全文**: 
+- **文章更新日期**: 2022/2/18 上午 01:45:21
+- **文章發表日期**: 2022/2/18 上午 01:45:21
+- **文章點擊數**: 770
+- **文章語系**: zh-TW
+
+---
+## 二、關聯的檔案資訊
+
+- **1. [超連結（網站）]**: https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-83c7a1b6-7441-4ede-88b1-33eeacdc9b85&amp;currentCategory=10
+- **2. [圖片]**: images/20220218-1.jpg
+
+<!-- OCR inline block inserted by Merge-OcrMarkdownIntoWebMd.py -->
+<!-- OCR_BEGIN relationIndex=2 assetId=786d9cc5d885a31e -->
+#### OCR 2: images/20220218-1.jpg
+
+- 關聯類型: 圖片
+- 本機檔案: admin/pr/images/20220218-1.jpg
+- OCR Markdown: /mnt/project/cache/ocr_completed_cache/ocr_md_assets/786d9cc5d885a31e_20220218-1.md
+- OCR 狀態: completed_cached
+- OCR 字數: 80
+- 驗證狀態: ok
+
+```markdown
+![](images/d81f23b68dcefb6e9d8de1cff00a0c81d29812129f3906d36c04c6bfbe5c39de.jpg)
+```
+
+<!-- OCR_END -->
+
+
+---
